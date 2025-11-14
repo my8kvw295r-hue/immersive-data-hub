@@ -47,7 +47,20 @@ The main file is `creative_directors_global.json`.
 Each entry follows this structure:
 
 ```
-{ ... }
+{
+  "name": "First Last",
+  "country": "Country",
+  "birth_year": 1977,
+  "roles": ["Creative Director", "XR Artist"],
+  "focus_areas": ["VR", "Fulldome", "Immersive Theatre"],
+  "notable_works": ["Work A", "Work B"],
+  "affiliations": ["Studio or Institution"],
+  "links": {
+    "website": "https://example.com",
+    "instagram": "https://instagram.com/example",
+    "imdb": "https://imdb.com/name/example"
+  }
+}
 ```
 
 ## How the Dataset Was Created
