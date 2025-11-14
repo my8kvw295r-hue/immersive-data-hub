@@ -1,0 +1,159 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://martin-sambauer.com/immersive-datasets/creative_directors_global.schema.json",
+  "title": "Creative Directors in Immersive Media – Global Dataset",
+  "description": "JSON Schema for creative_directors_global.json, documenting creative directors and related practitioners in immersive media (1950–2025).",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "name", "roles", "focus_areas", "clusters", "sources"],
+    "additionalProperties": false,
+    "properties": {
+      "id": {
+        "type": "string",
+        "description": "Stable identifier for the individual within this dataset.",
+        "pattern": "^cdim_[0-9]{4,}$",
+        "examples": ["cdim_0001", "cdim_0235"]
+      },
+      "name": {
+        "type": "string",
+        "description": "Primary credited name of the individual.",
+        "minLength": 1,
+        "examples": ["First Last"]
+      },
+      "country": {
+        "type": "string",
+        "description": "Primary country of activity or association.",
+        "examples": ["Germany", "USA", "Japan"]
+      },
+      "birth_year": {
+        "type": ["integer", "null"],
+        "description": "Year of birth, if known.",
+        "minimum": 1900,
+        "maximum": 2010,
+        "examples": [1977]
+      },
+      "roles": {
+        "type": "array",
+        "description": "Main professional roles related to immersive media.",
+        "minItems": 1,
+        "items": {
+          "type": "string"
+        },
+        "examples": [
+          ["Creative Director", "XR Artist"]
+        ]
+      },
+      "focus_areas": {
+        "type": "array",
+        "description": "Key technological or artistic focus areas.",
+        "minItems": 1,
+        "items": {
+          "type": "string"
+        },
+        "examples": [
+          ["VR", "Fulldome", "Immersive Theatre"]
+        ]
+      },
+      "notable_works": {
+        "type": "array",
+        "description": "Selected notable works, shows or projects.",
+        "items": {
+          "type": "string"
+        },
+        "examples": [
+          ["Project A", "Immersive Show B"]
+        ]
+      },
+      "affiliations": {
+        "type": "array",
+        "description": "Studios, institutions or companies the individual is strongly associated with.",
+        "items": {
+          "type": "string"
+        },
+        "examples": [
+          ["Studio X", "Festival Y"]
+        ]
+      },
+      "clusters": {
+        "type": "array",
+        "description": "Conceptual clusters used for analysis.",
+        "minItems": 1,
+        "items": {
+          "type": "string",
+          "enum": [
+            "analog_media_art_pioneers",
+            "digital_interactive_pioneers",
+            "immersive_installations",
+            "fulldome_large_format",
+            "vr_xr_creators",
+            "live_immersive_stages",
+            "corporate_brand_immersive"
+          ]
+        },
+        "examples": [
+          ["fulldome_large_format", "vr_xr_creators"]
+        ]
+      },
+      "links": {
+        "type": "object",
+        "description": "Curated selection of stable public links.",
+        "additionalProperties": false,
+        "properties": {
+          "website": {
+            "type": "string",
+            "format": "uri"
+          },
+          "instagram": {
+            "type": "string",
+            "format": "uri"
+          },
+          "imdb": {
+            "type": "string",
+            "format": "uri"
+          },
+          "other": {
+            "type": "array",
+            "description": "Additional relevant links (festival pages, interviews, museum collections).",
+            "items": {
+              "type": "string",
+              "format": "uri"
+            }
+          }
+        }
+      },
+      "sources": {
+        "type": "array",
+        "description": "Bibliographic or web sources that verify the individual’s work in immersive media.",
+        "minItems": 1,
+        "items": {
+          "type": "object",
+          "required": ["label", "url"],
+          "properties": {
+            "label": {
+              "type": "string",
+              "description": "Short human-readable description of the source.",
+              "examples": ["Venice Immersive 2023 program note"]
+            },
+            "url": {
+              "type": "string",
+              "format": "uri",
+              "description": "Resolvable URL for the source."
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "notes": {
+        "type": "string",
+        "description": "Optional free-text notes about the entry, curation decisions or edge cases."
+      },
+      "last_updated": {
+        "type": "string",
+        "format": "date",
+        "description": "ISO date of the last manual update of this entry.",
+        "examples": ["2025-11-14"]
+      }
+    }
+  }
+}
