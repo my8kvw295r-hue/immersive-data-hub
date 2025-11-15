@@ -137,6 +137,9 @@ To avoid schema drift, hallucinated content and duplicate structures, all future
 
 These rules are binding for manual editing, scripted imports and AI-assisted extensions of the dataset.
 
+- Destination counts  
+  - The number of destinations in any dataset file is always determined by the length of the top-level `destinations[]` array.  
+  - Earlier dataset versions exposed `meta_instructions_for_ai.expected_collections.destinations_count` as a helper field; this has been removed to avoid drift between hard-coded counts and the actual array length.
 
 ## 8. Attribution
 Use this citation:
