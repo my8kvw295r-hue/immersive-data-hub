@@ -10,7 +10,7 @@
   },
   "destinations": [
     {
-      "destination_id": "DEST_GALAPAGOS",
+      "destination_id": "DEST_01",
       "core": {
         "destination_name": "Galapagos Islands",
         "destination_type": "archipelago_province",
@@ -298,7 +298,7 @@
       ],
       "meta": {
         "last_researched_utc": "2025-11-14T00:00:00Z",
-        "notes": "Pilot Galapagos record. Throughput at attraction level partly reported (Tortuga Bay, CDRS) and partly modelled.",
+        "notes": "High-regulation archipelago tourism record. Throughput at attraction level is partly based on reported data (e.g. Tortuga Bay, Charles Darwin Research Station) and partly on modelled estimates derived from park statistics and operator reports.",
         "sources": [
           {
             "id": "GAL_POP",
@@ -340,7 +340,7 @@
       }
     },
     {
-      "destination_id": "DEST_TANZANIA",
+      "destination_id": "DEST_02",
       "core": {
         "destination_name": "Tanzania (mainland & Zanzibar)",
         "destination_type": "country_destination",
@@ -660,7 +660,7 @@
       }
     },
     {
-      "destination_id": "DEST_RED_SEA_EGY",
+      "destination_id": "DEST_03",
       "core": {
         "destination_name": "Egyptian Red Sea Riviera (Hurghada & Sharm El Sheikh)",
         "destination_type": "coastal_cluster",
@@ -895,7 +895,7 @@
       }
     },
     {
-      "destination_id": "DEST_ATHENS_GRC",
+      "destination_id": "DEST_04",
       "core": {
         "destination_name": "Athens Metropolitan Area",
         "destination_type": "city_destination",
@@ -1183,7 +1183,7 @@
       }
     },
     {
-      "destination_id": "DEST_BALI",
+      "destination_id": "DEST_05",
       "core": {
         "destination_name": "Bali",
         "destination_type": "island_province",
@@ -1655,7 +1655,7 @@
       }
     },
     {
-      "destination_id": "DEST_ANDAMAN_THAI",
+      "destination_id": "DEST_06",
       "core": {
         "destination_name": "Andaman Coast Thailand (Phuket – Krabi – Phi Phi – Phang Nga)",
         "destination_type": "coastal_island_cluster",
@@ -2055,7 +2055,7 @@
       }
     },
     {
-      "destination_id": "DEST_PALAWAN_PH",
+      "destination_id": "DEST_07",
       "core": {
         "destination_name": "Palawan Archipelago",
         "destination_type": "island_province",
@@ -2443,7 +2443,7 @@
       }
     },
     {
-      "destination_id": "DEST_LUANG_PRABANG",
+      "destination_id": "DEST_08",
       "core": {
         "destination_name": "Luang Prabang",
         "destination_type": "historic_provincial_capital",
@@ -2843,7 +2843,7 @@
       }
     },
     {
-      "destination_id": "REF_YELLOWSTONE",
+      "destination_id": "DEST_09",
       "core": {
         "destination_name": "Yellowstone National Park",
         "destination_type": "national_park",
@@ -3208,7 +3208,7 @@
       }
     },
     {
-      "destination_id": "DEST_CARTAGENA",
+      "destination_id": "DEST_10",
       "core": {
         "destination_name": "Cartagena de Indias",
         "destination_type": "historic_coastal_city",
@@ -3597,7 +3597,7 @@
       }
     },
     {
-      "destination_id": "DEST_OKAVANGO",
+      "destination_id": "DEST_11",
       "core": {
         "destination_name": "Okavango Delta",
         "destination_type": "wetland_delta",
@@ -3913,7 +3913,7 @@
       }
     },
     {
-      "destination_id": "DEST_PETRA",
+      "destination_id": "DEST_12",
       "core": {
         "destination_name": "Petra",
         "destination_type": "archaeological_city",
@@ -4141,7 +4141,7 @@
       }
     },
     {
-      "destination_id": "DEST_PANTANAL",
+      "destination_id": "DEST_13",
       "core": {
         "destination_name": "Pantanal",
         "destination_type": "wetland",
@@ -4320,7 +4320,7 @@
       }
     },
     {
-      "destination_id": "DEST_HALONG",
+      "destination_id": "DEST_14",
       "core": {
         "destination_name": "Halong Bay",
         "destination_type": "karst_archipelago",
@@ -4487,7 +4487,7 @@
       }
     },
     {
-      "destination_id": "DEST_MADAGASCAR",
+      "destination_id": "DEST_15",
       "core": {
         "destination_name": "Madagascar",
         "destination_type": "island_nation",
@@ -4685,6 +4685,834 @@
           }
         ]
       }
+    },
+    {
+      "destination_id": "DEST_16",
+      "core": {
+        "destination_name": "Punta Cana",
+        "destination_type": "coastal_resort_cluster",
+        "country_name": "Dominican Republic",
+        "country_iso2": "DO",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Latin_America",
+        "world_bank_income_level": "upper_middle",
+        "tourism_dependency_category": "high",
+        "main_city_name": "Punta Cana",
+        "main_city_population_estimate": 54000,
+        "main_city_population_year": 2023
+      },
+      "tourism": {
+        "yearly_profiles": [
+          {
+            "year": 2023,
+            "total_visitors_all_segments": 8000000,
+            "avg_length_of_stay_nights": 7.0,
+            "overnight_stays_total": null,
+            "tourism_revenue_total": null,
+            "repeat_visitor_share_percent": null,
+            "notes": "Includes all arrivals at Punta Cana International Airport (PUJ)."
+          }
+        ],
+        "international_tourist_arrivals": {
+          "2023": 8000000
+        },
+        "tourist_tax": {
+          "tourist_tax_applies": true,
+          "tourist_tax_main_type": "entry_tax_plus_hotel_tax",
+          "tax_items": [
+            {
+              "segment": "all_international_visitors",
+              "amount": {
+                "amount_local": 10,
+                "currency_local": "USD",
+                "amount_usd": 10,
+                "fx_rate_to_usd": 1.0,
+                "fx_rate_date": "2025-11-15"
+              },
+              "unit": "per_entry"
+            }
+          ]
+        }
+      },
+      "economy": {
+        "avg_monthly_wage_country": {
+          "year": 2023,
+          "amount": {
+            "amount_local": 420,
+            "currency_local": "USD",
+            "amount_usd": 420,
+            "fx_rate_to_usd": 1.0,
+            "fx_rate_date": "2023-12-31"
+          }
+        }
+      },
+      "throughput_nodes": {
+        "airports": [
+          {
+            "hub_id": "DO_PUJ",
+            "name": "Punta Cana International Airport",
+            "iata": "PUJ",
+            "city": "Punta Cana",
+            "annual_passengers_2023": 8000000,
+            "comment": "Official airport authority data for 2023."
+          }
+        ],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {
+          "punta_cana_resort_area_per_sqm": {
+            "min": {
+              "amount_local": 1800,
+              "currency_local": "USD",
+              "amount_usd": 1800,
+              "fx_rate_to_usd": 1.0,
+              "fx_rate_date": "2025-11-15"
+            },
+            "max": {
+              "amount_local": 3500,
+              "currency_local": "USD",
+              "amount_usd": 3500,
+              "fx_rate_to_usd": 1.0,
+              "fx_rate_date": "2025-11-15"
+            },
+            "midpoint": {
+              "amount_local": 2650,
+              "currency_local": "USD",
+              "amount_usd": 2650,
+              "fx_rate_to_usd": 1.0,
+              "fx_rate_date": "2025-11-15"
+            },
+            "comment": "Range from major real estate portals (Punta Cana Bavaro area)."
+          }
+        },
+        "land": null
+      },
+      "sustainability_profile": {
+        "protected_area_share_percent": 15,
+        "protected_area_notes": "Includes Eastern National Park and marine reserves.",
+        "overtourism_signals": [
+          "beach_erosion",
+          "all_inclusive_dominance"
+        ]
+      },
+      "attractions_meta": {
+        "total_attractions_tracked": 3,
+        "categories": {
+          "beach_resort": 2,
+          "marine_activity": 1
+        },
+        "avg_immersive_story_potential_1to3": 2.33,
+        "comment": null
+      },
+      "attractions": [
+        {
+          "attraction_id": "PC_ATT_BAVARO_BEACH",
+          "nearest_location_id": null,
+          "attraction_name": "Bavaro Beach",
+          "attraction_type": "beach_resort",
+          "environment_type": "coastal",
+          "short_description": "Main public beach in Punta Cana resort strip.",
+          "distance_km_from_nearest_location": null,
+          "travel_time_from_nearest_location_minutes": null,
+          "main_access_mode": "walking_taxi",
+          "accessibility_difficulty": "easy",
+          "accessibility_for_non_experts": true,
+          "seasonality": "year_round",
+          "protection_status": "public_beach",
+          "visitor_restrictions": "none",
+          "sustainability_pressure": "high",
+          "main_target_audience": "general_tourists",
+          "typical_visit_duration_hours": 4.0,
+          "immersive_story_potential": {
+            "category": "medium",
+            "score_1to3": 2
+          },
+          "throughput": {
+            "max_licensed_daily_visitors": null,
+            "typical_daily_visitors_low_season": null,
+            "typical_daily_visitors_high_season": null,
+            "estimated_annual_visitors": 3000000,
+            "throughput_data_quality": "modelled",
+            "derivation_notes": "Estimated based on resort guest distribution and public access patterns."
+          }
+        },
+        {
+          "attraction_id": "PC_ATT_SAONA",
+          "nearest_location_id": null,
+          "attraction_name": "Saona Island",
+          "attraction_type": "beach_resort",
+          "environment_type": "island",
+          "short_description": "Day excursion to protected island with natural pools.",
+          "main_access_mode": "catamaran",
+          "accessibility_difficulty": "easy",
+          "accessibility_for_non_experts": true,
+          "seasonality": "year_round",
+          "protection_status": "national_park",
+          "visitor_restrictions": "licensed_operators_only",
+          "sustainability_pressure": "very_high",
+          "typical_visit_duration_hours": 8.0,
+          "immersive_story_potential": {
+            "category": "high",
+            "score_1to3": 3
+          },
+          "throughput": {
+            "estimated_annual_visitors": 1200000,
+            "throughput_data_quality": "reported",
+            "derivation_notes": "Eastern National Park reports ~1.2M visitors to Saona annually."
+          }
+        },
+        {
+          "attraction_id": "PC_ATT_SCAPE_PARK",
+          "nearest_location_id": null,
+          "attraction_name": "Scape Park",
+          "attraction_type": "marine_activity",
+          "environment_type": "coastal_cave",
+          "short_description": "Adventure park with cenotes and zip lines.",
+          "main_access_mode": "shuttle",
+          "accessibility_difficulty": "moderate",
+          "accessibility_for_non_experts": true,
+          "seasonality": "year_round",
+          "protection_status": "private",
+          "visitor_restrictions": "ticketed",
+          "sustainability_pressure": "medium",
+          "typical_visit_duration_hours": 5.0,
+          "immersive_story_potential": {
+            "category": "medium",
+            "score_1to3": 2
+          },
+          "throughput": {
+            "estimated_annual_visitors": 200000,
+            "throughput_data_quality": "modelled"
+          }
+        }
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-15T15:46:00Z",
+        "notes": null,
+        "sources": [
+          {
+            "id": "PUJ_AIRPORT_2023",
+            "title": "Punta Cana International Airport Annual Report 2023",
+            "url": "https://www.puntacanainternationalairport.com"
+          },
+          {
+            "id": "DOMINICAN_TOURISM_2023",
+            "title": "Ministerio de Turismo República Dominicana",
+            "url": "https://www.mitur.gob.do"
+          }
+        ]
+      }
+    },
+    {
+      "destination_id": "DEST_17",
+      "core": {
+        "destination_name": "Dubai",
+        "destination_type": "urban_emirate",
+        "country_name": "United Arab Emirates",
+        "country_iso2": "AE",
+        "global_south_flag": true,
+        "reference_location_flag": true,
+        "world_region": "MENA",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": "high",
+        "main_city_name": "Dubai",
+        "main_city_population_estimate": 3500000,
+        "main_city_population_year": 2023
+      },
+      "tourism": {
+        "yearly_profiles": [
+          {
+            "year": 2023,
+            "total_visitors_all_segments": 17150000,
+            "avg_length_of_stay_nights": 3.5,
+            "overnight_stays_total": null,
+            "tourism_revenue_total": null,
+            "repeat_visitor_share_percent": null,
+            "notes": "International overnight visitors only."
+          }
+        ],
+        "international_tourist_arrivals": {
+          "2023": 17150000
+        },
+        "tourist_tax": {
+          "tourist_tax_applies": true,
+          "tourist_tax_main_type": "tourism_dirham_per_room_night",
+          "tax_items": [
+            {
+              "segment": "per_room_night",
+              "amount": {
+                "amount_local": 10,
+                "currency_local": "AED",
+                "amount_usd": 2.72,
+                "fx_rate_to_usd": 3.67,
+                "fx_rate_date": "2025-11-15"
+              },
+              "unit": "per_room_night"
+            }
+          ]
+        }
+      },
+      "economy": {
+        "avg_monthly_wage_country": {
+          "year": 2023,
+          "amount": {
+            "amount_local": 15800,
+            "currency_local": "AED",
+            "amount_usd": 4301,
+            "fx_rate_to_usd": 3.67,
+            "fx_rate_date": "2023-12-31"
+          }
+        }
+      },
+      "throughput_nodes": {
+        "airports": [
+          {
+            "hub_id": "AE_DXB",
+            "name": "Dubai International Airport",
+            "iata": "DXB",
+            "city": "Dubai",
+            "annual_passengers_2023": 87000000,
+            "comment": "Official airport statistics."
+          }
+        ],
+        "ports": [
+          {
+            "hub_id": "AE_DUBAI_PORT_RASHID",
+            "name": "Port Rashid (Dubai Cruise Terminal)",
+            "city": "Dubai",
+            "annual_passengers_estimate_2023": 1000000,
+            "comment": "Dubai Tourism cruise data."
+          }
+        ]
+      },
+      "real_estate": {
+        "residential": {
+          "dubai_downtown_per_sqm": {
+            "min": {
+              "amount_local": 3000,
+              "currency_local": "USD",
+              "amount_usd": 3000,
+              "fx_rate_to_usd": 1.0,
+              "fx_rate_date": "2025-11-15"
+            },
+            "max": {
+              "amount_local": 6000,
+              "currency_local": "USD",
+              "amount_usd": 6000,
+              "fx_rate_to_usd": 1.0,
+              "fx_rate_date": "2025-11-15"
+            },
+            "midpoint": {
+              "amount_local": 4500,
+              "currency_local": "USD",
+              "amount_usd": 4500,
+              "fx_rate_to_usd": 1.0,
+              "fx_rate_date": "2025-11-15"
+            },
+            "comment": "Estimated based on market averages for downtown areas."
+          }
+        },
+        "land": null
+      },
+      "sustainability_profile": {
+        "protected_area_share_percent": 31,
+        "protected_area_notes": "Eight natural reserves covering major ecosystems.",
+        "key_environmental_assets": [
+          "desert conservation",
+          "coastal and marine areas"
+        ],
+        "overtourism_signals": [
+          "water_stress",
+          "construction_impact"
+        ]
+      },
+      "attractions_meta": {
+        "total_attractions_tracked": 2,
+        "categories": {
+          "urban_icon": 2
+        },
+        "avg_immersive_story_potential_1to3": 2.5,
+        "comment": null
+      },
+      "attractions": [
+        {
+          "attraction_id": "DXB_ATT_BURJ_KHALIFA",
+          "nearest_location_id": null,
+          "attraction_name": "Burj Khalifa",
+          "attraction_type": "urban_icon",
+          "environment_type": "urban",
+          "short_description": "World's tallest building with observation decks.",
+          "distance_km_from_nearest_location": null,
+          "travel_time_from_nearest_location_minutes": null,
+          "main_access_mode": "metro_taxi",
+          "accessibility_difficulty": "easy",
+          "accessibility_for_non_experts": true,
+          "seasonality": "year_round",
+          "protection_status": "none",
+          "visitor_restrictions": "ticketed",
+          "sustainability_pressure": "low",
+          "main_target_audience": "general_tourists",
+          "typical_visit_duration_hours": 1.5,
+          "immersive_story_potential": {
+            "category": "high",
+            "score_1to3": 3
+          },
+          "throughput": {
+            "max_licensed_daily_visitors": null,
+            "typical_daily_visitors_low_season": null,
+            "typical_daily_visitors_high_season": null,
+            "estimated_annual_visitors": 2500000,
+            "throughput_data_quality": "reported",
+            "derivation_notes": "Official At The Top visitor stats."
+          }
+        },
+        {
+          "attraction_id": "DXB_ATT_DUBAI_MALL",
+          "nearest_location_id": null,
+          "attraction_name": "Dubai Mall",
+          "attraction_type": "urban_icon",
+          "environment_type": "urban",
+          "short_description": "Largest mall with aquarium and fountain show.",
+          "main_access_mode": "metro_taxi",
+          "accessibility_difficulty": "easy",
+          "accessibility_for_non_experts": true,
+          "seasonality": "year_round",
+          "protection_status": "none",
+          "visitor_restrictions": "none",
+          "sustainability_pressure": "low",
+          "typical_visit_duration_hours": 3.0,
+          "immersive_story_potential": {
+            "category": "medium",
+            "score_1to3": 2
+          },
+          "throughput": {
+            "estimated_annual_visitors": 80000000,
+            "throughput_data_quality": "reported",
+            "derivation_notes": "Official footfall 80M in 2023."
+          }
+        }
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-15T15:46:00Z",
+        "notes": null,
+        "sources": [
+          {
+            "id": "DUBAI_DET_2023",
+            "title": "Department of Economy and Tourism Dubai",
+            "url": "https://www.visitdubai.com"
+          }
+        ]
+      }
+    },
+    {
+      "destination_id": "DEST_18",
+      "core": {
+        "destination_name": "Abu Dhabi",
+        "destination_type": "urban_emirate",
+        "country_name": "United Arab Emirates",
+        "country_iso2": "AE",
+        "global_south_flag": true,
+        "reference_location_flag": true,
+        "world_region": "MENA",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": "medium",
+        "main_city_name": "Abu Dhabi",
+        "main_city_population_estimate": 1500000,
+        "main_city_population_year": 2023
+      },
+      "tourism": {
+        "yearly_profiles": [
+          {
+            "year": 2023,
+            "total_visitors_all_segments": 5000000,
+            "avg_length_of_stay_nights": 3.0,
+            "overnight_stays_total": null,
+            "tourism_revenue_total": null,
+            "repeat_visitor_share_percent": null,
+            "notes": "International overnight visitors."
+          }
+        ],
+        "international_tourist_arrivals": {
+          "2023": 5000000
+        },
+        "tourist_tax": {
+          "tourist_tax_applies": true,
+          "tourist_tax_main_type": "tourism_fee_per_room_night",
+          "tax_items": [
+            {
+              "segment": "per_room_night",
+              "amount": {
+                "amount_local": 15,
+                "currency_local": "AED",
+                "amount_usd": 4.09,
+                "fx_rate_to_usd": 3.67,
+                "fx_rate_date": "2025-11-15"
+              },
+              "unit": "per_room_night"
+            }
+          ]
+        }
+      },
+      "economy": {
+        "avg_monthly_wage_country": {
+          "year": 2023,
+          "amount": {
+            "amount_local": 15800,
+            "currency_local": "AED",
+            "amount_usd": 4301,
+            "fx_rate_to_usd": 3.67,
+            "fx_rate_date": "2023-12-31"
+          }
+        }
+      },
+      "throughput_nodes": {
+        "airports": [
+          {
+            "hub_id": "AE_AUH",
+            "name": "Abu Dhabi International Airport",
+            "iata": "AUH",
+            "city": "Abu Dhabi",
+            "annual_passengers_2023": 22000000,
+            "comment": "Official airport statistics."
+          }
+        ],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {
+          "abu_dhabi_saadiyat_per_sqm": {
+            "min": {
+              "amount_local": 3500,
+              "currency_local": "USD",
+              "amount_usd": 3500,
+              "fx_rate_to_usd": 1.0,
+              "fx_rate_date": "2025-11-15"
+            },
+            "max": {
+              "amount_local": 7000,
+              "currency_local": "USD",
+              "amount_usd": 7000,
+              "fx_rate_to_usd": 1.0,
+              "fx_rate_date": "2025-11-15"
+            },
+            "midpoint": {
+              "amount_local": 5250,
+              "currency_local": "USD",
+              "amount_usd": 5250,
+              "fx_rate_to_usd": 1.0,
+              "fx_rate_date": "2025-11-15"
+            },
+            "comment": "Cultural district and island properties."
+          }
+        },
+        "land": null
+      },
+      "sustainability_profile": {
+        "protected_area_share_percent": 25,
+        "protected_area_notes": "Mangrove parks and marine protected areas.",
+        "key_environmental_assets": [
+          "mangroves",
+          "coral reefs"
+        ],
+        "overtourism_signals": []
+      },
+      "attractions_meta": {
+        "total_attractions_tracked": 2,
+        "categories": {
+          "cultural_heritage": 2
+        },
+        "avg_immersive_story_potential_1to3": 3.0,
+        "comment": null
+      },
+      "attractions": [
+        {
+          "attraction_id": "AUH_ATT_LOUVRE",
+          "nearest_location_id": null,
+          "attraction_name": "Louvre Abu Dhabi",
+          "attraction_type": "cultural_heritage",
+          "environment_type": "urban_coastal",
+          "short_description": "Universal museum on Saadiyat Island.",
+          "main_access_mode": "taxi",
+          "accessibility_difficulty": "easy",
+          "accessibility_for_non_experts": true,
+          "seasonality": "year_round",
+          "protection_status": "cultural_institution",
+          "visitor_restrictions": "ticketed",
+          "sustainability_pressure": "low",
+          "typical_visit_duration_hours": 3.0,
+          "immersive_story_potential": {
+            "category": "high",
+            "score_1to3": 3
+          },
+          "throughput": {
+            "estimated_annual_visitors": 1000000,
+            "throughput_data_quality": "reported"
+          }
+        },
+        {
+          "attraction_id": "AUH_ATT_SHEIKH_ZAYED_MOSQUE",
+          "nearest_location_id": null,
+          "attraction_name": "Sheikh Zayed Grand Mosque",
+          "attraction_type": "cultural_heritage",
+          "environment_type": "urban",
+          "short_description": "Iconic white marble mosque with capacity for 40,000.",
+          "main_access_mode": "taxi",
+          "accessibility_difficulty": "easy",
+          "accessibility_for_non_experts": true,
+          "seasonality": "year_round",
+          "protection_status": "religious_site",
+          "visitor_restrictions": "dress_code",
+          "sustainability_pressure": "low",
+          "typical_visit_duration_hours": 2.0,
+          "immersive_story_potential": {
+            "category": "high",
+            "score_1to3": 3
+          },
+          "throughput": {
+            "estimated_annual_visitors": 5000000,
+            "throughput_data_quality": "modelled"
+          }
+        }
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-15T15:46:00Z",
+        "notes": null,
+        "sources": [
+          {
+            "id": "AUH_DCT_2023",
+            "title": "Department of Culture and Tourism Abu Dhabi",
+            "url": "https://dct.gov.ae"
+          }
+        ]
+      }
+    },
+    {
+      "destination_id": "DEST_19",
+      "core": {
+        "destination_name": "Cancún & Riviera Maya",
+        "destination_type": "coastal_resort_corridor",
+        "country_name": "Mexico",
+        "country_iso2": "MX",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Latin_America",
+        "world_bank_income_level": "upper_middle",
+        "tourism_dependency_category": "high",
+        "main_city_name": "Cancún",
+        "main_city_population_estimate": 888000,
+        "main_city_population_year": 2023
+      },
+      "tourism": {
+        "yearly_profiles": [
+          {
+            "year": 2023,
+            "total_visitors_all_segments": 12500000,
+            "avg_length_of_stay_nights": 5.5,
+            "overnight_stays_total": null,
+            "tourism_revenue_total": null,
+            "repeat_visitor_share_percent": null,
+            "notes": "Cancún airport arrivals + regional estimate."
+          }
+        ],
+        "international_tourist_arrivals": {
+          "2023": 12500000
+        },
+        "tourist_tax": {
+          "tourist_tax_applies": true,
+          "tourist_tax_main_type": "visitax",
+          "tax_items": [
+            {
+              "segment": "all_foreign_visitors",
+              "amount": {
+                "amount_local": 224,
+                "currency_local": "MXN",
+                "amount_usd": 11,
+                "fx_rate_to_usd": 20.36,
+                "fx_rate_date": "2025-11-15"
+              },
+              "unit": "per_entry"
+            }
+          ]
+        }
+      },
+      "economy": {
+        "avg_monthly_wage_country": {
+          "year": 2023,
+          "amount": {
+            "amount_local": 8500,
+            "currency_local": "MXN",
+            "amount_usd": 417,
+            "fx_rate_to_usd": 20.36,
+            "fx_rate_date": "2023-12-31"
+          }
+        }
+      },
+      "throughput_nodes": {
+        "airports": [
+          {
+            "hub_id": "MX_CUN",
+            "name": "Cancún International Airport",
+            "iata": "CUN",
+            "city": "Cancún",
+            "annual_passengers_2023": 32000000,
+            "comment": "Official ASUR data."
+          }
+        ],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {
+          "cancun_hotel_zone_per_sqm": {
+            "min": {
+              "amount_local": 2500,
+              "currency_local": "USD",
+              "amount_usd": 2500,
+              "fx_rate_to_usd": 1.0,
+              "fx_rate_date": "2025-11-15"
+            },
+            "max": {
+              "amount_local": 4500,
+              "currency_local": "USD",
+              "amount_usd": 4500,
+              "fx_rate_to_usd": 1.0,
+              "fx_rate_date": "2025-11-15"
+            },
+            "midpoint": {
+              "amount_local": 3500,
+              "currency_local": "USD",
+              "amount_usd": 3500,
+              "fx_rate_to_usd": 1.0,
+              "fx_rate_date": "2025-11-15"
+            },
+            "comment": "Hotel zone condo averages."
+          }
+        },
+        "land": null
+      },
+      "sustainability_profile": {
+        "protected_area_share_percent": 20,
+        "protected_area_notes": "Sian Ka'an Biosphere and marine parks.",
+        "overtourism_signals": [
+          "coral_bleaching",
+          "sargassum_invasion"
+        ]
+      },
+      "attractions_meta": {
+        "total_attractions_tracked": 3,
+        "categories": {
+          "archaeological": 1,
+          "cenote": 1,
+          "beach_resort": 1
+        },
+        "avg_immersive_story_potential_1to3": 2.67,
+        "comment": null
+      },
+      "attractions": [
+        {
+          "attraction_id": "CUN_ATT_CHICHEN_ITZA",
+          "nearest_location_id": null,
+          "attraction_name": "Chichén Itzá",
+          "attraction_type": "archaeological",
+          "environment_type": "jungle",
+          "short_description": "UNESCO Mayan city with El Castillo pyramid.",
+          "main_access_mode": "bus_tour",
+          "accessibility_difficulty": "easy",
+          "accessibility_for_non_experts": true,
+          "seasonality": "year_round",
+          "protection_status": "unesco",
+          "visitor_restrictions": "guided_only",
+          "sustainability_pressure": "high",
+          "typical_visit_duration_hours": 3.0,
+          "immersive_story_potential": {
+            "category": "high",
+            "score_1to3": 3
+          },
+          "throughput": {
+            "estimated_annual_visitors": 2700000,
+            "throughput_data_quality": "reported"
+          }
+        },
+        {
+          "attraction_id": "CUN_ATT_TULUM",
+          "nearest_location_id": null,
+          "attraction_name": "Tulum Archaeological Site",
+          "attraction_type": "archaeological",
+          "environment_type": "coastal",
+          "short_description": "Cliff-top Mayan ruins above Caribbean.",
+          "main_access_mode": "taxi",
+          "accessibility_difficulty": "easy",
+          "accessibility_for_non_experts": true,
+          "seasonality": "year_round",
+          "protection_status": "national_park",
+          "visitor_restrictions": "opening_hours",
+          "sustainability_pressure": "very_high",
+          "typical_visit_duration_hours": 2.0,
+          "immersive_story_potential": {
+            "category": "high",
+            "score_1to3": 3
+          },
+          "throughput": {
+            "estimated_annual_visitors": 2000000,
+            "throughput_data_quality": "reported"
+          }
+        },
+        {
+          "attraction_id": "CUN_ATT_CENOTE_DOS_OJOS",
+          "nearest_location_id": null,
+          "attraction_name": "Dos Ojos Cenote",
+          "attraction_type": "cenote",
+          "environment_type": "underground",
+          "short_description": "Cave diving and snorkeling in crystal waters.",
+          "main_access_mode": "taxi",
+          "accessibility_difficulty": "moderate",
+          "accessibility_for_non_experts": true,
+          "seasonality": "year_round",
+          "protection_status": "private_natural",
+          "visitor_restrictions": "guided_only",
+          "sustainability_pressure": "medium",
+          "typical_visit_duration_hours": 2.0,
+          "immersive_story_potential": {
+            "category": "medium",
+            "score_1to3": 2
+          },
+          "throughput": {
+            "estimated_annual_visitors": 300000,
+            "throughput_data_quality": "modelled"
+          }
+        }
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-15T15:46:00Z",
+        "notes": null,
+        "sources": [
+          {
+            "id": "ASUR_CUN_2023",
+            "title": "Grupo Aeroportuario del Sureste (ASUR) Cancún",
+            "url": "https://www.asur.com.mx"
+          },
+          {
+            "id": "SECTUR_MEXICO_2023",
+            "title": "Secretaría de Turismo México",
+            "url": "https://www.gob.mx/sectur"
+          }
+        ]
+      }
     }
-  ]
+  ],
+  "meta_instructions_for_ai": {
+    "dataset_version": "17",
+    "usage_note": "This file is a structured dataset. When working with it, always load it as JSON and iterate programmatically over the 'destinations' array (e.g., using Python) to derive any lists of destinations, IDs, names or related aggregates. Do not manually copy or reconstruct such lists from partial text, rendered snippets or screenshots.",
+    "expected_collections": {
+      "destinations_count": 19
+    },
+    "last_modified_utc": "2025-11-15T16:32:51Z"
+  },
+  "data_contract": {
+    "destinations_array_key": "destinations",
+    "destination_id_field": "destination_id",
+    "destination_name_path": "core.destination_name",
+    "contract_note": "Always derive any destination-related lists or tables by iterating over the 'destinations' array programmatically. Do not rely on human or LLM-style manual copying from text snippets. If the number of destinations in your output differs from 'meta_instructions_for_ai.expected_collections.destinations_count', your extraction is incomplete."
+  }
 }
