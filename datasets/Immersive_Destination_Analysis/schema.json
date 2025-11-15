@@ -1,142 +1,850 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/martin-sambauer/immersive-datasets/main/datasets/immersive-destination-marketing/schema.json",
-  "title": "Immersive Destination Marketing Campaign Record",
-  "description": "Schema for campaigns using immersive media for destination marketing",
+  "title": "Immersive Destination Analysis Dataset",
   "type": "object",
-
   "required": [
-    "id",
-    "commissioning_body",
-    "campaign_name",
-    "destination_name",
-    "year",
-    "country",
-    "country_code",
-    "destination_category",
-    "immersive_format",
-    "format_cluster",
-    "venue_type",
-    "promotion_location_type",
-    "delivery_mode",
-    "primary_audience",
-    "primary_goal",
-    "short_description",
-    "data_collection_date",
-    "status",
-    "verification_status",
-    "sources",
-    "offsite_destination_promotion",
-    "is_flying_theatre",
-    "channel_group"
+    "dataset_meta",
+    "destinations"
   ],
-
   "properties": {
-    "id": {
-      "type": "string",
-      "pattern": "^DM_[0-9]{3}$",
-      "description": "Unique campaign identifier (e.g., DM_001)"
+    "dataset_meta": {
+      "type": "object",
+      "required": [
+        "dataset_id",
+        "title",
+        "description",
+        "license",
+        "created_at_utc",
+        "updated_at_utc"
+      ],
+      "properties": {
+        "dataset_id": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "license": {
+          "type": "string"
+        },
+        "created_at_utc": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "updated_at_utc": {
+          "type": "string",
+          "format": "date-time"
+        }
+      },
+      "additionalProperties": true,
+      "description": "Metadata for the dataset. All text must reflect real, verifiable properties of the dataset. Timestamps must correspond to actual creation/update events."
     },
-
-    "commissioning_body": { "type": "string" },
-    "campaign_name": { "type": "string" },
-    "destination_name": { "type": "string" },
-
-    "year": {
-      "type": "integer",
-      "minimum": 2000,
-      "maximum": 2025
-    },
-
-    "country": { "type": "string" },
-    "country_code": {
-      "type": "string",
-      "pattern": "^[A-Z]{2}$"
-    },
-
-    "destination_category": {
-      "type": "string",
-      "description": "Normalised category such as city, region, resort_area, multiple_destinations"
-    },
-
-    "immersive_format": { "type": "string" },
-
-    "format_cluster": {
-      "type": "string",
-      "enum": [
-        "vr",
-        "online_360",
-        "virtual_tour_3d",
-        "immersive_exhibition",
-        "immersive_walkthrough_or_dark_ride",
-        "nighttime_show_or_spectacle",
-        "ar_or_mr_on_site",
-        "other"
-      ]
-    },
-
-    "venue_type": { "type": "string" },
-    "promotion_location_type": { "type": "string" },
-    "delivery_mode": { "type": "string" },
-
-    "primary_audience": { "type": "string" },
-    "primary_goal": { "type": "string" },
-    "short_description": { "type": "string" },
-
-    "data_collection_date": {
-      "type": "string",
-      "format": "date"
-    },
-
-    "status": {
-      "type": "string",
-      "enum": ["completed", "ongoing", "planned", "cancelled", "unknown"]
-    },
-
-    "verification_status": {
-      "type": "string",
-      "enum": ["strong", "medium", "weak", "unknown"]
-    },
-
-    "sources": {
+    "destinations": {
       "type": "array",
-      "items": { "type": "string", "format": "uri" },
-      "minItems": 1
-    },
-
-    "offsite_destination_promotion": { "type": "boolean" },
-
-    "is_flying_theatre": { "type": "boolean" },
-
-    "delivery_context": { "type": "string" },
-    "channel_group": { "type": "string" },
-
-    "budget": { "type": ["number", "null"] },
-    "budget_source": { "type": ["string", "null"] },
-
-    "production_costs": { "type": ["number", "null"] },
-    "production_costs_source": { "type": ["string", "null"] },
-
-    "visitor_numbers": { "type": ["number", "null"] },
-    "visitor_numbers_source": { "type": ["string", "null"] },
-
-    "revenue": { "type": ["number", "null"] },
-    "revenue_source": { "type": ["string", "null"] },
-
-    "roi": { "type": ["number", "null"] },
-    "roi_source": { "type": ["string", "null"] },
-
-    "sales_uplift": { "type": ["number", "null"] },
-    "sales_uplift_source": { "type": ["string", "null"] },
-
-    "additional_information_01": { "type": ["string", "null"] },
-    "additional_information_01_source": { "type": ["string", "null"] },
-
-    "user_feedback": {
-      "type": ["object", "null"],
-      "description": "Optional social-media feedback structure"
+      "items": {
+        "$ref": "#/$defs/destination"
+      }
     }
   },
-
-  "additionalProperties": false
+  "$defs": {
+    "moneyObject": {
+      "type": "object",
+      "required": [
+        "amount_local",
+        "currency_local",
+        "amount_usd",
+        "fx_rate_to_usd",
+        "fx_rate_date"
+      ],
+      "properties": {
+        "amount_local": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "currency_local": {
+          "type": "string"
+        },
+        "amount_usd": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "fx_rate_to_usd": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "fx_rate_date": {
+          "type": "string",
+          "format": "date"
+        }
+      },
+      "additionalProperties": true
+    },
+    "attractionThroughput": {
+      "type": "object",
+      "properties": {
+        "max_licensed_daily_visitors": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "typical_daily_visitors_low_season": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "typical_daily_visitors_high_season": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "estimated_annual_visitors": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "throughput_data_quality": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "derivation_notes": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "attractionDetailed": {
+      "type": "object",
+      "required": [
+        "attraction_id",
+        "attraction_name",
+        "attraction_type",
+        "environment_type",
+        "short_description",
+        "immersive_story_potential",
+        "throughput"
+      ],
+      "properties": {
+        "attraction_id": {
+          "type": "string"
+        },
+        "nearest_location_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "attraction_name": {
+          "type": "string"
+        },
+        "attraction_type": {
+          "type": "string"
+        },
+        "environment_type": {
+          "type": "string"
+        },
+        "short_description": {
+          "type": "string"
+        },
+        "distance_km_from_nearest_location": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "travel_time_from_nearest_location_minutes": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "main_access_mode": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "accessibility_difficulty": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "accessibility_for_non_experts": {
+          "type": [
+            "boolean",
+            "null"
+          ]
+        },
+        "seasonality": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "protection_status": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "visitor_restrictions": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "sustainability_pressure": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "main_target_audience": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "typical_visit_duration_hours": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "immersive_story_potential": {
+          "type": "object",
+          "required": [
+            "category",
+            "score_1to3"
+          ],
+          "properties": {
+            "category": {
+              "type": "string"
+            },
+            "score_1to3": {
+              "type": "number"
+            }
+          },
+          "additionalProperties": false
+        },
+        "throughput": {
+          "$ref": "#/$defs/attractionThroughput"
+        }
+      },
+      "additionalProperties": false,
+      "description": "Detailed representation of a single attraction. attraction_id must be unique within the dataset. Attractions must represent real, verifiable locations or experiences; values must not be fabricated."
+    },
+    "core": {
+      "type": "object",
+      "required": [
+        "destination_name",
+        "destination_type",
+        "country_name",
+        "country_iso2",
+        "global_south_flag",
+        "reference_location_flag",
+        "world_region",
+        "world_bank_income_level"
+      ],
+      "properties": {
+        "destination_name": {
+          "type": "string"
+        },
+        "destination_type": {
+          "type": "string"
+        },
+        "country_name": {
+          "type": "string"
+        },
+        "country_iso2": {
+          "type": "string"
+        },
+        "global_south_flag": {
+          "type": "boolean"
+        },
+        "reference_location_flag": {
+          "type": "boolean"
+        },
+        "world_region": {
+          "type": "string"
+        },
+        "world_bank_income_level": {
+          "type": "string"
+        },
+        "tourism_dependency_category": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "main_city_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "main_city_population_estimate": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "main_city_population_year": {
+          "type": [
+            "number",
+            "null"
+          ]
+        }
+      },
+      "additionalProperties": true
+    },
+    "tourism": {
+      "type": "object",
+      "properties": {
+        "yearly_profiles": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "year",
+              "total_visitors_all_segments"
+            ],
+            "properties": {
+              "year": {
+                "type": "number"
+              },
+              "total_visitors_all_segments": {
+                "type": "number"
+              },
+              "avg_length_of_stay_nights": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "overnight_stays_total": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "tourism_revenue_total": {
+                "anyOf": [
+                  {
+                    "$ref": "#/$defs/moneyObject"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "repeat_visitor_share_percent": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "notes": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            },
+            "additionalProperties": true
+          }
+        },
+        "international_tourist_arrivals": {
+          "type": "object",
+          "patternProperties": {
+            "^[0-9]{4}$": {
+              "type": "number"
+            }
+          },
+          "additionalProperties": false
+        },
+        "tourism_earnings_total": {
+          "type": "object",
+          "patternProperties": {
+            "^[0-9]{4}$": {
+              "$ref": "#/$defs/moneyObject"
+            }
+          },
+          "additionalProperties": false
+        },
+        "tourism_share_of_gdp_percent": {
+          "type": "object",
+          "patternProperties": {
+            "^[0-9]{4}$": {
+              "type": "number"
+            }
+          },
+          "additionalProperties": false
+        },
+        "main_source_markets_recent": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "national_context": {
+          "type": "object"
+        },
+        "role_of_red_sea_cluster": {
+          "type": "object"
+        },
+        "hotel_occupancy_indicators_2023": {
+          "type": "object"
+        },
+        "tourist_tax": {
+          "type": "object"
+        }
+      },
+      "additionalProperties": true
+    },
+    "throughputNodes": {
+      "type": "object",
+      "properties": {
+        "airports": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "hub_id",
+              "name"
+            ],
+            "properties": {
+              "hub_id": {
+                "type": "string"
+              },
+              "name": {
+                "type": "string"
+              },
+              "iata": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "city": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "annual_passengers_year": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "annual_passengers_estimate": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "annual_passengers_2023": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "annual_passengers_2024": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "annual_passengers_2024_estimate": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "comment": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            },
+            "additionalProperties": true
+          }
+        },
+        "ports": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "hub_id",
+              "name"
+            ],
+            "properties": {
+              "hub_id": {
+                "type": "string"
+              },
+              "name": {
+                "type": "string"
+              },
+              "city": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "annual_passengers_estimate_2023": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "comment": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            },
+            "additionalProperties": true
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "realEstatePriceRange": {
+      "type": "object",
+      "required": [
+        "min",
+        "max",
+        "midpoint"
+      ],
+      "properties": {
+        "min": {
+          "$ref": "#/$defs/moneyObject"
+        },
+        "max": {
+          "$ref": "#/$defs/moneyObject"
+        },
+        "midpoint": {
+          "$ref": "#/$defs/moneyObject"
+        },
+        "comment": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "additionalProperties": false
+    },
+    "realEstate": {
+      "type": "object",
+      "properties": {
+        "residential": {
+          "type": "object",
+          "additionalProperties": {
+            "$ref": "#/$defs/realEstatePriceRange"
+          }
+        },
+        "land": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "additionalProperties": {
+            "$ref": "#/$defs/realEstatePriceRange"
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "economy": {
+      "type": "object",
+      "properties": {
+        "avg_monthly_wage_country": {
+          "type": "object",
+          "required": [
+            "year",
+            "amount"
+          ],
+          "properties": {
+            "year": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "amount": {
+              "$ref": "#/$defs/moneyObject"
+            }
+          },
+          "additionalProperties": false
+        },
+        "tourism_value_estimate": {
+          "type": "object",
+          "required": [
+            "amount",
+            "local_capture"
+          ],
+          "properties": {
+            "amount": {
+              "$ref": "#/$defs/moneyObject"
+            },
+            "local_capture": {
+              "$ref": "#/$defs/moneyObject"
+            },
+            "comment": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": true
+    },
+    "investorProfile": {
+      "type": "object",
+      "properties": {
+        "avg_monthly_income_formal_sector": {
+          "type": "object",
+          "required": [
+            "amount_local",
+            "currency_local",
+            "amount_usd",
+            "fx_rate_to_usd",
+            "fx_rate_date"
+          ],
+          "properties": {
+            "amount_local": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "currency_local": {
+              "type": "string"
+            },
+            "amount_usd": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "fx_rate_to_usd": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "fx_rate_date": {
+              "type": "string",
+              "format": "date"
+            },
+            "comment": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": false
+        },
+        "avg_monthly_wage_national_dec_2023": {
+          "$ref": "#/$defs/moneyObject"
+        },
+        "gdp_per_capita_2023": {
+          "$ref": "#/$defs/moneyObject"
+        },
+        "political_stability_assessment": {
+          "type": "object",
+          "required": [
+            "category"
+          ],
+          "properties": {
+            "category": {
+              "type": "string"
+            },
+            "comment": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": true
+    },
+    "sustainabilityProfile": {
+      "type": "object",
+      "properties": {
+        "protected_area_share_percent": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "protected_area_notes": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "key_environmental_assets": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "overtourism_signals": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "additionalProperties": true
+    },
+    "attractionsMeta": {
+      "type": "object",
+      "required": [
+        "total_attractions_tracked"
+      ],
+      "properties": {
+        "total_attractions_tracked": {
+          "type": "number"
+        },
+        "categories": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "number"
+          }
+        },
+        "avg_immersive_story_potential_1to3": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "comment": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "additionalProperties": false,
+      "description": "Summary statistics for all attractions within a destination. Counts and averages must be derived from the actual attractions list and must not be fabricated. No duplicate attraction records describing the same real-world entity should be counted twice."
+    },
+    "metaDestination": {
+      "type": "object",
+      "required": [
+        "last_researched_utc"
+      ],
+      "properties": {
+        "last_researched_utc": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "notes": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "sources": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "title",
+              "url"
+            ],
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "title": {
+                "type": "string"
+              },
+              "url": {
+                "type": "string",
+                "format": "uri"
+              }
+            },
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": true,
+      "description": "Meta information including research timestamps and sources. Each source must correspond to a real, accessible reference (e.g. URL, report, dataset). Use derivation notes where values are modelled or approximated."
+    },
+    "destination": {
+      "type": "object",
+      "required": [
+        "destination_id",
+        "core",
+        "tourism",
+        "throughput_nodes",
+        "real_estate",
+        "attractions_meta",
+        "attractions",
+        "meta"
+      ],
+      "properties": {
+        "destination_id": {
+          "type": "string",
+          "description": "Technical identifier for the destination. In this dataset, destination_id follows a simple sequential pattern based on the position of each record in the top-level destinations[] array. Format: 'DEST_01', 'DEST_02', 'DEST_03', … (prefix 'DEST_' plus a zero-padded ascending number). IDs are never recycled; new destinations are always appended with the next free number. A full renumbering of destinations is only allowed as part of a major dataset release and must be documented in dataset_meta.version_notes."
+        },
+        "core": {
+          "$ref": "#/$defs/core"
+        },
+        "tourism": {
+          "$ref": "#/$defs/tourism"
+        },
+        "economy": {
+          "$ref": "#/$defs/economy"
+        },
+        "throughput_nodes": {
+          "$ref": "#/$defs/throughputNodes"
+        },
+        "investor_profile": {
+          "$ref": "#/$defs/investorProfile"
+        },
+        "real_estate": {
+          "$ref": "#/$defs/realEstate"
+        },
+        "sustainability_profile": {
+          "$ref": "#/$defs/sustainabilityProfile"
+        },
+        "attractions_meta": {
+          "$ref": "#/$defs/attractionsMeta"
+        },
+        "attractions": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/attractionDetailed"
+          }
+        },
+        "meta": {
+          "$ref": "#/$defs/metaDestination"
+        }
+      },
+      "additionalProperties": false,
+      "description": "A single destination record. destination_id must be unique across the dataset. When IDs include numeric sequences, they must be strictly forward-only and not reused. No duplicate destinations describing the same real-world entity may be created under different IDs."
+    }
+  },
+  "description": "JSON Schema for the Immersive Destination Analysis Dataset. All data must be sourced from real, verifiable references; no invented or hallucinated values are allowed. IDs must be unique and collision-free within their namespace, and content duplicates should be avoided."
 }
