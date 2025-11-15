@@ -1,128 +1,150 @@
-# Creative Directors in Immersive Media – Global Dataset (1950–2025)
+# Creative Directors for Immersive Media – Dataset README (Pilot Version)
 
-This repository hosts the **Creative Directors in Immersive Media – Global Dataset**, a machine-readable collection of individuals working in the field of immersive media, immersive events, fulldome cinema, XR, experiential architecture, and large-scale media environments.
+This dataset profiles Creative Directors working in immersive media, including fulldome, XR, large-scale installations, mixed reality stages and destination storytelling. It collects structured metadata for comparative analysis, content strategy, team formation and educational design.
 
-The dataset is part of a long-term research project to map the evolution of immersive media creative direction from the 1950s to the present.  
-It accompanies the article *Creative Directors in Immersive Media: A Global Overview (1950–2025)* published at:
+All entries follow the ontological framework described in ../../ontology.md.
 
-https://martin-sambauer.com
+---
 
-## Purpose of the Dataset
+## Purpose
 
-Immersive media has established itself as a global field spanning:
+The dataset describes professional creative leadership in immersive media. It identifies individuals whose work, roles, outputs and contexts reveal the competencies required to direct immersive experiences at professional scale.
 
-- multiscreen and expanded cinema  
-- media art and interactive installations  
-- fulldome and large-format storytelling  
-- VR / XR and spatial cinema  
-- LED stages and immersive arenas  
-- corporate immersive experiences  
+The goal is to support:
 
-Yet there has never been a structured, global overview of the individuals who shape this field.
+* identifying creative leadership for immersive projects
+* mapping international practice across regions and venue types
+* analysing trends in immersive creative direction
+* deriving skills for the Skill Taxonomy dataset
+* supporting educational and institutional frameworks for immersive media
+* enabling agent-based matching between destinations, investors and creative teams
 
-This dataset aims to:
+---
 
-- document creative directors, artists, designers and producers working in immersive media  
-- provide a historical arc (1950–2025)  
-- classify individuals across multiple clusters and domains  
-- offer a machine-readable reference for researchers, curators, festivals and institutions  
-- support long-term analysis of trends, technologies and professional roles in immersive media  
+## Ontology context
 
-The dataset is not a ranking and not a complete list. It is an evolving research corpus.
+Within the Martin Sambauer Ontology for Immersive Data Systems, this dataset represents the "people and roles" layer.
 
-## Dataset Structure
+It connects to:
 
-All data is stored in:
+* **Skill Taxonomy for Immersive Creative Roles** (skills derived from real directors)
+* **Immersive Destination Analysis** (destinations where their work appears)
+* **Immersive Qualities** (future dataset on perceptual structures)
+* **Investor Datasets** (future cross-analysis for project–talent matching)
 
-```
-/datasets/immersive-creative-directors/
-    creative_directors_global.json
-    creative_directors_global.schema.json
-    methodology.md
-    changelog.md
-```
+Each creative director acts as a node linking projects, destinations, venues, skills and media types.
 
-The main file is `creative_directors_global.json`.
+---
 
-Each entry follows this structure:
+## Dataset structure
 
-```
-{
-  "name": "First Last",
-  "country": "Country",
-  "birth_year": 1977,
-  "roles": ["Creative Director", "XR Artist"],
-  "focus_areas": ["VR", "Fulldome", "Immersive Theatre"],
-  "notable_works": ["Work A", "Work B"],
-  "affiliations": ["Studio or Institution"],
-  "links": {
-    "website": "https://example.com",
-    "instagram": "https://instagram.com/example",
-    "imdb": "https://imdb.com/name/example"
-  }
-}
-```
+Each entry in `creative_directors.json` contains the following high-level blocks:
 
-## How the Dataset Was Created
+* **identity**
 
-### 1. Definition of Scope (1950–2025)
-Historical field definition from avant-garde to XR stages and immersive brand experiences.
+  * id, name, nationality, base city
 
-### 2. Establishing Conceptual Clusters
-Classification clusters:
+* **professional_profile**
 
-- analog_media_art_pioneers  
-- digital_interactive_pioneers  
-- immersive_installations  
-- fulldome_large_format  
-- vr_xr_creators  
-- live_immersive_stages / large_scale_live_shows  
-- corporate_brand_immersive  
+  * role titles, years active, primary media types
 
-### 3. Selection of Individuals
-Natural persons with verifiable public work in immersive media.
+* **immersive_specialisation**
 
-### 4. Verification Through Public Sources
-Every entry has at least one source (festivals, museums, planetariums, academic profiles, studio pages, press releases).
+  * fulldome, XR, mixed reality, architectural media, planetarium shows, experience design
 
-### 5. JSON Normalization
-Consistent types, formats, arrays and unique `cdim_XXXX` IDs.
+* **notable_projects**
 
-### 6. Duplicate Removal and Replacement
-Duplicates merged; unsourced entries replaced with fully referenced individuals.
+  * key works, year, venue, media type, collaborators
 
-### 7. Systemic Integrity Check
-Ensured valid references, unique IDs/names, working links, schema conformity.
+* **venues_and_festivals**
 
-### 8. Compatibility With Other Datasets
-Interlinked with:
+  * institutions, festivals, domes, museums, labs
 
-- Immersive Market Participants  
-- Immersive Venue & Planetarium Dataset  
-- Immersive Keywords Dataset  
+* **skills_reference**
 
-## License
+  * which parts of the Skill Taxonomy their work contributes to
 
-**Creative Commons Attribution 4.0 International (CC BY 4.0)**  
-https://creativecommons.org/licenses/by/4.0/
+* **education_and_background** (optional)
 
-Attribution required:  
-*“Creative Directors in Immersive Media – Global Dataset (1950–2025), curated by Martin Sambauer – https://martin-sambauer.com”*
+* **sources**
 
-## Versioning
+  * URLs, publications, institutional pages
 
-Logged in `changelog.md`:
+---
 
-- MAJOR – structural changes  
-- MINOR – new individuals, expanded clusters  
-- PATCH – corrections, metadata fixes  
+## Key results
 
-## Contributing
+Key results are not stored statically in this README.
+They depend on the current content of the dataset and evolve as new directors are added.
 
-Contributions via pull request are welcome.
+To generate up-to-date insights, summaries or comparisons, load the JSON into an analysis notebook or an LLM and request a profile or analysis.
 
-## Maintainer
+Typical dynamic insights include:
 
-**Martin Sambauer**  
-Creative Director for Immersive Media  
-https://martin-sambauer.com
+* distribution of directors across venue types (fulldome, XR, etc.)
+* geographic clustering of immersive creative leadership
+* project–venue–director triads
+* contribution to the Skill Taxonomy dataset
+* frequency of roles and sub-roles
+* emerging media types and hybrid forms
+
+---
+
+## Methodology
+
+The dataset is compiled through:
+
+1. **Documentation review**
+
+   * festival catalogues, fulldome show credits, XR installations, museum programmes
+
+2. **Cross-dataset extraction**
+
+   * destinations and venues from Immersive Destination Analysis
+   * skills derived via the Skill Taxonomy dataset
+
+3. **Role identification**
+
+   * selecting individuals whose primary function is creative leadership rather than technical execution
+
+4. **Metadata structuring**
+
+   * standardising role titles, media types, venue types and project metadata
+
+5. **Ongoing updates**
+
+   * new directors added over time
+   * retroactive updates when new work becomes available
+
+---
+
+## Use cases
+
+This dataset is designed for:
+
+* talent sourcing for immersive productions and destination projects
+* benchmarking creative leadership in immersive media
+* building curricula and training programmes
+* analysing artistic and technical evolution across media formats
+* generating articles, trend reports and whitepapers on immersive creative direction
+* feeding agent-based systems for director–project matching
+
+---
+
+## Planned extensions
+
+Future iterations will include:
+
+* expanded regional coverage (Asia, Africa, Latin America)
+* deeper project metadata (budgets, institutions, technologies)
+* richer venue mapping (capacity, formats, hardware)
+* crosslinking with immersive qualities and perceptual design patterns
+* automated ingestion from festival archives and venue databases
+
+---
+
+## Citation
+
+If you use this dataset, please cite:
+
+Creative Directors for Immersive Media (Pilot Version), curated by Martin Sambauer (martin-sambauer.com). Part of the Immersive Datasets repository. Licensed under CC BY 4.0.
