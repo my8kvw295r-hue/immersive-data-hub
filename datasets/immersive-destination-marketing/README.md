@@ -10,6 +10,15 @@ All entries follow the ontological framework described in ../../ontology.md.
 
 ## Purpose
 
+This dataset is grounded in the conceptual framework described in the repository’s ontology (../../ontology.md). The ontology formalises how immersive media functions as a meaning-making system — aligning destinations, narratives, creative authorship and experiential structures. It is based on a constructivist reading of immersion as a cultural technique rather than a technology alone.
+
+Key theoretical anchors referenced in the ontology include:
+
+* immersion as a cognitive-ecological process (not just a visual effect)
+* narrative identity formation in destination branding
+* experiential media as soft-power infrastructure
+* the idea that immersive media create *clarity within complexity*, extending human sense-making
+
 The goal of this dataset is to map how destinations use immersive media to shape tourism flows, cultural identity, soft power, regional branding and experiential positioning.
 
 It supports:
@@ -26,6 +35,12 @@ This dataset is closely tied to the Immersive Destination Analysis dataset, but 
 ---
 
 ## Ontology context
+
+This dataset follows the Martin Sambauer Ontology for Immersive Data Systems (../../ontology.md). The ontology provides the semantic backbone linking destinations, narratives, perceptual structures, creative authorship and investment logic.
+
+At its core, the ontology treats immersive media not as isolated artefacts but as interconnected narrative systems. It follows the broader philosophical view that media are extensions of human world-construction — echoing McLuhan’s "medium-as-environment" perspective and contemporary systems thinking on sense-making in complex environments.
+
+This ontology ensures that all datasets in this repository can be stacked, connected and analysed as one coherent immersive knowledge graph.
 
 In the Martin Sambauer Ontology for Immersive Data Systems, this dataset represents the "media outputs" layer.
 
