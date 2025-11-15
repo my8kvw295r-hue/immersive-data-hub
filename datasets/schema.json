@@ -1,0 +1,142 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/martin-sambauer/immersive-datasets/main/datasets/immersive-destination-marketing/schema.json",
+  "title": "Immersive Destination Marketing Campaign Record",
+  "description": "Schema for campaigns using immersive media for destination marketing",
+  "type": "object",
+
+  "required": [
+    "id",
+    "commissioning_body",
+    "campaign_name",
+    "destination_name",
+    "year",
+    "country",
+    "country_code",
+    "destination_category",
+    "immersive_format",
+    "format_cluster",
+    "venue_type",
+    "promotion_location_type",
+    "delivery_mode",
+    "primary_audience",
+    "primary_goal",
+    "short_description",
+    "data_collection_date",
+    "status",
+    "verification_status",
+    "sources",
+    "offsite_destination_promotion",
+    "is_flying_theatre",
+    "channel_group"
+  ],
+
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^DM_[0-9]{3}$",
+      "description": "Unique campaign identifier (e.g., DM_001)"
+    },
+
+    "commissioning_body": { "type": "string" },
+    "campaign_name": { "type": "string" },
+    "destination_name": { "type": "string" },
+
+    "year": {
+      "type": "integer",
+      "minimum": 2000,
+      "maximum": 2025
+    },
+
+    "country": { "type": "string" },
+    "country_code": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}$"
+    },
+
+    "destination_category": {
+      "type": "string",
+      "description": "Normalised category such as city, region, resort_area, multiple_destinations"
+    },
+
+    "immersive_format": { "type": "string" },
+
+    "format_cluster": {
+      "type": "string",
+      "enum": [
+        "vr",
+        "online_360",
+        "virtual_tour_3d",
+        "immersive_exhibition",
+        "immersive_walkthrough_or_dark_ride",
+        "nighttime_show_or_spectacle",
+        "ar_or_mr_on_site",
+        "other"
+      ]
+    },
+
+    "venue_type": { "type": "string" },
+    "promotion_location_type": { "type": "string" },
+    "delivery_mode": { "type": "string" },
+
+    "primary_audience": { "type": "string" },
+    "primary_goal": { "type": "string" },
+    "short_description": { "type": "string" },
+
+    "data_collection_date": {
+      "type": "string",
+      "format": "date"
+    },
+
+    "status": {
+      "type": "string",
+      "enum": ["completed", "ongoing", "planned", "cancelled", "unknown"]
+    },
+
+    "verification_status": {
+      "type": "string",
+      "enum": ["strong", "medium", "weak", "unknown"]
+    },
+
+    "sources": {
+      "type": "array",
+      "items": { "type": "string", "format": "uri" },
+      "minItems": 1
+    },
+
+    "offsite_destination_promotion": { "type": "boolean" },
+
+    "is_flying_theatre": { "type": "boolean" },
+
+    "delivery_context": { "type": "string" },
+    "channel_group": { "type": "string" },
+
+    "budget": { "type": ["number", "null"] },
+    "budget_source": { "type": ["string", "null"] },
+
+    "production_costs": { "type": ["number", "null"] },
+    "production_costs_source": { "type": ["string", "null"] },
+
+    "visitor_numbers": { "type": ["number", "null"] },
+    "visitor_numbers_source": { "type": ["string", "null"] },
+
+    "revenue": { "type": ["number", "null"] },
+    "revenue_source": { "type": ["string", "null"] },
+
+    "roi": { "type": ["number", "null"] },
+    "roi_source": { "type": ["string", "null"] },
+
+    "sales_uplift": { "type": ["number", "null"] },
+    "sales_uplift_source": { "type": ["string", "null"] },
+
+    "additional_information_01": { "type": ["string", "null"] },
+    "additional_information_01_source": { "type": ["string", "null"] },
+
+    "user_feedback": {
+      "type": ["object", "null"],
+      "description": "Optional social-media feedback structure"
+    }
+  },
+
+  "additionalProperties": false
+}
