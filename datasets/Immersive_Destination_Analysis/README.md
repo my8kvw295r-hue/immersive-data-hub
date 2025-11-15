@@ -1,4 +1,4 @@
-# Global South Tourism & Investment Dataset (Immersive Destination Analysis)
+# Global South Tourism & Investment Dataset (MARTIN_SAMBAUER_GLOBAL_SOUTH_V1)
 
 ## Overview
 This repository contains the Global South Tourism & Investment Dataset, curated to support:
@@ -22,7 +22,7 @@ The dataset provides a structured foundation for:
 - aligning immersive storytelling, domes, VR/AR and experiential infrastructure with concrete throughput, yield and conservation signals at each location. :contentReference[oaicite:1]{index=1}
 
 It will serve as the underlying data layer for articles published on  
-https://originofwonder.com and https://martin-sambauer.com
+https://originofwonder.com
 
 ## Target groups
 This dataset is built for a mixed ecosystem of creative and financial actors around immersive destinations, including:
@@ -59,8 +59,19 @@ All changes and new locations must validate against `schema.json` and follow the
 CC BY 4.0  
 Attribution required: https://martin-sambauer.com – Martin Sambauer
 
+
+### ID rules
+
+- All IDs (`destination_id`, `attraction_id`, `hub_id`, …) are unique within their namespace.
+- `destination_id` follows a simple sequential pattern: `DEST_01`, `DEST_02`, `DEST_03`, … based on the position of the destination in the `destinations[]` array.
+- IDs are never recycled; new destinations are always appended with the next free number.
+- Full renumbering of destinations is only allowed as part of a major dataset release and must be documented in `dataset_meta.version_notes`.
+
+For detailed ID and validation rules, see `METHODOLOGY.md` (section 9).
+
+
 ## File Structure
-- `Immersive_Destination_Analysis.json` – the main dataset  
+- `Immersive_Destination_Analysis_11.json` – the main dataset  
 - `README.md` – repository overview  
 - `METHODOLOGY.md` – detailed explanation of data collection  
 - (future) `/sources/` – raw sources and extraction files  
