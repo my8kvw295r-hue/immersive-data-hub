@@ -846,5 +846,5 @@
       "description": "A single destination record. destination_id must be unique across the dataset. When IDs include numeric sequences, they must be strictly forward-only and not reused. No duplicate destinations describing the same real-world entity may be created under different IDs."
     }
   },
-  "description": "JSON Schema for the Immersive Destination Analysis Dataset. All data must be sourced from real, verifiable references; no invented or hallucinated values are allowed. IDs must be unique and collision-free within their namespace, and content duplicates should be avoided."
+  "description": "JSON Schema for the Immersive Destination Analysis Dataset. All data must be sourced from real, verifiable references; no invented or hallucinated values are allowed. IDs must be unique and collision-free within their namespace, and content duplicates should be avoided. The number of destinations in any dataset file is always determined by the length of the top-level 'destinations' array; no separate meta_instructions_for_ai.expected_collections.destinations_count field is used in current versions."
 }
