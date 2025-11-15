@@ -1,93 +1,146 @@
-# Methodology – Immersive Destination Marketing Dataset  
-Part of the Immersive Data Hub by Martin Sambauer
+# Methodology
 
-## Download
-Path: `datasets/immersive-destination-marketing/methodology.md`  
-Raw URL:  
-https://raw.githubusercontent.com/martin-sambauer/immersive-datasets/main/datasets/immersive-destination-marketing/methodology.md  
+## 1. Scope
+This dataset captures multi-layered information for global tourism destinations, with emphasis on the **Global South**. It includes:
+- tourism throughput,
+- investment conditions,
+- economic indicators,
+- environmental/sustainability factors,
+- attractions and bottleneck analysis,
+- real estate structures,
+- tax and governance layers.
 
-## Purpose
-This document explains how data in the immersive-destination-marketing dataset is collected, validated, cleaned and structured.  
-Its purpose is to ensure that humans and AI systems can reliably extend, verify and maintain the dataset without ambiguity.
+## 2. Data Structure Principles
+Each destination follows a common JSON schema:
+- `core` – identity & classification  
+- `tourism` – arrivals, taxes, stay durations  
+- `economy` – wages, GDP, investment climate  
+- `throughput_nodes` – airports, ports, stations  
+- `real_estate` – pricing normalized to USD  
+- `sustainability_profile` – environment & policies  
+- `attractions` – metadata & throughput  
+- `meta` – timestamps & source references  
 
-## Scope
-- Campaigns using immersive media for destination marketing  
-- Global coverage  
-- One JSON object = one campaign  
-- Only publicly documented campaigns included  
-- No invented values; unknown = null
+**Money objects** use this normalized structure:
+```
+{
+  "amount_local": ...,
+  "currency_local": "...",
+  "amount_usd": ...,
+  "fx_rate_to_usd": ...,
+  "fx_rate_date": "YYYY-MM-DD"
+}
+```
 
-## Data sources
-- Public case studies  
-- Press releases  
-- Articles in tourism and technology trade media  
-- Official destination marketing websites  
-- When available: agency documentation or public project reports
+## 3. Data Sources
+The following source types are used:
+- national statistics bureaus,
+- airport and port authorities,
+- UNWTO reports,
+- World Bank datasets,
+- environmental impact studies,
+- academic throughput studies,
+- tourism tax legislation,
+- local real estate portals.
 
-Each source must be listed in the field `sources` in the dataset.
+All extracted information includes:
+- clear numerical values (no strings),
+- normalized monetary values,
+- null values where no data is available,
+- derivation notes if values are modeled or approximated.
 
-## Data collection workflow
-1. Identify a publicly documented immersive destination-marketing campaign.  
-2. Extract verifiable facts (no interpretations, no guesses).  
-3. Populate all fields where real information exists.  
-4. If a field is unknown, assign `null`.  
-5. Add at least one source URL to `sources`.  
-6. Assign a stable `id` (DM_001, DM_002 …).  
-7. Document the date of collection in `data_collection_date` (ISO 8601).  
-8. Apply controlled vocabulary where the schema requires it.  
-9. Check duplicates (same commissioning_body + campaign_name + destination_name + year).  
-10. Validate the object against `schema.json`.
+## 4. Throughput Modeling
+Throughput of attractions includes:
+- licensed daily visitor caps,
+- seasonal variations,
+- modeled estimates based on:
+  - peak counts,
+  - known capacity limits,
+  - tour operator reports,
+  - protected area rules,
+  - historical ticket numbers.
 
-## Cleaning and standardisation
-- Normalise country names + ISO 3166-1 alpha-2 codes  
-- Normalise destination categories  
-- Normalise immersive formats into format clusters  
-- Ensure consistent casing (lowercase for controlled vocabularies)  
-- Remove duplicates across entire dataset  
-- Validate year is integer in reasonable range (2000–2025)  
-- Validate URLs minimally (proper HTTP/HTTPS pattern)
+Uncertain values include `"throughput_data_quality": "modelled"` or `"unknown"`.
 
-## Verification
-Verification levels:  
-- strong = multiple independent sources or official project confirmation  
-- medium = one strong source + one secondary mention  
-- weak = one unconfirmed but credible source  
-- unknown = insufficient information  
+## 5. Global South Emphasis
+The project concentrates on:
+- Africa,
+- Latin America,
+- Southeast Asia,
+- MENA,
+- island and archipelago nations.
 
-Field: `verification_status`
+A limited number of Global North reference locations may be included for benchmarking.
 
-## Rules for AI systems  
-To ensure consistent dataset expansion, AI systems **must follow these rules**:
+## 6. Use Cases
+### For immersive media producers
+- identify high-impact storytelling environments,
+- match throughput potential with dome/VR/AR installations,
+- evaluate sustainability constraints.
 
-1. **Never generate invented facts.**  
-   Unknown values must be `null`.
+### For investors
+- compare destinations via unified metrics,
+- understand tourism dependency,
+- analyze real estate dynamics,
+- assess political stability and environmental risk.
 
-2. **Every campaign must include at least one real URL in `sources`.**  
-   No placeholder URLs.
+### For research & journalism
+- provide structured, transparent, citation-friendly data.
 
-3. **Maintain existing naming conventions exactly.**  
-   Field names, value formats, and controlled vocabulary must remain unchanged.
+## 7. Versioning
+Dataset version: **MARTIN_SAMBAUER_GLOBAL_SOUTH_V1**
 
-4. **Never remove fields from existing entries.**  
-   If a field is unknown, keep it with value `null`.
+Updates include:
+- expanded locations,
+- improved throughput modeling,
+- added socio-economic layers,
+- more granular attraction metadata.
 
-5. **Each new entry must be validated against `schema.json`.**
 
-6. **IDs must follow sequential format DM_XXX without collisions.**
 
-7. **Do not transform narrative descriptions.**  
-   The field `short_description` should be concise and factual.
+## 9. Data integrity, validation and ID rules
 
-8. **Never infer numeric values (budget, ROI, visitor numbers).**  
-   Only populate these when publicly published and accompanied by a source URL.
+To avoid schema drift, hallucinated content and duplicate structures, all future extensions of this dataset MUST follow these rules:
 
-## Limitations
-- Only publicly documented campaigns are included  
-- Some campaigns may provide incomplete information  
-- Self-reported performance values may be biased  
-- Keywords or tags not included unless verified  
+- No fabricated or hallucinated data  
+  - All numbers, classifications and textual claims must be backed by real, verifiable sources (see section 3).  
+  - If no reliable source is available, the value MUST be set to `null` and accompanied by `throughput_data_quality`, `comment` or `derivation_notes` that transparently flag the limitation (e.g. `"unknown"`, `"modelled"`).  
+  - Under no circumstances may values be invented to “fill gaps”.
 
-## License
-CC BY 4.0 — attribution required  
-Immersive Data Hub by Martin Sambauer (martin-sambauer.com)
+- No content duplicates  
+  - Destinations, attractions, throughput nodes and sources must not be duplicated under different IDs or labels.  
+  - If the same real-world entity appears again (e.g. the same national park or airport), the existing ID MUST be reused and referenced instead of creating a new one.
 
+- ID strategy and numbering  
+  - `destination_id`, `attraction_id`, `hub_id` (airports/ports) and any other IDs must be unique within their respective namespace.  
+  - Where numeric or sequence-based IDs are used (e.g. `DEST_001`, `ATT_001`), numbering MUST be strictly forward-only and without reuse:  
+    - no gaps introduced by deletion followed by reuse,  
+    - no collisions or duplicate IDs across the dataset.  
+  - Any automated or AI-assisted data generation must treat ID creation as a critical operation and validate uniqueness before writing.
+
+
+- Destination ID generation (`destination_id`)
+  - Format: `DEST_01`, `DEST_02`, `DEST_03`, … (prefix `DEST_` plus zweistellige, aufsteigend vergebene Nummer).
+  - Reihenfolge: Die Nummer wird ausschließlich aus der Position im `destinations[]`-Array abgeleitet (erste Destination = `DEST_01`, zweite = `DEST_02` usw.).
+  - Keine Semantik: Die ID trägt keine Bedeutung zu Region, Priorität oder Wichtigkeit; sie dient nur als stabile, technische Referenz.
+  - Neue Destinationen werden immer am Ende des Arrays angehängt und erhalten die nächste freie Nummer (z.B. nach `DEST_19` folgt `DEST_20`).
+  - IDs werden niemals recycelt. Wenn eine Destination entfernt wird, bleibt ihre ID dauerhaft unbenutzt.
+  - Eine vollständige Neunummerierung aller Destinationen ist nur im Rahmen eines Major Releases (z.B. v1 → v2) erlaubt und muss in `dataset_meta.version_notes` dokumentiert werden.
+
+
+- Validation workflow  
+  - Every commit or dataset release must be checked against `schema.json`.  
+  - A separate validation step must ensure that:  
+    - all IDs are unique,  
+    - no duplicated content records exist for the same entity,  
+    - all money objects and key indicators either contain real sourced values or `null` with a clear explanation.  
+
+These rules are binding for manual editing, scripted imports and AI-assisted extensions of the dataset.
+
+
+## 8. Attribution
+Use this citation:
+
+**Sambauer, Martin (2025)**  
+Global South Tourism & Investment Dataset (MARTIN_SAMBAUER_GLOBAL_SOUTH_V1), CC BY 4.0.  
+https://originofwonder.com
