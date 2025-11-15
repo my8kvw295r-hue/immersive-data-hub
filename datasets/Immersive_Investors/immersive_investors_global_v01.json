@@ -1,25 +1,24 @@
 {
   "dataset_metadata": {
     "dataset_id": "IMMERSIVE_INVESTORS_GLOBAL",
-    "name": "Immersive Investors – Pilot (Two Fully Mapped Cases)",
-    "version": "v0.2.0",
+    "name": "Immersive Investors \u2013 Pilot (Two Fully Mapped Cases)",
+    "version": "v0.2.1",
     "description": "Two deeply documented immersive investors (PIF and Miral) with linked projects, institutions, policies and people for prototyping the schema.",
     "author": "Martin Sambauer (martin-sambauer.com)",
     "created": "2025-11-15",
-    "last_updated": "2025-11-15",
+    "last_updated": "2025-11-16",
     "license": "CC BY 4.0",
     "geographic_scope": "global, with current focus on GCC/MENA",
     "primary_focus_regions": [
       "MENA_GCC"
     ]
   },
-
   "investors": [
     {
       "investor_id": "INV_PIF",
       "investor_name": "Public Investment Fund",
       "investor_category": "sovereign_wealth_fund",
-      "description": "Saudi Arabia’s sovereign wealth fund and key vehicle for giga-projects in tourism, culture and entertainment, including NEOM, Red Sea, Qiddiya, Diriyah and ROSHN.",
+      "description": "Saudi Arabia\u2019s sovereign wealth fund and key vehicle for giga-projects in tourism, culture and entertainment, including NEOM, Red Sea, Qiddiya, Diriyah and ROSHN.",
       "country": "Saudi Arabia",
       "country_iso2": "SA",
       "world_region": "MENA_GCC",
@@ -31,7 +30,7 @@
         "amount": 913000000000,
         "currency": "USD",
         "as_of_year": 2024,
-        "note": "Approximate AUM at the end of 2024 according to PIF’s annual report, as summarised in financial press."
+        "note": "Approximate AUM at the end of 2024 according to PIF\u2019s annual report, as summarised in financial press."
       },
       "immersive_investment": {
         "has_immersive_portfolio": true,
@@ -81,7 +80,8 @@
         ],
         "explicit_immersive_mentions": "Giga-projects are framed as key instruments of Vision 2030 to diversify the economy, attract tourists and build global cultural and entertainment destinations.",
         "policy_ids": [
-          "POL_SA_VISION2030"
+          "POL_SA_VISION2030",
+          "POL_SA_PIF_ENT_LEISURE_SPORTS"
         ]
       },
       "immersive_projects": [
@@ -93,7 +93,8 @@
       ],
       "key_people": [
         "PEO_YASIR_ALRUMAYYAN",
-        "PEO_YASIR_ALSALMAN"
+        "PEO_YASIR_ALSALMAN",
+        "PEO_MISHARY_ALIBRAHEEM"
       ],
       "tags": [
         "sovereign_wealth_fund",
@@ -107,7 +108,7 @@
       "sources": [
         {
           "source_id": "SRC_PIF_OFFICIAL",
-          "title": "Public Investment Fund – Official Website",
+          "title": "Public Investment Fund \u2013 Official Website",
           "url": "https://www.pif.gov.sa/en/",
           "publisher": "Public Investment Fund",
           "publication_year": null,
@@ -116,7 +117,7 @@
         },
         {
           "source_id": "SRC_PIF_GIGA",
-          "title": "PIF – Giga-Projects",
+          "title": "PIF \u2013 Giga-Projects",
           "url": "https://www.pif.gov.sa/en/our-investments/giga-projects/",
           "publisher": "Public Investment Fund",
           "publication_year": null,
@@ -125,7 +126,6 @@
         }
       ]
     },
-
     {
       "investor_id": "INV_MIRAL",
       "investor_name": "Miral",
@@ -185,8 +185,10 @@
       },
       "vision_alignment": {
         "linked_national_programs": [],
-        "explicit_immersive_mentions": "Miral is repeatedly described as Abu Dhabi’s creator of immersive destinations and experiences and a core pillar of the emirate’s tourism strategy.",
-        "policy_ids": []
+        "explicit_immersive_mentions": "Miral is repeatedly described as Abu Dhabi\u2019s creator of immersive destinations and experiences and a core pillar of the emirate\u2019s tourism strategy.",
+        "policy_ids": [
+          "POL_AE_AD_TOURISM2030"
+        ]
       },
       "immersive_projects": [
         "PRJ_FERRARI_WORLD",
@@ -197,7 +199,8 @@
       ],
       "key_people": [
         "PEO_MOHAMED_ALZAABI",
-        "PEO_JULIEN_KAUFFMANN"
+        "PEO_JULIEN_KAUFFMANN",
+        "PEO_MOHAMED_KHALIFA_ALMUBARAK"
       ],
       "tags": [
         "destination_developer",
@@ -209,7 +212,7 @@
       "sources": [
         {
           "source_id": "SRC_MIRAL_OFFICIAL",
-          "title": "Miral – Official Website",
+          "title": "Miral \u2013 Official Website",
           "url": "https://miral.ae/",
           "publisher": "Miral",
           "publication_year": null,
@@ -218,17 +221,16 @@
         },
         {
           "source_id": "SRC_MIRAL_BLOOLOOP",
-          "title": "Miral: all you need to know about Abu Dhabi’s developer of immersive destinations",
+          "title": "Miral: all you need to know about Abu Dhabi\u2019s developer of immersive destinations",
           "url": "https://blooloop.com/theme-park/in-depth/miral-abu-dhabi/",
           "publisher": "Blooloop",
           "publication_year": 2024,
           "accessed": "2025-11-15",
-          "note": "Background article on Miral’s structure and portfolio."
+          "note": "Background article on Miral\u2019s structure and portfolio."
         }
       ]
     }
   ],
-
   "institutions": [
     {
       "institution_id": "INS_QIDDIYA_INVESTMENT_COMPANY",
@@ -250,7 +252,7 @@
       "sources": [
         {
           "source_id": "SRC_PIF_GIGA",
-          "title": "PIF – Giga-Projects: Qiddiya",
+          "title": "PIF \u2013 Giga-Projects: Qiddiya",
           "url": "https://www.pif.gov.sa/en/our-investments/giga-projects/",
           "publisher": "Public Investment Fund",
           "publication_year": null,
@@ -279,7 +281,7 @@
       "sources": [
         {
           "source_id": "SRC_DIRIYAH_GIGA",
-          "title": "Diriyah announced as PIF’s fifth giga-project",
+          "title": "Diriyah announced as PIF\u2019s fifth giga-project",
           "url": "https://www.zawya.com/en/press-release/government-news/hrh-crown-prince-announces-diriyah-as-pifs-fifth-giga-project-l931lae7",
           "publisher": "Zawya",
           "publication_year": 2022,
@@ -310,17 +312,16 @@
       "sources": [
         {
           "source_id": "SRC_MIRAL_BLOOLOOP",
-          "title": "Miral: all you need to know about Abu Dhabi’s developer of immersive destinations",
+          "title": "Miral: all you need to know about Abu Dhabi\u2019s developer of immersive destinations",
           "url": "https://blooloop.com/theme-park/in-depth/miral-abu-dhabi/",
           "publisher": "Blooloop",
           "publication_year": 2024,
           "accessed": "2025-11-15",
-          "note": "Describes Miral’s role as developer, manager and operator."
+          "note": "Describes Miral\u2019s role as developer, manager and operator."
         }
       ]
     }
   ],
-
   "projects": [
     {
       "project_id": "PRJ_NEOM",
@@ -349,7 +350,7 @@
       "sources": [
         {
           "source_id": "SRC_PIF_GIGA",
-          "title": "PIF – Giga-Projects: NEOM",
+          "title": "PIF \u2013 Giga-Projects: NEOM",
           "url": "https://www.pif.gov.sa/en/our-investments/giga-projects/",
           "publisher": "Public Investment Fund",
           "publication_year": null,
@@ -384,11 +385,11 @@
         "tourism_leadership",
         "youth_culture"
       ],
-      "notes": "376 km² entertainment, sports and culture city positioned to offer “the most innovative and immersive experiences”.",
+      "notes": "376 km\u00b2 entertainment, sports and culture city positioned to offer \u201cthe most innovative and immersive experiences\u201d.",
       "sources": [
         {
           "source_id": "SRC_PIF_QIDDIYA",
-          "title": "Qiddiya – PIF Giga-Projects",
+          "title": "Qiddiya \u2013 PIF Giga-Projects",
           "url": "https://www.pif.gov.sa/en/our-investments/giga-projects/",
           "publisher": "Public Investment Fund",
           "publication_year": null,
@@ -424,7 +425,7 @@
       "sources": [
         {
           "source_id": "SRC_REDSEA_GIGA",
-          "title": "Saudi Arabia Giga Projects Overview – Red Sea",
+          "title": "Saudi Arabia Giga Projects Overview \u2013 Red Sea",
           "url": "https://content.knightfrank.com/research/2618/documents/en/saudi-arabia-giga-projects-2024-11526.pdf",
           "publisher": "Knight Frank",
           "publication_year": 2024,
@@ -462,12 +463,12 @@
       "sources": [
         {
           "source_id": "SRC_DIRIYAH_GIGA",
-          "title": "HRH Crown Prince announces Diriyah as PIF’s fifth giga-project",
+          "title": "HRH Crown Prince announces Diriyah as PIF\u2019s fifth giga-project",
           "url": "https://www.zawya.com/en/press-release/government-news/hrh-crown-prince-announces-diriyah-as-pifs-fifth-giga-project-l931lae7",
           "publisher": "Zawya",
           "publication_year": 2022,
           "accessed": "2025-11-15",
-          "note": "Details Diriyah’s role in tourism and culture strategy."
+          "note": "Details Diriyah\u2019s role in tourism and culture strategy."
         }
       ]
     },
@@ -476,7 +477,7 @@
       "project_name": "Ferrari World Yas Island",
       "project_type": "XR_park",
       "country": "United Arab Emirates",
-      "city_or_region": "Abu Dhabi – Yas Island",
+      "city_or_region": "Abu Dhabi \u2013 Yas Island",
       "linked_destination_ids": [],
       "start_year": null,
       "status": "operational",
@@ -499,12 +500,12 @@
       "sources": [
         {
           "source_id": "SRC_MIRAL_DESTINATIONS",
-          "title": "Miral Destinations – Yas Island Overview",
+          "title": "Miral Destinations \u2013 Yas Island Overview",
           "url": "https://miraldestinations.com/",
           "publisher": "Miral",
           "publication_year": null,
           "accessed": "2025-11-15",
-          "note": "Lists Ferrari World Yas Island as part of Yas Island’s attraction portfolio."
+          "note": "Lists Ferrari World Yas Island as part of Yas Island\u2019s attraction portfolio."
         }
       ]
     },
@@ -513,7 +514,7 @@
       "project_name": "Warner Bros. World Abu Dhabi",
       "project_type": "XR_park",
       "country": "United Arab Emirates",
-      "city_or_region": "Abu Dhabi – Yas Island",
+      "city_or_region": "Abu Dhabi \u2013 Yas Island",
       "linked_destination_ids": [],
       "start_year": null,
       "status": "operational",
@@ -535,7 +536,7 @@
       "sources": [
         {
           "source_id": "SRC_MIRAL_DESTINATIONS",
-          "title": "Miral Destinations – Yas Island Overview",
+          "title": "Miral Destinations \u2013 Yas Island Overview",
           "url": "https://miraldestinations.com/",
           "publisher": "Miral",
           "publication_year": null,
@@ -549,7 +550,7 @@
       "project_name": "SeaWorld Yas Island Abu Dhabi",
       "project_type": "experience_center",
       "country": "United Arab Emirates",
-      "city_or_region": "Abu Dhabi – Yas Island",
+      "city_or_region": "Abu Dhabi \u2013 Yas Island",
       "linked_destination_ids": [],
       "start_year": null,
       "status": "operational",
@@ -571,7 +572,7 @@
       "sources": [
         {
           "source_id": "SRC_MIRAL_DESTINATIONS",
-          "title": "Miral Destinations – Yas Island Overview",
+          "title": "Miral Destinations \u2013 Yas Island Overview",
           "url": "https://miraldestinations.com/",
           "publisher": "Miral",
           "publication_year": null,
@@ -607,21 +608,21 @@
       "sources": [
         {
           "source_id": "SRC_MIRAL_EXPERIENCES",
-          "title": "Miral Experiences – Portfolio",
+          "title": "Miral Experiences \u2013 Portfolio",
           "url": "https://miral.ae/miralexperiences/",
           "publisher": "Miral",
           "publication_year": null,
           "accessed": "2025-11-15",
-          "note": "Lists teamLab Phenomena Abu Dhabi in Miral’s portfolio."
+          "note": "Lists teamLab Phenomena Abu Dhabi in Miral\u2019s portfolio."
         }
       ]
     },
     {
       "project_id": "PRJ_YAS_ISLAND_DISNEY_RESORT",
-      "project_name": "Disney Theme Park & Resort – Yas Island Abu Dhabi",
+      "project_name": "Disney Theme Park & Resort \u2013 Yas Island Abu Dhabi",
       "project_type": "themed_entertainment_district",
       "country": "United Arab Emirates",
-      "city_or_region": "Abu Dhabi – Yas Island",
+      "city_or_region": "Abu Dhabi \u2013 Yas Island",
       "linked_destination_ids": [],
       "start_year": null,
       "status": "planned",
@@ -641,7 +642,7 @@
         "nation_branding",
         "creative_industries"
       ],
-      "notes": "Planned landmark Disney theme park resort and Disney’s first resort in the Middle East; Miral finances, builds and operates, Disney provides IP and creative design.",
+      "notes": "Planned landmark Disney theme park resort and Disney\u2019s first resort in the Middle East; Miral finances, builds and operates, Disney provides IP and creative design.",
       "sources": [
         {
           "source_id": "SRC_DISNEY_MIRAL",
@@ -655,11 +656,10 @@
       ]
     }
   ],
-
   "policies": [
     {
       "policy_id": "POL_SA_VISION2030",
-      "policy_name": "Saudi Vision 2030 – Tourism, Culture and Entertainment Pillars",
+      "policy_name": "Saudi Vision 2030 \u2013 Tourism, Culture and Entertainment Pillars",
       "country": "Saudi Arabia",
       "world_region": "MENA_GCC",
       "issuing_institution_id": null,
@@ -688,9 +688,84 @@
           "note": "Explains how giga-projects are part of Vision 2030."
         }
       ]
+    },
+    {
+      "policy_id": "POL_SA_PIF_ENT_LEISURE_SPORTS",
+      "policy_name": "PIF Entertainment, Leisure and Sports Priority Sector",
+      "country": "Saudi Arabia",
+      "world_region": "MENA_GCC",
+      "issuing_institution_id": null,
+      "policy_type": "sector_policy",
+      "year": 2023,
+      "relevance_to_immersive": "Frames entertainment, leisure and sports as one of PIF's priority sectors, with a strong emphasis on venue development, fan engagement and experiential destinations aligned with Vision 2030.",
+      "quotes": [
+        {
+          "quote_type": "paraphrase",
+          "text": "PIF positions entertainment, leisure and sports as a strategic sector, complementing giga-projects and new companies such as SRJ Sports Investments and QSAS.",
+          "source_id": "SRC_PIF_SPORTS_PRIORITY"
+        }
+      ],
+      "linked_investor_ids": [
+        "INV_PIF"
+      ],
+      "linked_project_ids": [
+        "PRJ_QIDDIYA_CITY",
+        "PRJ_DIRIYAH",
+        "PRJ_RED_SEA_CLUSTER"
+      ],
+      "notes": "Captures PIF's sector-level framing that underpins immersive-relevant projects and companies.",
+      "sources": [
+        {
+          "source_id": "SRC_PIF_SPORTS_PRIORITY",
+          "title": "PIF sets up company to promote MENA sports sector",
+          "url": "https://gulfbusiness.com/pif-sets-up-company-to-promote-mena-sports-sector/",
+          "publisher": "Gulf Business",
+          "publication_year": 2023,
+          "accessed": "2025-11-16",
+          "note": "Explains that entertainment, leisure and sports are one of PIF's focus sectors."
+        }
+      ]
+    },
+    {
+      "policy_id": "POL_AE_AD_TOURISM2030",
+      "policy_name": "Abu Dhabi Tourism Strategy 2030",
+      "country": "United Arab Emirates",
+      "world_region": "MENA_GCC",
+      "issuing_institution_id": null,
+      "policy_type": "tourism_strategy",
+      "year": 2024,
+      "relevance_to_immersive": "Sets targets to significantly increase visitor numbers and tourism GDP by 2030. Immersive destinations and attractions on Yas Island and Saadiyat Island, developed and operated by Miral, are key tools to position Abu Dhabi as a leading global tourism hub.",
+      "quotes": [
+        {
+          "quote_type": "paraphrase",
+          "text": "The strategy aims to grow visits and tourism's contribution to GDP through targeted investments in attractions, accommodation and experiences up to 2030.",
+          "source_id": "SRC_AD_TOURISM2030_DCT"
+        }
+      ],
+      "linked_investor_ids": [
+        "INV_MIRAL"
+      ],
+      "linked_project_ids": [
+        "PRJ_FERRARI_WORLD",
+        "PRJ_WB_WORLD",
+        "PRJ_SEAWORLD_YAS",
+        "PRJ_TEAMLAB_PHENOMENA",
+        "PRJ_YAS_ISLAND_DISNEY_RESORT"
+      ],
+      "notes": "Miral's role as a key partner in delivering Yas Island and Saadiyat Island attractions aligns with this strategy.",
+      "sources": [
+        {
+          "source_id": "SRC_AD_TOURISM2030_DCT",
+          "title": "Tourism Strategy 2030",
+          "url": "https://dct.gov.ae/en/who.we.are/tourism.strategy.2030.aspx",
+          "publisher": "Department of Culture and Tourism \u2013 Abu Dhabi",
+          "publication_year": 2024,
+          "accessed": "2025-11-16",
+          "note": "Official overview of Abu Dhabi's Tourism Strategy 2030."
+        }
+      ]
     }
   ],
-
   "people": [
     {
       "person_id": "PEO_YASIR_ALRUMAYYAN",
@@ -702,13 +777,13 @@
         "giga_projects",
         "international_investments"
       ],
-      "public_stance_on_immersive": "As PIF’s Governor, he frequently highlights giga-projects and tourism as key pillars of Saudi Arabia’s economic transformation, indirectly framing immersive destinations as strategic assets.",
+      "public_stance_on_immersive": "As PIF\u2019s Governor, he frequently highlights giga-projects and tourism as key pillars of Saudi Arabia\u2019s economic transformation, indirectly framing immersive destinations as strategic assets.",
       "links": [],
       "notes": "",
       "sources": [
         {
           "source_id": "SRC_PIF_GOVERNOR",
-          "title": "PIF Governance – Board and Governor",
+          "title": "PIF Governance \u2013 Board and Governor",
           "url": "https://www.pif.gov.sa/en/",
           "publisher": "Public Investment Fund",
           "publication_year": null,
@@ -726,7 +801,7 @@
         "financial_reporting",
         "portfolio_valuation"
       ],
-      "public_stance_on_immersive": "Commentary on the valuation of giga-projects and their role in PIF’s portfolio links financial performance to the broader transformation of Saudi Arabia’s tourism and destination landscape.",
+      "public_stance_on_immersive": "Commentary on the valuation of giga-projects and their role in PIF\u2019s portfolio links financial performance to the broader transformation of Saudi Arabia\u2019s tourism and destination landscape.",
       "links": [],
       "notes": "",
       "sources": [
@@ -737,7 +812,7 @@
           "publisher": "AGBI",
           "publication_year": 2025,
           "accessed": "2025-11-15",
-          "note": "Article referencing PIF’s CFO and valuation of giga-project portfolio."
+          "note": "Article referencing PIF\u2019s CFO and valuation of giga-project portfolio."
         }
       ]
     },
@@ -756,7 +831,7 @@
       "sources": [
         {
           "source_id": "SRC_MIRAL_BLOOLOOP",
-          "title": "Miral: all you need to know about Abu Dhabi’s developer of immersive destinations",
+          "title": "Miral: all you need to know about Abu Dhabi\u2019s developer of immersive destinations",
           "url": "https://blooloop.com/theme-park/in-depth/miral-abu-dhabi/",
           "publisher": "Blooloop",
           "publication_year": 2024,
@@ -780,12 +855,70 @@
       "sources": [
         {
           "source_id": "SRC_MIRAL_EXPERIENCES",
-          "title": "Miral Experiences – Leadership",
+          "title": "Miral Experiences \u2013 Leadership",
           "url": "https://miral.ae/miralexperiences/",
           "publisher": "Miral",
           "publication_year": null,
           "accessed": "2025-11-15",
           "note": "Lists Julien Kauffmann as CEO of Miral Experiences and outlines his portfolio responsibility."
+        }
+      ]
+    },
+    {
+      "person_id": "PEO_MISHARY_ALIBRAHEEM",
+      "name": "Mishary Alibraheem",
+      "role_title": "Head of Entertainment, Leisure, Sports and Education, MENA Direct Investments",
+      "organisation_id": "INV_PIF",
+      "responsibility_areas": [
+        "entertainment",
+        "leisure",
+        "sports",
+        "education",
+        "tourism_investments"
+      ],
+      "public_stance_on_immersive": "Has publicly described tourism and entertainment as strategic local priorities for PIF and supports immersive heritage storytelling through QSAS.",
+      "links": [],
+      "notes": "Key sector lead for immersive-relevant investments at PIF.",
+      "sources": [
+        {
+          "source_id": "SRC_QSAS_SPA",
+          "title": "PIF establishes QSAS Company for immersive experiences",
+          "url": "https://www.spa.gov.sa/",
+          "publisher": "Saudi Press Agency",
+          "publication_year": 2024,
+          "accessed": "2025-11-16",
+          "note": "Identifies Mishary Alibraheem and his role in PIF's entertainment, leisure, sports and education investments."
+        }
+      ]
+    },
+    {
+      "person_id": "PEO_MOHAMED_KHALIFA_ALMUBARAK",
+      "name": "Mohamed Khalifa Al Mubarak",
+      "role_title": "Chairman of Miral",
+      "organisation_id": "INS_MIRAL_GROUP",
+      "responsibility_areas": [
+        "cultural_tourism",
+        "destination_development",
+        "immersive_destinations",
+        "economic_diversification"
+      ],
+      "public_stance_on_immersive": "Frequently associated with Abu Dhabi\u2019s cultural and tourism growth agenda and Miral\u2019s role in creating immersive destinations on Yas Island and Saadiyat Island.",
+      "links": [
+        {
+          "type": "corporate_bio",
+          "url": "https://miral.ae/about-miral/"
+        }
+      ],
+      "notes": "Connects Miral\u2019s immersive destination strategy directly with Abu Dhabi\u2019s long-term tourism and diversification goals.",
+      "sources": [
+        {
+          "source_id": "SRC_MIRAL_ABOUT",
+          "title": "About Miral \u2013 Leadership",
+          "url": "https://miral.ae/about-miral/",
+          "publisher": "Miral",
+          "publication_year": 2024,
+          "accessed": "2025-11-16",
+          "note": "Provides biographical details and describes his leadership role."
         }
       ]
     }
