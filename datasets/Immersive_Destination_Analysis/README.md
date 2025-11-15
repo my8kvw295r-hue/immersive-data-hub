@@ -1,4 +1,4 @@
-# Global South Tourism & Investment Dataset (MARTIN_SAMBAUER_GLOBAL_SOUTH_V1)
+# Global South Tourism & Investment Dataset (Immersive Destination Analysis)
 
 ## Overview
 This repository contains the Global South Tourism & Investment Dataset, curated to support:
@@ -22,7 +22,7 @@ The dataset provides a structured foundation for:
 - aligning immersive storytelling, domes, VR/AR and experiential infrastructure with concrete throughput, yield and conservation signals at each location. :contentReference[oaicite:1]{index=1}
 
 It will serve as the underlying data layer for articles published on  
-https://originofwonder.com
+https://originofwonder.com and https://martin-sambauer.com
 
 ## Target groups
 This dataset is built for a mixed ecosystem of creative and financial actors around immersive destinations, including:
@@ -60,7 +60,7 @@ CC BY 4.0
 Attribution required: https://martin-sambauer.com – Martin Sambauer
 
 ## File Structure
-- `Immersive_Destination_Analysis_11.json` – the main dataset  
+- `Immersive_Destination_Analysis.json` – the main dataset  
 - `README.md` – repository overview  
 - `METHODOLOGY.md` – detailed explanation of data collection  
 - (future) `/sources/` – raw sources and extraction files  
