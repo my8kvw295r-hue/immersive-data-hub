@@ -1,0 +1,310 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Skill Taxonomy for Immersive Creative Roles",
+  "description": "Schema for SkillTaxonomy_ImmersiveCreativeRoles.json, including strict verification that all evidence must be real and properly sourced. Each skill ID and conceptual scope must be unique; new skills should not duplicate existing ones.",
+  "type": "object",
+  "properties": {
+    "dataset_metadata": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        },
+        "created": {
+          "type": "string"
+        },
+        "last_updated": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "license": {
+          "type": "string"
+        },
+        "base_datasets": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "name": {
+                "type": "string"
+              },
+              "url": {
+                "type": "string"
+              },
+              "description": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "id",
+              "name",
+              "description"
+            ]
+          }
+        },
+        "target_audiences": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "methodology": {
+          "type": "object",
+          "properties": {
+            "document": {
+              "type": "string"
+            },
+            "summary": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "document",
+            "summary"
+          ]
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "version",
+        "created",
+        "last_updated",
+        "description",
+        "license",
+        "base_datasets",
+        "target_audiences",
+        "methodology"
+      ]
+    },
+    "skills": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "slug": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          },
+          "skill_category": {
+            "type": "string"
+          },
+          "skill_subcategory": {
+            "type": "string"
+          },
+          "skill_type": {
+            "type": "string"
+          },
+          "evidence_layer": {
+            "type": "string",
+            "enum": [
+              "base_dataset",
+              "external_enrichment",
+              "hybrid"
+            ]
+          },
+          "description": {
+            "type": "string"
+          },
+          "cognitive_level": {
+            "type": "string"
+          },
+          "proficiency_levels": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "associated_role_types": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "role_family": {
+                  "type": "string"
+                },
+                "role_subtype_id": {
+                  "type": "string"
+                },
+                "source_dataset_id": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "role_family",
+                "role_subtype_id",
+                "source_dataset_id"
+              ]
+            }
+          },
+          "application_contexts": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "derived_from_outputs": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "source_dataset_id": {
+                  "type": "string"
+                },
+                "source_entity_id": {
+                  "type": "string"
+                },
+                "source_entity_slug": {
+                  "type": "string"
+                },
+                "evidence_type": {
+                  "type": "string"
+                },
+                "evidence_summary": {
+                  "type": "string"
+                },
+                "references": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "source_dataset_id",
+                "source_entity_id",
+                "evidence_type",
+                "evidence_summary"
+              ]
+            }
+          },
+          "references": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "integer"
+                },
+                "title": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                },
+                "publisher": {
+                  "type": "string"
+                },
+                "year": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "id",
+                "title",
+                "url",
+                "publisher",
+                "year"
+              ]
+            }
+          },
+          "source_datasets": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "source_dataset_id": {
+                  "type": "string"
+                },
+                "source_dataset_name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "source_dataset_id",
+                "source_dataset_name"
+              ]
+            }
+          },
+          "overlaps_with_skills": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "is_component_of": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "is_prerequisite_for": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "notes": {
+            "type": "string"
+          },
+          "created": {
+            "type": "string"
+          },
+          "last_updated": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "slug",
+          "label",
+          "skill_category",
+          "skill_subcategory",
+          "skill_type",
+          "description",
+          "cognitive_level",
+          "proficiency_levels",
+          "associated_role_types",
+          "application_contexts",
+          "derived_from_outputs",
+          "references",
+          "source_datasets",
+          "overlaps_with_skills",
+          "is_component_of",
+          "is_prerequisite_for",
+          "tags",
+          "notes",
+          "created",
+          "last_updated"
+        ]
+      },
+      "description": " Each skill object is expected to represent a unique competence; duplication of existing skills should be avoided by enriching existing entries instead."
+    }
+  },
+  "required": [
+    "dataset_metadata",
+    "skills"
+  ]
+}
