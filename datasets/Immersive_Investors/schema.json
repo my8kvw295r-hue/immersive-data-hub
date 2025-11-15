@@ -1,0 +1,944 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Immersive Investors – Global Schema",
+  "description": "Schema for immersive investors, institutions, projects, policies and people in immersive infrastructures and experiences.",
+  "type": "object",
+  "required": [
+    "dataset_metadata",
+    "investors",
+    "institutions",
+    "projects",
+    "policies",
+    "people",
+    "meta_instructions_for_ai",
+    "data_contract"
+  ],
+  "properties": {
+    "dataset_metadata": {
+      "type": "object",
+      "description": "Metadata describing the dataset as a whole.",
+      "required": [
+        "dataset_id",
+        "name",
+        "version",
+        "description",
+        "author",
+        "created",
+        "last_updated",
+        "license",
+        "geographic_scope",
+        "primary_focus_regions"
+      ],
+      "properties": {
+        "dataset_id": {
+          "type": "string",
+          "description": "Stable identifier for the dataset, e.g. IMMERSIVE_INVESTORS_GLOBAL."
+        },
+        "name": {
+          "type": "string",
+          "description": "Human-readable dataset name."
+        },
+        "version": {
+          "type": "string",
+          "description": "Semantic version, e.g. v0.1.0."
+        },
+        "description": {
+          "type": "string",
+          "description": "Short description of the dataset scope and intent."
+        },
+        "author": {
+          "type": "string",
+          "description": "Primary curator or author, e.g. Martin Sambauer (martin-sambauer.com)."
+        },
+        "created": {
+          "type": "string",
+          "description": "ISO 8601 creation date.",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}"
+        },
+        "last_updated": {
+          "type": "string",
+          "description": "ISO 8601 last update date.",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}"
+        },
+        "license": {
+          "type": "string",
+          "description": "License information, e.g. CC BY 4.0."
+        },
+        "geographic_scope": {
+          "type": "string",
+          "description": "High-level scope, e.g. global, GCC focus, etc."
+        },
+        "primary_focus_regions": {
+          "type": "array",
+          "description": "Regions that are currently most represented in the dataset.",
+          "items": {
+            "type": "string"
+          }
+        },
+        "related_datasets": {
+          "type": "array",
+          "description": "References to related immersive datasets (destinations, skills, creative directors etc.).",
+          "items": {
+            "type": "object",
+            "required": [
+              "dataset_id",
+              "name"
+            ],
+            "properties": {
+              "dataset_id": {
+                "type": "string"
+              },
+              "name": {
+                "type": "string"
+              },
+              "repo_path": {
+                "type": "string",
+                "description": "Optional relative path inside the immersive-datasets or other repos."
+              }
+            }
+          }
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
+
+    "investors": {
+      "type": "array",
+      "description": "List of investors relevant for immersive infrastructures and experiences.",
+      "items": {
+        "type": "object",
+        "required": [
+          "investor_id",
+          "investor_name",
+          "investor_category",
+          "country",
+          "world_region",
+          "ownership_structure",
+          "immersive_investment",
+          "preferred_stages",
+          "investment_instruments",
+          "thematic_focus",
+          "geographic_focus",
+          "sources"
+        ],
+        "properties": {
+          "investor_id": {
+            "type": "string",
+            "description": "Stable ID, e.g. INV_PIF."
+          },
+          "investor_name": {
+            "type": "string",
+            "description": "Official or commonly used investor name."
+          },
+          "investor_category": {
+            "type": "string",
+            "description": "High-level investor type.",
+            "enum": [
+              "sovereign_wealth_fund",
+              "state_fund",
+              "tourism_dev_fund",
+              "development_bank",
+              "private_equity",
+              "family_office",
+              "corporate_venture",
+              "media_and_entertainment_corporate",
+              "cultural_foundation",
+              "festival_fund",
+              "other"
+            ]
+          },
+          "description": {
+            "type": "string",
+            "description": "Short human-readable description of the investor’s role in immersive ecosystems."
+          },
+          "country": {
+            "type": "string",
+            "description": "Country of registration or main operational base."
+          },
+          "country_iso2": {
+            "type": "string",
+            "description": "Two-letter ISO country code, where applicable.",
+            "minLength": 2,
+            "maxLength": 2
+          },
+          "world_region": {
+            "type": "string",
+            "description": "Macro region label, e.g. MENA_GCC, EUROPE, NORTH_AMERICA, GLOBAL."
+          },
+          "hq_city": {
+            "type": "string",
+            "description": "Headquarter city, if known."
+          },
+          "ownership_structure": {
+            "type": "string",
+            "enum": [
+              "state_owned",
+              "mixed",
+              "private",
+              "foundation",
+              "unknown"
+            ]
+          },
+          "governance_type": {
+            "type": "string",
+            "description": "Board-governed, royal-court-led, ministerial, corporate board, etc."
+          },
+          "main_website": {
+            "type": "string",
+            "description": "Primary URL.",
+            "format": "uri"
+          },
+          "fund_size_overall": {
+            "type": "object",
+            "description": "Overall fund scale, where documented.",
+            "properties": {
+              "amount": {
+                "type": "number",
+                "description": "Numeric amount of assets under management (AUM) or equivalent."
+              },
+              "currency": {
+                "type": "string",
+                "description": "Currency code, typically USD."
+              },
+              "as_of_year": {
+                "type": "integer",
+                "description": "Reference year for the amount."
+              },
+              "note": {
+                "type": "string",
+                "description": "Any clarifications or caveats."
+              }
+            }
+          },
+          "immersive_investment": {
+            "type": "object",
+            "description": "Immersive-specific portfolio information.",
+            "required": [
+              "has_immersive_portfolio",
+              "portfolio_maturity_category"
+            ],
+            "properties": {
+              "has_immersive_portfolio": {
+                "type": "boolean",
+                "description": "True if there is documented immersive-related activity."
+              },
+              "immersive_allocated_capital_estimate": {
+                "type": [
+                  "number",
+                  "null"
+                ],
+                "description": "Rough estimate of capital allocated to immersive-related projects (if known)."
+              },
+              "immersive_alloc_share_percent_estimate": {
+                "type": [
+                  "number",
+                  "null"
+                ],
+                "description": "Estimated share of overall capital devoted to immersive-related projects."
+              },
+              "immersive_portfolio_start_year": {
+                "type": [
+                  "integer",
+                  "null"
+                ],
+                "description": "Year of first clearly immersive project or investment."
+              },
+              "portfolio_maturity_category": {
+                "type": "string",
+                "description": "Qualitative maturity of immersive portfolio.",
+                "enum": [
+                  "very_new",
+                  "emerging",
+                  "established",
+                  "long_term",
+                  "unknown"
+                ]
+              },
+              "notes": {
+                "type": "string"
+              }
+            }
+          },
+          "preferred_stages": {
+            "type": "array",
+            "description": "Typical investment stages for immersive-related projects.",
+            "items": {
+              "type": "string",
+              "enum": [
+                "seed",
+                "early_stage",
+                "growth",
+                "infrastructure",
+                "late_stage_content",
+                "venue_development",
+                "mixed",
+                "unknown"
+              ]
+            }
+          },
+          "ticket_size": {
+            "type": "object",
+            "description": "Typical ticket size range for immersive-related deals (in million USD equivalent).",
+            "properties": {
+              "min_musd_estimate": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "max_musd_estimate": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "note": {
+                "type": "string"
+              }
+            }
+          },
+          "investment_instruments": {
+            "type": "array",
+            "description": "Instruments relevant for immersive projects.",
+            "items": {
+              "type": "string",
+              "enum": [
+                "equity",
+                "debt",
+                "project_finance",
+                "public_private_partnership",
+                "grant",
+                "guarantee",
+                "other"
+              ]
+            }
+          },
+          "thematic_focus": {
+            "type": "array",
+            "description": "Thematic areas with immersive relevance.",
+            "items": {
+              "type": "string",
+              "enum": [
+                "tourism",
+                "culture",
+                "sports",
+                "smart_city",
+                "creative_industries",
+                "metaverse",
+                "esports",
+                "museums_and_exhibitions",
+                "science_and_education",
+                "urban_regeneration",
+                "other"
+              ]
+            }
+          },
+          "geographic_focus": {
+            "type": "array",
+            "description": "Geographic focus for immersive-related investments.",
+            "items": {
+              "type": "string"
+            }
+          },
+          "exclusion_criteria": {
+            "type": "array",
+            "description": "Documented or inferred exclusions for immersive-related deals.",
+            "items": {
+              "type": "string"
+            }
+          },
+          "ppp_profile": {
+            "type": "object",
+            "description": "Public–private partnership behavior.",
+            "properties": {
+              "ppp_active": {
+                "type": "boolean"
+              },
+              "ppp_description": {
+                "type": "string"
+              }
+            }
+          },
+          "vision_alignment": {
+            "type": "object",
+            "description": "Link to national or regional programmes (e.g. Vision 2030).",
+            "properties": {
+              "linked_national_programs": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "explicit_immersive_mentions": {
+                "type": "string",
+                "description": "Textual description of how immersive experiences are mentioned in strategies or vision documents."
+              },
+              "policy_ids": {
+                "type": "array",
+                "description": "IDs of policies this investor is linked to.",
+                "items": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "immersive_projects": {
+            "type": "array",
+            "description": "Project IDs from the projects array that are related to this investor.",
+            "items": {
+              "type": "string"
+            }
+          },
+          "key_people": {
+            "type": "array",
+            "description": "Person IDs of relevant decision-makers.",
+            "items": {
+              "type": "string"
+            }
+          },
+          "tags": {
+            "type": "array",
+            "description": "Free-form tags for search and clustering.",
+            "items": {
+              "type": "string"
+            }
+          },
+          "notes": {
+            "type": "string"
+          },
+          "sources": {
+            "type": "array",
+            "description": "Source objects justifying the data.",
+            "items": {
+              "$ref": "#/definitions/source"
+            }
+          }
+        }
+      }
+    },
+
+    "institutions": {
+      "type": "array",
+      "description": "Institutions that play a role in immersive investment ecosystems.",
+      "items": {
+        "type": "object",
+        "required": [
+          "institution_id",
+          "name",
+          "country",
+          "institution_type",
+          "role_in_immersive",
+          "sources"
+        ],
+        "properties": {
+          "institution_id": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "country": {
+            "type": "string"
+          },
+          "world_region": {
+            "type": "string"
+          },
+          "institution_type": {
+            "type": "string",
+            "enum": [
+              "ministry",
+              "agency",
+              "development_company",
+              "holding_company",
+              "cultural_institution",
+              "tourism_board",
+              "city_authority",
+              "other"
+            ]
+          },
+          "role_in_immersive": {
+            "type": "string",
+            "description": "Narrative description of why this institution is relevant for immersive projects."
+          },
+          "linked_investor_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "policy_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "project_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "notes": {
+            "type": "string"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/source"
+            }
+          }
+        }
+      }
+    },
+
+    "projects": {
+      "type": "array",
+      "description": "Immersive-relevant projects and infrastructures backed by investors.",
+      "items": {
+        "type": "object",
+        "required": [
+          "project_id",
+          "project_name",
+          "project_type",
+          "country",
+          "status",
+          "immersive_formats",
+          "sources"
+        ],
+        "properties": {
+          "project_id": {
+            "type": "string"
+          },
+          "project_name": {
+            "type": "string"
+          },
+          "project_type": {
+            "type": "string",
+            "enum": [
+              "immersive_dome_cluster",
+              "dome_venue",
+              "XR_park",
+              "themed_entertainment_district",
+              "media_district",
+              "museum_or_science_center_upgrade",
+              "festival_programme",
+              "projection_mapping_programme",
+              "mixed_use_immersive_cluster",
+              "other"
+            ]
+          },
+          "country": {
+            "type": "string"
+          },
+          "city_or_region": {
+            "type": "string"
+          },
+          "linked_destination_ids": {
+            "type": "array",
+            "description": "Destination IDs from immersive destination datasets, if available.",
+            "items": {
+              "type": "string"
+            }
+          },
+          "start_year": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "concept",
+              "planned",
+              "under_construction",
+              "operational",
+              "paused",
+              "cancelled",
+              "unknown"
+            ]
+          },
+          "lead_investor_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "co_investor_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "operator_institutions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "immersive_formats": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "fulldome",
+                "planetarium",
+                "XR_venue",
+                "VR_center",
+                "projection_mapping",
+                "LED_dome",
+                "media_facade",
+                "mixed_reality_stage",
+                "experience_center",
+                "other"
+              ]
+            }
+          },
+          "soft_power_goals": {
+            "type": "array",
+            "description": "Soft-power or strategic goals of the project.",
+            "items": {
+              "type": "string",
+              "enum": [
+                "nation_branding",
+                "tourism_leadership",
+                "youth_culture",
+                "cultural_revival",
+                "science_and_education",
+                "innovation_image",
+                "regional_hub_positioning",
+                "other"
+              ]
+            }
+          },
+          "notes": {
+            "type": "string"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/source"
+            }
+          }
+        }
+      }
+    },
+
+    "policies": {
+      "type": "array",
+      "description": "Policies, vision programmes and strategic frameworks.",
+      "items": {
+        "type": "object",
+        "required": [
+          "policy_id",
+          "policy_name",
+          "country",
+          "policy_type",
+          "relevance_to_immersive",
+          "sources"
+        ],
+        "properties": {
+          "policy_id": {
+            "type": "string"
+          },
+          "policy_name": {
+            "type": "string"
+          },
+          "country": {
+            "type": "string"
+          },
+          "world_region": {
+            "type": "string"
+          },
+          "issuing_institution_id": {
+            "type": "string"
+          },
+          "policy_type": {
+            "type": "string",
+            "enum": [
+              "vision_program",
+              "national_strategy",
+              "sector_policy",
+              "tourism_strategy",
+              "culture_strategy",
+              "urban_masterplan",
+              "other"
+            ]
+          },
+          "year": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "relevance_to_immersive": {
+            "type": "string",
+            "description": "Narrative explanation of how this policy touches immersive infrastructures or experiences."
+          },
+          "quotes": {
+            "type": "array",
+            "description": "Short verbatim pieces when allowed, or paraphrased statements.",
+            "items": {
+              "type": "object",
+              "properties": {
+                "quote_type": {
+                  "type": "string",
+                  "enum": [
+                    "verbatim_short",
+                    "paraphrase"
+                  ]
+                },
+                "text": {
+                  "type": "string"
+                },
+                "source_id": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "linked_investor_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "linked_project_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "notes": {
+            "type": "string"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/source"
+            }
+          }
+        }
+      }
+    },
+
+    "people": {
+      "type": "array",
+      "description": "Key individuals associated with immersive investments.",
+      "items": {
+        "type": "object",
+        "required": [
+          "person_id",
+          "name",
+          "role_title",
+          "organisation_id",
+          "sources"
+        ],
+        "properties": {
+          "person_id": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "role_title": {
+            "type": "string"
+          },
+          "organisation_id": {
+            "type": "string",
+            "description": "ID of investor or institution associated with this person."
+          },
+          "responsibility_areas": {
+            "type": "array",
+            "description": "Thematic responsibility areas relevant to immersive projects.",
+            "items": {
+              "type": "string"
+            }
+          },
+          "public_stance_on_immersive": {
+            "type": "string",
+            "description": "Summary of public statements on immersive media, entertainment or cultural infrastructures."
+          },
+          "links": {
+            "type": "array",
+            "description": "Public profile links (LinkedIn, institutional bio, etc.).",
+            "items": {
+              "type": "object",
+              "properties": {
+                "type": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string",
+                  "format": "uri"
+                }
+              }
+            }
+          },
+          "notes": {
+            "type": "string"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/source"
+            }
+          }
+        }
+      }
+    },
+
+    "meta_instructions_for_ai": {
+      "type": "object",
+      "description": "Guidance for LLMs and agents on how to interpret and extend this dataset.",
+      "properties": {
+        "purpose": {
+          "type": "string"
+        },
+        "do_not": {
+          "type": "array",
+          "description": "Hard constraints (no hallucinated investors, no invented numbers etc.).",
+          "items": {
+            "type": "string"
+          }
+        },
+        "guidance": {
+          "type": "array",
+          "description": "Soft guidance for summarisation, comparison, stacking with other datasets.",
+          "items": {
+            "type": "string"
+          }
+        },
+        "update_policy": {
+          "type": "string",
+          "description": "How agents should propose or structure future updates."
+        }
+      }
+    },
+
+    "data_contract": {
+      "type": "object",
+      "description": "Machine-readable expectations for validation and evolution of the dataset.",
+      "properties": {
+        "id_patterns": {
+          "type": "object",
+          "description": "Expected patterns for IDs across entities.",
+          "properties": {
+            "investor_id_pattern": {
+              "type": "string",
+              "description": "Regex-like description, e.g. ^INV_[A-Z0-9_]+$"
+            },
+            "institution_id_pattern": {
+              "type": "string"
+            },
+            "project_id_pattern": {
+              "type": "string"
+            },
+            "policy_id_pattern": {
+              "type": "string"
+            },
+            "person_id_pattern": {
+              "type": "string"
+            }
+          }
+        },
+        "required_fields_by_entity": {
+          "type": "object",
+          "description": "Lists of fields that must not be empty for each entity type.",
+          "properties": {
+            "investor": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "institution": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "project": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "policy": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "person": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "value_constraints": {
+          "type": "array",
+          "description": "Optional human-readable constraints (e.g. immersive_alloc_share_percent_estimate between 0 and 100).",
+          "items": {
+            "type": "string"
+          }
+        },
+        "evolution_notes": {
+          "type": "string",
+          "description": "Notes on how the schema can evolve without breaking existing data."
+        }
+      }
+    }
+  },
+
+  "definitions": {
+    "source": {
+      "type": "object",
+      "description": "Reference to an external source supporting data points.",
+      "required": [
+        "source_id",
+        "title",
+        "url"
+      ],
+      "properties": {
+        "source_id": {
+          "type": "string",
+          "description": "Local ID for cross-reference within the dataset."
+        },
+        "title": {
+          "type": "string",
+          "description": "Title or short label of the source."
+        },
+        "url": {
+          "type": "string",
+          "description": "Link to the source if publicly available.",
+          "format": "uri"
+        },
+        "publisher": {
+          "type": "string"
+        },
+        "publication_year": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "accessed": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Date when the source was last accessed.",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}"
+        },
+        "note": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}
