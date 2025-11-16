@@ -1,4 +1,4 @@
-# Immersive Destination Analysis – Global South Tourism and Investment Destinations (Pilot V19)
+# Immersive Destination Analysis – Global South Tourism and Investment Destinations
 
 This dataset describes a curated set of tourism destinations with high relevance for immersive experiences, experiential travel and long-term place-making. It combines basic tourism, demographic and economic indicators with fields that are explicitly designed for immersive media strategy and destination storytelling.
 
