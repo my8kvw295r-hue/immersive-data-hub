@@ -1,8 +1,8 @@
 {
   "dataset_metadata": {
     "dataset_id": "IMMERSIVE_INVESTORS_GLOBAL",
-    "name": "Immersive Investors – Pilot (Two Fully Mapped Cases)",
-    "version": "v0.3.3",
+    "name": "Immersive Investors \u2013 Pilot (Two Fully Mapped Cases)",
+    "version": "v0.3.4",
     "description": "Two deeply documented immersive investors (PIF and Miral) with linked projects, institutions, policies and people for prototyping the schema.",
     "author": "Martin Sambauer (martin-sambauer.com)",
     "created": "2025-11-15",
@@ -20,7 +20,7 @@
       "investor_id": "INV_00001_PIF",
       "investor_name": "Public Investment Fund",
       "investor_category": "sovereign_wealth_fund",
-      "description": "Saudi Arabia’s sovereign wealth fund and key vehicle for giga-projects in tourism, culture and entertainment, including NEOM, Red Sea, Qiddiya, Diriyah and ROSHN.",
+      "description": "Saudi Arabia\u2019s sovereign wealth fund and key vehicle for giga-projects in tourism, culture and entertainment, including NEOM, Red Sea, Qiddiya, Diriyah and ROSHN.",
       "country": "Saudi Arabia",
       "country_iso2": "SA",
       "world_region": "MENA_GCC",
@@ -32,7 +32,7 @@
         "amount": 913000000000,
         "currency": "USD",
         "as_of_year": 2024,
-        "note": "Approximate AUM at the end of 2024 according to PIF’s annual report, as summarised in financial press.",
+        "note": "Approximate AUM at the end of 2024 according to PIF\u2019s annual report, as summarised in financial press.",
         "as_of_date": "2024-01-01"
       },
       "immersive_investment": {
@@ -111,7 +111,7 @@
       "sources": [
         {
           "source_id": "SRC_PIF_OFFICIAL",
-          "title": "Public Investment Fund – Official Website",
+          "title": "Public Investment Fund \u2013 Official Website",
           "url": "https://www.pif.gov.sa/en/",
           "publisher": "Public Investment Fund",
           "publication_year": null,
@@ -120,7 +120,7 @@
         },
         {
           "source_id": "SRC_PIF_GIGA",
-          "title": "PIF – Giga-Projects",
+          "title": "PIF \u2013 Giga-Projects",
           "url": "https://www.pif.gov.sa/en/our-investments/giga-projects/",
           "publisher": "Public Investment Fund",
           "publication_year": null,
@@ -188,7 +188,7 @@
       },
       "vision_alignment": {
         "linked_national_programs": [],
-        "explicit_immersive_mentions": "Miral is repeatedly described as Abu Dhabi’s creator of immersive destinations and experiences and a core pillar of the emirate’s tourism strategy.",
+        "explicit_immersive_mentions": "Miral is repeatedly described as Abu Dhabi\u2019s creator of immersive destinations and experiences and a core pillar of the emirate\u2019s tourism strategy.",
         "policy_ids": [
           "POL_00003_AE_AD_TOURISM2030"
         ]
@@ -215,7 +215,7 @@
       "sources": [
         {
           "source_id": "SRC_MIRAL_OFFICIAL",
-          "title": "Miral – Official Website",
+          "title": "Miral \u2013 Official Website",
           "url": "https://miral.ae/",
           "publisher": "Miral",
           "publication_year": null,
@@ -224,12 +224,12 @@
         },
         {
           "source_id": "SRC_MIRAL_BLOOLOOP",
-          "title": "Miral: all you need to know about Abu Dhabi’s developer of immersive destinations",
+          "title": "Miral: all you need to know about Abu Dhabi\u2019s developer of immersive destinations",
           "url": "https://blooloop.com/theme-park/in-depth/miral-abu-dhabi/",
           "publisher": "Blooloop",
           "publication_year": 2024,
           "accessed": "2025-11-15",
-          "note": "Background article on Miral’s structure and portfolio."
+          "note": "Background article on Miral\u2019s structure and portfolio."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -318,7 +318,7 @@
         },
         {
           "source_id": "SRC_SIGMA_FUND_ZAWYA_2025",
-          "title": "Gulf-based Sigma Capital launches $100mln fund “Sigma Capital Fund I” to accelerate Web3 innovation",
+          "title": "Gulf-based Sigma Capital launches $100mln fund \u201cSigma Capital Fund I\u201d to accelerate Web3 innovation",
           "url": "https://www.zawya.com/en/press-release/companies-news/gulf-based-sigma-capital-launches-100mln-fund-sigma-capital-fund-i-to-accelerate-web3-innovation-eac0sf63",
           "publisher": "Zawya",
           "publication_year": 2025,
@@ -408,7 +408,7 @@
       "sources": [
         {
           "source_id": "SRC_VISION_VENTURES_WEBSITE",
-          "title": "Vision Ventures – Venture Capital",
+          "title": "Vision Ventures \u2013 Venture Capital",
           "url": "https://visionvc.co/",
           "publisher": "Vision Ventures",
           "publication_year": null,
@@ -426,7 +426,7 @@
         },
         {
           "source_id": "SRC_VUZ_SERIES_B_VISION",
-          "title": "VUZ, UAE’s immersive social app, raises $20 million in a Series B round",
+          "title": "VUZ, UAE\u2019s immersive social app, raises $20 million in a Series B round",
           "url": "https://waya.media/vuz-uaes-immersive-social-app-raises-20-million-in-a-series-b-round/",
           "publisher": "WAYA",
           "publication_year": 2022,
@@ -510,7 +510,7 @@
       "sources": [
         {
           "source_id": "SRC_DFDF_COMPANIES",
-          "title": "Companies – Dubai Future District Fund",
+          "title": "Companies \u2013 Dubai Future District Fund",
           "url": "https://dfdf.vc/companies",
           "publisher": "Dubai Future District Fund",
           "publication_year": null,
@@ -519,7 +519,7 @@
         },
         {
           "source_id": "SRC_DFDF_PROFILE_INVESTOPIA",
-          "title": "Nader Albastaki – Managing Director, Dubai Future District Fund",
+          "title": "Nader Albastaki \u2013 Managing Director, Dubai Future District Fund",
           "url": "https://investopia.ae/speakers/nader-albastaki/",
           "publisher": "Investopia",
           "publication_year": null,
@@ -533,7 +533,7 @@
           "publisher": "VCCircle",
           "publication_year": 2025,
           "accessed": "2025-11-16",
-          "note": "Reports DFDF’s shift to a more targeted fund-of-funds and co-investment approach."
+          "note": "Reports DFDF\u2019s shift to a more targeted fund-of-funds and co-investment approach."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -608,11 +608,11 @@
         "UAE",
         "VUZ_investor"
       ],
-      "notes": "Corporate VC with both regional and offshore reach, leveraging e&’s telecom footprint to scale digital and immersive services.",
+      "notes": "Corporate VC with both regional and offshore reach, leveraging e&\u2019s telecom footprint to scale digital and immersive services.",
       "sources": [
         {
           "source_id": "SRC_EAND_CAPITAL_CORP_PAGE",
-          "title": "e& capital – Moving the world forward with e& capital",
+          "title": "e& capital \u2013 Moving the world forward with e& capital",
           "url": "https://www.eand.com/en/capital.html",
           "publisher": "e&",
           "publication_year": null,
@@ -626,7 +626,7 @@
           "publisher": "Zawya",
           "publication_year": 2022,
           "accessed": "2025-11-16",
-          "note": "Explains mandate to scale MENA tech startups to the global stage via e& capital’s VC fund."
+          "note": "Explains mandate to scale MENA tech startups to the global stage via e& capital\u2019s VC fund."
         },
         {
           "source_id": "SRC_VUZ_SERIES_B_EAND",
@@ -659,7 +659,7 @@
         "immersive_alloc_share_percent_estimate": null,
         "immersive_portfolio_start_year": 2020,
         "portfolio_maturity_category": "growing",
-        "notes": "Immersive relevance via financing of tourism destinations and entertainment projects, including MoUs with the General Entertainment Authority to fund joint tourism–entertainment developments; immersive venues (attractions, themed hospitality, experience-led destinations) are part of its mandate."
+        "notes": "Immersive relevance via financing of tourism destinations and entertainment projects, including MoUs with the General Entertainment Authority to fund joint tourism\u2013entertainment developments; immersive venues (attractions, themed hospitality, experience-led destinations) are part of its mandate."
       },
       "preferred_stages": [
         "growth",
@@ -691,7 +691,7 @@
       "exclusion_criteria": [],
       "ppp_profile": {
         "ppp_active": true,
-        "ppp_description": "Uses public–private partnerships, co-financing with commercial banks and guarantees (e.g. through Kafalah and NBFI programmes) to crowd in private capital for tourism and entertainment projects."
+        "ppp_description": "Uses public\u2013private partnerships, co-financing with commercial banks and guarantees (e.g. through Kafalah and NBFI programmes) to crowd in private capital for tourism and entertainment projects."
       },
       "vision_alignment": {
         "linked_national_programs": [
@@ -716,7 +716,7 @@
       "sources": [
         {
           "source_id": "SRC_TDF_ABOUT",
-          "title": "Tourism Development Fund – About Us",
+          "title": "Tourism Development Fund \u2013 About Us",
           "url": "https://www.tdf.gov.sa/en/about-us-landing/",
           "publisher": "Tourism Development Fund",
           "publication_year": 2020,
@@ -749,7 +749,7 @@
       "investor_id": "INV_00008_SHUROOQ_AE",
       "investor_name": "Sharjah Investment and Development Authority (Shurooq)",
       "investor_category": "development_finance",
-      "description": "Shurooq is the government of Sharjah’s investment and development authority, developing and co-investing in waterfronts, eco-resorts, cultural sites and leisure attractions across the emirate with a focus on sustainable and heritage-based tourism.",
+      "description": "Shurooq is the government of Sharjah\u2019s investment and development authority, developing and co-investing in waterfronts, eco-resorts, cultural sites and leisure attractions across the emirate with a focus on sustainable and heritage-based tourism.",
       "country": "United Arab Emirates",
       "country_iso2": "AE",
       "world_region": "MENA_GCC",
@@ -816,16 +816,16 @@
       "sources": [
         {
           "source_id": "SRC_SHUROOQ_SITE",
-          "title": "Shurooq – Sharjah Investment and Development Authority",
+          "title": "Shurooq \u2013 Sharjah Investment and Development Authority",
           "url": "https://shurooq.gov.ae/",
           "publisher": "Shurooq",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Official overview of Shurooq, its mission to lead Sharjah’s transformation and focus on eco-tourism, heritage and culture."
+          "note": "Official overview of Shurooq, its mission to lead Sharjah\u2019s transformation and focus on eco-tourism, heritage and culture."
         },
         {
           "source_id": "SRC_SHUROOQ_SUSTAINABLE_TOURISM",
-          "title": "Shurooq highlights Sharjah as ME’s hub for sustainable tourism",
+          "title": "Shurooq highlights Sharjah as ME\u2019s hub for sustainable tourism",
           "url": "https://sharjah24.ae/en/Articles/2025/11/05/kmr2",
           "publisher": "Sharjah 24",
           "publication_year": 2025,
@@ -847,9 +847,9 @@
     },
     {
       "investor_id": "INV_00009_MIROVA_NATURAL_CAPITAL",
-      "investor_name": "Mirova – Natural Capital Platform",
+      "investor_name": "Mirova \u2013 Natural Capital Platform",
       "investor_category": "impact_fund",
-      "description": "Mirova’s Natural Capital platform manages blended-finance and private funds dedicated to nature-based solutions, land restoration and sustainable land use, with a focus on emerging markets and the Global South.",
+      "description": "Mirova\u2019s Natural Capital platform manages blended-finance and private funds dedicated to nature-based solutions, land restoration and sustainable land use, with a focus on emerging markets and the Global South.",
       "country": "France",
       "country_iso2": "FR",
       "world_region": "EUROPE_GLOBAL_SOUTH",
@@ -918,7 +918,7 @@
           "publisher": "Mirova",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Describes Mirova’s natural capital investment expertise and fund range."
+          "note": "Describes Mirova\u2019s natural capital investment expertise and fund range."
         },
         {
           "source_id": "SRC_MIROVA_SUSTAINABLE_LAND_FUND2",
@@ -1005,7 +1005,7 @@
           "publisher": "The Nature Conservancy",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Overview of NatureVest’s impact investment portfolio and role within TNC."
+          "note": "Overview of NatureVest\u2019s impact investment portfolio and role within TNC."
         },
         {
           "source_id": "SRC_NATUREVEST_IMPACT_REPORT_2024",
@@ -1033,7 +1033,7 @@
       "investor_id": "INV_00011_CI_VENTURES",
       "investor_name": "Conservation International Ventures (CI Ventures)",
       "investor_category": "impact_fund",
-      "description": "CI Ventures is Conservation International’s investment program providing loans and other financing to small- and medium-sized enterprises in forests, oceans and grasslands, including ecotourism businesses.",
+      "description": "CI Ventures is Conservation International\u2019s investment program providing loans and other financing to small- and medium-sized enterprises in forests, oceans and grasslands, including ecotourism businesses.",
       "country": "United States",
       "country_iso2": "US",
       "world_region": "NORTH_AMERICA_GLOBAL_SOUTH",
@@ -1105,7 +1105,7 @@
         },
         {
           "source_id": "SRC_CI_VENTURES_CFA",
-          "title": "Return Based Investments — Conservation Finance Alliance",
+          "title": "Return Based Investments \u2014 Conservation Finance Alliance",
           "url": "https://www.conservationfinancealliance.org/return-based-investments-2",
           "publisher": "Conservation Finance Alliance",
           "publication_year": null,
@@ -1183,7 +1183,7 @@
       "sources": [
         {
           "source_id": "SRC_GFCR_CFA",
-          "title": "Global Fund for Coral Reefs — Conservation Finance Alliance",
+          "title": "Global Fund for Coral Reefs \u2014 Conservation Finance Alliance",
           "url": "https://www.conservationfinancealliance.org/gfcr",
           "publisher": "Conservation Finance Alliance",
           "publication_year": null,
@@ -1278,12 +1278,12 @@
         },
         {
           "source_id": "SRC_OUTRIGGER_ORRAA",
-          "title": "Investable sustainable blue economy projects in “Big Ocean States” boosted through Outrigger Impact",
+          "title": "Investable sustainable blue economy projects in \u201cBig Ocean States\u201d boosted through Outrigger Impact",
           "url": "https://oceanriskalliance.org/news/investable-sustainable-blue-economy-projects-boosted/",
           "publisher": "Ocean Risk and Resilience Action Alliance",
           "publication_year": 2025,
           "accessed": "2025-11-16",
-          "note": "News article announcing Outrigger Impact’s technical assistance facility to support investable blue economy projects in SIDS."
+          "note": "News article announcing Outrigger Impact\u2019s technical assistance facility to support investable blue economy projects in SIDS."
         },
         {
           "source_id": "SRC_OUTRIGGER_EIB",
@@ -1302,7 +1302,7 @@
       "investor_id": "INV_00014_ACCT_FUND",
       "investor_name": "Africa Conservation & Communities Tourism Fund (ACCT Fund)",
       "investor_category": "impact_fund",
-      "description": "Structured debt fund providing impact-oriented loans to conservation tourism operators in Sub‑Saharan Africa. The fund was launched by ThirdWay Partners and The Nature Conservancy with support from KfW and other DFIs, and targets safari lodges, camps and other eco‑tourism businesses that are critical for community livelihoods, wildlife conservation and climate resilience.",
+      "description": "Structured debt fund providing impact-oriented loans to conservation tourism operators in Sub\u2011Saharan Africa. The fund was launched by ThirdWay Partners and The Nature Conservancy with support from KfW and other DFIs, and targets safari lodges, camps and other eco\u2011tourism businesses that are critical for community livelihoods, wildlife conservation and climate resilience.",
       "country": "Mozambique",
       "country_iso2": "MZ",
       "world_region": "SUB_SAHARAN_AFRICA",
@@ -1323,7 +1323,7 @@
         "immersive_alloc_share_percent_estimate": null,
         "immersive_portfolio_start_year": null,
         "portfolio_maturity_category": "unknown",
-        "notes": "No explicit fulldome or immersive media venues documented in public materials. However, the fund finances high‑end conservation lodges and safari tourism operators in landscape‑scale conservation areas. These sites could host immersive domes or science storytelling venues as part of future destination upgrades."
+        "notes": "No explicit fulldome or immersive media venues documented in public materials. However, the fund finances high\u2011end conservation lodges and safari tourism operators in landscape\u2011scale conservation areas. These sites could host immersive domes or science storytelling venues as part of future destination upgrades."
       },
       "preferred_stages": [
         "growth",
@@ -1390,11 +1390,11 @@
         "blended_finance",
         "wildlife_safaris"
       ],
-      "notes": "Fund manager: ThirdWay Partners. Conservation advisor: The Nature Conservancy (NatureVest). Impact reports highlight commitments to tourism operators in Botswana, Kenya, Mozambique, Namibia, Zambia and Zimbabwe. Public team pages list key managers such as Maarten Weehuizen (Managing Director), Neil Midlane (Director Conservation Tourism), Lucia González (Director), Gonçalo Neves‑Correia and Guy Lafferty (Partners).",
+      "notes": "Fund manager: ThirdWay Partners. Conservation advisor: The Nature Conservancy (NatureVest). Impact reports highlight commitments to tourism operators in Botswana, Kenya, Mozambique, Namibia, Zambia and Zimbabwe. Public team pages list key managers such as Maarten Weehuizen (Managing Director), Neil Midlane (Director Conservation Tourism), Lucia Gonz\u00e1lez (Director), Gon\u00e7alo Neves\u2011Correia and Guy Lafferty (Partners).",
       "sources": [
         {
           "source_id": "SRC_ACCT_WEBSITE",
-          "title": "Africa Conservation & Communities Tourism Fund – Official site",
+          "title": "Africa Conservation & Communities Tourism Fund \u2013 Official site",
           "url": "https://www.acct.fund/",
           "publisher": "Africa Conservation & Communities Tourism Fund",
           "publication_year": null,
@@ -1403,7 +1403,7 @@
         },
         {
           "source_id": "SRC_ACCT_TEAM",
-          "title": "Our Team — Africa Conservation & Communities Tourism Fund",
+          "title": "Our Team \u2014 Africa Conservation & Communities Tourism Fund",
           "url": "https://www.acct.fund/our-team-1",
           "publisher": "Africa Conservation & Communities Tourism Fund",
           "publication_year": null,
@@ -1417,16 +1417,16 @@
           "publisher": "IFC",
           "publication_year": 2023,
           "accessed": "2025-11-16",
-          "note": "Press release describing the fund’s structure and conservation tourism focus."
+          "note": "Press release describing the fund\u2019s structure and conservation tourism focus."
         },
         {
           "source_id": "SRC_ACCT_INNPACT",
-          "title": "Innpact partners with ThirdWay to support Africa’s conservation tourism sector",
+          "title": "Innpact partners with ThirdWay to support Africa\u2019s conservation tourism sector",
           "url": "https://innpact.com/innpact-partners-with-thirdway-partners-to-support-africas-conservation-tourism-sector/",
           "publisher": "Innpact S.A.",
           "publication_year": 2023,
           "accessed": "2025-11-16",
-          "note": "Announces the fund’s final close at around USD 70m and provides structural details."
+          "note": "Announces the fund\u2019s final close at around USD 70m and provides structural details."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -1434,9 +1434,9 @@
     },
     {
       "investor_id": "INV_00015_BLUE_ALLIANCE_FINANCE",
-      "investor_name": "Blue Alliance – Blue Finance Facility",
+      "investor_name": "Blue Alliance \u2013 Blue Finance Facility",
       "investor_category": "impact_fund",
-      "description": "Impact loan facility created by Blue Alliance Marine Protected Areas with BNP Paribas and other partners to finance ‘reef‑positive’ blue economy businesses in and around Marine Protected Areas. The facility channels blended finance into eco‑tourism, community‑based aquaculture, sustainable fisheries and related enterprises that help fund long‑term coral reef conservation and local livelihoods.",
+      "description": "Impact loan facility created by Blue Alliance Marine Protected Areas with BNP Paribas and other partners to finance \u2018reef\u2011positive\u2019 blue economy businesses in and around Marine Protected Areas. The facility channels blended finance into eco\u2011tourism, community\u2011based aquaculture, sustainable fisheries and related enterprises that help fund long\u2011term coral reef conservation and local livelihoods.",
       "country": "Multi-country (NGO-led)",
       "country_iso2": null,
       "world_region": "GLOBAL_SOUTH_OCEANS",
@@ -1457,7 +1457,7 @@
         "immersive_alloc_share_percent_estimate": null,
         "immersive_portfolio_start_year": null,
         "portfolio_maturity_category": "unknown",
-        "notes": "Facility invests in reef‑positive enterprises such as eco‑tourism operations linked to Marine Protected Areas. No explicit fulldome or immersive media venues are mentioned, but eco‑tourism and visitor centres around MPAs are natural hosts for immersive domes and reef storytelling."
+        "notes": "Facility invests in reef\u2011positive enterprises such as eco\u2011tourism operations linked to Marine Protected Areas. No explicit fulldome or immersive media venues are mentioned, but eco\u2011tourism and visitor centres around MPAs are natural hosts for immersive domes and reef storytelling."
       },
       "preferred_stages": [
         "growth",
@@ -1502,7 +1502,7 @@
           "marine_protected_area_authorities",
           "environment_ministries"
         ],
-        "notes": "Blue Alliance typically signs long‑term delegated management or co‑management agreements with governments for specific MPAs and then develops reef‑positive businesses around them."
+        "notes": "Blue Alliance typically signs long\u2011term delegated management or co\u2011management agreements with governments for specific MPAs and then develops reef\u2011positive businesses around them."
       },
       "vision_alignment": {
         "keywords": [
@@ -1510,7 +1510,7 @@
           "reef_positive_businesses",
           "nature_based_solutions"
         ],
-        "fit_comment": "Strong conceptual alignment for coastal destinations with coral reefs and MPAs such as Tanzania (Zanzibar), Palawan, Halong Bay, Galapagos‑type archipelagos or Caribbean reef hubs."
+        "fit_comment": "Strong conceptual alignment for coastal destinations with coral reefs and MPAs such as Tanzania (Zanzibar), Palawan, Halong Bay, Galapagos\u2011type archipelagos or Caribbean reef hubs."
       },
       "immersive_projects": [],
       "key_people": [],
@@ -1521,11 +1521,11 @@
         "marine_protected_areas",
         "reef_positive_businesses"
       ],
-      "notes": "Blue Alliance was founded by Nicolas Pascal and Angelique Brathwaite and focuses on developing self‑sustaining MPAs via social enterprises in eco‑tourism, aquaculture and sustainable fisheries. Blue Finance / Blue Finance Facility is the impact debt vehicle supported by impact investors such as BNP Paribas and the Global Fund for Coral Reefs.",
+      "notes": "Blue Alliance was founded by Nicolas Pascal and Angelique Brathwaite and focuses on developing self\u2011sustaining MPAs via social enterprises in eco\u2011tourism, aquaculture and sustainable fisheries. Blue Finance / Blue Finance Facility is the impact debt vehicle supported by impact investors such as BNP Paribas and the Global Fund for Coral Reefs.",
       "sources": [
         {
           "source_id": "SRC_BLUE_ALLIANCE_WHO_WE_ARE",
-          "title": "Who we are – Blue Alliance",
+          "title": "Who we are \u2013 Blue Alliance",
           "url": "https://bluealliance.earth/who-we-are/",
           "publisher": "Blue Alliance",
           "publication_year": null,
@@ -1534,12 +1534,12 @@
         },
         {
           "source_id": "SRC_BLUE_ALLIANCE_MPA_CASE",
-          "title": "Blue Alliance – Marine Protected Areas",
+          "title": "Blue Alliance \u2013 Marine Protected Areas",
           "url": "https://hive.greenfinanceinstitute.com/gfihive/revenues-for-nature/case-studies/blue-alliance-marine-protected-areas/",
           "publisher": "Green Finance Institute",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Case study summarising Blue Alliance’s blended finance model and geographic footprint."
+          "note": "Case study summarising Blue Alliance\u2019s blended finance model and geographic footprint."
         },
         {
           "source_id": "SRC_BLUE_FINANCE_FACILITY_PRESS",
@@ -1552,12 +1552,12 @@
         },
         {
           "source_id": "SRC_BLUE_FINANCE_FACILITY_GFCR",
-          "title": "Blue Finance Impact Loan Facility – REEF+",
+          "title": "Blue Finance Impact Loan Facility \u2013 REEF+",
           "url": "https://globalfundcoralreefs.org/reef-plus/finance-solutions/blue-finance-impact-loan-facility/",
           "publisher": "Global Fund for Coral Reefs",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Describes the facility’s structure, GFCR’s catalytic funding role and reef‑positive business focus."
+          "note": "Describes the facility\u2019s structure, GFCR\u2019s catalytic funding role and reef\u2011positive business focus."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -1567,7 +1567,7 @@
       "investor_id": "INV_00016_MELOY_FUND",
       "investor_name": "Meloy Fund for Sustainable Community Fisheries",
       "investor_category": "impact_fund",
-      "description": "Impact investment fund launched by conservation NGO Rare and managed by Deliberate Capital to invest in small and medium‑sized enterprises along coastal fisheries and aquaculture value chains in Indonesia and the Philippines. The fund aims for triple bottom‑line outcomes: better livelihoods for coastal communities, recovery of coastal ecosystems and competitive financial returns.",
+      "description": "Impact investment fund launched by conservation NGO Rare and managed by Deliberate Capital to invest in small and medium\u2011sized enterprises along coastal fisheries and aquaculture value chains in Indonesia and the Philippines. The fund aims for triple bottom\u2011line outcomes: better livelihoods for coastal communities, recovery of coastal ecosystems and competitive financial returns.",
       "country": "United States",
       "country_iso2": "US",
       "world_region": "US_GLOBAL_SOUTH_OCEANS",
@@ -1580,7 +1580,7 @@
         "currency": "USD",
         "as_of_year": 2020,
         "as_of_date": null,
-        "note": "FMO and other public sources report that the fund raised over USD 22m; exact final size may be higher. Value is recorded here as a conservative lower‑bound estimate."
+        "note": "FMO and other public sources report that the fund raised over USD 22m; exact final size may be higher. Value is recorded here as a conservative lower\u2011bound estimate."
       },
       "immersive_investment": {
         "has_immersive_portfolio": false,
@@ -1588,7 +1588,7 @@
         "immersive_alloc_share_percent_estimate": null,
         "immersive_portfolio_start_year": null,
         "portfolio_maturity_category": "unknown",
-        "notes": "The fund invests in fisheries, aquaculture and seafood supply chain enterprises rather than visitor venues. Immersive domes could still plug in via destination partnerships in regions where Meloy‑backed businesses operate (e.g. coastal Indonesia and the Philippines)."
+        "notes": "The fund invests in fisheries, aquaculture and seafood supply chain enterprises rather than visitor venues. Immersive domes could still plug in via destination partnerships in regions where Meloy\u2011backed businesses operate (e.g. coastal Indonesia and the Philippines)."
       },
       "preferred_stages": [
         "growth",
@@ -1598,7 +1598,7 @@
         "amount_min": null,
         "amount_max": null,
         "currency": "USD",
-        "note": "Case studies discuss deals in the low‑ to mid‑single‑digit millions; precise ticket brackets are not disclosed."
+        "note": "Case studies discuss deals in the low\u2011 to mid\u2011single\u2011digit millions; precise ticket brackets are not disclosed."
       },
       "investment_instruments": [
         "equity",
@@ -1636,7 +1636,7 @@
           "coastal_resilience",
           "triple_bottom_line"
         ],
-        "fit_comment": "Best suited as a thematic co‑investor in blue‑economy storylines for destinations like Bali or Palawan, where fisheries, reefs and tourism intersect."
+        "fit_comment": "Best suited as a thematic co\u2011investor in blue\u2011economy storylines for destinations like Bali or Palawan, where fisheries, reefs and tourism intersect."
       },
       "immersive_projects": [],
       "key_people": [],
@@ -1646,29 +1646,29 @@
         "impact_investing",
         "coastal_communities"
       ],
-      "notes": "General Partner: Rare. Fund manager: Deliberate Capital. Public materials highlight Dale Galvin as Managing Partner/Fund Manager and Peter Kennedy as Chief Investment Officer. The fund is profiled in multiple blended finance and nature‑finance case studies as a pioneering vehicle for sustainable coastal fisheries.",
+      "notes": "General Partner: Rare. Fund manager: Deliberate Capital. Public materials highlight Dale Galvin as Managing Partner/Fund Manager and Peter Kennedy as Chief Investment Officer. The fund is profiled in multiple blended finance and nature\u2011finance case studies as a pioneering vehicle for sustainable coastal fisheries.",
       "sources": [
         {
           "source_id": "SRC_MELOY_ABOUT",
-          "title": "About – The Meloy Fund",
+          "title": "About \u2013 The Meloy Fund",
           "url": "https://www.meloyfund.com/about",
           "publisher": "The Meloy Fund / Rare",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Describes the fund’s history, mission, GP/manager structure and geographic scope."
+          "note": "Describes the fund\u2019s history, mission, GP/manager structure and geographic scope."
         },
         {
           "source_id": "SRC_MELOY_GFI_CASE",
-          "title": "The Meloy Fund – Revenues for Nature case study",
+          "title": "The Meloy Fund \u2013 Revenues for Nature case study",
           "url": "https://hive.greenfinanceinstitute.com/gfihive/revenues-for-nature/case-studies/the-meloy-fund/",
           "publisher": "Green Finance Institute",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Summarises the fund’s strategy, portfolio themes and impact objectives in Indonesia and the Philippines."
+          "note": "Summarises the fund\u2019s strategy, portfolio themes and impact objectives in Indonesia and the Philippines."
         },
         {
           "source_id": "SRC_MELOY_RARE_IMPACT_REPORT",
-          "title": "Meloy Fund Impact Report 2022–2023",
+          "title": "Meloy Fund Impact Report 2022\u20132023",
           "url": "https://rare.org/wp-content/uploads/2023/11/Meloy-Annual-Report-2022-2023_Final_Sm.pdf",
           "publisher": "Rare",
           "publication_year": 2023,
@@ -1692,7 +1692,7 @@
       "investor_id": "INV_00017_BW_SOVEREIGN_FUND",
       "investor_name": "Botswana Sovereign Wealth Fund (2025)",
       "investor_category": "sovereign_wealth_fund",
-      "description": "New sovereign wealth fund created by the Government of Botswana in 2025 to diversify the economy beyond diamonds, manage state‑owned assets more actively and invest for long‑term growth and job creation. The fund is mandated to invest both domestically and internationally, with priority sectors including tourism, renewable energy, agriculture and infrastructure.",
+      "description": "New sovereign wealth fund created by the Government of Botswana in 2025 to diversify the economy beyond diamonds, manage state\u2011owned assets more actively and invest for long\u2011term growth and job creation. The fund is mandated to invest both domestically and internationally, with priority sectors including tourism, renewable energy, agriculture and infrastructure.",
       "country": "Botswana",
       "country_iso2": "BW",
       "world_region": "SUB_SAHARAN_AFRICA",
@@ -1713,7 +1713,7 @@
         "immersive_alloc_share_percent_estimate": null,
         "immersive_portfolio_start_year": null,
         "portfolio_maturity_category": "not_applicable",
-        "notes": "As of late 2025, the fund is newly established with a broad diversification mandate and no identified immersive or fulldome projects. Tourism infrastructure and eco‑tourism are, however, explicit priority sectors, which could in future include immersive education or visitor centres around assets like the Okavango Delta."
+        "notes": "As of late 2025, the fund is newly established with a broad diversification mandate and no identified immersive or fulldome projects. Tourism infrastructure and eco\u2011tourism are, however, explicit priority sectors, which could in future include immersive education or visitor centres around assets like the Okavango Delta."
       },
       "preferred_stages": [
         "infrastructure",
@@ -1749,7 +1749,7 @@
           "state_owned_enterprises",
           "infrastructure_agencies"
         ],
-        "notes": "The fund is itself a state‑owned vehicle and will typically invest alongside other public entities or large private partners in strategic sectors."
+        "notes": "The fund is itself a state\u2011owned vehicle and will typically invest alongside other public entities or large private partners in strategic sectors."
       },
       "vision_alignment": {
         "keywords": [
@@ -1757,7 +1757,7 @@
           "green_tourism",
           "long_term_savings"
         ],
-        "fit_comment": "For fulldome projects in Botswana (e.g. Okavango‑linked education and visitor centres), the fund is a potential anchor investor or co‑financing partner in larger tourism or science campus projects."
+        "fit_comment": "For fulldome projects in Botswana (e.g. Okavango\u2011linked education and visitor centres), the fund is a potential anchor investor or co\u2011financing partner in larger tourism or science campus projects."
       },
       "immersive_projects": [],
       "key_people": [],
@@ -1776,7 +1776,7 @@
           "publisher": "Reuters",
           "publication_year": 2025,
           "accessed": "2025-11-16",
-          "note": "News report describing the launch of Botswana’s new sovereign wealth fund, its mandate and governance."
+          "note": "News report describing the launch of Botswana\u2019s new sovereign wealth fund, its mandate and governance."
         },
         {
           "source_id": "SRC_BW_SOVEREIGN_FUND_ECOFIN",
@@ -1785,7 +1785,7 @@
           "publisher": "Ecofin Agency",
           "publication_year": 2025,
           "accessed": "2025-11-16",
-          "note": "Additional coverage confirming the fund’s role in diversification, including tourism and renewable energy."
+          "note": "Additional coverage confirming the fund\u2019s role in diversification, including tourism and renewable energy."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -1808,7 +1808,7 @@
         "currency": "EUR",
         "as_of_year": 2024,
         "as_of_date": null,
-        "note": "Multiple sources report that Ocean 14 Capital Fund I closed at around EUR 200–201m, reaching its hard cap in 2023/2024."
+        "note": "Multiple sources report that Ocean 14 Capital Fund I closed at around EUR 200\u2013201m, reaching its hard cap in 2023/2024."
       },
       "immersive_investment": {
         "has_immersive_portfolio": false,
@@ -1872,11 +1872,11 @@
         "impact_investing",
         "sdg14"
       ],
-      "notes": "Ocean 14 Capital Fund I SCSp is advised by Ocean 14 Capital Limited, a firm founded by ocean impact investor and Blue Marine Foundation co-founder Chris Gorell Barnes and partners with backgrounds in Pontos Aqua, Gottex and other investment platforms. The team combines private equity, venture capital, marine science and conservation expertise. Public materials emphasise the fund’s Article 9 SFDR classification and B Corp certification of the adviser.",
+      "notes": "Ocean 14 Capital Fund I SCSp is advised by Ocean 14 Capital Limited, a firm founded by ocean impact investor and Blue Marine Foundation co-founder Chris Gorell Barnes and partners with backgrounds in Pontos Aqua, Gottex and other investment platforms. The team combines private equity, venture capital, marine science and conservation expertise. Public materials emphasise the fund\u2019s Article 9 SFDR classification and B Corp certification of the adviser.",
       "sources": [
         {
           "source_id": "SRC_O14_WEBSITE",
-          "title": "Ocean 14 Capital – Official website",
+          "title": "Ocean 14 Capital \u2013 Official website",
           "url": "https://ocean14capital.com/",
           "publisher": "Ocean 14 Capital Limited",
           "publication_year": null,
@@ -1885,7 +1885,7 @@
         },
         {
           "source_id": "SRC_O14_PITCHBOOK",
-          "title": "Ocean 14 Capital Fund 1 – Fund profile",
+          "title": "Ocean 14 Capital Fund 1 \u2013 Fund profile",
           "url": "https://pitchbook.com/profiles/fund/20065-24F",
           "publisher": "PitchBook",
           "publication_year": 2023,
@@ -1894,7 +1894,7 @@
         },
         {
           "source_id": "SRC_O14_HARDCAP",
-          "title": "Ocean 14 Capital Fund I Closes at Hard Cap of €200M",
+          "title": "Ocean 14 Capital Fund I Closes at Hard Cap of \u20ac200M",
           "url": "https://globalaginvesting.com/ocean-14-capital-fund-i-closes-at-hard-cap-of-e200m/",
           "publisher": "Global AgInvesting",
           "publication_year": 2023,
@@ -1986,11 +1986,11 @@
         "portugal",
         "growth_equity"
       ],
-      "notes": "Growth Blue I is managed by Growth Partners Capital SCR with a dedicated management team led by Miguel Herédia and Juan José Rodriguez-Navarro. Public materials highlight the fund as the first blue-economy-focused growth-equity vehicle backed by the European Investment Fund in Europe.",
+      "notes": "Growth Blue I is managed by Growth Partners Capital SCR with a dedicated management team led by Miguel Her\u00e9dia and Juan Jos\u00e9 Rodriguez-Navarro. Public materials highlight the fund as the first blue-economy-focused growth-equity vehicle backed by the European Investment Fund in Europe.",
       "sources": [
         {
           "source_id": "SRC_GROWTH_BLUE_INVESTEU",
-          "title": "Growth Blue Fund I – InvestEU operations list",
+          "title": "Growth Blue Fund I \u2013 InvestEU operations list",
           "url": "https://investeu.europa.eu/investeu-operations/investeu-operations-list/growth-blue-fund-i_en",
           "publisher": "European Commission / InvestEU",
           "publication_year": 2022,
@@ -2004,16 +2004,16 @@
           "publisher": "European Investment Fund",
           "publication_year": 2023,
           "accessed": "2025-11-16",
-          "note": "Explains the fund’s investment strategy, Iberian focus and management team leadership."
+          "note": "Explains the fund\u2019s investment strategy, Iberian focus and management team leadership."
         },
         {
           "source_id": "SRC_GROWTH_BLUE_MANAGER",
-          "title": "Growth Blue – Growth Partners Capital",
+          "title": "Growth Blue \u2013 Growth Partners Capital",
           "url": "https://growthpartners.capital/blue.html",
           "publisher": "Growth Partners Capital",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Fund manager’s own description of Growth Blue I and its sustainability orientation."
+          "note": "Fund manager\u2019s own description of Growth Blue I and its sustainability orientation."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -2103,11 +2103,11 @@
         "portugal",
         "climate_action"
       ],
-      "notes": "Indico Capital Partners is led by founder and Managing General Partner Stephan Morais, a well-known Portuguese VC investor. Indico Blue Fund leverages the broader Indico platform and Portugal’s marine innovation ecosystem to source and scale blue-economy startups.",
+      "notes": "Indico Capital Partners is led by founder and Managing General Partner Stephan Morais, a well-known Portuguese VC investor. Indico Blue Fund leverages the broader Indico platform and Portugal\u2019s marine innovation ecosystem to source and scale blue-economy startups.",
       "sources": [
         {
           "source_id": "SRC_INDICO_FUNDS",
-          "title": "Our Funds – Indico Capital Partners",
+          "title": "Our Funds \u2013 Indico Capital Partners",
           "url": "https://www.indicocapital.com/our-funds",
           "publisher": "Indico Capital Partners",
           "publication_year": null,
@@ -2116,18 +2116,18 @@
         },
         {
           "source_id": "SRC_INDICO_BLUE_PROFILE",
-          "title": "Indico Blue Fund – Bioeconomy Ventures",
+          "title": "Indico Blue Fund \u2013 Bioeconomy Ventures",
           "url": "https://platform.bioeconomyventures.eu/investor/indico-indico-blue-fund-lisbon-portugal/",
           "publisher": "Bioeconomy Ventures",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Describes Indico Blue Fund’s ticket sizes, blue-vertical scope and SDG alignment."
+          "note": "Describes Indico Blue Fund\u2019s ticket sizes, blue-vertical scope and SDG alignment."
         },
         {
           "source_id": "SRC_INDICO_STEPPHAN",
-          "title": "Stephan Morais – Managing General Partner, Indico Capital Partners",
+          "title": "Stephan Morais \u2013 Managing General Partner, Indico Capital Partners",
           "url": "https://www.sbs.ox.ac.uk/about-us/people/stephan-morais",
-          "publisher": "Saïd Business School, University of Oxford",
+          "publisher": "Sa\u00efd Business School, University of Oxford",
           "publication_year": null,
           "accessed": "2025-11-16",
           "note": "Provides background on Stephan Morais as founder and Managing General Partner of Indico."
@@ -2153,7 +2153,7 @@
         "currency": "USD",
         "as_of_year": 2025,
         "as_of_date": null,
-        "note": "Katapult Ocean manages several funds (Ocean Funds 1–3, Deep Blue and regional vehicles). UN SDG partnership documentation cites a goal to mobilise around USD 1bn for ocean ventures by 2035; individual fund sizes vary."
+        "note": "Katapult Ocean manages several funds (Ocean Funds 1\u20133, Deep Blue and regional vehicles). UN SDG partnership documentation cites a goal to mobilise around USD 1bn for ocean ventures by 2035; individual fund sizes vary."
       },
       "immersive_investment": {
         "has_immersive_portfolio": false,
@@ -2172,7 +2172,7 @@
         "amount_min": 150000,
         "amount_max": 500000,
         "currency": "EUR",
-        "note": "Recent Deep Blue accelerator cohorts indicate initial ticket sizes in the EUR 150k–500k range."
+        "note": "Recent Deep Blue accelerator cohorts indicate initial ticket sizes in the EUR 150k\u2013500k range."
       },
       "investment_instruments": [
         "equity",
@@ -2220,21 +2220,21 @@
       "sources": [
         {
           "source_id": "SRC_KATAPULT_OCEAN_SITE",
-          "title": "Katapult Ocean – Investing in ocean tech startups",
+          "title": "Katapult Ocean \u2013 Investing in ocean tech startups",
           "url": "https://katapult.vc/ocean/",
           "publisher": "Katapult Ocean",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Overview of Katapult Ocean’s investment thesis and accelerator model."
+          "note": "Overview of Katapult Ocean\u2019s investment thesis and accelerator model."
         },
         {
           "source_id": "SRC_KATAPULT_FUNDS",
-          "title": "Our Funds – Katapult",
+          "title": "Our Funds \u2013 Katapult",
           "url": "https://katapult.vc/investors/our-funds/",
           "publisher": "Katapult",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Lists the various Katapult climate and ocean funds, including Ocean Funds 1–3 and Deep Blue."
+          "note": "Lists the various Katapult climate and ocean funds, including Ocean Funds 1\u20133 and Deep Blue."
         },
         {
           "source_id": "SRC_KATAPULT_UN_SDG",
@@ -2243,7 +2243,7 @@
           "publisher": "United Nations / SDG Partnerships",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Describes Katapult Ocean’s commitment to mobilise USD 1bn for ocean ventures by 2035."
+          "note": "Describes Katapult Ocean\u2019s commitment to mobilise USD 1bn for ocean ventures by 2035."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -2251,9 +2251,9 @@
     },
     {
       "investor_id": "INV_00022_CAF_BLUE_ECONOMY",
-      "investor_name": "CAF – Blue Economy Program 2025–2030",
+      "investor_name": "CAF \u2013 Blue Economy Program 2025\u20132030",
       "investor_category": "multilateral_development_bank_program",
-      "description": "Dedicated blue economy and ocean-health investment program of CAF – Development Bank of Latin America and the Caribbean. The program bundles loans and technical assistance operations that support coastal and marine ecosystems, low-carbon maritime transport, sustainable tourism and blue-economy SMEs across Latin America and the Caribbean.",
+      "description": "Dedicated blue economy and ocean-health investment program of CAF \u2013 Development Bank of Latin America and the Caribbean. The program bundles loans and technical assistance operations that support coastal and marine ecosystems, low-carbon maritime transport, sustainable tourism and blue-economy SMEs across Latin America and the Caribbean.",
       "country": "Multilateral (Latin America & Caribbean focus)",
       "country_iso2": null,
       "world_region": "LATIN_AMERICA_CARIBBEAN",
@@ -2266,7 +2266,7 @@
         "currency": "USD",
         "as_of_year": 2025,
         "as_of_date": "2025-06-07",
-        "note": "CAF has committed to invest USD 2.5 billion in the region's blue economy by 2030, doubling its previous target of USD 1.25 billion for 2022–2026 and building on USD 1.3 billion already invested in ocean-related operations. This value represents a forward-looking program envelope rather than a closed-end fund size."
+        "note": "CAF has committed to invest USD 2.5 billion in the region's blue economy by 2030, doubling its previous target of USD 1.25 billion for 2022\u20132026 and building on USD 1.3 billion already invested in ocean-related operations. This value represents a forward-looking program envelope rather than a closed-end fund size."
       },
       "immersive_investment": {
         "has_immersive_portfolio": false,
@@ -2337,16 +2337,16 @@
         "caribbean",
         "sustainable_tourism"
       ],
-      "notes": "CAF’s blue economy commitment was announced in June 2025. Public statements emphasise that the USD 2.5 billion envelope will target responsible tourism, artisanal fisheries, coastal management and marine ecosystem restoration. The bank’s leadership on oceans is associated with Executive Vice President Gianpiero Leoncini and President Sergio Díaz-Granados, who have both highlighted blue finance as a strategic priority for CAF.",
+      "notes": "CAF\u2019s blue economy commitment was announced in June 2025. Public statements emphasise that the USD 2.5 billion envelope will target responsible tourism, artisanal fisheries, coastal management and marine ecosystem restoration. The bank\u2019s leadership on oceans is associated with Executive Vice President Gianpiero Leoncini and President Sergio D\u00edaz-Granados, who have both highlighted blue finance as a strategic priority for CAF.",
       "sources": [
         {
           "source_id": "SRC_CAF_BLUE_CAFNEWS",
           "title": "CAF to invest USD 2.5 billion to boost the blue economy in Latin America and the Caribbean",
           "url": "https://www.caf.com/en/currently/news/caf-to-invest-usd-25-billion-to-boost-the-blue-economy-in-latin-america-and-the-caribbean/",
-          "publisher": "CAF – Development Bank of Latin America and the Caribbean",
+          "publisher": "CAF \u2013 Development Bank of Latin America and the Caribbean",
           "publication_year": 2025,
           "accessed": "2025-11-16",
-          "note": "Official announcement of CAF’s USD 2.5bn blue-economy commitment through 2030."
+          "note": "Official announcement of CAF\u2019s USD 2.5bn blue-economy commitment through 2030."
         },
         {
           "source_id": "SRC_CAF_BLUE_REUTERS",
@@ -2355,7 +2355,7 @@
           "publisher": "Reuters",
           "publication_year": 2025,
           "accessed": "2025-11-16",
-          "note": "News article summarising CAF’s blue-economy investment plan, including sustainable tourism."
+          "note": "News article summarising CAF\u2019s blue-economy investment plan, including sustainable tourism."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -2363,9 +2363,9 @@
     },
     {
       "investor_id": "INV_00023_WB_PROBLUE",
-      "investor_name": "World Bank – PROBLUE Multi-Donor Trust Fund",
+      "investor_name": "World Bank \u2013 PROBLUE Multi-Donor Trust Fund",
       "investor_category": "multi_donor_trust_fund",
-      "description": "PROBLUE is the World Bank’s multi-donor trust fund supporting the blue economy. It finances analytical work and investment operations in sustainable fisheries and aquaculture, marine protected areas, marine pollution and plastics, sustainable coastal tourism, maritime transport and offshore renewable energy.",
+      "description": "PROBLUE is the World Bank\u2019s multi-donor trust fund supporting the blue economy. It finances analytical work and investment operations in sustainable fisheries and aquaculture, marine protected areas, marine pollution and plastics, sustainable coastal tourism, maritime transport and offshore renewable energy.",
       "country": "Multilateral (World Bank)",
       "country_iso2": null,
       "world_region": "GLOBAL",
@@ -2378,7 +2378,7 @@
         "currency": "USD",
         "as_of_year": 2023,
         "as_of_date": null,
-        "note": "The World Bank’s wider ocean portfolio exceeds USD 8 billion in active projects as of mid-2023; PROBLUE is one of several trust funds that co-finance this portfolio. Public sources usually report cumulative contributions and commitments rather than a single fixed fund size."
+        "note": "The World Bank\u2019s wider ocean portfolio exceeds USD 8 billion in active projects as of mid-2023; PROBLUE is one of several trust funds that co-finance this portfolio. Public sources usually report cumulative contributions and commitments rather than a single fixed fund size."
       },
       "immersive_investment": {
         "has_immersive_portfolio": false,
@@ -2451,21 +2451,21 @@
       "sources": [
         {
           "source_id": "SRC_PROBLUE_MAIN",
-          "title": "PROBLUE: The World Bank’s Blue Economy Program",
+          "title": "PROBLUE: The World Bank\u2019s Blue Economy Program",
           "url": "https://www.worldbank.org/en/programs/problue",
           "publisher": "World Bank Group",
           "publication_year": 2023,
           "accessed": "2025-11-16",
-          "note": "Overview of the PROBLUE trust fund and the World Bank’s ocean portfolio."
+          "note": "Overview of the PROBLUE trust fund and the World Bank\u2019s ocean portfolio."
         },
         {
           "source_id": "SRC_PROBLUE_FAQ",
-          "title": "The World Bank’s Blue Economy Program and PROBLUE – Frequently Asked Questions",
+          "title": "The World Bank\u2019s Blue Economy Program and PROBLUE \u2013 Frequently Asked Questions",
           "url": "https://www.worldbank.org/en/topic/environment/brief/the-world-banks-blue-economy-program-and-problue-frequently-asked-questions",
           "publisher": "World Bank Group",
           "publication_year": 2023,
           "accessed": "2025-11-16",
-          "note": "FAQ document noting the USD 8bn+ blue-economy portfolio and PROBLUE’s role."
+          "note": "FAQ document noting the USD 8bn+ blue-economy portfolio and PROBLUE\u2019s role."
         },
         {
           "source_id": "SRC_PROBLUE_UBEC",
@@ -2474,7 +2474,7 @@
           "publisher": "World Bank Group",
           "publication_year": 2024,
           "accessed": "2025-11-16",
-          "note": "Feature story describing the Unleashing the Blue Economy of the Caribbean project and PROBLUE’s funding role."
+          "note": "Feature story describing the Unleashing the Blue Economy of the Caribbean project and PROBLUE\u2019s funding role."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -2505,7 +2505,7 @@
         "immersive_alloc_share_percent_estimate": null,
         "immersive_portfolio_start_year": null,
         "portfolio_maturity_category": "unknown",
-        "notes": "The fund targets blue-economy innovation broadly (tourism, fisheries, circular economy, resilience). Immersive or fulldome projects telling the story of BVI’s seas and climate resilience could be competitive within the Impact Challenge framework."
+        "notes": "The fund targets blue-economy innovation broadly (tourism, fisheries, circular economy, resilience). Immersive or fulldome projects telling the story of BVI\u2019s seas and climate resilience could be competitive within the Impact Challenge framework."
       },
       "preferred_stages": [
         "seed",
@@ -2541,7 +2541,7 @@
           "government_of_the_virgin_islands",
           "blue_economy_strategy_unit"
         ],
-        "notes": "The VI Purpose Fund aligns closely with the Virgin Islands’ Blue Economy Strategy and is backed by philanthropic partners such as Unite BVI, with strong endorsement from the Premier and relevant ministries."
+        "notes": "The VI Purpose Fund aligns closely with the Virgin Islands\u2019 Blue Economy Strategy and is backed by philanthropic partners such as Unite BVI, with strong endorsement from the Premier and relevant ministries."
       },
       "vision_alignment": {
         "keywords": [
@@ -2549,7 +2549,7 @@
           "blue_economy_innovation",
           "community_resilience"
         ],
-        "fit_comment": "Very strong fit for a compact, high-impact fulldome or immersive venue positioned as an innovation and storytelling hub for the Virgin Islands’ blue economy, climate resilience and community-led tourism."
+        "fit_comment": "Very strong fit for a compact, high-impact fulldome or immersive venue positioned as an innovation and storytelling hub for the Virgin Islands\u2019 blue economy, climate resilience and community-led tourism."
       },
       "immersive_projects": [],
       "key_people": [],
@@ -2573,7 +2573,7 @@
         },
         {
           "source_id": "SRC_VI_PURPOSE_SITE",
-          "title": "VI Purpose Fund – 2025 Impact Challenge",
+          "title": "VI Purpose Fund \u2013 2025 Impact Challenge",
           "url": "https://vipurposefund.squarespace.com/",
           "publisher": "VI Purpose Fund",
           "publication_year": 2025,
@@ -2582,12 +2582,12 @@
         },
         {
           "source_id": "SRC_VI_PURPOSE_284MEDIA",
-          "title": "Unite BVI Launches 2025 Impact Challenge – Up to $200,000 in Investment Award Funding",
+          "title": "Unite BVI Launches 2025 Impact Challenge \u2013 Up to $200,000 in Investment Award Funding",
           "url": "https://www.284media.com/local/2025/06/01/unite-bvi-launches-2025-impact-challenge-up-to-200000-in-investment-award-funding-to-support-blue-economy-innovation-in-the-vi/",
           "publisher": "284 Media",
           "publication_year": 2025,
           "accessed": "2025-11-16",
-          "note": "News article detailing ticket sizes and blue-economy focus of the VI Purpose Fund’s challenge."
+          "note": "News article detailing ticket sizes and blue-economy focus of the VI Purpose Fund\u2019s challenge."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -2681,7 +2681,7 @@
       "sources": [
         {
           "source_id": "SRC_SWEN_OCEAN_SITE",
-          "title": "SWEN Blue Ocean – Official site",
+          "title": "SWEN Blue Ocean \u2013 Official site",
           "url": "https://www.swenblueocean.com/",
           "publisher": "SWEN Capital Partners",
           "publication_year": 2024,
@@ -2773,7 +2773,7 @@
       "sources": [
         {
           "source_id": "SRC_SPHERE_OFFICIAL",
-          "title": "Sphere Las Vegas – Official Website",
+          "title": "Sphere Las Vegas \u2013 Official Website",
           "url": "https://www.thesphere.com/",
           "publisher": "Sphere Entertainment Co.",
           "publication_year": null,
@@ -2856,12 +2856,12 @@
       "sources": [
         {
           "source_id": "SRC_COSM_OFFICIAL",
-          "title": "Cosm – Official Site",
+          "title": "Cosm \u2013 Official Site",
           "url": "https://cosm.com/",
           "publisher": "Cosm",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Corporate overview of Cosm’s immersive venues and technology businesses."
+          "note": "Corporate overview of Cosm\u2019s immersive venues and technology businesses."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -2939,12 +2939,12 @@
       "sources": [
         {
           "source_id": "SRC_NEON_OFFICIAL",
-          "title": "NEON – Official Site",
+          "title": "NEON \u2013 Official Site",
           "url": "https://www.neonglobal.com/",
           "publisher": "NEON",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Corporate overview of NEON’s global immersive exhibitions and IP partnerships."
+          "note": "Corporate overview of NEON\u2019s global immersive exhibitions and IP partnerships."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -3022,12 +3022,12 @@
       "sources": [
         {
           "source_id": "SRC_SEVEN_OFFICIAL",
-          "title": "SEVEN – Official Site",
+          "title": "SEVEN \u2013 Official Site",
           "url": "https://seven.sa/",
           "publisher": "Saudi Entertainment Ventures",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Corporate description of SEVEN’s role in building a network of entertainment destinations in Saudi Arabia."
+          "note": "Corporate description of SEVEN\u2019s role in building a network of entertainment destinations in Saudi Arabia."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -3103,12 +3103,12 @@
       "sources": [
         {
           "source_id": "SRC_DHE_OFFICIAL",
-          "title": "Dubai Holding Entertainment – Company Overview",
+          "title": "Dubai Holding Entertainment \u2013 Company Overview",
           "url": "https://www.dubaiholding.com/en/who-we-are/our-companies/dubai-holding-entertainment",
           "publisher": "Dubai Holding",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Lists Dubai Holding Entertainment’s attractions including Dubai Parks and Resorts."
+          "note": "Lists Dubai Holding Entertainment\u2019s attractions including Dubai Parks and Resorts."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -3118,7 +3118,7 @@
       "investor_id": "INV_00031_EMAAR_ENT",
       "investor_name": "Emaar Entertainment",
       "investor_category": "destination_developer",
-      "description": "Entertainment subsidiary of Emaar Properties, operating attractions such as Dubai Aquarium & Underwater Zoo, Dubai Ice Rink and other media-rich experiences within Emaar’s malls and mixed-use destinations.",
+      "description": "Entertainment subsidiary of Emaar Properties, operating attractions such as Dubai Aquarium & Underwater Zoo, Dubai Ice Rink and other media-rich experiences within Emaar\u2019s malls and mixed-use destinations.",
       "country": "United Arab Emirates",
       "country_iso2": "AE",
       "world_region": "MENA_GCC",
@@ -3128,7 +3128,7 @@
       "main_website": "https://www.emaar.com/en/our-businesses/emaar-entertainment",
       "fund_size_overall": {
         "currency": "AED",
-        "note": "Part of Emaar Properties’ portfolio; investments are integrated into mall and mixed-use destination developments."
+        "note": "Part of Emaar Properties\u2019 portfolio; investments are integrated into mall and mixed-use destination developments."
       },
       "immersive_investment": {
         "has_immersive_portfolio": true,
@@ -3184,12 +3184,12 @@
       "sources": [
         {
           "source_id": "SRC_EMAAR_ENT",
-          "title": "Emaar Entertainment – Our Businesses",
+          "title": "Emaar Entertainment \u2013 Our Businesses",
           "url": "https://www.emaar.com/en/our-businesses/emaar-entertainment",
           "publisher": "Emaar Properties",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Outlines Emaar’s portfolio of entertainment attractions in Dubai and beyond."
+          "note": "Outlines Emaar\u2019s portfolio of entertainment attractions in Dubai and beyond."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -3197,7 +3197,7 @@
     },
     {
       "investor_id": "INV_00032_MAJID_AF_LEISURE",
-      "investor_name": "Majid Al Futtaim – Leisure, Entertainment & Cinemas",
+      "investor_name": "Majid Al Futtaim \u2013 Leisure, Entertainment & Cinemas",
       "investor_category": "destination_developer",
       "description": "Leisure and entertainment division of Majid Al Futtaim Group, operating VOX Cinemas, Ski Dubai and other indoor attractions across malls and destinations in the Middle East and North Africa.",
       "country": "United Arab Emirates",
@@ -3266,12 +3266,12 @@
       "sources": [
         {
           "source_id": "SRC_MAF_LEISURE",
-          "title": "Leisure, Entertainment & Cinemas – Majid Al Futtaim",
+          "title": "Leisure, Entertainment & Cinemas \u2013 Majid Al Futtaim",
           "url": "https://www.majidalfuttaim.com/en/our-businesses/leisure-and-entertainment",
           "publisher": "Majid Al Futtaim",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Overview of the group’s leisure and entertainment assets including Ski Dubai and VOX Cinemas."
+          "note": "Overview of the group\u2019s leisure and entertainment assets including Ski Dubai and VOX Cinemas."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -3340,7 +3340,9 @@
         "fit_comment": "Relevant operator for small-to-mid-size domes attached to LEGOLAND or SEA LIFE clusters."
       },
       "immersive_projects": [],
-      "key_people": [],
+      "key_people": [
+        "PEO_00012_FIONA_EASTWOOD"
+      ],
       "tags": [
         "legoland",
         "madame_tussauds",
@@ -3350,7 +3352,7 @@
       "sources": [
         {
           "source_id": "SRC_MERLIN_OFFICIAL",
-          "title": "Merlin Entertainments – Corporate Site",
+          "title": "Merlin Entertainments \u2013 Corporate Site",
           "url": "https://www.merlinentertainments.biz/",
           "publisher": "Merlin Entertainments",
           "publication_year": null,
@@ -3429,7 +3431,7 @@
       "sources": [
         {
           "source_id": "SRC_IMAX_OFFICIAL",
-          "title": "IMAX – About",
+          "title": "IMAX \u2013 About",
           "url": "https://www.imax.com/about",
           "publisher": "IMAX Corporation",
           "publication_year": null,
@@ -3498,8 +3500,14 @@
         ],
         "fit_comment": "Relevant operator or creative partner for dome-based immersive art spaces and story-driven destinations."
       },
-      "immersive_projects": [],
-      "key_people": [],
+      "immersive_projects": [
+        "PRJ_00011_MEOW_HOUSE_ETERNAL_RETURN",
+        "PRJ_00012_MEOW_OMEGA_MART",
+        "PRJ_00013_MEOW_CONVERGENCE_STATION"
+      ],
+      "key_people": [
+        "PEO_00013_REBECCA_CAMPBELL"
+      ],
       "tags": [
         "immersive_art",
         "lbe",
@@ -3509,12 +3517,12 @@
       "sources": [
         {
           "source_id": "SRC_MEOW_VISIT",
-          "title": "Visit – Meow Wolf Locations",
+          "title": "Visit \u2013 Meow Wolf Locations",
           "url": "https://meowwolf.com/visit",
           "publisher": "Meow Wolf",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Lists Meow Wolf’s permanent immersive exhibitions and describes them as large-scale interactive art experiences."
+          "note": "Lists Meow Wolf\u2019s permanent immersive exhibitions and describes them as large-scale interactive art experiences."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -3591,12 +3599,12 @@
       "sources": [
         {
           "source_id": "SRC_VR_FUND_SITE",
-          "title": "The Venture Reality Fund – Official Site",
+          "title": "The Venture Reality Fund \u2013 Official Site",
           "url": "https://www.thevrfund.com/",
           "publisher": "The Venture Reality Fund",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Describes the fund’s focus on VR/AR and XR companies."
+          "note": "Describes the fund\u2019s focus on VR/AR and XR companies."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -3672,12 +3680,12 @@
       "sources": [
         {
           "source_id": "SRC_GFR_SITE",
-          "title": "GFR Fund – Official Site",
+          "title": "GFR Fund \u2013 Official Site",
           "url": "https://www.gfrfund.com/",
           "publisher": "GFR Fund",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Outlines GFR’s focus on gaming and interactive entertainment."
+          "note": "Outlines GFR\u2019s focus on gaming and interactive entertainment."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -3687,7 +3695,7 @@
       "investor_id": "INV_00038_BOOST_VC",
       "investor_name": "Boost VC",
       "investor_category": "venture_fund_family",
-      "description": "Silicon Valley accelerator and seed fund backing founders in sci-fi–inspired sectors including VR/AR, crypto and frontier technologies.",
+      "description": "Silicon Valley accelerator and seed fund backing founders in sci-fi\u2013inspired sectors including VR/AR, crypto and frontier technologies.",
       "country": "United States",
       "country_iso2": "US",
       "world_region": "NORTH_AMERICA",
@@ -3753,12 +3761,12 @@
       "sources": [
         {
           "source_id": "SRC_BOOST_SITE",
-          "title": "Boost VC – Official Site",
+          "title": "Boost VC \u2013 Official Site",
           "url": "https://www.boost.vc/",
           "publisher": "Boost VC",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Describes Boost VC’s focus on sci-fi tech including VR and AR."
+          "note": "Describes Boost VC\u2019s focus on sci-fi tech including VR and AR."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -3837,7 +3845,7 @@
       "sources": [
         {
           "source_id": "SRC_BITKRAFT_PRESS",
-          "title": "BITKRAFT Ventures – Media Resources",
+          "title": "BITKRAFT Ventures \u2013 Media Resources",
           "url": "https://www.bitkraft.vc/press/",
           "publisher": "BITKRAFT Ventures",
           "publication_year": 2024,
@@ -3921,7 +3929,7 @@
       "sources": [
         {
           "source_id": "SRC_HIRO_FUND2",
-          "title": "Hiro Capital Launches Second €300m Videogames and Metaverse Fund",
+          "title": "Hiro Capital Launches Second \u20ac300m Videogames and Metaverse Fund",
           "url": "https://www.businesswire.com/news/home/20220228005597/en/Hiro-Capital-Launches-Second-%E2%82%AC300m-340m-Videogames-and-Metaverse-Technologies-Venture-Fund",
           "publisher": "Business Wire",
           "publication_year": 2022,
@@ -3998,7 +4006,7 @@
       "sources": [
         {
           "source_id": "SRC_MAKERS_PROFILE",
-          "title": "Makers Fund – Overview",
+          "title": "Makers Fund \u2013 Overview",
           "url": "https://makersfund.com/",
           "publisher": "Makers Fund",
           "publication_year": null,
@@ -4077,7 +4085,7 @@
       "sources": [
         {
           "source_id": "SRC_LVP_PROFILE",
-          "title": "London Venture Partners – Official Site",
+          "title": "London Venture Partners \u2013 Official Site",
           "url": "https://www.londonvp.com/",
           "publisher": "London Venture Partners",
           "publication_year": null,
@@ -4155,7 +4163,7 @@
       "sources": [
         {
           "source_id": "SRC_PLAY_VENTURES_SITE",
-          "title": "Play Ventures – Official Site",
+          "title": "Play Ventures \u2013 Official Site",
           "url": "https://playventures.vc/",
           "publisher": "Play Ventures",
           "publication_year": null,
@@ -4235,7 +4243,7 @@
       "sources": [
         {
           "source_id": "SRC_OUTLIER_SITE",
-          "title": "Outlier Ventures – Official Site",
+          "title": "Outlier Ventures \u2013 Official Site",
           "url": "https://outlierventures.io/",
           "publisher": "Outlier Ventures",
           "publication_year": null,
@@ -4250,7 +4258,7 @@
       "investor_id": "INV_00045_ANIMOCA_BRANDS",
       "investor_name": "Animoca Brands",
       "investor_category": "venture_and_growth_fund",
-      "description": "Hong Kong–based Web3 and gaming company that acts as both operator and prolific investor in blockchain games, metaverse projects and digital asset ecosystems.",
+      "description": "Hong Kong\u2013based Web3 and gaming company that acts as both operator and prolific investor in blockchain games, metaverse projects and digital asset ecosystems.",
       "country": "China (Hong Kong SAR)",
       "country_iso2": "HK",
       "world_region": "ASIA_PACIFIC",
@@ -4319,12 +4327,12 @@
       "sources": [
         {
           "source_id": "SRC_ANIMOCA_SITE",
-          "title": "Animoca Brands – Official Site",
+          "title": "Animoca Brands \u2013 Official Site",
           "url": "https://www.animocabrands.com/",
           "publisher": "Animoca Brands",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Corporate overview describing Animoca Brands’ role as a Web3 and gaming investor and operator."
+          "note": "Corporate overview describing Animoca Brands\u2019 role as a Web3 and gaming investor and operator."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -4352,7 +4360,7 @@
       "sources": [
         {
           "source_id": "SRC_PIF_GIGA",
-          "title": "PIF – Giga-Projects: Qiddiya",
+          "title": "PIF \u2013 Giga-Projects: Qiddiya",
           "url": "https://www.pif.gov.sa/en/our-investments/giga-projects/",
           "publisher": "Public Investment Fund",
           "publication_year": null,
@@ -4383,7 +4391,7 @@
       "sources": [
         {
           "source_id": "SRC_DIRIYAH_GIGA",
-          "title": "Diriyah announced as PIF’s fifth giga-project",
+          "title": "Diriyah announced as PIF\u2019s fifth giga-project",
           "url": "https://www.zawya.com/en/press-release/government-news/hrh-crown-prince-announces-diriyah-as-pifs-fifth-giga-project-l931lae7",
           "publisher": "Zawya",
           "publication_year": 2022,
@@ -4416,12 +4424,12 @@
       "sources": [
         {
           "source_id": "SRC_MIRAL_BLOOLOOP",
-          "title": "Miral: all you need to know about Abu Dhabi’s developer of immersive destinations",
+          "title": "Miral: all you need to know about Abu Dhabi\u2019s developer of immersive destinations",
           "url": "https://blooloop.com/theme-park/in-depth/miral-abu-dhabi/",
           "publisher": "Blooloop",
           "publication_year": 2024,
           "accessed": "2025-11-15",
-          "note": "Describes Miral’s role as developer, manager and operator."
+          "note": "Describes Miral\u2019s role as developer, manager and operator."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -4456,7 +4464,7 @@
       "sources": [
         {
           "source_id": "SRC_PIF_GIGA",
-          "title": "PIF – Giga-Projects: NEOM",
+          "title": "PIF \u2013 Giga-Projects: NEOM",
           "url": "https://www.pif.gov.sa/en/our-investments/giga-projects/",
           "publisher": "Public Investment Fund",
           "publication_year": null,
@@ -4493,11 +4501,11 @@
         "tourism_leadership",
         "youth_culture"
       ],
-      "notes": "376 km² entertainment, sports and culture city positioned to offer “the most innovative and immersive experiences”.",
+      "notes": "376 km\u00b2 entertainment, sports and culture city positioned to offer \u201cthe most innovative and immersive experiences\u201d.",
       "sources": [
         {
           "source_id": "SRC_PIF_QIDDIYA",
-          "title": "Qiddiya – PIF Giga-Projects",
+          "title": "Qiddiya \u2013 PIF Giga-Projects",
           "url": "https://www.pif.gov.sa/en/our-investments/giga-projects/",
           "publisher": "Public Investment Fund",
           "publication_year": null,
@@ -4535,7 +4543,7 @@
       "sources": [
         {
           "source_id": "SRC_REDSEA_GIGA",
-          "title": "Saudi Arabia Giga Projects Overview – Red Sea",
+          "title": "Saudi Arabia Giga Projects Overview \u2013 Red Sea",
           "url": "https://content.knightfrank.com/research/2618/documents/en/saudi-arabia-giga-projects-2024-11526.pdf",
           "publisher": "Knight Frank",
           "publication_year": 2024,
@@ -4575,12 +4583,12 @@
       "sources": [
         {
           "source_id": "SRC_DIRIYAH_GIGA",
-          "title": "HRH Crown Prince announces Diriyah as PIF’s fifth giga-project",
+          "title": "HRH Crown Prince announces Diriyah as PIF\u2019s fifth giga-project",
           "url": "https://www.zawya.com/en/press-release/government-news/hrh-crown-prince-announces-diriyah-as-pifs-fifth-giga-project-l931lae7",
           "publisher": "Zawya",
           "publication_year": 2022,
           "accessed": "2025-11-15",
-          "note": "Details Diriyah’s role in tourism and culture strategy."
+          "note": "Details Diriyah\u2019s role in tourism and culture strategy."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -4591,7 +4599,7 @@
       "project_name": "Ferrari World Yas Island",
       "project_type": "XR_park",
       "country": "United Arab Emirates",
-      "city_or_region": "Abu Dhabi – Yas Island",
+      "city_or_region": "Abu Dhabi \u2013 Yas Island",
       "linked_destination_ids": [],
       "start_year": null,
       "status": "operational",
@@ -4614,12 +4622,12 @@
       "sources": [
         {
           "source_id": "SRC_MIRAL_DESTINATIONS",
-          "title": "Miral Destinations – Yas Island Overview",
+          "title": "Miral Destinations \u2013 Yas Island Overview",
           "url": "https://miraldestinations.com/",
           "publisher": "Miral",
           "publication_year": null,
           "accessed": "2025-11-15",
-          "note": "Lists Ferrari World Yas Island as part of Yas Island’s attraction portfolio."
+          "note": "Lists Ferrari World Yas Island as part of Yas Island\u2019s attraction portfolio."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -4630,7 +4638,7 @@
       "project_name": "Warner Bros. World Abu Dhabi",
       "project_type": "XR_park",
       "country": "United Arab Emirates",
-      "city_or_region": "Abu Dhabi – Yas Island",
+      "city_or_region": "Abu Dhabi \u2013 Yas Island",
       "linked_destination_ids": [],
       "start_year": null,
       "status": "operational",
@@ -4652,7 +4660,7 @@
       "sources": [
         {
           "source_id": "SRC_MIRAL_DESTINATIONS",
-          "title": "Miral Destinations – Yas Island Overview",
+          "title": "Miral Destinations \u2013 Yas Island Overview",
           "url": "https://miraldestinations.com/",
           "publisher": "Miral",
           "publication_year": null,
@@ -4668,7 +4676,7 @@
       "project_name": "SeaWorld Yas Island Abu Dhabi",
       "project_type": "other",
       "country": "United Arab Emirates",
-      "city_or_region": "Abu Dhabi – Yas Island",
+      "city_or_region": "Abu Dhabi \u2013 Yas Island",
       "linked_destination_ids": [],
       "start_year": null,
       "status": "operational",
@@ -4680,22 +4688,42 @@
         "INS_00003_MIRAL_GROUP"
       ],
       "immersive_formats": [
-        "experience_center"
+        "experience_center",
+        "dome_ride_theatre",
+        "media_based_ride"
       ],
       "soft_power_goals": [
         "science_and_education",
         "tourism_leadership"
       ],
-      "notes": "Marine life theme park with strong emphasis on education, exhibits and media-based storytelling about the ocean.",
+      "notes": "Marine life theme park with strong emphasis on education, exhibits and media-based storytelling about the ocean. The park includes the Hypersphere 360 Dome Ride Theater, a 17-metre LED sphere-based ride by Attraktion! and Intamin, highlighting large-scale dome media integration.",
       "sources": [
         {
           "source_id": "SRC_MIRAL_DESTINATIONS",
-          "title": "Miral Destinations – Yas Island Overview",
+          "title": "Miral Destinations \u2013 Yas Island Overview",
           "url": "https://miraldestinations.com/",
           "publisher": "Miral",
           "publication_year": null,
           "accessed": "2025-11-15",
           "note": "Lists SeaWorld Yas Island Abu Dhabi as part of the Yas attraction portfolio."
+        },
+        {
+          "source_id": "SRC_SEAWORLD_HYPERSPHERE_ATTRAKTION",
+          "title": "FIRST EVER DOME RIDE THEATER \u2013 SeaWorld Abu Dhabi",
+          "url": "https://attraktion.com/2023/07/12/dome-ride-theater-at-seaworld-abu-dhabi/873/",
+          "publisher": "Attraktion!",
+          "publication_year": 2023,
+          "accessed": "2025-11-16",
+          "note": "Describes the Hypersphere 360 Dome Ride Theater at SeaWorld Yas Island Abu Dhabi, including its 17m LED sphere and ride concept."
+        },
+        {
+          "source_id": "SRC_SEAWORLD_HYPERSPHERE_INTAMIN",
+          "title": "Hypersphere 360\u00b0 - Dome Ride Theater",
+          "url": "https://www.intamin.com/project/hypersphere-360/",
+          "publisher": "Intamin Amusement Rides",
+          "publication_year": 2023,
+          "accessed": "2025-11-16",
+          "note": "Product page detailing the Hypersphere 360 dome ride theatre delivered to SeaWorld Abu Dhabi."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -4728,12 +4756,12 @@
       "sources": [
         {
           "source_id": "SRC_MIRAL_EXPERIENCES",
-          "title": "Miral Experiences – Portfolio",
+          "title": "Miral Experiences \u2013 Portfolio",
           "url": "https://miral.ae/miralexperiences/",
           "publisher": "Miral",
           "publication_year": null,
           "accessed": "2025-11-15",
-          "note": "Lists teamLab Phenomena Abu Dhabi in Miral’s portfolio."
+          "note": "Lists teamLab Phenomena Abu Dhabi in Miral\u2019s portfolio."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -4741,10 +4769,10 @@
     },
     {
       "project_id": "PRJ_00009_YAS_ISLAND_DISNEY_RESORT",
-      "project_name": "Disney Theme Park & Resort – Yas Island Abu Dhabi",
+      "project_name": "Disney Theme Park & Resort \u2013 Yas Island Abu Dhabi",
       "project_type": "themed_entertainment_district",
       "country": "United Arab Emirates",
-      "city_or_region": "Abu Dhabi – Yas Island",
+      "city_or_region": "Abu Dhabi \u2013 Yas Island",
       "linked_destination_ids": [],
       "start_year": null,
       "status": "planned",
@@ -4764,7 +4792,7 @@
         "nation_branding",
         "other"
       ],
-      "notes": "Planned landmark Disney theme park resort and Disney’s first resort in the Middle East; Miral finances, builds and operates, Disney provides IP and creative design.",
+      "notes": "Planned landmark Disney theme park resort and Disney\u2019s first resort in the Middle East; Miral finances, builds and operates, Disney provides IP and creative design.",
       "sources": [
         {
           "source_id": "SRC_DISNEY_MIRAL",
@@ -4799,12 +4827,150 @@
       "links": [],
       "notes": "Stub entry created during ID renumbering; enrich with detailed immersive use-cases in a future version.",
       "sources": []
+    },
+    {
+      "project_id": "PRJ_00011_MEOW_HOUSE_ETERNAL_RETURN",
+      "project_name": "Meow Wolf \u2013 House of Eternal Return",
+      "project_type": "immersive_art_exhibition",
+      "country": "United States",
+      "city_or_region": "Santa Fe, New Mexico",
+      "linked_destination_ids": [],
+      "start_year": 2016,
+      "status": "operational",
+      "lead_investor_ids": [
+        "INV_00035_MEOW_WOLF"
+      ],
+      "co_investor_ids": [],
+      "operator_institutions": [],
+      "immersive_formats": [
+        "immersive_art",
+        "interactive_walkthrough"
+      ],
+      "soft_power_goals": [
+        "creative_industries",
+        "tourism_and_culture"
+      ],
+      "notes": "Permanent immersive art installation in Santa Fe combining non-linear storytelling with large-scale, walk-through environments; widely cited as Meow Wolf\u2019s flagship experience.",
+      "sources": [
+        {
+          "source_id": "SRC_MEOW_HOUSE_OFFICIAL",
+          "title": "Meow Wolf Santa Fe \u2013 House of Eternal Return",
+          "url": "https://meowwolf.com/visit/santa-fe",
+          "publisher": "Meow Wolf",
+          "publication_year": 2025,
+          "accessed": "2025-11-16",
+          "note": "Official visitor page describing House of Eternal Return as an immersive art experience with non-linear storytelling."
+        },
+        {
+          "source_id": "SRC_MEOW_HOUSE_WIKIPEDIA",
+          "title": "House of Eternal Return",
+          "url": "https://en.wikipedia.org/wiki/House_of_Eternal_Return",
+          "publisher": "Wikipedia",
+          "publication_year": 2025,
+          "accessed": "2025-11-16",
+          "note": "Background on the permanent immersive art installation in Santa Fe, including opening date and size."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "project_id": "PRJ_00012_MEOW_OMEGA_MART",
+      "project_name": "Meow Wolf \u2013 Omega Mart",
+      "project_type": "immersive_art_exhibition",
+      "country": "United States",
+      "city_or_region": "Las Vegas, Nevada",
+      "linked_destination_ids": [],
+      "start_year": null,
+      "status": "operational",
+      "lead_investor_ids": [
+        "INV_00035_MEOW_WOLF"
+      ],
+      "co_investor_ids": [],
+      "operator_institutions": [],
+      "immersive_formats": [
+        "immersive_art",
+        "interactive_walkthrough"
+      ],
+      "soft_power_goals": [
+        "creative_industries",
+        "tourism_and_culture"
+      ],
+      "notes": "Large-scale immersive art exhibition located inside the AREA15 experiential entertainment complex in Las Vegas; presents a surreal, story-driven supermarket that opens into multiple otherworldly spaces.",
+      "sources": [
+        {
+          "source_id": "SRC_MEOW_OMEGA_WIKI",
+          "title": "Omega Mart",
+          "url": "https://meow-wolf.fandom.com/wiki/Omega_Mart",
+          "publisher": "Meow Wolf Wiki",
+          "publication_year": 2025,
+          "accessed": "2025-11-16",
+          "note": "Describes Omega Mart as Meow Wolf\u2019s second permanent exhibition, located in AREA15 in Las Vegas."
+        },
+        {
+          "source_id": "SRC_MEOW_OMEGA_REVIEW",
+          "title": "Meow Wolf - All locations: House of Eternal Return, Omega Mart, Convergence Station",
+          "url": "https://www.escapetheroomers.com/post/meow-wolf-all-3-locations-house-of-eternal-return-omega-mart-and-convergence-station",
+          "publisher": "Escape the Roomers",
+          "publication_year": 2023,
+          "accessed": "2025-11-16",
+          "note": "Review article describing Omega Mart as an immersive, interactive art experience in Las Vegas."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "project_id": "PRJ_00013_MEOW_CONVERGENCE_STATION",
+      "project_name": "Meow Wolf \u2013 Convergence Station",
+      "project_type": "immersive_art_exhibition",
+      "country": "United States",
+      "city_or_region": "Denver, Colorado",
+      "linked_destination_ids": [],
+      "start_year": null,
+      "status": "operational",
+      "lead_investor_ids": [
+        "INV_00035_MEOW_WOLF"
+      ],
+      "co_investor_ids": [],
+      "operator_institutions": [],
+      "immersive_formats": [
+        "immersive_art",
+        "interactive_walkthrough"
+      ],
+      "soft_power_goals": [
+        "creative_industries",
+        "tourism_and_culture"
+      ],
+      "notes": "Immersive art experience in Denver that frames itself as a multiversal transit station, combining story, sound and interactivity across multiple alien worlds.",
+      "sources": [
+        {
+          "source_id": "SRC_MEOW_CONVERGENCE_OFFICIAL",
+          "title": "Meow Wolf Denver \u2013 Convergence Station",
+          "url": "https://meowwolf.com/visit/denver",
+          "publisher": "Meow Wolf",
+          "publication_year": 2025,
+          "accessed": "2025-11-16",
+          "note": "Official visitor page describing Convergence Station as an immersive, psychedelic art experience in Denver."
+        },
+        {
+          "source_id": "SRC_MEOW_CONVERGENCE_SITE",
+          "title": "Meow Wolf's Convergence Station | Immersive Art",
+          "url": "https://www.convergencestation.com/",
+          "publisher": "Meow Wolf / Convergence Station",
+          "publication_year": 2025,
+          "accessed": "2025-11-16",
+          "note": "Site describes Convergence Station as a multiversal transit station and immersive art experience in Denver."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     }
   ],
   "policies": [
     {
       "policy_id": "POL_00001_SA_VISION2030",
-      "policy_name": "Saudi Vision 2030 – Tourism, Culture and Entertainment Pillars",
+      "policy_name": "Saudi Vision 2030 \u2013 Tourism, Culture and Entertainment Pillars",
       "country": "Saudi Arabia",
       "world_region": "MENA_GCC",
       "policy_type": "vision_program",
@@ -4904,7 +5070,7 @@
           "source_id": "SRC_AD_TOURISM2030_DCT",
           "title": "Tourism Strategy 2030",
           "url": "https://dct.gov.ae/en/who.we.are/tourism.strategy.2030.aspx",
-          "publisher": "Department of Culture and Tourism – Abu Dhabi",
+          "publisher": "Department of Culture and Tourism \u2013 Abu Dhabi",
           "publication_year": 2024,
           "accessed": "2025-11-16",
           "note": "Official overview of Abu Dhabi's Tourism Strategy 2030."
@@ -4925,13 +5091,13 @@
         "giga_projects",
         "international_investments"
       ],
-      "public_stance_on_immersive": "As PIF’s Governor, he frequently highlights giga-projects and tourism as key pillars of Saudi Arabia’s economic transformation, indirectly framing immersive destinations as strategic assets.",
+      "public_stance_on_immersive": "As PIF\u2019s Governor, he frequently highlights giga-projects and tourism as key pillars of Saudi Arabia\u2019s economic transformation, indirectly framing immersive destinations as strategic assets.",
       "links": [],
       "notes": "",
       "sources": [
         {
           "source_id": "SRC_PIF_GOVERNOR",
-          "title": "PIF Governance – Board and Governor",
+          "title": "PIF Governance \u2013 Board and Governor",
           "url": "https://www.pif.gov.sa/en/",
           "publisher": "Public Investment Fund",
           "publication_year": null,
@@ -4951,7 +5117,7 @@
         "financial_reporting",
         "portfolio_valuation"
       ],
-      "public_stance_on_immersive": "Commentary on the valuation of giga-projects and their role in PIF’s portfolio links financial performance to the broader transformation of Saudi Arabia’s tourism and destination landscape.",
+      "public_stance_on_immersive": "Commentary on the valuation of giga-projects and their role in PIF\u2019s portfolio links financial performance to the broader transformation of Saudi Arabia\u2019s tourism and destination landscape.",
       "links": [],
       "notes": "",
       "sources": [
@@ -4962,7 +5128,7 @@
           "publisher": "AGBI",
           "publication_year": 2025,
           "accessed": "2025-11-15",
-          "note": "Article referencing PIF’s CFO and valuation of giga-project portfolio."
+          "note": "Article referencing PIF\u2019s CFO and valuation of giga-project portfolio."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -4983,7 +5149,7 @@
       "sources": [
         {
           "source_id": "SRC_MIRAL_BLOOLOOP",
-          "title": "Miral: all you need to know about Abu Dhabi’s developer of immersive destinations",
+          "title": "Miral: all you need to know about Abu Dhabi\u2019s developer of immersive destinations",
           "url": "https://blooloop.com/theme-park/in-depth/miral-abu-dhabi/",
           "publisher": "Blooloop",
           "publication_year": 2024,
@@ -5009,7 +5175,7 @@
       "sources": [
         {
           "source_id": "SRC_MIRAL_EXPERIENCES",
-          "title": "Miral Experiences – Leadership",
+          "title": "Miral Experiences \u2013 Leadership",
           "url": "https://miral.ae/miralexperiences/",
           "publisher": "Miral",
           "publication_year": null,
@@ -5060,18 +5226,18 @@
         "immersive_destinations",
         "economic_diversification"
       ],
-      "public_stance_on_immersive": "Frequently associated with Abu Dhabi’s cultural and tourism growth agenda and Miral’s role in creating immersive destinations on Yas Island and Saadiyat Island.",
+      "public_stance_on_immersive": "Frequently associated with Abu Dhabi\u2019s cultural and tourism growth agenda and Miral\u2019s role in creating immersive destinations on Yas Island and Saadiyat Island.",
       "links": [
         {
           "type": "corporate_bio",
           "url": "https://miral.ae/about-miral/"
         }
       ],
-      "notes": "Connects Miral’s immersive destination strategy directly with Abu Dhabi’s long-term tourism and diversification goals.",
+      "notes": "Connects Miral\u2019s immersive destination strategy directly with Abu Dhabi\u2019s long-term tourism and diversification goals.",
       "sources": [
         {
           "source_id": "SRC_MIRAL_ABOUT",
-          "title": "About Miral – Leadership",
+          "title": "About Miral \u2013 Leadership",
           "url": "https://miral.ae/about-miral/",
           "publisher": "Miral",
           "publication_year": 2024,
@@ -5107,7 +5273,7 @@
       "sources": [
         {
           "source_id": "SRC_VINEETBUDKI_SITE",
-          "title": "Vineet Budki – Official website",
+          "title": "Vineet Budki \u2013 Official website",
           "url": "https://www.vineetbudki.com/",
           "publisher": "Vineet Budki",
           "publication_year": null,
@@ -5116,7 +5282,7 @@
         },
         {
           "source_id": "SRC_SIGMA_TEAM_PAGE",
-          "title": "Team – Sigma Capital",
+          "title": "Team \u2013 Sigma Capital",
           "url": "https://sigmavc.com/team/",
           "publisher": "Sigma Capital",
           "publication_year": null,
@@ -5136,7 +5302,7 @@
         "operations",
         "fund_management"
       ],
-      "public_stance_on_immersive": "Operational lead for Sigma Capital’s Web3 fund, indirectly relevant for immersive projects in gaming and metaverse.",
+      "public_stance_on_immersive": "Operational lead for Sigma Capital\u2019s Web3 fund, indirectly relevant for immersive projects in gaming and metaverse.",
       "links": [
         {
           "type": "firm_bio",
@@ -5147,7 +5313,7 @@
       "sources": [
         {
           "source_id": "SRC_SIGMA_TEAM_PAGE",
-          "title": "Team – Sigma Capital",
+          "title": "Team \u2013 Sigma Capital",
           "url": "https://sigmavc.com/team/",
           "publisher": "Sigma Capital",
           "publication_year": null,
@@ -5179,25 +5345,25 @@
           "url": "https://www.forbesmiddleeast.com/lists/the-middle-easts-top-venture-capitalists-2024/kais-al-essa-haitham-bu-aisha-mohammed-alamad/"
         }
       ],
-      "notes": "Grouped representation of Vision Ventures’ main partners to keep the people table compact.",
+      "notes": "Grouped representation of Vision Ventures\u2019 main partners to keep the people table compact.",
       "sources": [
         {
           "source_id": "SRC_VISION_VENTURES_WEBSITE",
-          "title": "Vision Ventures – Venture Capital",
+          "title": "Vision Ventures \u2013 Venture Capital",
           "url": "https://visionvc.co/",
           "publisher": "Vision Ventures",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Confirms Vision Ventures’ positioning and partner-led structure."
+          "note": "Confirms Vision Ventures\u2019 positioning and partner-led structure."
         },
         {
           "source_id": "SRC_FORBES_VISION_PARTNERS_2024",
-          "title": "The Middle East’s Top Venture Capitalists 2024 – Kais Al-Essa, Haitham Bu-Aisha, Mohammed Alamad",
+          "title": "The Middle East\u2019s Top Venture Capitalists 2024 \u2013 Kais Al-Essa, Haitham Bu-Aisha, Mohammed Alamad",
           "url": "https://www.forbesmiddleeast.com/lists/the-middle-easts-top-venture-capitalists-2024/kais-al-essa-haitham-bu-aisha-mohammed-alamad/",
           "publisher": "Forbes Middle East",
           "publication_year": 2024,
           "accessed": "2025-11-16",
-          "note": "Profiles Vision Ventures’ founding partners."
+          "note": "Profiles Vision Ventures\u2019 founding partners."
         }
       ],
       "data_valid_as_of": "2025-11-16",
@@ -5213,7 +5379,7 @@
         "fund_of_funds",
         "future_economy_thematic"
       ],
-      "public_stance_on_immersive": "Leads DFDF’s strategy on Future Economies, which includes metaverse and AR/VR segments; positions DFDF as a catalyst for Dubai’s innovation and startup ecosystem.",
+      "public_stance_on_immersive": "Leads DFDF\u2019s strategy on Future Economies, which includes metaverse and AR/VR segments; positions DFDF as a catalyst for Dubai\u2019s innovation and startup ecosystem.",
       "links": [
         {
           "type": "profile",
@@ -5228,16 +5394,16 @@
       "sources": [
         {
           "source_id": "SRC_DFDF_PROFILE_INVESTOPIA",
-          "title": "Nader Albastaki – Managing Director, Dubai Future District Fund",
+          "title": "Nader Albastaki \u2013 Managing Director, Dubai Future District Fund",
           "url": "https://investopia.ae/speakers/nader-albastaki/",
           "publisher": "Investopia",
           "publication_year": null,
           "accessed": "2025-11-16",
-          "note": "Confirms his role and describes DFDF’s mandate."
+          "note": "Confirms his role and describes DFDF\u2019s mandate."
         },
         {
           "source_id": "SRC_UAESTORIES_ALBASTAKI",
-          "title": "Nader Albastaki: Pioneering Dubai’s Future Economy",
+          "title": "Nader Albastaki: Pioneering Dubai\u2019s Future Economy",
           "url": "https://uaestories.com/nader-albastaki-dubais-future-economy/",
           "publisher": "UAE Stories",
           "publication_year": 2025,
@@ -5258,7 +5424,7 @@
         "deal_sourcing",
         "MENA_and_global_expansion"
       ],
-      "public_stance_on_immersive": "As head of e&’s CVC arm, he highlights using corporate venture capital to scale technology ventures from MENA to global markets; immersive investments like VUZ sit within this broader digital innovation thesis.",
+      "public_stance_on_immersive": "As head of e&\u2019s CVC arm, he highlights using corporate venture capital to scale technology ventures from MENA to global markets; immersive investments like VUZ sit within this broader digital innovation thesis.",
       "links": [
         {
           "type": "podcast_profile",
@@ -5282,12 +5448,84 @@
         },
         {
           "source_id": "SRC_GLEAC_KUSHAL_SHAH",
-          "title": "Kushal Shah – Managing Director (Ventures) at e& capital",
+          "title": "Kushal Shah \u2013 Managing Director (Ventures) at e& capital",
           "url": "https://www.gleac.com/mentors/kushal-shah",
           "publisher": "Gleac",
           "publication_year": null,
           "accessed": "2025-11-16",
           "note": "Mentor profile describing his role heading CVC at e&."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "person_id": "PEO_00012_FIONA_EASTWOOD",
+      "name": "Fiona Eastwood",
+      "role_title": "Chief Executive Officer",
+      "organisation_id": "INV_00033_MERLIN_ENT",
+      "responsibility_areas": [
+        "overall_strategy",
+        "global_theme_parks",
+        "gateway_attractions"
+      ],
+      "public_stance_on_immersive": "As CEO of Merlin Entertainments, she has publicly emphasised the role of physical, shared attractions such as parks and branded experiences as an 'antidote' to screen-based digital entertainment, positioning immersive, location-based experiences as core to Merlin's offer.",
+      "links": [],
+      "notes": "",
+      "sources": [
+        {
+          "source_id": "SRC_MERLIN_FIONA_EASTWOOD_CEO",
+          "title": "Merlin Entertainments names Fiona Eastwood as permanent CEO",
+          "url": "https://www.insidermedia.com/news/national/merlin-entertainments-names-fiona-eastwood-as-permanent-ceo",
+          "publisher": "Insider Media",
+          "publication_year": 2025,
+          "accessed": "2025-11-16",
+          "note": "Confirms Fiona Eastwood as permanent CEO of Merlin Entertainments."
+        },
+        {
+          "source_id": "SRC_MERLIN_CEO_GUARDIAN",
+          "title": "\u2018Big metal rollercoasters beat AI\u2019: Legoland owner's boss on the thrill of theme parks in a tech world",
+          "url": "https://www.theguardian.com/travel/2025/jul/05/were-an-antidote-boss-of-legoland-owner-on-the-thrill-of-theme-parks-in-a-world-of-technology",
+          "publisher": "The Guardian",
+          "publication_year": 2025,
+          "accessed": "2025-11-16",
+          "note": "Interview where Fiona Eastwood describes Merlin\u2019s attractions as an antidote to screen-based, digital entertainment."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "person_id": "PEO_00013_REBECCA_CAMPBELL",
+      "name": "Rebecca Campbell",
+      "role_title": "Interim Chief Executive Officer",
+      "organisation_id": "INV_00035_MEOW_WOLF",
+      "responsibility_areas": [
+        "overall_strategy",
+        "immersive_art_exhibitions",
+        "US_expansion"
+      ],
+      "public_stance_on_immersive": "News coverage describes her appointment as interim CEO to guide Meow Wolf\u2019s programme of large-scale, immersive art installations and continued expansion of permanent exhibitions.",
+      "links": [],
+      "notes": "",
+      "sources": [
+        {
+          "source_id": "SRC_MEOW_WOLF_REBECCA_CAMPBELL",
+          "title": "Meow Wolf CEO to step down, former Disney exec to lead in interim",
+          "url": "https://blooloop.com/immersive/news/meow-wolf-ceo-jose-tolosa-step-down-rebecca-campbell-interim/",
+          "publisher": "Blooloop",
+          "publication_year": 2025,
+          "accessed": "2025-11-16",
+          "note": "Reports that Rebecca Campbell, a former Disney executive and board member, becomes interim CEO of Meow Wolf."
+        },
+        {
+          "source_id": "SRC_MEOW_WOLF_REBECCA_CAMPBELL_LOCAL",
+          "title": "Meow Wolf CEO calls it quits",
+          "url": "https://www.westword.com/arts-culture/meow-wolf-ceo-steps-down-company-to-conduct-external-search-24277733/",
+          "publisher": "Westword",
+          "publication_year": 2025,
+          "accessed": "2025-11-16",
+          "note": "Local coverage confirming Rebecca Campbell\u2019s interim CEO role at Meow Wolf."
         }
       ],
       "data_valid_as_of": "2025-11-16",
