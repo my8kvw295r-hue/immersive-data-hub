@@ -5,7 +5,7 @@
     "description": "A strategic intelligence platform for immersive experiential tourism and investment. This dataset is part of a growing list of high‑impact global destinations evaluated across multiple indicators. The number of destinations may change over time; for any quantitative analysis or counting, please always derive the current count directly from the length of the 'destinations' array.",
     "license": "CC BY 4.0 (attribution required: https://originofwonder.com – Martin Sambauer)",
     "created_at_utc": "2025-11-14T00:00:00Z",
-    "updated_at_utc": "2025-11-15T17:14:40.046346+00:00",
+    "updated_at_utc": "2025-11-16T01:51:13Z",
     "dataset_version": "MARTIN_SAMBAUER_GLOBAL_SOUTH_V19"
   },
   "destinations": [
@@ -4138,6 +4138,27 @@
             "url": "https://whc.unesco.org/en/list/326"
           }
         ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "JOD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "medium_high_risk_2025",
+          "comment": "Emerging or frontier market with improving but still fragile governance; investors should factor in FX volatility, regulatory shifts, infrastructure gaps and, in some cases, security perception when structuring long-horizon tourism and real-estate projects."
+        }
       }
     },
     {
@@ -4317,6 +4338,27 @@
             "url": "https://www.gov.br/turismo"
           }
         ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "BRL",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "medium_high_risk_2025",
+          "comment": "Emerging or frontier market with improving but still fragile governance; investors should factor in FX volatility, regulatory shifts, infrastructure gaps and, in some cases, security perception when structuring long-horizon tourism and real-estate projects."
+        }
       }
     },
     {
@@ -4484,6 +4526,27 @@
             "url": "https://vietnam.travel/statistics"
           }
         ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "VND",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "medium_high_risk_2025",
+          "comment": "Emerging or frontier market with improving but still fragile governance; investors should factor in FX volatility, regulatory shifts, infrastructure gaps and, in some cases, security perception when structuring long-horizon tourism and real-estate projects."
+        }
       }
     },
     {
@@ -4684,6 +4747,27 @@
             "url": "https://www.madagascar-tourisme.com"
           }
         ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "MGA",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "medium_high_risk_2025",
+          "comment": "Emerging or frontier market with improving but still fragile governance; investors should factor in FX volatility, regulatory shifts, infrastructure gaps and, in some cases, security perception when structuring long-horizon tourism and real-estate projects."
+        }
       }
     },
     {
@@ -4903,6 +4987,27 @@
             "url": "https://www.mitur.gob.do"
           }
         ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "DOP",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "medium_high_risk_2025",
+          "comment": "Emerging or frontier market with improving but still fragile governance; investors should factor in FX volatility, regulatory shifts, infrastructure gaps and, in some cases, security perception when structuring long-horizon tourism and real-estate projects."
+        }
       }
     },
     {
@@ -5104,6 +5209,27 @@
             "url": "https://www.visitdubai.com"
           }
         ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "AED",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "medium_risk_state_led_transformation_hub",
+          "comment": "High-income Gulf monarchy with strong state capacity and ambitious state-led mega-projects; policy direction is pro-investment, but decisions are highly centralized and exposed to regional geopolitics and ESG scrutiny."
+        }
       }
     },
     {
@@ -5286,6 +5412,27 @@
             "url": "https://dct.gov.ae"
           }
         ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "AED",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "medium_risk_state_led_transformation_hub",
+          "comment": "High-income Gulf monarchy with strong state capacity and ambitious state-led mega-projects; policy direction is pro-investment, but decisions are highly centralized and exposed to regional geopolitics and ESG scrutiny."
+        }
       }
     },
     {
@@ -5498,6 +5645,2037 @@
             "url": "https://www.gob.mx/sectur"
           }
         ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "MXN",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "medium_high_risk_2025",
+          "comment": "Emerging or frontier market with improving but still fragile governance; investors should factor in FX volatility, regulatory shifts, infrastructure gaps and, in some cases, security perception when structuring long-horizon tourism and real-estate projects."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_20",
+      "core": {
+        "destination_name": "Red Sea Global",
+        "destination_type": "coastal_resort_cluster",
+        "country_name": "Saudi Arabia",
+        "country_iso2": "SA",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Middle_East_North_Africa",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder skeleton destination; detailed attractions and sustainability indicators to be integrated in a future research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:35:35Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "SAR",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "medium_risk_state_led_transformation_hub",
+          "comment": "High-income Gulf monarchy with strong state capacity and ambitious state-led mega-projects; policy direction is pro-investment, but decisions are highly centralized and exposed to regional geopolitics and ESG scrutiny."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_21",
+      "core": {
+        "destination_name": "NEOM / The Line",
+        "destination_type": "planned_new_city",
+        "country_name": "Saudi Arabia",
+        "country_iso2": "SA",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Middle_East_North_Africa",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder skeleton destination; detailed attractions and sustainability indicators to be integrated in a future research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:35:35Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "SAR",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "medium_risk_state_led_transformation_hub",
+          "comment": "High-income Gulf monarchy with strong state capacity and ambitious state-led mega-projects; policy direction is pro-investment, but decisions are highly centralized and exposed to regional geopolitics and ESG scrutiny."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_22",
+      "core": {
+        "destination_name": "AlUla",
+        "destination_type": "heritage_landscape_cluster",
+        "country_name": "Saudi Arabia",
+        "country_iso2": "SA",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Middle_East_North_Africa",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder skeleton destination; detailed attractions and sustainability indicators to be integrated in a future research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:35:35Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "SAR",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "medium_risk_state_led_transformation_hub",
+          "comment": "High-income Gulf monarchy with strong state capacity and ambitious state-led mega-projects; policy direction is pro-investment, but decisions are highly centralized and exposed to regional geopolitics and ESG scrutiny."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_23",
+      "core": {
+        "destination_name": "Qiddiya",
+        "destination_type": "mega_theme_park_cluster",
+        "country_name": "Saudi Arabia",
+        "country_iso2": "SA",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Middle_East_North_Africa",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder skeleton destination; detailed attractions and sustainability indicators to be integrated in a future research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:35:35Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "SAR",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "medium_risk_state_led_transformation_hub",
+          "comment": "High-income Gulf monarchy with strong state capacity and ambitious state-led mega-projects; policy direction is pro-investment, but decisions are highly centralized and exposed to regional geopolitics and ESG scrutiny."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_24",
+      "core": {
+        "destination_name": "Mecca / Makkah",
+        "destination_type": "pilgrimage_city",
+        "country_name": "Saudi Arabia",
+        "country_iso2": "SA",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Middle_East_North_Africa",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder skeleton destination; detailed attractions and sustainability indicators to be integrated in a future research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:35:35Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "SAR",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "medium_risk_state_led_transformation_hub",
+          "comment": "High-income Gulf monarchy with strong state capacity and ambitious state-led mega-projects; policy direction is pro-investment, but decisions are highly centralized and exposed to regional geopolitics and ESG scrutiny."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_25",
+      "core": {
+        "destination_name": "Diriyah Gate",
+        "destination_type": "heritage_urban_district",
+        "country_name": "Saudi Arabia",
+        "country_iso2": "SA",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Middle_East_North_Africa",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder skeleton destination; detailed attractions and sustainability indicators to be integrated in a future research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:35:35Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "SAR",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "medium_risk_state_led_transformation_hub",
+          "comment": "High-income Gulf monarchy with strong state capacity and ambitious state-led mega-projects; policy direction is pro-investment, but decisions are highly centralized and exposed to regional geopolitics and ESG scrutiny."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_26",
+      "core": {
+        "destination_name": "Paris",
+        "destination_type": "global_city_destination",
+        "country_name": "France",
+        "country_iso2": "FR",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder skeleton destination; detailed attractions and sustainability indicators to be integrated in a future research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:35:35Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "EUR",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "very_low_risk_mature_democracy",
+          "comment": "High-income democracy with stable institutions and relatively predictable regulation; investors primarily face market, cost and planning risks rather than systemic political instability."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_27",
+      "core": {
+        "destination_name": "Barcelona",
+        "destination_type": "urban_coastal_city",
+        "country_name": "Spain",
+        "country_iso2": "ES",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder skeleton destination; detailed attractions and sustainability indicators to be integrated in a future research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:35:35Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "EUR",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "very_low_risk_mature_democracy",
+          "comment": "High-income democracy with stable institutions and relatively predictable regulation; investors primarily face market, cost and planning risks rather than systemic political instability."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_28",
+      "core": {
+        "destination_name": "Venice",
+        "destination_type": "historic_city_on_lagoon",
+        "country_name": "Italy",
+        "country_iso2": "IT",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder skeleton destination; detailed attractions and sustainability indicators to be integrated in a future research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:35:35Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "EUR",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "very_low_risk_mature_democracy",
+          "comment": "High-income democracy with stable institutions and relatively predictable regulation; investors primarily face market, cost and planning risks rather than systemic political instability."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_29",
+      "core": {
+        "destination_name": "Great Smoky Mountains National Park",
+        "destination_type": "national_park",
+        "country_name": "United States",
+        "country_iso2": "US",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "North_America",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder skeleton destination; detailed attractions and sustainability indicators to be integrated in a future research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:35:35Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "very_low_risk_institutional_icon",
+          "comment": "High-income OECD country with strong rule of law and deep capital markets; regime risk is minimal, while project-level permitting, environmental regulation and climate impacts are the main constraints for long-term tourism investment."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_30",
+      "core": {
+        "destination_name": "Tokyo",
+        "destination_type": "global_city_destination",
+        "country_name": "Japan",
+        "country_iso2": "JP",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "East_Asia_Pacific",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder skeleton destination; detailed attractions and sustainability indicators to be integrated in a future research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:35:35Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "JPY",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "very_low_risk_mature_democracy",
+          "comment": "High-income democracy with stable institutions and relatively predictable regulation; investors primarily face market, cost and planning risks rather than systemic political instability."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_31",
+      "core": {
+        "destination_name": "Machu Picchu",
+        "destination_type": "archaeological_mountain_site",
+        "country_name": "Peru",
+        "country_iso2": "PE",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Latin_America",
+        "world_bank_income_level": "upper_middle",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder skeleton destination; detailed attractions and sustainability indicators to be integrated in a future research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:35:35Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "PEN",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "medium_high_risk_2025",
+          "comment": "Emerging or frontier market with improving but still fragile governance; investors should factor in FX volatility, regulatory shifts, infrastructure gaps and, in some cases, security perception when structuring long-horizon tourism and real-estate projects."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_32",
+      "core": {
+        "destination_name": "Great Wall of China",
+        "destination_type": "heritage_linear_site",
+        "country_name": "China",
+        "country_iso2": "CN",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "East_Asia_Pacific",
+        "world_bank_income_level": "upper_middle",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder skeleton destination; detailed attractions and sustainability indicators to be integrated in a future research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:35:35Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "CNY",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "medium_high_risk_2025",
+          "comment": "Emerging or frontier market with improving but still fragile governance; investors should factor in FX volatility, regulatory shifts, infrastructure gaps and, in some cases, security perception when structuring long-horizon tourism and real-estate projects."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_33",
+      "core": {
+        "destination_name": "Forbidden City (Palace Museum, Beijing)",
+        "destination_type": "palace_museum_complex",
+        "country_name": "China",
+        "country_iso2": "CN",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "East_Asia_Pacific",
+        "world_bank_income_level": "upper_middle",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder skeleton destination; detailed attractions and sustainability indicators to be integrated in a future research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:35:35Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "CNY",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "medium_high_risk_2025",
+          "comment": "Emerging or frontier market with improving but still fragile governance; investors should factor in FX volatility, regulatory shifts, infrastructure gaps and, in some cases, security perception when structuring long-horizon tourism and real-estate projects."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_34",
+      "core": {
+        "destination_name": "Zion National Park",
+        "destination_type": "national_park",
+        "country_name": "United States",
+        "country_iso2": "US",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "North_America",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder skeleton destination; detailed attractions and sustainability indicators to be integrated in a future research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:35:35Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "very_low_risk_institutional_icon",
+          "comment": "High-income OECD country with strong rule of law and deep capital markets; regime risk is minimal, while project-level permitting, environmental regulation and climate impacts are the main constraints for long-term tourism investment."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_35",
+      "core": {
+        "destination_name": "Grand Canyon National Park",
+        "destination_type": "national_park",
+        "country_name": "United States",
+        "country_iso2": "US",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "North_America",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder destination; detailed attractions, tourism flows and sustainability indicators will be added in a dedicated research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:42:51Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "very_low_risk_institutional_icon",
+          "comment": "High-income OECD country with strong rule of law and deep capital markets; regime risk is minimal, while project-level permitting, environmental regulation and climate impacts are the main constraints for long-term tourism investment."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_36",
+      "core": {
+        "destination_name": "Yosemite National Park",
+        "destination_type": "national_park",
+        "country_name": "United States",
+        "country_iso2": "US",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "North_America",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder destination; detailed attractions, tourism flows and sustainability indicators will be added in a dedicated research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:42:51Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "very_low_risk_institutional_icon",
+          "comment": "High-income OECD country with strong rule of law and deep capital markets; regime risk is minimal, while project-level permitting, environmental regulation and climate impacts are the main constraints for long-term tourism investment."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_37",
+      "core": {
+        "destination_name": "Rome",
+        "destination_type": "historic_capital_city",
+        "country_name": "Italy",
+        "country_iso2": "IT",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder destination; detailed attractions, tourism flows and sustainability indicators will be added in a dedicated research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:42:51Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "EUR",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "very_low_risk_mature_democracy",
+          "comment": "High-income democracy with stable institutions and relatively predictable regulation; investors primarily face market, cost and planning risks rather than systemic political instability."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_38",
+      "core": {
+        "destination_name": "Amsterdam",
+        "destination_type": "canal_city_destination",
+        "country_name": "Netherlands",
+        "country_iso2": "NL",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder destination; detailed attractions, tourism flows and sustainability indicators will be added in a dedicated research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:42:51Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "EUR",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "very_low_risk_mature_democracy",
+          "comment": "High-income democracy with stable institutions and relatively predictable regulation; investors primarily face market, cost and planning risks rather than systemic political instability."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_39",
+      "core": {
+        "destination_name": "Prague",
+        "destination_type": "historic_city_destination",
+        "country_name": "Czech Republic",
+        "country_iso2": "CZ",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder destination; detailed attractions, tourism flows and sustainability indicators will be added in a dedicated research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:42:51Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "CZK",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "very_low_risk_mature_democracy",
+          "comment": "High-income democracy with stable institutions and relatively predictable regulation; investors primarily face market, cost and planning risks rather than systemic political instability."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_40",
+      "core": {
+        "destination_name": "Istanbul",
+        "destination_type": "transcontinental_megacity",
+        "country_name": "Turkey",
+        "country_iso2": "TR",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Europe_Central_Asia",
+        "world_bank_income_level": "upper_middle",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder destination; detailed attractions, tourism flows and sustainability indicators will be added in a dedicated research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:42:51Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "TRY",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "medium_high_risk_2025",
+          "comment": "Emerging or frontier market with improving but still fragile governance; investors should factor in FX volatility, regulatory shifts, infrastructure gaps and, in some cases, security perception when structuring long-horizon tourism and real-estate projects."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_41",
+      "core": {
+        "destination_name": "Dubrovnik",
+        "destination_type": "walled_coastal_city",
+        "country_name": "Croatia",
+        "country_iso2": "HR",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder destination; detailed attractions, tourism flows and sustainability indicators will be added in a dedicated research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:42:51Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "EUR",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "very_low_risk_mature_democracy",
+          "comment": "High-income democracy with stable institutions and relatively predictable regulation; investors primarily face market, cost and planning risks rather than systemic political instability."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_42",
+      "core": {
+        "destination_name": "Santorini",
+        "destination_type": "volcanic_island_destination",
+        "country_name": "Greece",
+        "country_iso2": "GR",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder destination; detailed attractions, tourism flows and sustainability indicators will be added in a dedicated research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:42:51Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "EUR",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "very_low_risk_mature_democracy",
+          "comment": "High-income democracy with stable institutions and relatively predictable regulation; investors primarily face market, cost and planning risks rather than systemic political instability."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_43",
+      "core": {
+        "destination_name": "Florence",
+        "destination_type": "renaissance_city_destination",
+        "country_name": "Italy",
+        "country_iso2": "IT",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder destination; detailed attractions, tourism flows and sustainability indicators will be added in a dedicated research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:42:51Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "EUR",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "very_low_risk_mature_democracy",
+          "comment": "High-income democracy with stable institutions and relatively predictable regulation; investors primarily face market, cost and planning risks rather than systemic political instability."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_44",
+      "core": {
+        "destination_name": "Edinburgh",
+        "destination_type": "historic_capital_city",
+        "country_name": "United Kingdom",
+        "country_iso2": "GB",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder destination; detailed attractions, tourism flows and sustainability indicators will be added in a dedicated research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:42:51Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "GBP",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "very_low_risk_mature_democracy",
+          "comment": "High-income democracy with stable institutions and relatively predictable regulation; investors primarily face market, cost and planning risks rather than systemic political instability."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_45",
+      "core": {
+        "destination_name": "London",
+        "destination_type": "global_city_destination",
+        "country_name": "United Kingdom",
+        "country_iso2": "GB",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder destination; detailed attractions, tourism flows and sustainability indicators will be added in a dedicated research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:42:51Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "GBP",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "very_low_risk_mature_democracy",
+          "comment": "High-income democracy with stable institutions and relatively predictable regulation; investors primarily face market, cost and planning risks rather than systemic political instability."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_46",
+      "core": {
+        "destination_name": "Kyoto",
+        "destination_type": "heritage_city_destination",
+        "country_name": "Japan",
+        "country_iso2": "JP",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "East_Asia_Pacific",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder destination; detailed attractions, tourism flows and sustainability indicators will be added in a dedicated research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:42:51Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "JPY",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "very_low_risk_mature_democracy",
+          "comment": "High-income democracy with stable institutions and relatively predictable regulation; investors primarily face market, cost and planning risks rather than systemic political instability."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_47",
+      "core": {
+        "destination_name": "Taj Mahal / Agra",
+        "destination_type": "iconic_monument_city_cluster",
+        "country_name": "India",
+        "country_iso2": "IN",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "South_Asia",
+        "world_bank_income_level": "lower_middle",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder destination; detailed attractions, tourism flows and sustainability indicators will be added in a dedicated research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:42:51Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "INR",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "medium_high_risk_2025",
+          "comment": "Emerging or frontier market with improving but still fragile governance; investors should factor in FX volatility, regulatory shifts, infrastructure gaps and, in some cases, security perception when structuring long-horizon tourism and real-estate projects."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_48",
+      "core": {
+        "destination_name": "Nha Trang",
+        "destination_type": "beach_city_destination",
+        "country_name": "Vietnam",
+        "country_iso2": "VN",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "East_Asia_Pacific",
+        "world_bank_income_level": "lower_middle",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder destination; detailed attractions, tourism flows and sustainability indicators will be added in a dedicated research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:42:51Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "VND",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "medium_high_risk_2025",
+          "comment": "Emerging or frontier market with improving but still fragile governance; investors should factor in FX volatility, regulatory shifts, infrastructure gaps and, in some cases, security perception when structuring long-horizon tourism and real-estate projects."
+        }
+      }
+    },
+    {
+      "destination_id": "DEST_49",
+      "core": {
+        "destination_name": "Stonehenge",
+        "destination_type": "prehistoric_monument_site",
+        "country_name": "United Kingdom",
+        "country_iso2": "GB",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": "high",
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "economy": {},
+      "throughput_nodes": {
+        "airports": [],
+        "ports": []
+      },
+      "real_estate": {
+        "residential": {},
+        "land": null
+      },
+      "sustainability_profile": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder destination; detailed attractions, tourism flows and sustainability indicators will be added in a dedicated research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T01:42:51Z",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "sources": [
+          {
+            "id": "ORIGIN_OF_WONDER_TOP116",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "url": ""
+          }
+        ]
+      },
+      "investor_profile": {
+        "avg_monthly_income_formal_sector": {
+          "amount_local": null,
+          "currency_local": "GBP",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2024-01-01",
+          "comment": "Placeholder only: typical formal-sector monthly income not yet integrated. Use latest national labor statistics / ILO or World Bank data before relying on this field for investment decisions."
+        },
+        "gdp_per_capita_2023": {
+          "amount_local": null,
+          "currency_local": "USD",
+          "amount_usd": null,
+          "fx_rate_to_usd": 1.0,
+          "fx_rate_date": "2023-12-31"
+        },
+        "political_stability_assessment": {
+          "category": "very_low_risk_mature_democracy",
+          "comment": "High-income democracy with stable institutions and relatively predictable regulation; investors primarily face market, cost and planning risks rather than systemic political instability."
+        }
       }
     }
   ],
