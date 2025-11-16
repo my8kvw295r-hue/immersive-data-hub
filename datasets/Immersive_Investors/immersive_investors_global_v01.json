@@ -11,7 +11,9 @@
     "geographic_scope": "global, with current focus on GCC/MENA",
     "primary_focus_regions": [
       "MENA_GCC"
-    ]
+    ],
+    "snapshot_date": "2025-11-16",
+    "last_reviewed": "2025-11-16"
   },
   "investors": [
     {
@@ -30,7 +32,8 @@
         "amount": 913000000000,
         "currency": "USD",
         "as_of_year": 2024,
-        "note": "Approximate AUM at the end of 2024 according to PIF\u2019s annual report, as summarised in financial press."
+        "note": "Approximate AUM at the end of 2024 according to PIF\u2019s annual report, as summarised in financial press.",
+        "as_of_date": "2024-01-01"
       },
       "immersive_investment": {
         "has_immersive_portfolio": true,
@@ -124,7 +127,9 @@
           "accessed": "2025-11-15",
           "note": "Lists PIF giga-projects including NEOM, Red Sea, Qiddiya and DIRIYAH."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "investor_id": "INV_MIRAL",
@@ -142,7 +147,8 @@
         "amount": null,
         "currency": "USD",
         "as_of_year": null,
-        "note": "No consolidated public AUM figure; Miral operates as developer/operator with project-based investment volumes."
+        "note": "No consolidated public AUM figure; Miral operates as developer/operator with project-based investment volumes.",
+        "as_of_date": null
       },
       "immersive_investment": {
         "has_immersive_portfolio": true,
@@ -228,7 +234,9 @@
           "accessed": "2025-11-15",
           "note": "Background article on Miral\u2019s structure and portfolio."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "investor_id": "INV_SIGMA_CAPITAL",
@@ -246,7 +254,8 @@
         "amount": 100000000,
         "currency": "USD",
         "as_of_year": 2025,
-        "note": "Sigma Capital Fund I target size as reported in 2025 fund launch coverage."
+        "note": "Sigma Capital Fund I target size as reported in 2025 fund launch coverage.",
+        "as_of_date": "2025-01-01"
       },
       "immersive_investment": {
         "has_immersive_portfolio": true,
@@ -328,7 +337,9 @@
           "accessed": "2025-11-16",
           "note": "Profile of Sigma Capital and its CEO, confirming fund size and Web3 focus."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "investor_id": "INV_VISION_VENTURES",
@@ -346,7 +357,8 @@
         "amount": null,
         "currency": "USD",
         "as_of_year": null,
-        "note": "Saqr Fund II target size reported at USD 90m, but total AUM for Vision Ventures is not consolidated in public sources."
+        "note": "Saqr Fund II target size reported at USD 90m, but total AUM for Vision Ventures is not consolidated in public sources.",
+        "as_of_date": null
       },
       "immersive_investment": {
         "has_immersive_portfolio": true,
@@ -427,7 +439,9 @@
           "accessed": "2025-11-16",
           "note": "Lists Vision Ventures VC Fund among investors in VUZ, an XR-based immersive social app."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "investor_id": "INV_DFDF",
@@ -445,7 +459,8 @@
         "amount": null,
         "currency": "USD",
         "as_of_year": null,
-        "note": "Evergreen vehicle; no single consolidated AUM figure in public sources."
+        "note": "Evergreen vehicle; no single consolidated AUM figure in public sources.",
+        "as_of_date": null
       },
       "immersive_investment": {
         "has_immersive_portfolio": true,
@@ -529,7 +544,9 @@
           "accessed": "2025-11-16",
           "note": "Reports DFDF\u2019s shift to a more targeted fund-of-funds and co-investment approach."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "investor_id": "INV_EAND_CAPITAL",
@@ -547,7 +564,8 @@
         "amount": 250000000,
         "currency": "USD",
         "as_of_year": 2022,
-        "note": "Approximate size of the dedicated VC fund mentioned at GITEX Global 2022; e& capital also references ~USD 500m of broader commitments."
+        "note": "Approximate size of the dedicated VC fund mentioned at GITEX Global 2022; e& capital also references ~USD 500m of broader commitments.",
+        "as_of_date": "2022-01-01"
       },
       "immersive_investment": {
         "has_immersive_portfolio": true,
@@ -628,7 +646,9 @@
           "accessed": "2025-11-16",
           "note": "Lists e& capital as lead/strategic investor in the Series B of immersive social app VUZ."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     }
   ],
   "institutions": [
@@ -659,7 +679,9 @@
           "accessed": "2025-11-15",
           "note": "Qiddiya described as cultural, sports and entertainment city."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "institution_id": "INS_DIRIYAH_COMPANY",
@@ -688,7 +710,9 @@
           "accessed": "2025-11-15",
           "note": "Describes Diriyah as PIF giga-project aligned with tourism and culture strategy."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "institution_id": "INS_MIRAL_GROUP",
@@ -719,7 +743,9 @@
           "accessed": "2025-11-15",
           "note": "Describes Miral\u2019s role as developer, manager and operator."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     }
   ],
   "projects": [
@@ -757,7 +783,9 @@
           "accessed": "2025-11-15",
           "note": "NEOM listed as PIF giga-project."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "project_id": "PRJ_QIDDIYA_CITY",
@@ -796,7 +824,9 @@
           "accessed": "2025-11-15",
           "note": "Describes Qiddiya as cultural, sports and entertainment destination with immersive experiences."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "project_id": "PRJ_RED_SEA_CLUSTER",
@@ -832,7 +862,9 @@
           "accessed": "2025-11-15",
           "note": "Report summarising major Saudi giga-projects including Red Sea."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "project_id": "PRJ_DIRIYAH",
@@ -870,7 +902,9 @@
           "accessed": "2025-11-15",
           "note": "Details Diriyah\u2019s role in tourism and culture strategy."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "project_id": "PRJ_FERRARI_WORLD",
@@ -907,7 +941,9 @@
           "accessed": "2025-11-15",
           "note": "Lists Ferrari World Yas Island as part of Yas Island\u2019s attraction portfolio."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "project_id": "PRJ_WB_WORLD",
@@ -943,7 +979,9 @@
           "accessed": "2025-11-15",
           "note": "Lists Warner Bros. World Abu Dhabi as a core attraction."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "project_id": "PRJ_SEAWORLD_YAS",
@@ -979,7 +1017,9 @@
           "accessed": "2025-11-15",
           "note": "Lists SeaWorld Yas Island Abu Dhabi as part of the Yas attraction portfolio."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "project_id": "PRJ_TEAMLAB_PHENOMENA",
@@ -1015,7 +1055,9 @@
           "accessed": "2025-11-15",
           "note": "Lists teamLab Phenomena Abu Dhabi in Miral\u2019s portfolio."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "project_id": "PRJ_YAS_ISLAND_DISNEY_RESORT",
@@ -1053,7 +1095,9 @@
           "accessed": "2025-11-15",
           "note": "Official announcement of the Disney resort with Miral as developer and operator."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     }
   ],
   "policies": [
@@ -1087,7 +1131,9 @@
           "accessed": "2025-11-15",
           "note": "Explains how giga-projects are part of Vision 2030."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "policy_id": "POL_SA_PIF_ENT_LEISURE_SPORTS",
@@ -1124,7 +1170,9 @@
           "accessed": "2025-11-16",
           "note": "Explains that entertainment, leisure and sports are one of PIF's focus sectors."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "policy_id": "POL_AE_AD_TOURISM2030",
@@ -1163,7 +1211,9 @@
           "accessed": "2025-11-16",
           "note": "Official overview of Abu Dhabi's Tourism Strategy 2030."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     }
   ],
   "people": [
@@ -1190,7 +1240,9 @@
           "accessed": "2025-11-15",
           "note": "Identifies Yasir Al-Rumayyan as Governor of PIF."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "person_id": "PEO_YASIR_ALSALMAN",
@@ -1214,7 +1266,9 @@
           "accessed": "2025-11-15",
           "note": "Article referencing PIF\u2019s CFO and valuation of giga-project portfolio."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "person_id": "PEO_MOHAMED_ALZAABI",
@@ -1238,7 +1292,9 @@
           "accessed": "2025-11-15",
           "note": "Profile mentioning Mohamed Abdalla Al Zaabi as Group CEO."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "person_id": "PEO_JULIEN_KAUFFMANN",
@@ -1262,7 +1318,9 @@
           "accessed": "2025-11-15",
           "note": "Lists Julien Kauffmann as CEO of Miral Experiences and outlines his portfolio responsibility."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "person_id": "PEO_MISHARY_ALIBRAHEEM",
@@ -1289,7 +1347,9 @@
           "accessed": "2025-11-16",
           "note": "Identifies Mishary Alibraheem and his role in PIF's entertainment, leisure, sports and education investments."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "person_id": "PEO_MOHAMED_KHALIFA_ALMUBARAK",
@@ -1320,7 +1380,9 @@
           "accessed": "2025-11-16",
           "note": "Provides biographical details and describes his leadership role."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "person_id": "PEO_VINEET_BUDKI",
@@ -1363,7 +1425,9 @@
           "accessed": "2025-11-16",
           "note": "Lists Vineet Budki as Partner & CEO of Sigma Capital."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "person_id": "PEO_VICKAASH_AGARAWAL",
@@ -1392,7 +1456,9 @@
           "accessed": "2025-11-16",
           "note": "Shows Vickaash Agarawal as Partner & COO with operational responsibilities."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "person_id": "PEO_VISION_PARTNERS",
@@ -1435,7 +1501,9 @@
           "accessed": "2025-11-16",
           "note": "Profiles Vision Ventures\u2019 founding partners."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "person_id": "PEO_NADER_ALBASTAKI",
@@ -1478,7 +1546,9 @@
           "accessed": "2025-11-16",
           "note": "Narrative profile of Albastaki and his leadership of DFDF."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     },
     {
       "person_id": "PEO_KUSHAL_SHAH",
@@ -1521,7 +1591,9 @@
           "accessed": "2025-11-16",
           "note": "Mentor profile describing his role heading CVC at e&."
         }
-      ]
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     }
   ]
 }
