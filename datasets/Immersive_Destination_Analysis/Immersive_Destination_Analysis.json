@@ -1,9 +1,9 @@
 {
   "dataset_meta": {
     "dataset_id": "MARTIN_SAMBAUER_GLOBAL_SOUTH_V1",
-    "title": "Global South Tourism & Investment Destinations – Pilot",
-    "description": "A strategic intelligence platform for immersive experiential tourism and investment. This dataset is part of a growing list of high‑impact global destinations evaluated across multiple indicators. The number of destinations may change over time; for any quantitative analysis or counting, please always derive the current count directly from the length of the 'destinations' array.",
-    "license": "CC BY 4.0 (attribution required: https://originofwonder.com – Martin Sambauer)",
+    "title": "Global South Tourism & Investment Destinations \u2013 Pilot",
+    "description": "A strategic intelligence platform for immersive experiential tourism and investment. This dataset is part of a growing list of high\u2011impact global destinations evaluated across multiple indicators. The number of destinations may change over time; for any quantitative analysis or counting, please always derive the current count directly from the length of the 'destinations' array.",
+    "license": "CC BY 4.0 (attribution required: https://originofwonder.com \u2013 Martin Sambauer)",
     "created_at_utc": "2025-11-14T00:00:00Z",
     "updated_at_utc": "2025-11-16T01:51:13Z",
     "dataset_version": "MARTIN_SAMBAUER_GLOBAL_SOUTH_V19"
@@ -43,7 +43,7 @@
             "overnight_stays_total": null,
             "tourism_revenue_total": null,
             "repeat_visitor_share_percent": null,
-            "notes": "Press and NGO reports mention ‘nearly 330,000’ visitors."
+            "notes": "Press and NGO reports mention \u2018nearly 330,000\u2019 visitors."
           }
         ],
         "tourist_tax": {
@@ -150,7 +150,7 @@
               "fx_rate_to_usd": 1.0,
               "fx_rate_date": "2025-11-14"
             },
-            "comment": "Indicative listing range 1,200–1,800 USD/m² from local agents and portals."
+            "comment": "Indicative listing range 1,200\u20131,800 USD/m\u00b2 from local agents and portals."
           }
         },
         "land": null
@@ -261,7 +261,7 @@
             "typical_daily_visitors_high_season": null,
             "estimated_annual_visitors": 20000,
             "throughput_data_quality": "modelled_range_midpoint",
-            "derivation_notes": "Tours run 7 days/week with usually 1–2 departures per day in small boats (~10–16 pax) from Puerto Villamil. Assuming ~1.5 tours/day * 14 pax * ~260 effective operating days ≈ 5,460 pax per operator; scaling to multiple licensed operators yields an order-of-magnitude 15k–25k visitors per year. 20k used as midpoint."
+            "derivation_notes": "Tours run 7 days/week with usually 1\u20132 departures per day in small boats (~10\u201316 pax) from Puerto Villamil. Assuming ~1.5 tours/day * 14 pax * ~260 effective operating days \u2248 5,460 pax per operator; scaling to multiple licensed operators yields an order-of-magnitude 15k\u201325k visitors per year. 20k used as midpoint."
           }
         },
         {
@@ -292,7 +292,7 @@
             "typical_daily_visitors_high_season": null,
             "estimated_annual_visitors": 25000,
             "throughput_data_quality": "modelled_range_midpoint",
-            "derivation_notes": "Described as one of the most famous and most booked dive/snorkel sites in the archipelago. Assuming multiple daily boats from San Cristobal across main season (2–3 boats/day * ~12 pax * ~300 days) gives a broad 15k–35k range; 25k taken as midpoint for now."
+            "derivation_notes": "Described as one of the most famous and most booked dive/snorkel sites in the archipelago. Assuming multiple daily boats from San Cristobal across main season (2\u20133 boats/day * ~12 pax * ~300 days) gives a broad 15k\u201335k range; 25k taken as midpoint for now."
           }
         }
       ],
@@ -312,7 +312,7 @@
           },
           {
             "id": "CDRS_VISITORS",
-            "title": "Charles Darwin Foundation – Our Campus",
+            "title": "Charles Darwin Foundation \u2013 Our Campus",
             "url": "https://www.darwinfoundation.org/en/about/our-campus/"
           }
         ]
@@ -324,7 +324,7 @@
           "amount_usd": 1370,
           "fx_rate_to_usd": 1.0,
           "fx_rate_date": "2024-01-01",
-          "comment": "Approximate average formal-sector monthly salary in Ecuador in 2024, based on synthesis of multiple labour-market reports that place the national average around 1,350–1,400 USD/month; using 1,370 USD as a rounded midpoint for modelling. Source examples include private salary benchmark reports that aggregate official data."
+          "comment": "Approximate average formal-sector monthly salary in Ecuador in 2024, based on synthesis of multiple labour-market reports that place the national average around 1,350\u20131,400 USD/month; using 1,370 USD as a rounded midpoint for modelling. Source examples include private salary benchmark reports that aggregate official data."
         },
         "gdp_per_capita_2023": {
           "amount_local": null,
@@ -335,7 +335,7 @@
         },
         "political_stability_assessment": {
           "category": "elevated_risk_but_functioning_democracy",
-          "comment": "Ecuador’s political stability score in the World Bank Worldwide Governance Indicators has remained negative and below the global average in recent years, reflecting elevated risks from organized crime, security crises and episodes of political instability. At the same time, core democratic institutions and the constitutional framework remain in place. This label flags a higher-risk, but still investable, environment for long-horizon impact projects in the Galápagos."
+          "comment": "Ecuador\u2019s political stability score in the World Bank Worldwide Governance Indicators has remained negative and below the global average in recent years, reflecting elevated risks from organized crime, security crises and episodes of political instability. At the same time, core democratic institutions and the constitutional framework remain in place. This label flags a higher-risk, but still investable, environment for long-horizon impact projects in the Gal\u00e1pagos."
         }
       }
     },
@@ -428,7 +428,7 @@
           "amount_usd": 190,
           "fx_rate_to_usd": 0.00037,
           "fx_rate_date": "2025-11-14",
-          "comment": "Average net salary 513k TZS ≈ 190 USD."
+          "comment": "Average net salary 513k TZS \u2248 190 USD."
         },
         "gdp_per_capita_2023": {
           "amount_local": 1224,
@@ -490,7 +490,7 @@
               "fx_rate_to_usd": 1.0,
               "fx_rate_date": "2025-10-29"
             },
-            "comment": "Median resale band circa 1,800–2,200 USD/m² for Stone Town apartments."
+            "comment": "Median resale band circa 1,800\u20132,200 USD/m\u00b2 for Stone Town apartments."
           }
         },
         "land": {
@@ -558,7 +558,7 @@
             "typical_daily_visitors_high_season": null,
             "estimated_annual_visitors": 752215,
             "throughput_data_quality": "reported",
-            "derivation_notes": "NCAA / Tanzanian media report 752,215 visitors in the fiscal year ending June 2023 – described as the highest number on record; used here as annual throughput benchmark."
+            "derivation_notes": "NCAA / Tanzanian media report 752,215 visitors in the fiscal year ending June 2023 \u2013 described as the highest number on record; used here as annual throughput benchmark."
           },
           "attraction_name": "Ngorongoro Conservation Area",
           "attraction_type": "safari_wildlife",
@@ -577,7 +577,7 @@
             "typical_daily_visitors_high_season": null,
             "estimated_annual_visitors": 40000,
             "throughput_data_quality": "modelled_range_midpoint",
-            "derivation_notes": "Multiple operator and statistics sites report that 30,000–50,000 climbers attempt Kilimanjaro each year; 40,000 is used as a midpoint estimate for total annual park user throughput linked to climbing."
+            "derivation_notes": "Multiple operator and statistics sites report that 30,000\u201350,000 climbers attempt Kilimanjaro each year; 40,000 is used as a midpoint estimate for total annual park user throughput linked to climbing."
           },
           "attraction_name": "Mount Kilimanjaro National Park",
           "attraction_type": "mountain_trekking",
@@ -586,7 +586,7 @@
             "score_1to3": 3
           },
           "environment_type": "unknown",
-          "short_description": "Africa’s highest peak; multi-day trekking routes from rainforest to alpine desert. UNESCO World Heritage site."
+          "short_description": "Africa\u2019s highest peak; multi-day trekking routes from rainforest to alpine desert. UNESCO World Heritage site."
         },
         {
           "attraction_id": "TZ_ATTR_ZANZIBAR_BEACHES_001",
@@ -656,7 +656,7 @@
       },
       "sustainability_profile": {
         "protected_area_share_percent": 40.0,
-        "protected_area_notes": "Roughly 38–40% of Tanzania’s land area is under some form of legal protection (national parks, game reserves, conservation areas and other protected categories), with more than 800 protected areas recorded in global and regional databases (UNEP-WCMC, IUCN, regional SoPACA reports). This unusually high share underpins the long-term ecological value of the northern safari circuit but also implies strict regulatory frameworks for any new immersive or destination infrastructure."
+        "protected_area_notes": "Roughly 38\u201340% of Tanzania\u2019s land area is under some form of legal protection (national parks, game reserves, conservation areas and other protected categories), with more than 800 protected areas recorded in global and regional databases (UNEP-WCMC, IUCN, regional SoPACA reports). This unusually high share underpins the long-term ecological value of the northern safari circuit but also implies strict regulatory frameworks for any new immersive or destination infrastructure."
       }
     },
     {
@@ -689,7 +689,7 @@
         },
         "role_of_red_sea_cluster": {
           "qualitative_importance": "core_beach_and_dive_region",
-          "comment": "Red Sea resorts absorb a large share of Egypt’s leisure nights."
+          "comment": "Red Sea resorts absorb a large share of Egypt\u2019s leisure nights."
         },
         "hotel_occupancy_indicators_2023": {
           "egypt_overall_h1_2023_occupancy_percent": 80,
@@ -748,7 +748,7 @@
               "fx_rate_to_usd": 0.0327,
               "fx_rate_date": "2023-06-30"
             },
-            "comment": "Indicative 3,500–4,000 EGP/m² midrange asking prices from property portals."
+            "comment": "Indicative 3,500\u20134,000 EGP/m\u00b2 midrange asking prices from property portals."
           }
         },
         "land": null
@@ -890,7 +890,7 @@
             "fx_rate_date": "2019-12-31"
           },
           "local_capture": null,
-          "comment": "Egypt’s international tourism receipts reached about 14.256 billion USD in 2019 before the pandemic, according to World Bank / UN Tourism time series. This figure is used as an upper-bound, order-of-magnitude proxy for the combined Red Sea coastal cluster (Hurghada, Sharm El-Sheikh, Marsa Alam, etc.). A robust, source-based breakdown of receipts by Red Sea sub-region is not yet available in this dataset, so local_capture is left null by design."
+          "comment": "Egypt\u2019s international tourism receipts reached about 14.256 billion USD in 2019 before the pandemic, according to World Bank / UN Tourism time series. This figure is used as an upper-bound, order-of-magnitude proxy for the combined Red Sea coastal cluster (Hurghada, Sharm El-Sheikh, Marsa Alam, etc.). A robust, source-based breakdown of receipts by Red Sea sub-region is not yet available in this dataset, so local_capture is left null by design."
         }
       }
     },
@@ -969,7 +969,7 @@
           "amount_usd": 1242,
           "fx_rate_to_usd": 1.08,
           "fx_rate_date": "2025-11-14",
-          "comment": "Based on national averages around 1,342 EUR gross and 1,098–1,225 EUR net per month; Athens is slightly above national average."
+          "comment": "Based on national averages around 1,342 EUR gross and 1,098\u20131,225 EUR net per month; Athens is slightly above national average."
         },
         "gdp_per_capita_2023": {
           "amount_local": 23401,
@@ -1030,7 +1030,7 @@
               "fx_rate_to_usd": 1.08,
               "fx_rate_date": "2025-10-01"
             },
-            "comment": "Average residential asking price in Athens (city) ~2,400 EUR/m² as of Oct 2025; city-centre stock will normally trade above this baseline."
+            "comment": "Average residential asking price in Athens (city) ~2,400 EUR/m\u00b2 as of Oct 2025; city-centre stock will normally trade above this baseline."
           }
         },
         "land": null
@@ -1086,7 +1086,7 @@
             "typical_daily_visitors_high_season": null,
             "estimated_annual_visitors": 2000000,
             "throughput_data_quality": "reported_approximate",
-            "derivation_notes": "Museum communications and independent coverage describe \"around 2 million\" visitors per year; 3.9 million visitors between early 2023 and end 2024 imply ~1.9–2.0 million per 12-month period."
+            "derivation_notes": "Museum communications and independent coverage describe \"around 2 million\" visitors per year; 3.9 million visitors between early 2023 and end 2024 imply ~1.9\u20132.0 million per 12-month period."
           },
           "attraction_name": "Acropolis Museum",
           "attraction_type": "museum",
@@ -1143,7 +1143,7 @@
             "typical_daily_visitors_high_season": null,
             "estimated_annual_visitors": null,
             "throughput_data_quality": "unknown",
-            "derivation_notes": "The Greek Statistical Authority (ELSTAT) and the Hellenic Organization of Cultural Resources Development (HOCRED) publish monthly and annual visitor statistics for state museums and archaeological sites, including the National Archaeological Museum. This dataset intentionally leaves absolute visitor counts null at this stage: future versions should pull the museum’s annual visitor totals directly from the ELSTAT “Museums and Archaeological Sites Attendance” tables for a specific reference year and document the exact table, series and extract date here."
+            "derivation_notes": "The Greek Statistical Authority (ELSTAT) and the Hellenic Organization of Cultural Resources Development (HOCRED) publish monthly and annual visitor statistics for state museums and archaeological sites, including the National Archaeological Museum. This dataset intentionally leaves absolute visitor counts null at this stage: future versions should pull the museum\u2019s annual visitor totals directly from the ELSTAT \u201cMuseums and Archaeological Sites Attendance\u201d tables for a specific reference year and document the exact table, series and extract date here."
           },
           "attraction_name": "National Archaeological Museum of Athens",
           "attraction_type": "museum",
@@ -1547,7 +1547,7 @@
           },
           {
             "id": "ceicdata_wages",
-            "title": "Indonesia Monthly Earnings, 1991 – 2024 | CEIC Data",
+            "title": "Indonesia Monthly Earnings, 1991 \u2013 2024 | CEIC Data",
             "url": "https://www.ceicdata.com/en/indicator/indonesia/monthly-earnings"
           },
           {
@@ -1562,7 +1562,7 @@
           },
           {
             "id": "baliholidaysecrets_tax",
-            "title": "Bali Tourist Tax – What You Need to Know for 2025",
+            "title": "Bali Tourist Tax \u2013 What You Need to Know for 2025",
             "url": "https://www.baliholidaysecrets.com/bali-tourist-tax/"
           },
           {
@@ -1607,7 +1607,7 @@
           },
           {
             "id": "balisun_revenue",
-            "title": "Bali’s Highest Spending Tourists Revealed - The Bali Sun",
+            "title": "Bali\u2019s Highest Spending Tourists Revealed - The Bali Sun",
             "url": "https://thebalisun.com/balis-highest-spending-tourists-revealed/"
           },
           {
@@ -1617,7 +1617,7 @@
           },
           {
             "id": "bambooroutes_prices",
-            "title": "Are Bali property prices going up now? (June 2025) – Bamboo Routes",
+            "title": "Are Bali property prices going up now? (June 2025) \u2013 Bamboo Routes",
             "url": "https://bambooroutes.com/blogs/news/bali-price-forecasts"
           },
           {
@@ -1627,7 +1627,7 @@
           },
           {
             "id": "jakartapost_overtourism",
-            "title": "Tourism associations raise concerns over Bali’s overtourism, waste problems",
+            "title": "Tourism associations raise concerns over Bali\u2019s overtourism, waste problems",
             "url": "https://www.thejakartapost.com/indonesia/2025/01/17/tourism-associations-raise-concerns-over-balis-overtourism-waste-problems.html"
           }
         ]
@@ -1639,7 +1639,7 @@
           "amount_usd": 1034,
           "fx_rate_to_usd": 6.1e-05,
           "fx_rate_date": "2024-01-01",
-          "comment": "Approximate average monthly salary in Bali around 16.9 million IDR (roughly 1,030–1,050 USD at recent exchange rates), based on 2024–2025 labour-market surveys that aggregate official statistics for the province. Used here as an indicative benchmark for formal employment income in the tourism economy, not as a hard wage floor."
+          "comment": "Approximate average monthly salary in Bali around 16.9 million IDR (roughly 1,030\u20131,050 USD at recent exchange rates), based on 2024\u20132025 labour-market surveys that aggregate official statistics for the province. Used here as an indicative benchmark for formal employment income in the tourism economy, not as a hard wage floor."
         },
         "gdp_per_capita_2023": {
           "amount_local": null,
@@ -1650,14 +1650,14 @@
         },
         "political_stability_assessment": {
           "category": "moderate_risk_large_emerging_democracy",
-          "comment": "World Bank Worldwide Governance Indicators place Indonesia’s political stability score modestly below the global average but significantly above many regional peers, with gradual improvement over the last decade. Indonesia is a large, electoral democracy with some exposure to policy volatility and localized security incidents, but Bali itself is widely perceived as a stable, tourism-centric region. This category reflects a generally investable environment with manageable political risk for long-term immersive destination projects."
+          "comment": "World Bank Worldwide Governance Indicators place Indonesia\u2019s political stability score modestly below the global average but significantly above many regional peers, with gradual improvement over the last decade. Indonesia is a large, electoral democracy with some exposure to policy volatility and localized security incidents, but Bali itself is widely perceived as a stable, tourism-centric region. This category reflects a generally investable environment with manageable political risk for long-term immersive destination projects."
         }
       }
     },
     {
       "destination_id": "DEST_06",
       "core": {
-        "destination_name": "Andaman Coast Thailand (Phuket – Krabi – Phi Phi – Phang Nga)",
+        "destination_name": "Andaman Coast Thailand (Phuket \u2013 Krabi \u2013 Phi Phi \u2013 Phang Nga)",
         "destination_type": "coastal_island_cluster",
         "country_name": "Thailand",
         "country_iso2": "TH",
@@ -1696,7 +1696,7 @@
         },
         "role_of_andaman_cluster": {
           "qualitative_importance": "core_beach_and_island_region",
-          "comment": "Phuket–Krabi–Phi Phi–Phang Nga form one of Thailand’s main leisure clusters, capturing a large share of beach holiday nights and dive/snorkel excursions."
+          "comment": "Phuket\u2013Krabi\u2013Phi Phi\u2013Phang Nga form one of Thailand\u2019s main leisure clusters, capturing a large share of beach holiday nights and dive/snorkel excursions."
         },
         "hotel_occupancy_indicators_2023": {
           "phuket_peak_occupancy_high_season_percent": 85,
@@ -1767,7 +1767,7 @@
             "fx_rate_to_usd": 0.03,
             "fx_rate_date": "2019-12-31"
           },
-          "comment": "Order-of-magnitude estimate for the Andaman cluster (Phuket–Krabi–Phi Phi–Phang Nga) assuming it accounts for roughly 20% of Thailand’s pre-Covid tourism receipts and that ~30% of value is captured locally."
+          "comment": "Order-of-magnitude estimate for the Andaman cluster (Phuket\u2013Krabi\u2013Phi Phi\u2013Phang Nga) assuming it accounts for roughly 20% of Thailand\u2019s pre-Covid tourism receipts and that ~30% of value is captured locally."
         }
       },
       "throughput_nodes": {
@@ -1855,7 +1855,7 @@
               "fx_rate_to_usd": 0.03,
               "fx_rate_date": "2024-12-31"
             },
-            "comment": "Indicative price band for west-coast condominiums (Patong–Kata–Karon–Kamala) marketed to international buyers, excluding ultra-luxury outliers."
+            "comment": "Indicative price band for west-coast condominiums (Patong\u2013Kata\u2013Karon\u2013Kamala) marketed to international buyers, excluding ultra-luxury outliers."
           },
           "krabi_ao_nang_condo_price_per_sqm": {
             "min": {
@@ -1945,7 +1945,7 @@
             "typical_daily_visitors_high_season": null,
             "estimated_annual_visitors": 120000,
             "throughput_data_quality": "modelled_range_midpoint",
-            "derivation_notes": "Based on typical park operating season length, caps on boat numbers and a mix of day trips and liveaboards; mid-range assumption around 80k–160k visitors per year under current regulation."
+            "derivation_notes": "Based on typical park operating season length, caps on boat numbers and a mix of day trips and liveaboards; mid-range assumption around 80k\u2013160k visitors per year under current regulation."
           },
           "attraction_name": "Similan Islands National Park",
           "attraction_type": "marine_national_park",
@@ -1964,7 +1964,7 @@
             "typical_daily_visitors_high_season": 4000,
             "estimated_annual_visitors": 900000,
             "throughput_data_quality": "modelled_range_midpoint",
-            "derivation_notes": "Daily caps and time-slot systems imply several thousand visitors per day in high season; assuming an effective operating window of ~270–300 days yields a broad 700k–1.1m range for annual bay/park visits."
+            "derivation_notes": "Daily caps and time-slot systems imply several thousand visitors per day in high season; assuming an effective operating window of ~270\u2013300 days yields a broad 700k\u20131.1m range for annual bay/park visits."
           },
           "attraction_name": "Phi Phi Islands & Maya Bay",
           "attraction_type": "marine_national_park",
@@ -2010,7 +2010,7 @@
             "category": "medium",
             "score_1to3": 2
           },
-          "short_description": "Highly developed urban beach and nightlife hub on Phuket’s west coast; emblematic of mass tourism and coastal urbanization."
+          "short_description": "Highly developed urban beach and nightlife hub on Phuket\u2019s west coast; emblematic of mass tourism and coastal urbanization."
         },
         {
           "attraction_id": "TH_ANDAMAN_RAILAY_BEACH",
@@ -2043,7 +2043,7 @@
           },
           {
             "id": "TH_ANDAMAN_MARINE_PARKS",
-            "title": "Marine National Parks of the Andaman Coast – Visitor Management and Seasonal Closures",
+            "title": "Marine National Parks of the Andaman Coast \u2013 Visitor Management and Seasonal Closures",
             "url": "https://example.org/andaman-marine-parks"
           },
           {
@@ -2368,7 +2368,7 @@
             "typical_daily_visitors_high_season": 600,
             "estimated_annual_visitors": 120000,
             "throughput_data_quality": "modelled",
-            "derivation_notes": "Coron known for ~100k–150k wreck divers annually; midpoint used."
+            "derivation_notes": "Coron known for ~100k\u2013150k wreck divers annually; midpoint used."
           }
         },
         {
@@ -2379,7 +2379,7 @@
             "typical_daily_visitors_high_season": 100,
             "estimated_annual_visitors": 3000,
             "throughput_data_quality": "reported",
-            "derivation_notes": "UNESCO park with strict liveaboard caps; ~10–12 boats per season, 10–12 pax each, 25 trips/year."
+            "derivation_notes": "UNESCO park with strict liveaboard caps; ~10\u201312 boats per season, 10\u201312 pax each, 25 trips/year."
           },
           "attraction_name": "Tubbataha Reefs Natural Park",
           "attraction_type": "marine_national_park",
@@ -2426,7 +2426,7 @@
           },
           {
             "id": "DOT_PH",
-            "title": "Department of Tourism Philippines – Regional Arrivals",
+            "title": "Department of Tourism Philippines \u2013 Regional Arrivals",
             "url": "https://tourism.gov.ph"
           },
           {
@@ -2436,7 +2436,7 @@
           },
           {
             "id": "UNESCO_TUBBATAHA",
-            "title": "Tubbataha Reefs Natural Park – UNESCO",
+            "title": "Tubbataha Reefs Natural Park \u2013 UNESCO",
             "url": "https://whc.unesco.org/en/list/653"
           }
         ]
@@ -2573,7 +2573,7 @@
             "name": "Mekong River Cruise Dock",
             "city": "Luang Prabang",
             "annual_passengers_estimate_2023": 120000,
-            "comment": "High-end river cruise passengers (Avalon, Pandaw, etc.); seasonal (Jul–Mar)."
+            "comment": "High-end river cruise passengers (Avalon, Pandaw, etc.); seasonal (Jul\u2013Mar)."
           }
         ]
       },
@@ -2625,7 +2625,7 @@
               "fx_rate_to_usd": 1.0,
               "fx_rate_date": "2025-11-14"
             },
-            "comment": "Commercial conversion of heritage buildings into 8–15 room boutique hotels."
+            "comment": "Commercial conversion of heritage buildings into 8\u201315 room boutique hotels."
           }
         },
         "land": {
@@ -2651,7 +2651,7 @@
               "fx_rate_to_usd": 1.0,
               "fx_rate_date": "2025-11-14"
             },
-            "comment": "Agricultural land 5–10 km from center; conversion to eco-lodges possible via long-term lease."
+            "comment": "Agricultural land 5\u201310 km from center; conversion to eco-lodges possible via long-term lease."
           }
         }
       },
@@ -2784,7 +2784,7 @@
             "typical_daily_visitors_high_season": 1800,
             "estimated_annual_visitors": 400000,
             "throughput_data_quality": "modelled_range_midpoint",
-            "derivation_notes": "Standard half-day tour; ~30–50 boats daily in peak; ~300 operating days."
+            "derivation_notes": "Standard half-day tour; ~30\u201350 boats daily in peak; ~300 operating days."
           },
           "attraction_name": "Mekong River Sunset Cruise to Pak Ou Caves",
           "attraction_type": "river_cruise",
@@ -2826,7 +2826,7 @@
           },
           {
             "id": "UNESCO_LPQ",
-            "title": "UNESCO World Heritage – Luang Prabang",
+            "title": "UNESCO World Heritage \u2013 Luang Prabang",
             "url": "https://whc.unesco.org/en/list/479"
           },
           {
@@ -3182,7 +3182,7 @@
       ],
       "meta": {
         "last_researched_utc": "2025-11-14T00:00:00Z",
-        "notes": "Reference destination: High-income, federally managed, extreme seasonality (May–Oct). No internal real estate market. Throughput from official NPS data.",
+        "notes": "Reference destination: High-income, federally managed, extreme seasonality (May\u2013Oct). No internal real estate market. Throughput from official NPS data.",
         "sources": [
           {
             "id": "NPS_YELL_2023",
@@ -3201,7 +3201,7 @@
           },
           {
             "id": "YELL_GEOTHERMAL",
-            "title": "Yellowstone Volcano Observatory – Geyser Activity",
+            "title": "Yellowstone Volcano Observatory \u2013 Geyser Activity",
             "url": "https://www.usgs.gov/observatories/yvo"
           }
         ]
@@ -3324,7 +3324,7 @@
         "airports": [
           {
             "hub_id": "CTG_APT_CTG",
-            "name": "Rafael Núñez International Airport",
+            "name": "Rafael N\u00fa\u00f1ez International Airport",
             "iata": "CTG",
             "city": "Cartagena",
             "annual_passengers_estimate": 6200000,
@@ -3366,7 +3366,7 @@
               "fx_rate_to_usd": 1.0,
               "fx_rate_date": "2025-11-14"
             },
-            "comment": "Restored 2–3 bed colonial apartments in Centro Histórico; high rental yield."
+            "comment": "Restored 2\u20133 bed colonial apartments in Centro Hist\u00f3rico; high rental yield."
           },
           "bocagrande_condo_price_per_sqm": {
             "min": {
@@ -3483,7 +3483,7 @@
         {
           "attraction_id": "CTG_ATT_GETSEMANI",
           "nearest_location_id": "CTG_LOC_GETSEMANI",
-          "attraction_name": "Getsemaní Street Art & Nightlife",
+          "attraction_name": "Getseman\u00ed Street Art & Nightlife",
           "attraction_type": "street_culture",
           "environment_type": "bohemian_neighborhood",
           "short_description": "Graffiti, salsa bars, plazas; former working-class area now hipster hub.",
@@ -3580,7 +3580,7 @@
           },
           {
             "id": "UNESCO_CARTAGENA",
-            "title": "UNESCO World Heritage – Port, Fortresses and Group of Monuments, Cartagena",
+            "title": "UNESCO World Heritage \u2013 Port, Fortresses and Group of Monuments, Cartagena",
             "url": "https://whc.unesco.org/en/list/285"
           },
           {
@@ -3824,7 +3824,7 @@
             "typical_daily_visitors_high_season": 1200,
             "estimated_annual_visitors": 50000,
             "throughput_data_quality": "modelled",
-            "derivation_notes": "Based on ~40 camps × 30 beds × 60% occupancy × 180 peak days."
+            "derivation_notes": "Based on ~40 camps \u00d7 30 beds \u00d7 60% occupancy \u00d7 180 peak days."
           }
         },
         {
@@ -3855,7 +3855,7 @@
             "typical_daily_visitors_high_season": 80,
             "estimated_annual_visitors": 15000,
             "throughput_data_quality": "modelled",
-            "derivation_notes": "High-end camps limit to 6–8 guests per guide."
+            "derivation_notes": "High-end camps limit to 6\u20138 guests per guide."
           }
         },
         {
@@ -3901,12 +3901,12 @@
           },
           {
             "id": "UNESCO_OKAVANGO",
-            "title": "UNESCO World Heritage – Okavango Delta",
+            "title": "UNESCO World Heritage \u2013 Okavango Delta",
             "url": "https://whc.unesco.org/en/list/1432"
           },
           {
             "id": "WORLD_BANK_BW",
-            "title": "World Bank Data – Botswana",
+            "title": "World Bank Data \u2013 Botswana",
             "url": "https://data.worldbank.org/country/botswana"
           }
         ]
@@ -4048,7 +4048,7 @@
           "attraction_name": "Al-Khazneh (The Treasury)",
           "attraction_type": "archaeological",
           "environment_type": "canyon",
-          "short_description": "Iconic rock-carved façade.",
+          "short_description": "Iconic rock-carved fa\u00e7ade.",
           "main_access_mode": "walking",
           "accessibility_difficulty": "moderate",
           "accessibility_for_non_experts": true,
@@ -4075,7 +4075,7 @@
           "attraction_name": "Ad-Deir (The Monastery)",
           "attraction_type": "archaeological",
           "environment_type": "mountain",
-          "short_description": "Larger rock façade; 800-step climb.",
+          "short_description": "Larger rock fa\u00e7ade; 800-step climb.",
           "main_access_mode": "hiking",
           "accessibility_difficulty": "high",
           "accessibility_for_non_experts": false,
@@ -4134,7 +4134,7 @@
           },
           {
             "id": "UNESCO_PETRA",
-            "title": "UNESCO World Heritage – Petra",
+            "title": "UNESCO World Heritage \u2013 Petra",
             "url": "https://whc.unesco.org/en/list/326"
           }
         ]
@@ -4173,7 +4173,7 @@
         "world_region": "Latin_America",
         "world_bank_income_level": "upper_middle",
         "tourism_dependency_category": "medium",
-        "main_city_name": "Cuiabá",
+        "main_city_name": "Cuiab\u00e1",
         "main_city_population_estimate": 650000,
         "main_city_population_year": 2023
       },
@@ -4221,7 +4221,7 @@
             "hub_id": "BR_CGB_CGB",
             "name": "Marechal Rondon International Airport",
             "iata": "CGB",
-            "city": "Cuiabá",
+            "city": "Cuiab\u00e1",
             "annual_passengers_estimate": 3000000,
             "annual_passengers_year": 2023
           }
@@ -4983,7 +4983,7 @@
           },
           {
             "id": "DOMINICAN_TOURISM_2023",
-            "title": "Ministerio de Turismo República Dominicana",
+            "title": "Ministerio de Turismo Rep\u00fablica Dominicana",
             "url": "https://www.mitur.gob.do"
           }
         ]
@@ -5438,7 +5438,7 @@
     {
       "destination_id": "DEST_19",
       "core": {
-        "destination_name": "Cancún & Riviera Maya",
+        "destination_name": "Canc\u00fan & Riviera Maya",
         "destination_type": "coastal_resort_corridor",
         "country_name": "Mexico",
         "country_iso2": "MX",
@@ -5447,7 +5447,7 @@
         "world_region": "Latin_America",
         "world_bank_income_level": "upper_middle",
         "tourism_dependency_category": "high",
-        "main_city_name": "Cancún",
+        "main_city_name": "Canc\u00fan",
         "main_city_population_estimate": 888000,
         "main_city_population_year": 2023
       },
@@ -5460,7 +5460,7 @@
             "overnight_stays_total": null,
             "tourism_revenue_total": null,
             "repeat_visitor_share_percent": null,
-            "notes": "Cancún airport arrivals + regional estimate."
+            "notes": "Canc\u00fan airport arrivals + regional estimate."
           }
         ],
         "international_tourist_arrivals": {
@@ -5500,9 +5500,9 @@
         "airports": [
           {
             "hub_id": "MX_CUN",
-            "name": "Cancún International Airport",
+            "name": "Canc\u00fan International Airport",
             "iata": "CUN",
-            "city": "Cancún",
+            "city": "Canc\u00fan",
             "annual_passengers_2023": 32000000,
             "comment": "Official ASUR data."
           }
@@ -5560,7 +5560,7 @@
         {
           "attraction_id": "CUN_ATT_CHICHEN_ITZA",
           "nearest_location_id": null,
-          "attraction_name": "Chichén Itzá",
+          "attraction_name": "Chich\u00e9n Itz\u00e1",
           "attraction_type": "archaeological",
           "environment_type": "jungle",
           "short_description": "UNESCO Mayan city with El Castillo pyramid.",
@@ -5636,12 +5636,12 @@
         "sources": [
           {
             "id": "ASUR_CUN_2023",
-            "title": "Grupo Aeroportuario del Sureste (ASUR) Cancún",
+            "title": "Grupo Aeroportuario del Sureste (ASUR) Canc\u00fan",
             "url": "https://www.asur.com.mx"
           },
           {
             "id": "SECTUR_MEXICO_2023",
-            "title": "Secretaría de Turismo México",
+            "title": "Secretar\u00eda de Turismo M\u00e9xico",
             "url": "https://www.gob.mx/sectur"
           }
         ]
@@ -5704,11 +5704,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -5771,11 +5771,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -5838,11 +5838,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -5905,11 +5905,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -5972,11 +5972,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6039,11 +6039,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6106,11 +6106,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6173,11 +6173,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6240,11 +6240,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6307,11 +6307,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6374,11 +6374,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6441,11 +6441,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6508,11 +6508,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6575,11 +6575,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6642,11 +6642,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6709,11 +6709,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6776,11 +6776,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6843,11 +6843,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6910,11 +6910,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6977,11 +6977,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -7044,11 +7044,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -7111,11 +7111,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -7178,11 +7178,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -7245,11 +7245,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -7312,11 +7312,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -7379,11 +7379,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -7446,11 +7446,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -7513,11 +7513,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -7580,11 +7580,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -7647,11 +7647,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -7676,6 +7676,966 @@
           "category": "very_low_risk_mature_democracy",
           "comment": "High-income democracy with stable institutions and relatively predictable regulation; investors primarily face market, cost and planning risks rather than systemic political instability."
         }
+      }
+    },
+    {
+      "destination_id": "DEST_50",
+      "core": {
+        "destination_name": "Rocky Mountain National Park",
+        "destination_type": "national_park",
+        "country_name": "United States",
+        "country_iso2": "US",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "North_America",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_51",
+      "core": {
+        "destination_name": "Singapore",
+        "destination_type": "global_city_destination",
+        "country_name": "Singapore",
+        "country_iso2": "SG",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "East_Asia_Pacific",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_52",
+      "core": {
+        "destination_name": "Bangkok",
+        "destination_type": "city_destination",
+        "country_name": "Thailand",
+        "country_iso2": "TH",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Southeast_Asia",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_53",
+      "core": {
+        "destination_name": "Angkor Wat",
+        "destination_type": "archaeological_city",
+        "country_name": "Cambodia",
+        "country_iso2": "KH",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Southeast_Asia",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_54",
+      "core": {
+        "destination_name": "Komodo National Park",
+        "destination_type": "national_park",
+        "country_name": "Indonesia",
+        "country_iso2": "ID",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Southeast_Asia",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_55",
+      "core": {
+        "destination_name": "Hong Kong",
+        "destination_type": "global_city_destination",
+        "country_name": "Hong Kong SAR, China",
+        "country_iso2": "HK",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "East_Asia_Pacific",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_56",
+      "core": {
+        "destination_name": "Kruger National Park",
+        "destination_type": "national_park",
+        "country_name": "South Africa",
+        "country_iso2": "ZA",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Africa",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_57",
+      "core": {
+        "destination_name": "Victoria Falls",
+        "destination_type": "heritage_landscape_cluster",
+        "country_name": "Zimbabwe",
+        "country_iso2": "ZW",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Africa",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_58",
+      "core": {
+        "destination_name": "Pyramids of Giza",
+        "destination_type": "prehistoric_monument_site",
+        "country_name": "Egypt",
+        "country_iso2": "EG",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Middle_East_North_Africa",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_59",
+      "core": {
+        "destination_name": "Marrakech",
+        "destination_type": "heritage_city_destination",
+        "country_name": "Morocco",
+        "country_iso2": "MA",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Middle_East_North_Africa",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_60",
+      "core": {
+        "destination_name": "Mount Kilimanjaro",
+        "destination_type": "national_park",
+        "country_name": "Tanzania",
+        "country_iso2": "TZ",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Sub_Saharan_Africa_East_Africa",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_61",
+      "core": {
+        "destination_name": "New York City",
+        "destination_type": "global_city_destination",
+        "country_name": "United States",
+        "country_iso2": "US",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "North_America",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_62",
+      "core": {
+        "destination_name": "Mexico City",
+        "destination_type": "global_city_destination",
+        "country_name": "Mexico",
+        "country_iso2": "MX",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Latin_America",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_63",
+      "core": {
+        "destination_name": "Chichen Itza",
+        "destination_type": "prehistoric_monument_site",
+        "country_name": "Mexico",
+        "country_iso2": "MX",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Latin_America",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_64",
+      "core": {
+        "destination_name": "Acadia National Park",
+        "destination_type": "national_park",
+        "country_name": "United States",
+        "country_iso2": "US",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "North_America",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_65",
+      "core": {
+        "destination_name": "Banff National Park",
+        "destination_type": "national_park",
+        "country_name": "Canada",
+        "country_iso2": "CA",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "North_America",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_66",
+      "core": {
+        "destination_name": "Iguazu Falls",
+        "destination_type": "heritage_landscape_cluster",
+        "country_name": "Argentina",
+        "country_iso2": "AR",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Latin_America",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_67",
+      "core": {
+        "destination_name": "Len\u00e7\u00f3is Maranhenses",
+        "destination_type": "wetland",
+        "country_name": "Brazil",
+        "country_iso2": "BR",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Latin_America",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_68",
+      "core": {
+        "destination_name": "Easter Island / Rapa Nui",
+        "destination_type": "volcanic_island_destination",
+        "country_name": "Chile",
+        "country_iso2": "CL",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Latin_America",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_69",
+      "core": {
+        "destination_name": "Patagonia",
+        "destination_type": "heritage_landscape_cluster",
+        "country_name": "Argentina",
+        "country_iso2": "AR",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Latin_America",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_70",
+      "core": {
+        "destination_name": "Cusco & Sacred Valley",
+        "destination_type": "archaeological_mountain_site",
+        "country_name": "Peru",
+        "country_iso2": "PE",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Latin_America",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_71",
+      "core": {
+        "destination_name": "Havana",
+        "destination_type": "heritage_city_destination",
+        "country_name": "Cuba",
+        "country_iso2": "CU",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Latin_America_Caribbean",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_72",
+      "core": {
+        "destination_name": "Niagara Falls",
+        "destination_type": "heritage_landscape_cluster",
+        "country_name": "Canada",
+        "country_iso2": "CA",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "North_America",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_73",
+      "core": {
+        "destination_name": "Neuschwanstein Castle",
+        "destination_type": "heritage_urban_district",
+        "country_name": "Germany",
+        "country_iso2": "DE",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_74",
+      "core": {
+        "destination_name": "Cinque Terre",
+        "destination_type": "heritage_landscape_cluster",
+        "country_name": "Italy",
+        "country_iso2": "IT",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_75",
+      "core": {
+        "destination_name": "Plitvice Lakes",
+        "destination_type": "wetland",
+        "country_name": "Croatia",
+        "country_iso2": "HR",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_76",
+      "core": {
+        "destination_name": "Mont Saint-Michel",
+        "destination_type": "heritage_urban_district",
+        "country_name": "France",
+        "country_iso2": "FR",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_77",
+      "core": {
+        "destination_name": "Alhambra (Granada)",
+        "destination_type": "palace_museum_complex",
+        "country_name": "Spain",
+        "country_iso2": "ES",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_78",
+      "core": {
+        "destination_name": "Reykjavik & Iceland Tourism",
+        "destination_type": "country_destination",
+        "country_name": "Iceland",
+        "country_iso2": "IS",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_79",
+      "core": {
+        "destination_name": "Swiss Alps (Jungfrau-Aletsch)",
+        "destination_type": "heritage_landscape_cluster",
+        "country_name": "Switzerland",
+        "country_iso2": "CH",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
+        "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
       }
     }
   ],
