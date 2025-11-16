@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Immersive Investors – Global Schema",
+  "title": "Immersive Investors \u2013 Global Schema",
   "description": "Schema for immersive investors, institutions, projects, policies and people in immersive infrastructures and experiences.",
   "type": "object",
   "required": [
@@ -27,7 +27,9 @@
         "last_updated",
         "license",
         "geographic_scope",
-        "primary_focus_regions"
+        "primary_focus_regions",
+        "snapshot_date",
+        "last_reviewed"
       ],
       "properties": {
         "dataset_id": {
@@ -100,10 +102,17 @@
         },
         "notes": {
           "type": "string"
+        },
+        "snapshot_date": {
+          "type": "string",
+          "description": "ISO date (YYYY-MM-DD) representing the snapshot date of this dataset version."
+        },
+        "last_reviewed": {
+          "type": "string",
+          "description": "ISO date (YYYY-MM-DD) when the dataset as a whole was last curator-reviewed."
         }
       }
     },
-
     "investors": {
       "type": "array",
       "description": "List of investors relevant for immersive infrastructures and experiences.",
@@ -151,7 +160,7 @@
           },
           "description": {
             "type": "string",
-            "description": "Short human-readable description of the investor’s role in immersive ecosystems."
+            "description": "Short human-readable description of the investor\u2019s role in immersive ecosystems."
           },
           "country": {
             "type": "string",
@@ -209,6 +218,10 @@
               "note": {
                 "type": "string",
                 "description": "Any clarifications or caveats."
+              },
+              "as_of_date": {
+                "type": "string",
+                "description": "ISO date (YYYY-MM-DD) indicating when the fund_size_overall estimate applies."
               }
             }
           },
@@ -351,7 +364,7 @@
           },
           "ppp_profile": {
             "type": "object",
-            "description": "Public–private partnership behavior.",
+            "description": "Public\u2013private partnership behavior.",
             "properties": {
               "ppp_active": {
                 "type": "boolean"
@@ -414,11 +427,18 @@
             "items": {
               "$ref": "#/definitions/source"
             }
+          },
+          "data_valid_as_of": {
+            "type": "string",
+            "description": "ISO date (YYYY-MM-DD) indicating the date the information on this entity is considered valid as of."
+          },
+          "last_checked": {
+            "type": "string",
+            "description": "ISO date (YYYY-MM-DD) when this entity was last manually checked/curated."
           }
         }
       }
     },
-
     "institutions": {
       "type": "array",
       "description": "Institutions that play a role in immersive investment ecosystems.",
@@ -488,11 +508,18 @@
             "items": {
               "$ref": "#/definitions/source"
             }
+          },
+          "data_valid_as_of": {
+            "type": "string",
+            "description": "ISO date (YYYY-MM-DD) indicating the date the information on this entity is considered valid as of."
+          },
+          "last_checked": {
+            "type": "string",
+            "description": "ISO date (YYYY-MM-DD) when this entity was last manually checked/curated."
           }
         }
       }
     },
-
     "projects": {
       "type": "array",
       "description": "Immersive-relevant projects and infrastructures backed by investors.",
@@ -621,11 +648,18 @@
             "items": {
               "$ref": "#/definitions/source"
             }
+          },
+          "data_valid_as_of": {
+            "type": "string",
+            "description": "ISO date (YYYY-MM-DD) indicating the date the information on this entity is considered valid as of."
+          },
+          "last_checked": {
+            "type": "string",
+            "description": "ISO date (YYYY-MM-DD) when this entity was last manually checked/curated."
           }
         }
       }
     },
-
     "policies": {
       "type": "array",
       "description": "Policies, vision programmes and strategic frameworks.",
@@ -719,11 +753,18 @@
             "items": {
               "$ref": "#/definitions/source"
             }
+          },
+          "data_valid_as_of": {
+            "type": "string",
+            "description": "ISO date (YYYY-MM-DD) indicating the date the information on this entity is considered valid as of."
+          },
+          "last_checked": {
+            "type": "string",
+            "description": "ISO date (YYYY-MM-DD) when this entity was last manually checked/curated."
           }
         }
       }
     },
-
     "people": {
       "type": "array",
       "description": "Key individuals associated with immersive investments.",
@@ -785,11 +826,18 @@
             "items": {
               "$ref": "#/definitions/source"
             }
+          },
+          "data_valid_as_of": {
+            "type": "string",
+            "description": "ISO date (YYYY-MM-DD) indicating the date the information on this entity is considered valid as of."
+          },
+          "last_checked": {
+            "type": "string",
+            "description": "ISO date (YYYY-MM-DD) when this entity was last manually checked/curated."
           }
         }
       }
     },
-
     "meta_instructions_for_ai": {
       "type": "object",
       "description": "Guidance for LLMs and agents on how to interpret and extend this dataset.",
@@ -817,7 +865,6 @@
         }
       }
     },
-
     "data_contract": {
       "type": "object",
       "description": "Machine-readable expectations for validation and evolution of the dataset.",
@@ -894,7 +941,6 @@
       }
     }
   },
-
   "definitions": {
     "source": {
       "type": "object",
