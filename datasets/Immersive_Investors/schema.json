@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Immersive Investors \u2013 Global Schema",
+  "title": "Immersive Investors – Global Schema",
   "description": "Schema for immersive investors, institutions, projects, policies and people in immersive infrastructures and experiences.",
   "type": "object",
   "required": [
@@ -38,7 +38,7 @@
         },
         "name": {
           "type": "string",
-          "description": "Human-readable dataset name."
+          "description": "Human-readable name of the dataset."
         },
         "version": {
           "type": "string",
@@ -50,7 +50,7 @@
         },
         "author": {
           "type": "string",
-          "description": "Primary curator or author, e.g. Martin Sambauer (martin-sambauer.com)."
+          "description": "Primary curator or maintainer of the dataset."
         },
         "created": {
           "type": "string",
@@ -64,11 +64,11 @@
         },
         "license": {
           "type": "string",
-          "description": "License information, e.g. CC BY 4.0."
+          "description": "License under which the dataset is published."
         },
         "geographic_scope": {
           "type": "string",
-          "description": "High-level scope, e.g. global, GCC focus, etc."
+          "description": "High-level description of the geographic scope (e.g. global with Arab-region pilot)."
         },
         "primary_focus_regions": {
           "type": "array",
@@ -101,7 +101,8 @@
           }
         },
         "notes": {
-          "type": "string"
+          "type": "string",
+          "description": "Free-text notes about the dataset."
         },
         "snapshot_date": {
           "type": "string",
@@ -115,7 +116,7 @@
     },
     "investors": {
       "type": "array",
-      "description": "List of investors relevant for immersive infrastructures and experiences.",
+      "description": "List of investor entities relevant for immersive infrastructures and experiences.",
       "items": {
         "type": "object",
         "required": [
@@ -123,54 +124,50 @@
           "investor_name",
           "investor_category",
           "country",
-          "world_region",
           "ownership_structure",
           "immersive_investment",
-          "preferred_stages",
-          "investment_instruments",
           "thematic_focus",
           "geographic_focus",
-          "sources"
+          "preferred_stages",
+          "investment_instruments",
+          "sources",
+          "data_valid_as_of"
         ],
         "properties": {
           "investor_id": {
             "type": "string",
-            "description": "Stable ID, e.g. INV_PIF."
+            "description": "Stable ID, e.g. INV_PIF_SAUDI_ARABIA."
           },
           "investor_name": {
             "type": "string",
-            "description": "Official or commonly used investor name."
+            "description": "Canonical name of the investor."
           },
           "investor_category": {
             "type": "string",
-            "description": "High-level investor type.",
+            "description": "High-level category of investor.",
             "enum": [
               "sovereign_wealth_fund",
               "state_fund",
-              "tourism_dev_fund",
-              "development_bank",
               "private_equity",
               "family_office",
               "corporate_venture",
-              "media_and_entertainment_corporate",
-              "cultural_foundation",
-              "festival_fund",
+              "development_finance",
+              "impact_fund",
               "other"
             ]
           },
           "description": {
             "type": "string",
-            "description": "Short human-readable description of the investor\u2019s role in immersive ecosystems."
+            "description": "Short descriptive text summarising the investor and its immersive relevance."
           },
           "country": {
             "type": "string",
-            "description": "Country of registration or main operational base."
+            "description": "Country where the investor is primarily based."
           },
           "country_iso2": {
             "type": "string",
-            "description": "Two-letter ISO country code, where applicable.",
-            "minLength": 2,
-            "maxLength": 2
+            "description": "ISO 3166-1 alpha-2 country code, where applicable.",
+            "pattern": "^[A-Z]{2}$"
           },
           "world_region": {
             "type": "string",
@@ -178,89 +175,40 @@
           },
           "hq_city": {
             "type": "string",
-            "description": "Headquarter city, if known."
+            "description": "Headquarters city, if documented."
           },
           "ownership_structure": {
             "type": "string",
-            "enum": [
-              "state_owned",
-              "mixed",
-              "private",
-              "foundation",
-              "unknown"
-            ]
+            "description": "Summary of ownership and governance (e.g. state-owned, listed company, family-controlled)."
           },
           "governance_type": {
             "type": "string",
-            "description": "Board-governed, royal-court-led, ministerial, corporate board, etc."
+            "description": "Optional field describing governance structure, boards, etc."
           },
           "main_website": {
             "type": "string",
-            "description": "Primary URL.",
-            "format": "uri"
+            "description": "Primary website URL of the investor."
           },
           "fund_size_overall": {
-            "type": "object",
-            "description": "Overall fund scale, where documented.",
-            "properties": {
-              "amount": {
-                "type": "number",
-                "description": "Numeric amount of assets under management (AUM) or equivalent."
-              },
-              "currency": {
-                "type": "string",
-                "description": "Currency code, typically USD."
-              },
-              "as_of_year": {
-                "type": "integer",
-                "description": "Reference year for the amount."
-              },
-              "note": {
-                "type": "string",
-                "description": "Any clarifications or caveats."
-              },
-              "as_of_date": {
-                "type": "string",
-                "description": "ISO date (YYYY-MM-DD) indicating when the fund_size_overall estimate applies."
-              }
-            }
+            "type": "string",
+            "description": "Approximate overall fund size if documented (free-text to avoid false precision)."
           },
           "immersive_investment": {
             "type": "object",
-            "description": "Immersive-specific portfolio information.",
-            "required": [
-              "has_immersive_portfolio",
-              "portfolio_maturity_category"
-            ],
+            "description": "Immersive-related investment profile.",
             "properties": {
-              "has_immersive_portfolio": {
-                "type": "boolean",
-                "description": "True if there is documented immersive-related activity."
-              },
-              "immersive_allocated_capital_estimate": {
-                "type": [
-                  "number",
-                  "null"
-                ],
-                "description": "Rough estimate of capital allocated to immersive-related projects (if known)."
-              },
-              "immersive_alloc_share_percent_estimate": {
-                "type": [
-                  "number",
-                  "null"
-                ],
-                "description": "Estimated share of overall capital devoted to immersive-related projects."
-              },
-              "immersive_portfolio_start_year": {
-                "type": [
-                  "integer",
-                  "null"
-                ],
-                "description": "Year of first clearly immersive project or investment."
-              },
-              "portfolio_maturity_category": {
+              "has_immersive_activity": {
                 "type": "string",
-                "description": "Qualitative maturity of immersive portfolio.",
+                "description": "Whether immersive activity is documented.",
+                "enum": [
+                  "yes",
+                  "no",
+                  "unclear"
+                ]
+              },
+              "portfolio_maturity": {
+                "type": "string",
+                "description": "Maturity of immersive portfolio.",
                 "enum": [
                   "very_new",
                   "emerging",
@@ -269,8 +217,13 @@
                   "unknown"
                 ]
               },
-              "notes": {
-                "type": "string"
+              "estimated_immersive_allocation": {
+                "type": "string",
+                "description": "Free-text description for any quantification of immersive allocation (if sources provide enough detail)."
+              },
+              "immersive_notes": {
+                "type": "string",
+                "description": "Additional notes about immersive investments (e.g. specific projects, strategic statements)."
               }
             }
           },
@@ -292,39 +245,22 @@
             }
           },
           "ticket_size": {
-            "type": "object",
-            "description": "Typical ticket size range for immersive-related deals (in million USD equivalent).",
-            "properties": {
-              "min_musd_estimate": {
-                "type": [
-                  "number",
-                  "null"
-                ]
-              },
-              "max_musd_estimate": {
-                "type": [
-                  "number",
-                  "null"
-                ]
-              },
-              "note": {
-                "type": "string"
-              }
-            }
+            "type": "string",
+            "description": "Free-text description of typical ticket sizes for immersive-related investments (no hallucinated ranges)."
           },
           "investment_instruments": {
             "type": "array",
-            "description": "Instruments relevant for immersive projects.",
+            "description": "Investment instruments used for immersive-related investments.",
             "items": {
               "type": "string",
               "enum": [
                 "equity",
-                "debt",
                 "project_finance",
-                "public_private_partnership",
-                "grant",
-                "guarantee",
-                "other"
+                "ppp",
+                "grants",
+                "debt",
+                "mixed",
+                "unknown"
               ]
             }
           },
@@ -355,58 +291,62 @@
               "type": "string"
             }
           },
-          "exclusion_criteria": {
+          "project_location_profile": {
             "type": "array",
-            "description": "Documented or inferred exclusions for immersive-related deals.",
+            "description": "Typical project-location archetypes the investor is open to (conceptual, not a country list).",
             "items": {
-              "type": "string"
+              "type": "string",
+              "enum": [
+                "global",
+                "global_south",
+                "emerging_markets",
+                "offshore_islands",
+                "coastal_regions",
+                "landlocked",
+                "unknown"
+              ]
             }
+          },
+          "immersive_modalities_focus": {
+            "type": "array",
+            "description": "Immersive modalities and venue types the investor is demonstrably comfortable financing.",
+            "items": {
+              "type": "string",
+              "enum": [
+                "fulldome",
+                "planetarium_and_science_center",
+                "lbe_theme_parks",
+                "media_facades_and_led_domes",
+                "xr_headsets_and_hardware",
+                "vr_ar_mr_content",
+                "metaverse_platforms",
+                "training_and_simulation",
+                "other"
+              ]
+            }
+          },
+          "exclusion_criteria": {
+            "type": "string",
+            "description": "Documented exclusion criteria, if any."
           },
           "ppp_profile": {
-            "type": "object",
-            "description": "Public\u2013private partnership behavior.",
-            "properties": {
-              "ppp_active": {
-                "type": "boolean"
-              },
-              "ppp_description": {
-                "type": "string"
-              }
-            }
+            "type": "string",
+            "description": "Description of public–private partnership patterns (e.g. typical PPP roles)."
           },
           "vision_alignment": {
-            "type": "object",
-            "description": "Link to national or regional programmes (e.g. Vision 2030).",
-            "properties": {
-              "linked_national_programs": {
-                "type": "array",
-                "items": {
-                  "type": "string"
-                }
-              },
-              "explicit_immersive_mentions": {
-                "type": "string",
-                "description": "Textual description of how immersive experiences are mentioned in strategies or vision documents."
-              },
-              "policy_ids": {
-                "type": "array",
-                "description": "IDs of policies this investor is linked to.",
-                "items": {
-                  "type": "string"
-                }
-              }
-            }
+            "type": "string",
+            "description": "Links to national visions or strategies (e.g. Saudi Vision 2030) where relevant."
           },
           "immersive_projects": {
             "type": "array",
-            "description": "Project IDs from the projects array that are related to this investor.",
+            "description": "List of project IDs that are explicitly linked to this investor in an immersive context.",
             "items": {
               "type": "string"
             }
           },
           "key_people": {
             "type": "array",
-            "description": "Person IDs of relevant decision-makers.",
+            "description": "List of person IDs with key roles in immersive-related decision-making for this investor.",
             "items": {
               "type": "string"
             }
@@ -419,29 +359,32 @@
             }
           },
           "notes": {
-            "type": "string"
+            "type": "string",
+            "description": "Additional notes and context."
           },
           "sources": {
             "type": "array",
-            "description": "Source objects justifying the data.",
+            "description": "List of sources backing the investor entry.",
             "items": {
               "$ref": "#/definitions/source"
             }
           },
           "data_valid_as_of": {
             "type": "string",
-            "description": "ISO date (YYYY-MM-DD) indicating the date the information on this entity is considered valid as of."
+            "description": "ISO date indicating when this information was last confirmed.",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}"
           },
           "last_checked": {
             "type": "string",
-            "description": "ISO date (YYYY-MM-DD) when this entity was last manually checked/curated."
+            "description": "ISO date of last manual or automated validation.",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}"
           }
         }
       }
     },
     "institutions": {
       "type": "array",
-      "description": "Institutions that play a role in immersive investment ecosystems.",
+      "description": "List of institutions linked to immersive investment (e.g. ministries, development agencies, holding companies).",
       "items": {
         "type": "object",
         "required": [
@@ -449,80 +392,70 @@
           "name",
           "country",
           "institution_type",
-          "role_in_immersive",
           "sources"
         ],
         "properties": {
           "institution_id": {
-            "type": "string"
+            "type": "string",
+            "description": "Stable ID, e.g. INST_MIRAL_ABU_DHABI."
           },
           "name": {
-            "type": "string"
+            "type": "string",
+            "description": "Name of the institution."
           },
           "country": {
-            "type": "string"
-          },
-          "world_region": {
-            "type": "string"
+            "type": "string",
+            "description": "Country of the institution."
           },
           "institution_type": {
             "type": "string",
-            "enum": [
-              "ministry",
-              "agency",
-              "development_company",
-              "holding_company",
-              "cultural_institution",
-              "tourism_board",
-              "city_authority",
-              "other"
-            ]
+            "description": "Type of institution (ministry, agency, development company, holding, etc.)."
           },
-          "role_in_immersive": {
+          "description": {
             "type": "string",
-            "description": "Narrative description of why this institution is relevant for immersive projects."
+            "description": "Short description of the institution and its immersive relevance."
           },
-          "linked_investor_ids": {
+          "linked_investors": {
             "type": "array",
+            "description": "List of investor IDs linked to this institution.",
             "items": {
               "type": "string"
             }
           },
-          "policy_ids": {
+          "linked_policies": {
             "type": "array",
-            "items": {
-              "type": "string"
-            }
-          },
-          "project_ids": {
-            "type": "array",
+            "description": "List of policy IDs linked to this institution.",
             "items": {
               "type": "string"
             }
           },
           "notes": {
-            "type": "string"
+            "type": "string",
+            "description": "Additional notes and context."
           },
           "sources": {
             "type": "array",
+            "description": "List of sources backing the institution entry.",
             "items": {
               "$ref": "#/definitions/source"
             }
           },
           "data_valid_as_of": {
             "type": "string",
-            "description": "ISO date (YYYY-MM-DD) indicating the date the information on this entity is considered valid as of."
+            "description": "ISO date indicating when this information was last confirmed.",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}"
           },
           "last_checked": {
             "type": "string",
-            "description": "ISO date (YYYY-MM-DD) when this entity was last manually checked/curated."
+            "description": "ISO date of last manual or automated validation.",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}"
           }
         }
       }
     },
     "projects": {
       "type": "array",
-      "description": "Immersive-relevant projects and infrastructures backed by investors.",
+      "description": "List of immersive-related projects and infrastructures.",
       "items": {
         "type": "object",
         "required": [
@@ -530,413 +463,298 @@
           "project_name",
           "project_type",
           "country",
-          "status",
           "immersive_formats",
-          "sources"
+          "sources",
+          "data_valid_as_of"
         ],
         "properties": {
           "project_id": {
-            "type": "string"
+            "type": "string",
+            "description": "Stable ID, e.g. PROJ_QIDDIYA_CITY_SAUDI_ARABIA."
           },
           "project_name": {
-            "type": "string"
+            "type": "string",
+            "description": "Name of the project."
           },
           "project_type": {
             "type": "string",
-            "enum": [
-              "immersive_dome_cluster",
-              "dome_venue",
-              "XR_park",
-              "themed_entertainment_district",
-              "media_district",
-              "museum_or_science_center_upgrade",
-              "festival_programme",
-              "projection_mapping_programme",
-              "mixed_use_immersive_cluster",
-              "other"
-            ]
+            "description": "Type of project (e.g. giga_project, theme_park, museum, dome, XR_venue, mixed_use_district)."
           },
           "country": {
-            "type": "string"
+            "type": "string",
+            "description": "Country where the project is located."
           },
           "city_or_region": {
-            "type": "string"
+            "type": "string",
+            "description": "City or region where the project is located."
           },
           "linked_destination_ids": {
             "type": "array",
-            "description": "Destination IDs from immersive destination datasets, if available.",
+            "description": "Optional references to destination entities in other datasets.",
             "items": {
               "type": "string"
             }
           },
           "start_year": {
-            "type": [
-              "integer",
-              "null"
-            ]
+            "type": "string",
+            "description": "Approximate start year or announcement year, if known."
           },
           "status": {
             "type": "string",
+            "description": "Current status of the project.",
             "enum": [
-              "concept",
               "planned",
               "under_construction",
               "operational",
-              "paused",
+              "suspended",
               "cancelled",
               "unknown"
             ]
           },
           "lead_investor_ids": {
             "type": "array",
+            "description": "List of investor IDs acting as lead investors.",
             "items": {
               "type": "string"
             }
           },
           "co_investor_ids": {
             "type": "array",
+            "description": "List of investor IDs acting as co-investors.",
             "items": {
               "type": "string"
             }
           },
           "operator_institutions": {
             "type": "array",
+            "description": "Institution IDs of operators or developers.",
             "items": {
               "type": "string"
             }
           },
           "immersive_formats": {
             "type": "array",
+            "description": "Immersive formats present in the project.",
             "items": {
               "type": "string",
               "enum": [
                 "fulldome",
                 "planetarium",
-                "XR_venue",
-                "VR_center",
-                "projection_mapping",
-                "LED_dome",
+                "immersive_exhibition",
+                "xr_park",
                 "media_facade",
-                "mixed_reality_stage",
-                "experience_center",
+                "led_dome",
+                "vr_ar_mr",
+                "projection_mapping",
                 "other"
               ]
             }
           },
           "soft_power_goals": {
-            "type": "array",
-            "description": "Soft-power or strategic goals of the project.",
-            "items": {
-              "type": "string",
-              "enum": [
-                "nation_branding",
-                "tourism_leadership",
-                "youth_culture",
-                "cultural_revival",
-                "science_and_education",
-                "innovation_image",
-                "regional_hub_positioning",
-                "other"
-              ]
-            }
+            "type": "string",
+            "description": "Free-text description of soft-power, tourism or educational goals where documented."
+          },
+          "global_south_flag": {
+            "type": "boolean",
+            "description": "True if the project is located in, or primarily targets, Global South contexts as defined in the methodology."
+          },
+          "offshore_flag": {
+            "type": "boolean",
+            "description": "True if the project is located on an island, artificial island, or offshore zone (e.g. special economic zone at sea)."
           },
           "notes": {
-            "type": "string"
+            "type": "string",
+            "description": "Additional notes and context."
           },
           "sources": {
             "type": "array",
+            "description": "List of sources backing the project entry.",
             "items": {
               "$ref": "#/definitions/source"
             }
           },
           "data_valid_as_of": {
             "type": "string",
-            "description": "ISO date (YYYY-MM-DD) indicating the date the information on this entity is considered valid as of."
+            "description": "ISO date indicating when this information was last confirmed.",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}"
           },
           "last_checked": {
             "type": "string",
-            "description": "ISO date (YYYY-MM-DD) when this entity was last manually checked/curated."
+            "description": "ISO date of last manual or automated validation.",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}"
           }
         }
       }
     },
     "policies": {
       "type": "array",
-      "description": "Policies, vision programmes and strategic frameworks.",
+      "description": "List of policies, strategies and vision documents relevant for immersive investments.",
       "items": {
         "type": "object",
         "required": [
           "policy_id",
           "policy_name",
           "country",
-          "policy_type",
-          "relevance_to_immersive",
+          "description",
           "sources"
         ],
         "properties": {
           "policy_id": {
-            "type": "string"
+            "type": "string",
+            "description": "Stable ID, e.g. POL_SAUDI_VISION_2030."
           },
           "policy_name": {
-            "type": "string"
+            "type": "string",
+            "description": "Name of the policy or strategy."
           },
           "country": {
-            "type": "string"
-          },
-          "world_region": {
-            "type": "string"
-          },
-          "issuing_institution_id": {
-            "type": "string"
-          },
-          "policy_type": {
             "type": "string",
-            "enum": [
-              "vision_program",
-              "national_strategy",
-              "sector_policy",
-              "tourism_strategy",
-              "culture_strategy",
-              "urban_masterplan",
-              "other"
-            ]
+            "description": "Country where the policy applies."
           },
-          "year": {
-            "type": [
-              "integer",
-              "null"
-            ]
-          },
-          "relevance_to_immersive": {
+          "description": {
             "type": "string",
-            "description": "Narrative explanation of how this policy touches immersive infrastructures or experiences."
+            "description": "Short description of the policy and its immersive relevance."
           },
-          "quotes": {
-            "type": "array",
-            "description": "Short verbatim pieces when allowed, or paraphrased statements.",
-            "items": {
-              "type": "object",
-              "properties": {
-                "quote_type": {
-                  "type": "string",
-                  "enum": [
-                    "verbatim_short",
-                    "paraphrase"
-                  ]
-                },
-                "text": {
-                  "type": "string"
-                },
-                "source_id": {
-                  "type": "string"
-                }
-              }
-            }
+          "strategic_relevance": {
+            "type": "string",
+            "description": "Description of how the policy supports or frames immersive investments."
           },
-          "linked_investor_ids": {
+          "institutions_responsible": {
             "type": "array",
-            "items": {
-              "type": "string"
-            }
-          },
-          "linked_project_ids": {
-            "type": "array",
+            "description": "List of institution IDs responsible for this policy.",
             "items": {
               "type": "string"
             }
           },
           "notes": {
-            "type": "string"
+            "type": "string",
+            "description": "Additional notes and context."
           },
           "sources": {
             "type": "array",
+            "description": "List of sources backing the policy entry.",
             "items": {
               "$ref": "#/definitions/source"
             }
           },
           "data_valid_as_of": {
             "type": "string",
-            "description": "ISO date (YYYY-MM-DD) indicating the date the information on this entity is considered valid as of."
+            "description": "ISO date indicating when this information was last confirmed.",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}"
           },
           "last_checked": {
             "type": "string",
-            "description": "ISO date (YYYY-MM-DD) when this entity was last manually checked/curated."
+            "description": "ISO date of last manual or automated validation.",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}"
           }
         }
       }
     },
     "people": {
       "type": "array",
-      "description": "Key individuals associated with immersive investments.",
+      "description": "List of people with relevant roles in immersive investments.",
       "items": {
         "type": "object",
         "required": [
           "person_id",
           "name",
-          "role_title",
-          "organisation_id",
+          "role",
+          "organisation",
+          "country",
           "sources"
         ],
         "properties": {
           "person_id": {
-            "type": "string"
+            "type": "string",
+            "description": "Stable ID, e.g. PERSON_YASIR_AL_RUMAYYAN."
           },
           "name": {
-            "type": "string"
-          },
-          "role_title": {
-            "type": "string"
-          },
-          "organisation_id": {
             "type": "string",
-            "description": "ID of investor or institution associated with this person."
+            "description": "Full name of the person."
           },
-          "responsibility_areas": {
-            "type": "array",
-            "description": "Thematic responsibility areas relevant to immersive projects.",
-            "items": {
-              "type": "string"
-            }
-          },
-          "public_stance_on_immersive": {
+          "role": {
             "type": "string",
-            "description": "Summary of public statements on immersive media, entertainment or cultural infrastructures."
+            "description": "Role title, as stated in sources."
           },
-          "links": {
-            "type": "array",
-            "description": "Public profile links (LinkedIn, institutional bio, etc.).",
-            "items": {
-              "type": "object",
-              "properties": {
-                "type": {
-                  "type": "string"
-                },
-                "url": {
-                  "type": "string",
-                  "format": "uri"
-                }
-              }
-            }
+          "organisation": {
+            "type": "string",
+            "description": "Organisation with which the person is associated."
+          },
+          "country": {
+            "type": "string",
+            "description": "Country associated with the person (typically based on the organisation location)."
+          },
+          "responsibility_area": {
+            "type": "string",
+            "description": "Short description of responsibility area related to immersive investments."
           },
           "notes": {
-            "type": "string"
+            "type": "string",
+            "description": "Additional notes and context."
           },
           "sources": {
             "type": "array",
+            "description": "List of sources backing the person entry.",
             "items": {
               "$ref": "#/definitions/source"
             }
           },
           "data_valid_as_of": {
             "type": "string",
-            "description": "ISO date (YYYY-MM-DD) indicating the date the information on this entity is considered valid as of."
+            "description": "ISO date indicating when this information was last confirmed.",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}"
           },
           "last_checked": {
             "type": "string",
-            "description": "ISO date (YYYY-MM-DD) when this entity was last manually checked/curated."
+            "description": "ISO date of last manual or automated validation.",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}"
           }
         }
       }
     },
     "meta_instructions_for_ai": {
       "type": "object",
-      "description": "Guidance for LLMs and agents on how to interpret and extend this dataset.",
+      "description": "Guidance for AI agents using or extending the dataset.",
       "properties": {
         "purpose": {
-          "type": "string"
+          "type": "string",
+          "description": "High-level description of how AI agents should use this dataset."
         },
         "do_not": {
           "type": "array",
-          "description": "Hard constraints (no hallucinated investors, no invented numbers etc.).",
+          "description": "List of forbidden behaviours (for example hallucinating investors).",
           "items": {
             "type": "string"
           }
         },
         "guidance": {
-          "type": "array",
-          "description": "Soft guidance for summarisation, comparison, stacking with other datasets.",
-          "items": {
-            "type": "string"
-          }
+          "type": "string",
+          "description": "Additional narrative guidance for agents."
         },
         "update_policy": {
           "type": "string",
-          "description": "How agents should propose or structure future updates."
+          "description": "Rules for when and how AI agents may propose updates."
         }
       }
     },
     "data_contract": {
       "type": "object",
-      "description": "Machine-readable expectations for validation and evolution of the dataset.",
+      "description": "Data contract for downstream tools.",
       "properties": {
-        "id_patterns": {
-          "type": "object",
-          "description": "Expected patterns for IDs across entities.",
-          "properties": {
-            "investor_id_pattern": {
-              "type": "string",
-              "description": "Regex-like description, e.g. ^INV_[A-Z0-9_]+$"
-            },
-            "institution_id_pattern": {
-              "type": "string"
-            },
-            "project_id_pattern": {
-              "type": "string"
-            },
-            "policy_id_pattern": {
-              "type": "string"
-            },
-            "person_id_pattern": {
-              "type": "string"
-            }
-          }
-        },
-        "required_fields_by_entity": {
-          "type": "object",
-          "description": "Lists of fields that must not be empty for each entity type.",
-          "properties": {
-            "investor": {
-              "type": "array",
-              "items": {
-                "type": "string"
-              }
-            },
-            "institution": {
-              "type": "array",
-              "items": {
-                "type": "string"
-              }
-            },
-            "project": {
-              "type": "array",
-              "items": {
-                "type": "string"
-              }
-            },
-            "policy": {
-              "type": "array",
-              "items": {
-                "type": "string"
-              }
-            },
-            "person": {
-              "type": "array",
-              "items": {
-                "type": "string"
-              }
-            }
-          }
-        },
-        "value_constraints": {
+        "allowed_transformations": {
           "type": "array",
-          "description": "Optional human-readable constraints (e.g. immersive_alloc_share_percent_estimate between 0 and 100).",
+          "description": "Types of transformations that downstream tools may perform (for example filtering, enrichment, cross-linking).",
           "items": {
             "type": "string"
           }
         },
-        "evolution_notes": {
+        "breaking_change_policy": {
           "type": "string",
-          "description": "Notes on how the schema can evolve without breaking existing data."
+          "description": "Policy for introducing breaking changes to the schema."
+        },
+        "contact_for_issues": {
+          "type": "string",
+          "description": "Contact information for reporting issues with the dataset."
         }
       }
     }
@@ -944,45 +762,27 @@
   "definitions": {
     "source": {
       "type": "object",
-      "description": "Reference to an external source supporting data points.",
+      "description": "Source backing a specific data point or entity.",
       "required": [
-        "source_id",
-        "title",
         "url"
       ],
       "properties": {
-        "source_id": {
+        "url": {
           "type": "string",
-          "description": "Local ID for cross-reference within the dataset."
+          "description": "URL of the source."
         },
         "title": {
           "type": "string",
-          "description": "Title or short label of the source."
-        },
-        "url": {
-          "type": "string",
-          "description": "Link to the source if publicly available.",
-          "format": "uri"
-        },
-        "publisher": {
-          "type": "string"
-        },
-        "publication_year": {
-          "type": [
-            "integer",
-            "null"
-          ]
+          "description": "Optional title or label for the source."
         },
         "accessed": {
-          "type": [
-            "string",
-            "null"
-          ],
-          "description": "Date when the source was last accessed.",
+          "type": "string",
+          "description": "Date when the source was accessed.",
           "pattern": "^\\d{4}-\\d{2}-\\d{2}"
         },
-        "note": {
-          "type": "string"
+        "notes": {
+          "type": "string",
+          "description": "Optional notes about the source."
         }
       }
     }
