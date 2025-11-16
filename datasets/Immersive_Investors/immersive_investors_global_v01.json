@@ -144,11 +144,8 @@
       "governance_type": "corporate_board",
       "main_website": "https://miral.ae/",
       "fund_size_overall": {
-        "amount": null,
         "currency": "USD",
-        "as_of_year": null,
-        "note": "No consolidated public AUM figure; Miral operates as developer/operator with project-based investment volumes.",
-        "as_of_date": null
+        "note": "No consolidated public AUM figure; Miral operates as developer/operator with project-based investment volumes."
       },
       "immersive_investment": {
         "has_immersive_portfolio": true,
@@ -350,15 +347,12 @@
       "country_iso2": "SA",
       "world_region": "MENA_GCC",
       "hq_city": "Dammam",
-      "ownership_structure": "corporate",
+      "ownership_structure": "private",
       "governance_type": "corporate_board",
       "main_website": "https://visionvc.co/",
       "fund_size_overall": {
-        "amount": null,
         "currency": "USD",
-        "as_of_year": null,
-        "note": "Saqr Fund II target size reported at USD 90m, but total AUM for Vision Ventures is not consolidated in public sources.",
-        "as_of_date": null
+        "note": "Saqr Fund II target size reported at USD 90m, but total AUM for Vision Ventures is not consolidated in public sources."
       },
       "immersive_investment": {
         "has_immersive_portfolio": true,
@@ -456,11 +450,8 @@
       "governance_type": "board_governed",
       "main_website": "https://dfdf.vc/",
       "fund_size_overall": {
-        "amount": null,
         "currency": "USD",
-        "as_of_year": null,
-        "note": "Evergreen vehicle; no single consolidated AUM figure in public sources.",
-        "as_of_date": null
+        "note": "Evergreen vehicle; no single consolidated AUM figure in public sources."
       },
       "immersive_investment": {
         "has_immersive_portfolio": true,
@@ -557,7 +548,7 @@
       "country_iso2": "AE",
       "world_region": "MENA_GCC",
       "hq_city": "Abu Dhabi",
-      "ownership_structure": "corporate",
+      "ownership_structure": "private",
       "governance_type": "corporate_board",
       "main_website": "https://www.eand.com/en/capital.html",
       "fund_size_overall": {
@@ -770,7 +761,7 @@
       "soft_power_goals": [
         "nation_branding",
         "innovation_image",
-        "smart_city"
+        "innovation_image"
       ],
       "notes": "Large-scale future city initiative; immersive relevance is embedded in urban experience design, mobility, architecture and narrative environments.",
       "sources": [
@@ -804,7 +795,7 @@
         "INS_QIDDIYA_INVESTMENT_COMPANY"
       ],
       "immersive_formats": [
-        "theme_park",
+        "other",
         "experience_center",
         "media_facade"
       ],
@@ -849,7 +840,7 @@
       "soft_power_goals": [
         "tourism_leadership",
         "nation_branding",
-        "environmental_storytelling"
+        "science_and_education"
       ],
       "notes": "Regenerative tourism cluster where immersive media can be used for landscape interpretation, sustainability storytelling and high-end guest experiences.",
       "sources": [
@@ -884,7 +875,7 @@
       ],
       "immersive_formats": [
         "experience_center",
-        "museums_and_exhibitions"
+        "other"
       ],
       "soft_power_goals": [
         "nation_branding",
@@ -923,7 +914,7 @@
         "INS_MIRAL_GROUP"
       ],
       "immersive_formats": [
-        "theme_park"
+        "other"
       ],
       "soft_power_goals": [
         "tourism_leadership",
@@ -962,7 +953,7 @@
         "INS_MIRAL_GROUP"
       ],
       "immersive_formats": [
-        "theme_park"
+        "other"
       ],
       "soft_power_goals": [
         "tourism_leadership",
@@ -986,7 +977,7 @@
     {
       "project_id": "PRJ_SEAWORLD_YAS",
       "project_name": "SeaWorld Yas Island Abu Dhabi",
-      "project_type": "experience_center",
+      "project_type": "other",
       "country": "United Arab Emirates",
       "city_or_region": "Abu Dhabi \u2013 Yas Island",
       "linked_destination_ids": [],
@@ -1024,7 +1015,7 @@
     {
       "project_id": "PRJ_TEAMLAB_PHENOMENA",
       "project_name": "teamLab Phenomena Abu Dhabi",
-      "project_type": "experience_center",
+      "project_type": "other",
       "country": "United Arab Emirates",
       "city_or_region": "Abu Dhabi",
       "linked_destination_ids": [],
@@ -1041,7 +1032,7 @@
         "experience_center"
       ],
       "soft_power_goals": [
-        "creative_industries",
+        "other",
         "innovation_image"
       ],
       "notes": "Large-scale digital art experience by teamLab, positioned as a landmark immersive art destination.",
@@ -1076,13 +1067,13 @@
         "INS_MIRAL_GROUP"
       ],
       "immersive_formats": [
-        "theme_park",
+        "other",
         "experience_center"
       ],
       "soft_power_goals": [
         "tourism_leadership",
         "nation_branding",
-        "creative_industries"
+        "other"
       ],
       "notes": "Planned landmark Disney theme park resort and Disney\u2019s first resort in the Middle East; Miral finances, builds and operates, Disney provides IP and creative design.",
       "sources": [
@@ -1106,7 +1097,6 @@
       "policy_name": "Saudi Vision 2030 \u2013 Tourism, Culture and Entertainment Pillars",
       "country": "Saudi Arabia",
       "world_region": "MENA_GCC",
-      "issuing_institution_id": null,
       "policy_type": "vision_program",
       "year": 2016,
       "relevance_to_immersive": "Frames giga-projects and tourism/culture investments as core to economic diversification and soft power. Immersive media and experiences are not named as a separate sector but are embedded in the destination, culture and entertainment agenda.",
@@ -1140,7 +1130,6 @@
       "policy_name": "PIF Entertainment, Leisure and Sports Priority Sector",
       "country": "Saudi Arabia",
       "world_region": "MENA_GCC",
-      "issuing_institution_id": null,
       "policy_type": "sector_policy",
       "year": 2023,
       "relevance_to_immersive": "Frames entertainment, leisure and sports as one of PIF's priority sectors, with a strong emphasis on venue development, fan engagement and experiential destinations aligned with Vision 2030.",
@@ -1179,7 +1168,6 @@
       "policy_name": "Abu Dhabi Tourism Strategy 2030",
       "country": "United Arab Emirates",
       "world_region": "MENA_GCC",
-      "issuing_institution_id": null,
       "policy_type": "tourism_strategy",
       "year": 2024,
       "relevance_to_immersive": "Sets targets to significantly increase visitor numbers and tourism GDP by 2030. Immersive destinations and attractions on Yas Island and Saadiyat Island, developed and operated by Miral, are key tools to position Abu Dhabi as a leading global tourism hub.",
@@ -1595,5 +1583,81 @@
       "data_valid_as_of": "2025-11-16",
       "last_checked": "2025-11-16"
     }
-  ]
+  ],
+  "meta_instructions_for_ai": {
+    "purpose": "Provide a reliable, source-based map of immersive-relevant investors, institutions, projects, policies and people.",
+    "do_not": [
+      "do not hallucinate new investors, institutions, projects, policies or people",
+      "do not invent fund sizes or ticket sizes when they are not stated in sources",
+      "do not change stable IDs for existing entities",
+      "do not infer immersive relevance from tourism, tech or culture labels without explicit evidence"
+    ],
+    "guidance": [
+      "use this dataset as ground truth for named entities before searching the open web",
+      "when summarising, preserve all caveats and unknowns stated in notes",
+      "when stacking with other immersive datasets, use IDs rather than names to cross-link",
+      "prefer under-specification over speculation when updating entries"
+    ],
+    "update_policy": "AI agents may propose new or enriched entries, but all changes must be source-linked and reviewed by a human curator before becoming canonical."
+  },
+  "data_contract": {
+    "id_patterns": {
+      "investor_id_pattern": "^INV_[A-Z0-9_]+$",
+      "institution_id_pattern": "^INS_[A-Z0-9_]+$",
+      "project_id_pattern": "^PRJ_[A-Z0-9_]+$",
+      "policy_id_pattern": "^POL_[A-Z0-9_]+$",
+      "person_id_pattern": "^PEO_[A-Z0-9_]+$"
+    },
+    "required_fields_by_entity": {
+      "investor": [
+        "investor_id",
+        "investor_name",
+        "investor_category",
+        "country",
+        "ownership_structure",
+        "immersive_investment",
+        "thematic_focus",
+        "geographic_focus",
+        "preferred_stages",
+        "investment_instruments",
+        "sources"
+      ],
+      "institution": [
+        "institution_id",
+        "name",
+        "country",
+        "institution_type",
+        "sources"
+      ],
+      "project": [
+        "project_id",
+        "project_name",
+        "project_type",
+        "country",
+        "status",
+        "immersive_formats",
+        "sources"
+      ],
+      "policy": [
+        "policy_id",
+        "policy_name",
+        "country",
+        "description",
+        "sources"
+      ],
+      "person": [
+        "person_id",
+        "name",
+        "role_title",
+        "organisation_id",
+        "sources"
+      ]
+    },
+    "value_constraints": [
+      "portfolio_maturity, if present, must be one of: very_new, emerging, established, long_term, unknown",
+      "has_immersive_activity must be one of: yes, no, unclear",
+      "country_iso2, if present, must be a valid ISO 3166-1 alpha-2 code"
+    ],
+    "evolution_notes": "New optional fields may be added without bumping the major version. Required fields or enums must not be changed without a major version update and a documented migration path."
+  }
 }
