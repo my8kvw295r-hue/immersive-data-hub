@@ -240,3 +240,26 @@ The repository only contains entries with documented sources. Where possible:
 - ambiguous or conflicting information is described in notes rather than silently resolved
 
 This documentation is itself evolving and will be updated as the schema and dataset grow.
+
+### ID conventions
+
+All core entities use stable IDs with a zero-padded numeric sequence plus a human-readable label, for example:
+
+- investors: INV_00001_PIF
+- institutions: INS_00001_QIDDIYA_INVESTMENT_COMPANY
+- projects: PRJ_00001_NEOM
+- policies: POL_00001_SA_VISION2030
+- people: PEO_00001_YASIR_ALRUMAYYAN
+
+These IDs are used consistently across all subarrays for cross-references.
+
+## Changelog
+
+### v0.3.3 – 2025-11-16
+
+- Updated investor IDs to a stable, zero-padded numeric pattern (INV_00001_PIF, INV_00002_MIRAL, etc.).
+- Synced all references in institutions, projects, policies and people with the new investor IDs.
+- Added a numbered project ID PRJ_00010_ROSHN_COMMUNITIES and a minimal stub entry to keep cross-references consistent.
+- Extended documentation with explicit ID conventions for all entity types (INV, INS, PRJ, POL, PEO).
+- Marked this snapshot as the first public pilot of the immersive-investor data structure for two fully mapped cases.
+
