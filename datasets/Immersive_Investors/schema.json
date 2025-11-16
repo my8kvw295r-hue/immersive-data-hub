@@ -136,7 +136,7 @@
         "properties": {
           "investor_id": {
             "type": "string",
-            "description": "Stable ID, e.g. INV_PIF_SAUDI_ARABIA."
+            "description": "Stable ID, e.g. INV_00001_PIF."
           },
           "investor_name": {
             "type": "string",
@@ -397,7 +397,7 @@
         "properties": {
           "institution_id": {
             "type": "string",
-            "description": "Stable ID, e.g. INST_MIRAL_ABU_DHABI."
+            "description": "Stable ID, e.g. INS_00001_QIDDIYA_INVESTMENT_COMPANY."
           },
           "name": {
             "type": "string",
@@ -470,7 +470,7 @@
         "properties": {
           "project_id": {
             "type": "string",
-            "description": "Stable ID, e.g. PROJ_QIDDIYA_CITY_SAUDI_ARABIA."
+            "description": "Stable ID, e.g. PRJ_00001_NEOM."
           },
           "project_name": {
             "type": "string",
@@ -666,7 +666,7 @@
         "properties": {
           "person_id": {
             "type": "string",
-            "description": "Stable ID, e.g. PERSON_YASIR_AL_RUMAYYAN."
+            "description": "Stable ID, e.g. PEO_00001_YASIR_ALRUMAYYAN."
           },
           "name": {
             "type": "string",
