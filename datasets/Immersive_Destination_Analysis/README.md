@@ -33,7 +33,7 @@ Future stacked datasets can link this destination layer to:
 
 ## Dataset contents
 
-The JSON file `Immersive_Destination_Analysis_19.json` contains the following top-level keys:
+The JSON file `Immersive_Destination_Analysis.json` contains the following top-level keys:
 
 - `dataset_meta`  
   Basic metadata (title, description, version, timestamps, license).
