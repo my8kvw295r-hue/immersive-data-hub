@@ -17,7 +17,7 @@
   },
   "investors": [
     {
-      "investor_id": "INV_PIF",
+      "investor_id": "INV_00001_PIF",
       "investor_name": "Public Investment Fund",
       "investor_category": "sovereign_wealth_fund",
       "description": "Saudi Arabia\u2019s sovereign wealth fund and key vehicle for giga-projects in tourism, culture and entertainment, including NEOM, Red Sea, Qiddiya, Diriyah and ROSHN.",
@@ -83,21 +83,21 @@
         ],
         "explicit_immersive_mentions": "Giga-projects are framed as key instruments of Vision 2030 to diversify the economy, attract tourists and build global cultural and entertainment destinations.",
         "policy_ids": [
-          "POL_SA_VISION2030",
-          "POL_SA_PIF_ENT_LEISURE_SPORTS"
+          "POL_00001_SA_VISION2030",
+          "POL_00002_SA_PIF_ENT_LEISURE_SPORTS"
         ]
       },
       "immersive_projects": [
-        "PRJ_NEOM",
-        "PRJ_QIDDIYA_CITY",
-        "PRJ_RED_SEA_CLUSTER",
-        "PRJ_DIRIYAH",
+        "PRJ_00001_NEOM",
+        "PRJ_00002_QIDDIYA_CITY",
+        "PRJ_00003_RED_SEA_CLUSTER",
+        "PRJ_00004_DIRIYAH",
         "PRJ_ROSHN_COMMUNITIES"
       ],
       "key_people": [
-        "PEO_YASIR_ALRUMAYYAN",
-        "PEO_YASIR_ALSALMAN",
-        "PEO_MISHARY_ALIBRAHEEM"
+        "PEO_00001_YASIR_ALRUMAYYAN",
+        "PEO_00002_YASIR_ALSALMAN",
+        "PEO_00005_MISHARY_ALIBRAHEEM"
       ],
       "tags": [
         "sovereign_wealth_fund",
@@ -132,7 +132,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "investor_id": "INV_MIRAL",
+      "investor_id": "INV_00002_MIRAL",
       "investor_name": "Miral",
       "investor_category": "media_and_entertainment_corporate",
       "description": "Abu Dhabi-based master developer and operator of leisure, entertainment and cultural assets, recognised as the leading creator of immersive destinations and experiences on Yas Island and across Abu Dhabi.",
@@ -190,20 +190,20 @@
         "linked_national_programs": [],
         "explicit_immersive_mentions": "Miral is repeatedly described as Abu Dhabi\u2019s creator of immersive destinations and experiences and a core pillar of the emirate\u2019s tourism strategy.",
         "policy_ids": [
-          "POL_AE_AD_TOURISM2030"
+          "POL_00003_AE_AD_TOURISM2030"
         ]
       },
       "immersive_projects": [
-        "PRJ_FERRARI_WORLD",
-        "PRJ_WB_WORLD",
-        "PRJ_SEAWORLD_YAS",
-        "PRJ_TEAMLAB_PHENOMENA",
-        "PRJ_YAS_ISLAND_DISNEY_RESORT"
+        "PRJ_00005_FERRARI_WORLD",
+        "PRJ_00006_WB_WORLD",
+        "PRJ_00007_SEAWORLD_YAS",
+        "PRJ_00008_TEAMLAB_PHENOMENA",
+        "PRJ_00009_YAS_ISLAND_DISNEY_RESORT"
       ],
       "key_people": [
-        "PEO_MOHAMED_ALZAABI",
-        "PEO_JULIEN_KAUFFMANN",
-        "PEO_MOHAMED_KHALIFA_ALMUBARAK"
+        "PEO_00003_MOHAMED_ALZAABI",
+        "PEO_00004_JULIEN_KAUFFMANN",
+        "PEO_00006_MOHAMED_KHALIFA_ALMUBARAK"
       ],
       "tags": [
         "destination_developer",
@@ -236,7 +236,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "investor_id": "INV_SIGMA_CAPITAL",
+      "investor_id": "INV_00003_SIGMA_CAPITAL",
       "investor_name": "Sigma Capital",
       "investor_category": "private_equity",
       "description": "Dubai-based Web3-focused venture capital manager running Sigma Capital Fund I, a roughly USD 100m fund investing in early-stage blockchain, gaming and metaverse projects across the Middle East and globally.",
@@ -294,8 +294,8 @@
       },
       "immersive_projects": [],
       "key_people": [
-        "PEO_VINEET_BUDKI",
-        "PEO_VICKAASH_AGARAWAL"
+        "PEO_00007_VINEET_BUDKI",
+        "PEO_00008_VICKAASH_AGARAWAL"
       ],
       "tags": [
         "web3",
@@ -339,7 +339,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "investor_id": "INV_VISION_VENTURES",
+      "investor_id": "INV_00004_VISION_VENTURES",
       "investor_name": "Vision Ventures",
       "investor_category": "corporate_venture",
       "description": "Saudi-based venture capital firm (corporate VC arm of Sahara Net) investing in early-stage technology startups across Saudi Arabia and the wider MENA region, including participation in the immersive social app VUZ.",
@@ -395,7 +395,7 @@
       },
       "immersive_projects": [],
       "key_people": [
-        "PEO_VISION_PARTNERS"
+        "PEO_00009_VISION_PARTNERS"
       ],
       "tags": [
         "VC",
@@ -438,7 +438,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "investor_id": "INV_DFDF",
+      "investor_id": "INV_00005_DFDF",
       "investor_name": "Dubai Future District Fund",
       "investor_category": "state_fund",
       "description": "Sovereign-backed evergreen venture fund of funds and direct investment platform anchored by Dubai Future Foundation and DIFC, investing in Future of Finance and Future Economies, including metaverse and AR/VR related startups such as VUZ.",
@@ -497,7 +497,7 @@
       },
       "immersive_projects": [],
       "key_people": [
-        "PEO_NADER_ALBASTAKI"
+        "PEO_00010_NADER_ALBASTAKI"
       ],
       "tags": [
         "fund_of_funds",
@@ -540,7 +540,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "investor_id": "INV_EAND_CAPITAL",
+      "investor_id": "INV_00006_EAND_CAPITAL",
       "investor_name": "e& capital",
       "investor_category": "corporate_venture",
       "description": "Corporate venture capital arm of UAE telecom and technology group e&, deploying a dedicated VC fund to back technology startups and scale MENA ventures globally, including immersive media such as VUZ.",
@@ -600,7 +600,7 @@
       },
       "immersive_projects": [],
       "key_people": [
-        "PEO_KUSHAL_SHAH"
+        "PEO_00011_KUSHAL_SHAH"
       ],
       "tags": [
         "CVC",
@@ -642,7 +642,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "investor_id": "INV_TDF_SA",
+      "investor_id": "INV_00007_TDF_SA",
       "investor_name": "Tourism Development Fund",
       "investor_category": "state_fund",
       "description": "Saudi Arabia's Tourism Development Fund (TDF) is a state-backed fund created to catalyse tourism investments across the Kingdom, including hospitality, attractions and destination infrastructure, in line with the National Tourism Strategy and Vision 2030.",
@@ -700,7 +700,7 @@
         ],
         "explicit_immersive_mentions": "Frames tourism investments as creating distinctive destinations and experiences across Saudi Arabia; MoUs with the General Entertainment Authority explicitly target entertainment projects.",
         "policy_ids": [
-          "POL_SA_VISION2030"
+          "POL_00001_SA_VISION2030"
         ]
       },
       "immersive_projects": [],
@@ -746,7 +746,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "investor_id": "INV_SHUROOQ_AE",
+      "investor_id": "INV_00008_SHUROOQ_AE",
       "investor_name": "Sharjah Investment and Development Authority (Shurooq)",
       "investor_category": "development_finance",
       "description": "Shurooq is the government of Sharjah\u2019s investment and development authority, developing and co-investing in waterfronts, eco-resorts, cultural sites and leisure attractions across the emirate with a focus on sustainable and heritage-based tourism.",
@@ -846,7 +846,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "investor_id": "INV_MIROVA_NATURAL_CAPITAL",
+      "investor_id": "INV_00009_MIROVA_NATURAL_CAPITAL",
       "investor_name": "Mirova \u2013 Natural Capital Platform",
       "investor_category": "impact_fund",
       "description": "Mirova\u2019s Natural Capital platform manages blended-finance and private funds dedicated to nature-based solutions, land restoration and sustainable land use, with a focus on emerging markets and the Global South.",
@@ -934,7 +934,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "investor_id": "INV_NATUREVEST_TNC",
+      "investor_id": "INV_00010_NATUREVEST_TNC",
       "investor_name": "NatureVest (The Nature Conservancy)",
       "investor_category": "impact_fund",
       "description": "NatureVest is the impact-investing unit of The Nature Conservancy, structuring and managing private capital investments that support conservation, climate and community resilience.",
@@ -1030,7 +1030,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "investor_id": "INV_CI_VENTURES",
+      "investor_id": "INV_00011_CI_VENTURES",
       "investor_name": "Conservation International Ventures (CI Ventures)",
       "investor_category": "impact_fund",
       "description": "CI Ventures is Conservation International\u2019s investment program providing loans and other financing to small- and medium-sized enterprises in forests, oceans and grasslands, including ecotourism businesses.",
@@ -1117,7 +1117,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "investor_id": "INV_GFCR",
+      "investor_id": "INV_00012_GFCR",
       "investor_name": "Global Fund for Coral Reefs (GFCR)",
       "investor_category": "impact_fund",
       "description": "The Global Fund for Coral Reefs is a blended finance vehicle dedicated to mobilising grants and private capital for coral reef conservation and the resilience of coastal communities in reef nations.",
@@ -1204,7 +1204,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "investor_id": "INV_OUTRIGGER_IMPACT",
+      "investor_id": "INV_00013_OUTRIGGER_IMPACT",
       "investor_name": "Outrigger Impact",
       "investor_category": "impact_fund",
       "description": "Outrigger Impact is a blue economy impact solution designed to provide catalytic capital and capacity to projects in Small Island Developing States (SIDS), building environmental and economic resilience in ocean states.",
@@ -1299,7 +1299,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "investor_id": "INV_ACCT_FUND",
+      "investor_id": "INV_00014_ACCT_FUND",
       "investor_name": "Africa Conservation & Communities Tourism Fund (ACCT Fund)",
       "investor_category": "impact_fund",
       "description": "Structured debt fund providing impact-oriented loans to conservation tourism operators in Sub\u2011Saharan Africa. The fund was launched by ThirdWay Partners and The Nature Conservancy with support from KfW and other DFIs, and targets safari lodges, camps and other eco\u2011tourism businesses that are critical for community livelihoods, wildlife conservation and climate resilience.",
@@ -1433,7 +1433,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "investor_id": "INV_BLUE_ALLIANCE_FINANCE",
+      "investor_id": "INV_00015_BLUE_ALLIANCE_FINANCE",
       "investor_name": "Blue Alliance \u2013 Blue Finance Facility",
       "investor_category": "impact_fund",
       "description": "Impact loan facility created by Blue Alliance Marine Protected Areas with BNP Paribas and other partners to finance \u2018reef\u2011positive\u2019 blue economy businesses in and around Marine Protected Areas. The facility channels blended finance into eco\u2011tourism, community\u2011based aquaculture, sustainable fisheries and related enterprises that help fund long\u2011term coral reef conservation and local livelihoods.",
@@ -1564,7 +1564,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "investor_id": "INV_MELOY_FUND",
+      "investor_id": "INV_00016_MELOY_FUND",
       "investor_name": "Meloy Fund for Sustainable Community Fisheries",
       "investor_category": "impact_fund",
       "description": "Impact investment fund launched by conservation NGO Rare and managed by Deliberate Capital to invest in small and medium\u2011sized enterprises along coastal fisheries and aquaculture value chains in Indonesia and the Philippines. The fund aims for triple bottom\u2011line outcomes: better livelihoods for coastal communities, recovery of coastal ecosystems and competitive financial returns.",
@@ -1689,7 +1689,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "investor_id": "INV_BW_SOVEREIGN_FUND",
+      "investor_id": "INV_00017_BW_SOVEREIGN_FUND",
       "investor_name": "Botswana Sovereign Wealth Fund (2025)",
       "investor_category": "sovereign_wealth_fund",
       "description": "New sovereign wealth fund created by the Government of Botswana in 2025 to diversify the economy beyond diamonds, manage state\u2011owned assets more actively and invest for long\u2011term growth and job creation. The fund is mandated to invest both domestically and internationally, with priority sectors including tourism, renewable energy, agriculture and infrastructure.",
@@ -1792,7 +1792,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "investor_id": "INV_OCEAN14_FUND1",
+      "investor_id": "INV_00018_OCEAN14_FUND1",
       "investor_name": "Ocean 14 Capital Fund I",
       "investor_category": "impact_private_equity_fund",
       "description": "Article 9 SFDR private equity impact fund advised by Ocean 14 Capital Limited and focused on the blue economy. The fund invests in growth-stage companies across aquaculture, alternative proteins, seafood value chains, marine pollution solutions and other ocean-related sectors with the explicit objective of contributing to UN SDG 14 (Life below water).",
@@ -1906,7 +1906,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "investor_id": "INV_GROWTH_BLUE_FUND",
+      "investor_id": "INV_00019_GROWTH_BLUE_FUND",
       "investor_name": "Growth Blue Fund I",
       "investor_category": "private_equity_fund",
       "description": "CMVM-regulated private equity growth fund managed by Growth Partners Capital (Portugal), investing in profitable SMEs and small mid-caps in the Portuguese and Iberian blue economy. The fund combines growth-equity returns with measurable positive impact on ocean resources and coastal regions.",
@@ -2020,7 +2020,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "investor_id": "INV_INDICO_BLUE_FUND",
+      "investor_id": "INV_00020_INDICO_BLUE_FUND",
       "investor_name": "Indico Blue Fund",
       "investor_category": "venture_and_growth_fund",
       "description": "Venture and growth climate-action fund managed by Indico Capital Partners, dedicated to startups and SMEs in the blue economy with measurable positive contributions to SDG 14 and related SDGs. The fund invests in technology and service companies across multiple ocean-related verticals, including coastal tourism, sustainable aquaculture, blue biotech and ocean renewable energy.",
@@ -2137,7 +2137,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "investor_id": "INV_KATAPULT_OCEAN",
+      "investor_id": "INV_00021_KATAPULT_OCEAN",
       "investor_name": "Katapult Ocean Funds",
       "investor_category": "venture_fund_family",
       "description": "Series of early-stage venture funds and accelerator vehicles managed by Katapult Ocean, focused on ocean-impact technology companies worldwide. The funds back startups working on ocean health, climate, biodiversity and sustainable food systems, often coupled with accelerator programmes.",
@@ -2250,7 +2250,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "investor_id": "INV_CAF_BLUE_ECONOMY",
+      "investor_id": "INV_00022_CAF_BLUE_ECONOMY",
       "investor_name": "CAF \u2013 Blue Economy Program 2025\u20132030",
       "investor_category": "multilateral_development_bank_program",
       "description": "Dedicated blue economy and ocean-health investment program of CAF \u2013 Development Bank of Latin America and the Caribbean. The program bundles loans and technical assistance operations that support coastal and marine ecosystems, low-carbon maritime transport, sustainable tourism and blue-economy SMEs across Latin America and the Caribbean.",
@@ -2362,7 +2362,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "investor_id": "INV_WB_PROBLUE",
+      "investor_id": "INV_00023_WB_PROBLUE",
       "investor_name": "World Bank \u2013 PROBLUE Multi-Donor Trust Fund",
       "investor_category": "multi_donor_trust_fund",
       "description": "PROBLUE is the World Bank\u2019s multi-donor trust fund supporting the blue economy. It finances analytical work and investment operations in sustainable fisheries and aquaculture, marine protected areas, marine pollution and plastics, sustainable coastal tourism, maritime transport and offshore renewable energy.",
@@ -2481,7 +2481,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "investor_id": "INV_VI_PURPOSE_FUND",
+      "investor_id": "INV_00024_VI_PURPOSE_FUND",
       "investor_name": "VI Purpose Fund (Virgin Islands Blue Economy Impact Fund)",
       "investor_category": "impact_fund_local",
       "description": "Place-based impact fund and innovation challenge platform for the British Virgin Islands, created to support ocean-based ventures that protect marine ecosystems, build resilient communities and grow the local blue economy beyond traditional tourism models.",
@@ -2594,7 +2594,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "investor_id": "INV_SWEN_BLUE_OCEAN",
+      "investor_id": "INV_00025_SWEN_BLUE_OCEAN",
       "investor_name": "SWEN Blue Ocean Funds",
       "investor_category": "impact_venture_funds",
       "description": "Family of ocean-focused impact funds managed by SWEN Capital Partners (France), investing in startups and scale-ups that deliver solutions for ocean health, including marine biodiversity protection, pollution reduction and sustainable blue-economy activities.",
@@ -2700,11 +2700,1640 @@
       ],
       "data_valid_as_of": "2025-11-16",
       "last_checked": "2025-11-16"
+    },
+    {
+      "investor_id": "INV_00026_SPHERE_ENT",
+      "investor_name": "Sphere Entertainment Co.",
+      "investor_category": "media_and_entertainment_corporate",
+      "description": "US-based entertainment company that owns and operates Sphere in Las Vegas, a large-scale LED dome venue designed for immersive shows and concerts, with plans for additional Sphere destinations in other global cities.",
+      "country": "United States",
+      "country_iso2": "US",
+      "world_region": "NORTH_AMERICA",
+      "hq_city": "New York City",
+      "ownership_structure": "publicly_listed",
+      "governance_type": "corporate_board",
+      "main_website": "https://www.thesphere.com/",
+      "fund_size_overall": {
+        "currency": "USD",
+        "note": "Public entertainment company; immersive exposure reflected mainly in capex for Sphere venues rather than a dedicated fund AUM figure."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": true,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": 2018,
+        "portfolio_maturity_category": "established",
+        "notes": "Sphere Las Vegas is a fully immersive dome venue with 16K+ LED interior and exterior screens; company is exploring additional Spheres as flagship destinations."
+      },
+      "preferred_stages": [
+        "infrastructure",
+        "venue_development",
+        "late_stage_content"
+      ],
+      "ticket_size": {
+        "min_musd_estimate": null,
+        "max_musd_estimate": null,
+        "note": "Invests at full-venue scale; individual Sphere projects require capex in the high hundreds of millions to low billions of USD."
+      },
+      "investment_instruments": [
+        "equity",
+        "project_finance"
+      ],
+      "thematic_focus": [
+        "tourism",
+        "creative_industries",
+        "sports"
+      ],
+      "geographic_focus": [
+        "United States",
+        "global_flagship_cities"
+      ],
+      "exclusion_criteria": [],
+      "ppp_profile": {
+        "ppp_active": true,
+        "ppp_description": "Works with host cities and tourism authorities on permitting, infrastructure and incentives for large immersive venues."
+      },
+      "vision_alignment": {
+        "keywords": [
+          "destination_tourism",
+          "immersive_concerts",
+          "media_architecture"
+        ],
+        "fit_comment": "Highly relevant for very large LED dome and media-facade destination concepts."
+      },
+      "immersive_projects": [],
+      "key_people": [],
+      "tags": [
+        "sphere",
+        "led_dome",
+        "immersive_venue",
+        "destination"
+      ],
+      "notes": "Acts as both venue owner and content platform; potential strategic partner or benchmark for dome-based destinations.",
+      "sources": [
+        {
+          "source_id": "SRC_SPHERE_OFFICIAL",
+          "title": "Sphere Las Vegas \u2013 Official Website",
+          "url": "https://www.thesphere.com/",
+          "publisher": "Sphere Entertainment Co.",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Describes Sphere as a next-generation immersive venue for concerts and experiences."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "investor_id": "INV_00027_COSM",
+      "investor_name": "Cosm",
+      "investor_category": "media_and_entertainment_corporate",
+      "description": "US-based immersive technology and venue company combining live sports, entertainment and art in purpose-built XR venues. Owns Evans & Sutherland and Spitz, long-time leaders in fulldome projection and planetarium systems.",
+      "country": "United States",
+      "country_iso2": "US",
+      "world_region": "NORTH_AMERICA",
+      "hq_city": "Los Angeles",
+      "ownership_structure": "private",
+      "governance_type": "corporate_board",
+      "main_website": "https://cosm.com/",
+      "fund_size_overall": {
+        "currency": "USD",
+        "note": "Privately held; capital is deployed into new XR venues and fulldome systems, not disclosed as a classic fund AUM figure."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": true,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": 2020,
+        "portfolio_maturity_category": "emerging",
+        "notes": "Core business is immersive venues and fulldome/planetarium installations for science centres and destination venues."
+      },
+      "preferred_stages": [
+        "infrastructure",
+        "venue_development",
+        "growth"
+      ],
+      "ticket_size": {
+        "min_musd_estimate": null,
+        "max_musd_estimate": null,
+        "note": "Acts as technology and venue partner; ticket sizes correspond to full immersive theatre or venue budgets."
+      },
+      "investment_instruments": [
+        "equity",
+        "project_finance"
+      ],
+      "thematic_focus": [
+        "science_and_education",
+        "tourism",
+        "creative_industries"
+      ],
+      "geographic_focus": [
+        "North America",
+        "Europe",
+        "Asia"
+      ],
+      "exclusion_criteria": [],
+      "ppp_profile": {
+        "ppp_active": true,
+        "ppp_description": "Collaborates with public science centres, planetariums and municipalities on fulldome theatres and immersive learning venues."
+      },
+      "vision_alignment": {
+        "keywords": [
+          "fulldome",
+          "planetariums",
+          "immersive_venues"
+        ],
+        "fit_comment": "Natural fit for dome and planetarium-based destination concepts and science communication hubs."
+      },
+      "immersive_projects": [],
+      "key_people": [],
+      "tags": [
+        "fulldome",
+        "planetarium",
+        "immersive_venue"
+      ],
+      "notes": "Through Evans & Sutherland and Spitz, has a global installed base of domes and planetariums.",
+      "sources": [
+        {
+          "source_id": "SRC_COSM_OFFICIAL",
+          "title": "Cosm \u2013 Official Site",
+          "url": "https://cosm.com/",
+          "publisher": "Cosm",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Corporate overview of Cosm\u2019s immersive venues and technology businesses."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "investor_id": "INV_00028_NEON_CITYNEON",
+      "investor_name": "NEON (Cityneon Holdings)",
+      "investor_category": "media_and_entertainment_corporate",
+      "description": "Singapore-headquartered immersive experiences company producing touring and permanent exhibitions based on global IPs such as Avatar, Marvel and Jurassic World, often anchored in major tourism destinations.",
+      "country": "Singapore",
+      "country_iso2": "SG",
+      "world_region": "ASIA_PACIFIC",
+      "hq_city": "Singapore",
+      "ownership_structure": "private",
+      "governance_type": "corporate_board",
+      "main_website": "https://www.neonglobal.com/",
+      "fund_size_overall": {
+        "currency": "USD",
+        "note": "Operates as a corporate group with project-level finance; no consolidated immersive AUM figure published."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": true,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": 2010,
+        "portfolio_maturity_category": "established",
+        "notes": "Long track record of IP-based immersive exhibitions and attractions used to drive destination tourism."
+      },
+      "preferred_stages": [
+        "project_development",
+        "venue_development",
+        "growth"
+      ],
+      "ticket_size": {
+        "min_musd_estimate": null,
+        "max_musd_estimate": null,
+        "note": "Typical capitalisation ranges from mid-sized immersive exhibitions to large IP-based attractions in destination parks."
+      },
+      "investment_instruments": [
+        "equity",
+        "project_finance",
+        "joint_ventures"
+      ],
+      "thematic_focus": [
+        "tourism",
+        "creative_industries"
+      ],
+      "geographic_focus": [
+        "Asia",
+        "North America",
+        "Middle East",
+        "Europe"
+      ],
+      "exclusion_criteria": [],
+      "ppp_profile": {
+        "ppp_active": false,
+        "ppp_description": "Primarily partners with studios and private venue operators, occasionally working with public cultural institutions."
+      },
+      "vision_alignment": {
+        "keywords": [
+          "location_based_entertainment",
+          "ip_driven_immersive"
+        ],
+        "fit_comment": "Relevant partner for IP-led immersive dome shows and touring experiences in destination clusters."
+      },
+      "immersive_projects": [],
+      "key_people": [],
+      "tags": [
+        "immersive_exhibition",
+        "touring_shows",
+        "ip_partner"
+      ],
+      "notes": "",
+      "sources": [
+        {
+          "source_id": "SRC_NEON_OFFICIAL",
+          "title": "NEON \u2013 Official Site",
+          "url": "https://www.neonglobal.com/",
+          "publisher": "NEON",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Corporate overview of NEON\u2019s global immersive exhibitions and IP partnerships."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "investor_id": "INV_00029_SEVEN_SA",
+      "investor_name": "Saudi Entertainment Ventures (SEVEN)",
+      "investor_category": "destination_developer",
+      "description": "PIF-owned entertainment company mandated to build a nationwide network of large-scale entertainment destinations across Saudi Arabia, including theme parks, media-based attractions and immersive venues.",
+      "country": "Saudi Arabia",
+      "country_iso2": "SA",
+      "world_region": "MENA_GCC",
+      "hq_city": "Riyadh",
+      "ownership_structure": "state_owned",
+      "governance_type": "board_governed",
+      "main_website": "https://seven.sa/",
+      "fund_size_overall": {
+        "currency": "SAR",
+        "note": "News reports reference a SAR 50bn (c. USD 13bn) investment programme for 14 SEVEN entertainment destinations; treated here as development capex."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": true,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": 2018,
+        "portfolio_maturity_category": "emerging",
+        "notes": "Destinations mix indoor and outdoor attractions; multiple parks feature media-based rides and immersive environments suitable for domes and XR."
+      },
+      "preferred_stages": [
+        "infrastructure",
+        "venue_development",
+        "late_stage_content"
+      ],
+      "ticket_size": {
+        "min_musd_estimate": null,
+        "max_musd_estimate": null,
+        "note": "Acts as master developer for destination-scale parks; sub-project ticket sizes vary widely by attraction."
+      },
+      "investment_instruments": [
+        "equity",
+        "project_finance",
+        "ppp_concession"
+      ],
+      "thematic_focus": [
+        "tourism",
+        "tourism_infrastructure",
+        "creative_industries",
+        "sports"
+      ],
+      "geographic_focus": [
+        "Saudi Arabia"
+      ],
+      "exclusion_criteria": [],
+      "ppp_profile": {
+        "ppp_active": true,
+        "ppp_description": "Works with municipalities, tourism authorities and private operators to deliver entertainment destinations under Vision 2030."
+      },
+      "vision_alignment": {
+        "keywords": [
+          "vision_2030",
+          "destination_tourism",
+          "family_entertainment"
+        ],
+        "fit_comment": "Key platform for dome-based attractions and immersive centres within Saudi regional cities."
+      },
+      "immersive_projects": [],
+      "key_people": [],
+      "tags": [
+        "giga_project",
+        "entertainment_parks",
+        "destination"
+      ],
+      "notes": "",
+      "sources": [
+        {
+          "source_id": "SRC_SEVEN_OFFICIAL",
+          "title": "SEVEN \u2013 Official Site",
+          "url": "https://seven.sa/",
+          "publisher": "Saudi Entertainment Ventures",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Corporate description of SEVEN\u2019s role in building a network of entertainment destinations in Saudi Arabia."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "investor_id": "INV_00030_DUBAI_HOLDING_ENT",
+      "investor_name": "Dubai Holding Entertainment",
+      "investor_category": "destination_developer",
+      "description": "Leisure and entertainment arm of Dubai Holding, operating Dubai Parks and Resorts, Global Village and other attractions that function as anchor destinations for regional and international tourism.",
+      "country": "United Arab Emirates",
+      "country_iso2": "AE",
+      "world_region": "MENA_GCC",
+      "hq_city": "Dubai",
+      "ownership_structure": "state_owned",
+      "governance_type": "corporate_board",
+      "main_website": "https://www.dubaiholding.com/en/who-we-are/our-companies/dubai-holding-entertainment",
+      "fund_size_overall": {
+        "currency": "AED",
+        "note": "Part of Dubai Holding; manages parks and attractions at portfolio level, not as a standalone investment fund."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": true,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": 2010,
+        "portfolio_maturity_category": "established",
+        "notes": "Portfolio includes immersive rides, themed environments and media attractions; potential host for dome theatres and XR experiences."
+      },
+      "preferred_stages": [
+        "infrastructure",
+        "venue_development",
+        "late_stage_content"
+      ],
+      "ticket_size": {
+        "min_musd_estimate": null,
+        "max_musd_estimate": null,
+        "note": "Investments are typically made at park or cluster level with significant capex commitments."
+      },
+      "investment_instruments": [
+        "equity",
+        "project_finance"
+      ],
+      "thematic_focus": [
+        "tourism",
+        "tourism_infrastructure",
+        "creative_industries"
+      ],
+      "geographic_focus": [
+        "Dubai",
+        "UAE"
+      ],
+      "exclusion_criteria": [],
+      "ppp_profile": {
+        "ppp_active": true,
+        "ppp_description": "Collaborates with Dubai government and tourism entities on large entertainment clusters."
+      },
+      "vision_alignment": {
+        "keywords": [
+          "destination_tourism",
+          "family_entertainment"
+        ],
+        "fit_comment": "Relevant for dome or immersive clusters integrated into multi-park resorts and urban entertainment districts."
+      },
+      "immersive_projects": [],
+      "key_people": [],
+      "tags": [
+        "theme_parks",
+        "destination",
+        "dubai_parks"
+      ],
+      "notes": "",
+      "sources": [
+        {
+          "source_id": "SRC_DHE_OFFICIAL",
+          "title": "Dubai Holding Entertainment \u2013 Company Overview",
+          "url": "https://www.dubaiholding.com/en/who-we-are/our-companies/dubai-holding-entertainment",
+          "publisher": "Dubai Holding",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Lists Dubai Holding Entertainment\u2019s attractions including Dubai Parks and Resorts."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "investor_id": "INV_00031_EMAAR_ENT",
+      "investor_name": "Emaar Entertainment",
+      "investor_category": "destination_developer",
+      "description": "Entertainment subsidiary of Emaar Properties, operating attractions such as Dubai Aquarium & Underwater Zoo, Dubai Ice Rink and other media-rich experiences within Emaar\u2019s malls and mixed-use destinations.",
+      "country": "United Arab Emirates",
+      "country_iso2": "AE",
+      "world_region": "MENA_GCC",
+      "hq_city": "Dubai",
+      "ownership_structure": "private",
+      "governance_type": "corporate_board",
+      "main_website": "https://www.emaar.com/en/our-businesses/emaar-entertainment",
+      "fund_size_overall": {
+        "currency": "AED",
+        "note": "Part of Emaar Properties\u2019 portfolio; investments are integrated into mall and mixed-use destination developments."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": true,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": 2008,
+        "portfolio_maturity_category": "established",
+        "notes": "Attractions combine large-format media, staged environments and themed architecture; Emaar destinations could integrate domes and XR galleries."
+      },
+      "preferred_stages": [
+        "infrastructure",
+        "venue_development"
+      ],
+      "ticket_size": {
+        "min_musd_estimate": null,
+        "max_musd_estimate": null,
+        "note": "Acts as in-house developer and operator; investment volumes correspond to major mall and destination projects."
+      },
+      "investment_instruments": [
+        "equity",
+        "project_finance"
+      ],
+      "thematic_focus": [
+        "tourism",
+        "retail_entertainment",
+        "creative_industries"
+      ],
+      "geographic_focus": [
+        "Dubai",
+        "UAE",
+        "Middle East"
+      ],
+      "exclusion_criteria": [],
+      "ppp_profile": {
+        "ppp_active": false,
+        "ppp_description": "Primarily develops privately-owned attractions within Emaar destinations."
+      },
+      "vision_alignment": {
+        "keywords": [
+          "retail_entertainment",
+          "destination_malls"
+        ],
+        "fit_comment": "Potential integration partner for domes and immersive theatres inside large mixed-use destination projects."
+      },
+      "immersive_projects": [],
+      "key_people": [],
+      "tags": [
+        "mall_entertainment",
+        "aquarium",
+        "destination"
+      ],
+      "notes": "",
+      "sources": [
+        {
+          "source_id": "SRC_EMAAR_ENT",
+          "title": "Emaar Entertainment \u2013 Our Businesses",
+          "url": "https://www.emaar.com/en/our-businesses/emaar-entertainment",
+          "publisher": "Emaar Properties",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Outlines Emaar\u2019s portfolio of entertainment attractions in Dubai and beyond."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "investor_id": "INV_00032_MAJID_AF_LEISURE",
+      "investor_name": "Majid Al Futtaim \u2013 Leisure, Entertainment & Cinemas",
+      "investor_category": "destination_developer",
+      "description": "Leisure and entertainment division of Majid Al Futtaim Group, operating VOX Cinemas, Ski Dubai and other indoor attractions across malls and destinations in the Middle East and North Africa.",
+      "country": "United Arab Emirates",
+      "country_iso2": "AE",
+      "world_region": "MENA_GCC",
+      "hq_city": "Dubai",
+      "ownership_structure": "private",
+      "governance_type": "corporate_board",
+      "main_website": "https://www.majidalfuttaim.com/en/our-businesses/leisure-and-entertainment",
+      "fund_size_overall": {
+        "currency": "AED",
+        "note": "Part of Majid Al Futtaim Group; invests in attractions and cinemas within its destination malls and mixed-use projects."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": true,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": 2005,
+        "portfolio_maturity_category": "established",
+        "notes": "Portfolio includes indoor snow parks, cinemas and other experiential venues; group increasingly experiments with media-rich and XR experiences."
+      },
+      "preferred_stages": [
+        "infrastructure",
+        "venue_development",
+        "late_stage_content"
+      ],
+      "ticket_size": {
+        "min_musd_estimate": null,
+        "max_musd_estimate": null,
+        "note": "Acts as developer and anchor tenant in large malls; dome or XR theatres would be integrated at project scale."
+      },
+      "investment_instruments": [
+        "equity",
+        "project_finance",
+        "long_term_lease"
+      ],
+      "thematic_focus": [
+        "tourism",
+        "retail_entertainment",
+        "creative_industries"
+      ],
+      "geographic_focus": [
+        "GCC",
+        "North Africa"
+      ],
+      "exclusion_criteria": [],
+      "ppp_profile": {
+        "ppp_active": false,
+        "ppp_description": "Primarily private-sector developments; may interface with city planners on major mixed-use destinations."
+      },
+      "vision_alignment": {
+        "keywords": [
+          "destination_malls",
+          "indoor_attractions"
+        ],
+        "fit_comment": "Possible partner for mid-size dome venues or immersive galleries inside regional malls and resorts."
+      },
+      "immersive_projects": [],
+      "key_people": [],
+      "tags": [
+        "ski_dubai",
+        "vox_cinemas",
+        "destination_malls"
+      ],
+      "notes": "",
+      "sources": [
+        {
+          "source_id": "SRC_MAF_LEISURE",
+          "title": "Leisure, Entertainment & Cinemas \u2013 Majid Al Futtaim",
+          "url": "https://www.majidalfuttaim.com/en/our-businesses/leisure-and-entertainment",
+          "publisher": "Majid Al Futtaim",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Overview of the group\u2019s leisure and entertainment assets including Ski Dubai and VOX Cinemas."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "investor_id": "INV_00033_MERLIN_ENT",
+      "investor_name": "Merlin Entertainments",
+      "investor_category": "destination_developer",
+      "description": "UK-based operator of visitor attractions including LEGOLAND parks, SEA LIFE centres and Madame Tussauds, with a strong focus on immersive themed environments and family tourism.",
+      "country": "United Kingdom",
+      "country_iso2": "GB",
+      "world_region": "EUROPE",
+      "hq_city": "Poole",
+      "ownership_structure": "private",
+      "governance_type": "corporate_board",
+      "main_website": "https://www.merlinentertainments.biz/",
+      "fund_size_overall": {
+        "currency": "GBP",
+        "note": "Large private operator backed by institutional capital; invests directly in parks and attractions globally."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": true,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": 2000,
+        "portfolio_maturity_category": "long_term",
+        "notes": "Extensive portfolio of themed attractions using media, projection and set design; potential integration platform for domes and fulldome shows."
+      },
+      "preferred_stages": [
+        "infrastructure",
+        "venue_development",
+        "late_stage_content"
+      ],
+      "ticket_size": {
+        "min_musd_estimate": null,
+        "max_musd_estimate": null,
+        "note": "Invests at park and attraction level with multi-million GBP capex per site."
+      },
+      "investment_instruments": [
+        "equity",
+        "project_finance",
+        "long_term_lease"
+      ],
+      "thematic_focus": [
+        "tourism",
+        "family_entertainment",
+        "creative_industries"
+      ],
+      "geographic_focus": [
+        "Europe",
+        "North America",
+        "Asia",
+        "Australia"
+      ],
+      "exclusion_criteria": [],
+      "ppp_profile": {
+        "ppp_active": true,
+        "ppp_description": "Frequently enters long-term agreements with cities and public bodies for major attractions (for example observation wheels, heritage sites)."
+      },
+      "vision_alignment": {
+        "keywords": [
+          "family_entertainment",
+          "theme_parks"
+        ],
+        "fit_comment": "Relevant operator for small-to-mid-size domes attached to LEGOLAND or SEA LIFE clusters."
+      },
+      "immersive_projects": [],
+      "key_people": [],
+      "tags": [
+        "legoland",
+        "madame_tussauds",
+        "sea_life"
+      ],
+      "notes": "",
+      "sources": [
+        {
+          "source_id": "SRC_MERLIN_OFFICIAL",
+          "title": "Merlin Entertainments \u2013 Corporate Site",
+          "url": "https://www.merlinentertainments.biz/",
+          "publisher": "Merlin Entertainments",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Corporate overview and portfolio of attractions."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "investor_id": "INV_00034_IMAX_CORP",
+      "investor_name": "IMAX Corporation",
+      "investor_category": "media_and_entertainment_corporate",
+      "description": "Canadian-American entertainment technology company known for large-format cinemas and dome theatres, providing projection systems and content for science centres, museums and commercial cinemas worldwide.",
+      "country": "Canada",
+      "country_iso2": "CA",
+      "world_region": "NORTH_AMERICA",
+      "hq_city": "Toronto",
+      "ownership_structure": "publicly_listed",
+      "governance_type": "corporate_board",
+      "main_website": "https://www.imax.com/",
+      "fund_size_overall": {
+        "currency": "USD",
+        "note": "Public company generating revenue from technology sales, services and box office participation; no dedicated investment fund disclosed."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": true,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": 1968,
+        "portfolio_maturity_category": "long_term",
+        "notes": "Has installed IMAX Dome theatres globally and continues to support large-format immersive cinema and giant-screen domes."
+      },
+      "preferred_stages": [
+        "infrastructure",
+        "venue_development"
+      ],
+      "ticket_size": {
+        "min_musd_estimate": null,
+        "max_musd_estimate": null,
+        "note": "Provides projection systems and co-finances select content; investment volume depends on number and scale of theatres."
+      },
+      "investment_instruments": [
+        "equipment_finance",
+        "content_cofinancing"
+      ],
+      "thematic_focus": [
+        "science_and_education",
+        "tourism",
+        "creative_industries"
+      ],
+      "geographic_focus": [
+        "global"
+      ],
+      "exclusion_criteria": [],
+      "ppp_profile": {
+        "ppp_active": false,
+        "ppp_description": "Works closely with public museums and science centres but usually via commercial contracts rather than formal PPP structures."
+      },
+      "vision_alignment": {
+        "keywords": [
+          "giant_screen",
+          "dome_theatres"
+        ],
+        "fit_comment": "Legacy player in dome-format cinemas; reference for technical standards and potential partner for hybrid fulldome/IMAX content."
+      },
+      "immersive_projects": [],
+      "key_people": [],
+      "tags": [
+        "giant_screen",
+        "imax_dome",
+        "museum_theatres"
+      ],
+      "notes": "",
+      "sources": [
+        {
+          "source_id": "SRC_IMAX_OFFICIAL",
+          "title": "IMAX \u2013 About",
+          "url": "https://www.imax.com/about",
+          "publisher": "IMAX Corporation",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Corporate description of IMAX technology, including dome theatres for museums and science centres."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "investor_id": "INV_00035_MEOW_WOLF",
+      "investor_name": "Meow Wolf",
+      "investor_category": "media_and_entertainment_corporate",
+      "description": "US-based art and entertainment company operating permanent immersive art exhibitions in Santa Fe, Las Vegas, Denver, Grapevine and Houston, acting as anchor attractions in urban destination districts.",
+      "country": "United States",
+      "country_iso2": "US",
+      "world_region": "NORTH_AMERICA",
+      "hq_city": "Santa Fe",
+      "ownership_structure": "private",
+      "governance_type": "corporate_board",
+      "main_website": "https://meowwolf.com/",
+      "fund_size_overall": {
+        "currency": "USD",
+        "note": "Privately held operator of immersive venues; finance is venue- and project-based rather than a transparent AUM structure."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": true,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": 2016,
+        "portfolio_maturity_category": "established",
+        "notes": "All venues are fully immersive, narrative environments; reference case for art-led immersive destinations that could integrate domes."
+      },
+      "preferred_stages": [
+        "venue_development",
+        "late_stage_content"
+      ],
+      "ticket_size": {
+        "min_musd_estimate": null,
+        "max_musd_estimate": null,
+        "note": "Venue build-outs in the tens of millions USD range; not a classic minority-ticket investor."
+      },
+      "investment_instruments": [
+        "equity",
+        "project_finance",
+        "long_term_lease"
+      ],
+      "thematic_focus": [
+        "creative_industries",
+        "tourism",
+        "urban_regeneration"
+      ],
+      "geographic_focus": [
+        "United States"
+      ],
+      "exclusion_criteria": [],
+      "ppp_profile": {
+        "ppp_active": false,
+        "ppp_description": "Primarily partners with private landlords and mall owners; may interact with city cultural agendas."
+      },
+      "vision_alignment": {
+        "keywords": [
+          "immersive_art",
+          "destination_tourism"
+        ],
+        "fit_comment": "Relevant operator or creative partner for dome-based immersive art spaces and story-driven destinations."
+      },
+      "immersive_projects": [],
+      "key_people": [],
+      "tags": [
+        "immersive_art",
+        "lbe",
+        "destination"
+      ],
+      "notes": "",
+      "sources": [
+        {
+          "source_id": "SRC_MEOW_VISIT",
+          "title": "Visit \u2013 Meow Wolf Locations",
+          "url": "https://meowwolf.com/visit",
+          "publisher": "Meow Wolf",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Lists Meow Wolf\u2019s permanent immersive exhibitions and describes them as large-scale interactive art experiences."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "investor_id": "INV_00036_VR_FUND",
+      "investor_name": "The Venture Reality Fund",
+      "investor_category": "venture_fund_family",
+      "description": "Specialised venture capital fund focusing on early-stage VR/AR/XR companies across content, tools and infrastructure.",
+      "country": "United States",
+      "country_iso2": "US",
+      "world_region": "NORTH_AMERICA",
+      "hq_city": "Los Angeles",
+      "ownership_structure": "private",
+      "governance_type": "partnership",
+      "main_website": "https://www.thevrfund.com/",
+      "fund_size_overall": {
+        "currency": "USD",
+        "note": "Multiple early-stage vehicles focused on immersive technologies; aggregate AUM figures are not consistently disclosed."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": true,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": 2016,
+        "portfolio_maturity_category": "established",
+        "notes": "Backed a wide range of VR/AR startups including content studios, tools and platforms relevant for immersive destinations."
+      },
+      "preferred_stages": [
+        "seed",
+        "early_stage"
+      ],
+      "ticket_size": {
+        "min_musd_estimate": 0.25,
+        "max_musd_estimate": 3.0,
+        "note": "Typical early-stage cheques in VR/AR and XR according to public portfolio disclosures."
+      },
+      "investment_instruments": [
+        "equity"
+      ],
+      "thematic_focus": [
+        "metaverse",
+        "creative_industries",
+        "digital_infrastructure"
+      ],
+      "geographic_focus": [
+        "North America",
+        "Europe",
+        "Asia"
+      ],
+      "exclusion_criteria": [],
+      "ppp_profile": {
+        "ppp_active": false,
+        "ppp_description": "Purely private VC fund."
+      },
+      "vision_alignment": {
+        "keywords": [
+          "vr",
+          "ar",
+          "xr"
+        ],
+        "fit_comment": "Natural early-stage partner for startups providing XR stacks, dome toolchains or spatial content for destinations."
+      },
+      "immersive_projects": [],
+      "key_people": [],
+      "tags": [
+        "early_stage_vc",
+        "vr",
+        "ar",
+        "xr"
+      ],
+      "notes": "",
+      "sources": [
+        {
+          "source_id": "SRC_VR_FUND_SITE",
+          "title": "The Venture Reality Fund \u2013 Official Site",
+          "url": "https://www.thevrfund.com/",
+          "publisher": "The Venture Reality Fund",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Describes the fund\u2019s focus on VR/AR and XR companies."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "investor_id": "INV_00037_GFR_FUND",
+      "investor_name": "GFR Fund",
+      "investor_category": "venture_and_growth_fund",
+      "description": "Early-stage venture fund investing globally in gaming, XR and interactive entertainment startups.",
+      "country": "United States",
+      "country_iso2": "US",
+      "world_region": "NORTH_AMERICA",
+      "hq_city": "San Francisco",
+      "ownership_structure": "private",
+      "governance_type": "partnership",
+      "main_website": "https://www.gfrfund.com/",
+      "fund_size_overall": {
+        "currency": "USD",
+        "note": "Manages multiple early-stage gaming and XR funds; individual fund sizes disclosed per vehicle."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": true,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": 2016,
+        "portfolio_maturity_category": "emerging",
+        "notes": "Portfolio includes VR/AR and interactive entertainment companies relevant to immersive experiences and destination-linked platforms."
+      },
+      "preferred_stages": [
+        "seed",
+        "early_stage"
+      ],
+      "ticket_size": {
+        "min_musd_estimate": 0.2,
+        "max_musd_estimate": 3.0,
+        "note": "Typical seed and Series A cheques in gaming and XR startups."
+      },
+      "investment_instruments": [
+        "equity"
+      ],
+      "thematic_focus": [
+        "creative_industries",
+        "metaverse",
+        "digital_infrastructure"
+      ],
+      "geographic_focus": [
+        "North America",
+        "Asia",
+        "Europe"
+      ],
+      "exclusion_criteria": [],
+      "ppp_profile": {
+        "ppp_active": false,
+        "ppp_description": ""
+      },
+      "vision_alignment": {
+        "keywords": [
+          "gaming",
+          "xr",
+          "interactive"
+        ],
+        "fit_comment": "Useful co-investor for studios building real-time dome content and gamified destination experiences."
+      },
+      "immersive_projects": [],
+      "key_people": [],
+      "tags": [
+        "gaming_vc",
+        "xr",
+        "early_stage_vc"
+      ],
+      "notes": "",
+      "sources": [
+        {
+          "source_id": "SRC_GFR_SITE",
+          "title": "GFR Fund \u2013 Official Site",
+          "url": "https://www.gfrfund.com/",
+          "publisher": "GFR Fund",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Outlines GFR\u2019s focus on gaming and interactive entertainment."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "investor_id": "INV_00038_BOOST_VC",
+      "investor_name": "Boost VC",
+      "investor_category": "venture_fund_family",
+      "description": "Silicon Valley accelerator and seed fund backing founders in sci-fi\u2013inspired sectors including VR/AR, crypto and frontier technologies.",
+      "country": "United States",
+      "country_iso2": "US",
+      "world_region": "NORTH_AMERICA",
+      "hq_city": "San Mateo",
+      "ownership_structure": "private",
+      "governance_type": "partnership",
+      "main_website": "https://www.boost.vc/",
+      "fund_size_overall": {
+        "currency": "USD",
+        "note": "Runs multiple small seed funds to support accelerator cohorts; aggregate AUM reported in the low hundreds of millions of USD."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": true,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": 2014,
+        "portfolio_maturity_category": "established",
+        "notes": "Was one of the earliest accelerator platforms to focus on VR/AR startups alongside crypto and frontier tech."
+      },
+      "preferred_stages": [
+        "pre_seed",
+        "seed"
+      ],
+      "ticket_size": {
+        "min_musd_estimate": 0.05,
+        "max_musd_estimate": 0.5,
+        "note": "Small seed tickets linked to accelerator participation."
+      },
+      "investment_instruments": [
+        "equity",
+        "safes"
+      ],
+      "thematic_focus": [
+        "metaverse",
+        "digital_infrastructure",
+        "creative_industries"
+      ],
+      "geographic_focus": [
+        "global"
+      ],
+      "exclusion_criteria": [],
+      "ppp_profile": {
+        "ppp_active": false,
+        "ppp_description": ""
+      },
+      "vision_alignment": {
+        "keywords": [
+          "vr",
+          "ar",
+          "frontier_tech"
+        ],
+        "fit_comment": "Useful for very early immersive and destination-tech tools that might later scale into dome ecosystems."
+      },
+      "immersive_projects": [],
+      "key_people": [],
+      "tags": [
+        "accelerator",
+        "vr",
+        "ar",
+        "early_stage"
+      ],
+      "notes": "",
+      "sources": [
+        {
+          "source_id": "SRC_BOOST_SITE",
+          "title": "Boost VC \u2013 Official Site",
+          "url": "https://www.boost.vc/",
+          "publisher": "Boost VC",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Describes Boost VC\u2019s focus on sci-fi tech including VR and AR."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "investor_id": "INV_00039_BITKRAFT",
+      "investor_name": "BITKRAFT Ventures",
+      "investor_category": "venture_and_growth_fund",
+      "description": "Global investment platform specialising in gaming, immersive media, Web3 and AI with multiple funds across stages.",
+      "country": "United States",
+      "country_iso2": "US",
+      "world_region": "NORTH_AMERICA",
+      "hq_city": "Denver",
+      "ownership_structure": "private",
+      "governance_type": "partnership",
+      "main_website": "https://www.bitkraft.vc/",
+      "fund_size_overall": {
+        "amount": 1050000000,
+        "currency": "USD",
+        "as_of_year": 2024,
+        "as_of_date": "2024-01-01",
+        "note": "Media materials describe six BITKRAFT funds with aggregated assets under management of approximately USD 1.05bn."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": true,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": 2016,
+        "portfolio_maturity_category": "established",
+        "notes": "Explicitly targets immersive media, virtual worlds and spatial experiences as part of its gaming thesis."
+      },
+      "preferred_stages": [
+        "seed",
+        "early_stage",
+        "growth"
+      ],
+      "ticket_size": {
+        "min_musd_estimate": 1.0,
+        "max_musd_estimate": 25.0,
+        "note": "Based on typical ranges for Seed to Series C tickets reported in portfolio announcements."
+      },
+      "investment_instruments": [
+        "equity",
+        "convertible"
+      ],
+      "thematic_focus": [
+        "creative_industries",
+        "metaverse",
+        "digital_infrastructure"
+      ],
+      "geographic_focus": [
+        "global"
+      ],
+      "exclusion_criteria": [],
+      "ppp_profile": {
+        "ppp_active": false,
+        "ppp_description": ""
+      },
+      "vision_alignment": {
+        "keywords": [
+          "gaming",
+          "immersive_media",
+          "synthetic_reality"
+        ],
+        "fit_comment": "Highly relevant for studios and platforms building real-time content pipelines for domes and immersive destinations."
+      },
+      "immersive_projects": [],
+      "key_people": [],
+      "tags": [
+        "gaming_vc",
+        "immersive_media",
+        "web3"
+      ],
+      "notes": "",
+      "sources": [
+        {
+          "source_id": "SRC_BITKRAFT_PRESS",
+          "title": "BITKRAFT Ventures \u2013 Media Resources",
+          "url": "https://www.bitkraft.vc/press/",
+          "publisher": "BITKRAFT Ventures",
+          "publication_year": 2024,
+          "accessed": "2025-11-16",
+          "note": "States that BITKRAFT manages six funds with approximately USD 1.05bn in assets under management."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "investor_id": "INV_00040_HIRO_CAPITAL",
+      "investor_name": "Hiro Capital",
+      "investor_category": "venture_and_growth_fund",
+      "description": "Thematic VC fund based in London and Luxembourg investing in games, esports, spatial computing and metaverse technologies from Seed to Series C.",
+      "country": "Luxembourg",
+      "country_iso2": "LU",
+      "world_region": "EUROPE",
+      "hq_city": "Luxembourg",
+      "ownership_structure": "private",
+      "governance_type": "partnership",
+      "main_website": "https://hiro.capital/",
+      "fund_size_overall": {
+        "amount": 340000000,
+        "currency": "USD",
+        "as_of_year": 2022,
+        "as_of_date": "2022-02-28",
+        "note": "Hiro Capital II launched as a EUR 300m (~USD 340m) videogames and metaverse technologies fund in 2022."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": true,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": 2019,
+        "portfolio_maturity_category": "emerging",
+        "notes": "Backs VR fitness and other immersive experiences; explicitly targets metaverse and spatial computing technologies."
+      },
+      "preferred_stages": [
+        "seed",
+        "early_stage",
+        "growth"
+      ],
+      "ticket_size": {
+        "min_musd_estimate": 1.0,
+        "max_musd_estimate": 20.0,
+        "note": "Seed to growth tickets as described in fund communications."
+      },
+      "investment_instruments": [
+        "equity"
+      ],
+      "thematic_focus": [
+        "creative_industries",
+        "metaverse",
+        "spatial_computing"
+      ],
+      "geographic_focus": [
+        "Europe",
+        "UK",
+        "North America"
+      ],
+      "exclusion_criteria": [],
+      "ppp_profile": {
+        "ppp_active": false,
+        "ppp_description": ""
+      },
+      "vision_alignment": {
+        "keywords": [
+          "metaverse",
+          "spatial_computing"
+        ],
+        "fit_comment": "Useful co-investor for immersive tools and platforms feeding into dome and destination ecosystems."
+      },
+      "immersive_projects": [],
+      "key_people": [],
+      "tags": [
+        "metaverse_vc",
+        "gaming",
+        "xr"
+      ],
+      "notes": "",
+      "sources": [
+        {
+          "source_id": "SRC_HIRO_FUND2",
+          "title": "Hiro Capital Launches Second \u20ac300m Videogames and Metaverse Fund",
+          "url": "https://www.businesswire.com/news/home/20220228005597/en/Hiro-Capital-Launches-Second-%E2%82%AC300m-340m-Videogames-and-Metaverse-Technologies-Venture-Fund",
+          "publisher": "Business Wire",
+          "publication_year": 2022,
+          "accessed": "2025-11-16",
+          "note": "Announces Hiro Capital II, a EUR 300m fund for videogames and metaverse technologies."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "investor_id": "INV_00041_MAKERS_FUND",
+      "investor_name": "Makers Fund",
+      "investor_category": "venture_and_growth_fund",
+      "description": "Global venture capital firm dedicated to early-stage gaming and interactive entertainment companies, including immersive experiences.",
+      "country": "United States",
+      "country_iso2": "US",
+      "world_region": "NORTH_AMERICA",
+      "hq_city": "San Francisco",
+      "ownership_structure": "private",
+      "governance_type": "partnership",
+      "main_website": "https://makersfund.com/",
+      "fund_size_overall": {
+        "currency": "USD",
+        "note": "Multiple funds; public sources describe several hundred million USD committed to gaming and interactive entertainment."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": true,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": 2017,
+        "portfolio_maturity_category": "established",
+        "notes": "Portfolio spans game studios and platforms, some of which build immersive worlds and spatial experiences suitable for destinations."
+      },
+      "preferred_stages": [
+        "seed",
+        "early_stage",
+        "growth"
+      ],
+      "ticket_size": {
+        "min_musd_estimate": 1.0,
+        "max_musd_estimate": 20.0,
+        "note": "Seed to Series B cheques in gaming and interactive entertainment companies."
+      },
+      "investment_instruments": [
+        "equity"
+      ],
+      "thematic_focus": [
+        "creative_industries",
+        "metaverse"
+      ],
+      "geographic_focus": [
+        "global"
+      ],
+      "exclusion_criteria": [],
+      "ppp_profile": {
+        "ppp_active": false,
+        "ppp_description": ""
+      },
+      "vision_alignment": {
+        "keywords": [
+          "gaming",
+          "interactive_entertainment"
+        ],
+        "fit_comment": "Relevant for studios building IP that can extend into dome and destination experiences."
+      },
+      "immersive_projects": [],
+      "key_people": [],
+      "tags": [
+        "gaming_vc",
+        "interactive"
+      ],
+      "notes": "",
+      "sources": [
+        {
+          "source_id": "SRC_MAKERS_PROFILE",
+          "title": "Makers Fund \u2013 Overview",
+          "url": "https://makersfund.com/",
+          "publisher": "Makers Fund",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Describes Makers Fund as a global venture capital firm dedicated to gaming and interactive entertainment."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "investor_id": "INV_00042_LONDON_VP",
+      "investor_name": "London Venture Partners (LVP)",
+      "investor_category": "venture_and_growth_fund",
+      "description": "Specialist games VC backing seed-stage games and game-service companies, including online worlds and experiential platforms.",
+      "country": "United Kingdom",
+      "country_iso2": "GB",
+      "world_region": "EUROPE",
+      "hq_city": "London",
+      "ownership_structure": "private",
+      "governance_type": "partnership",
+      "main_website": "https://www.londonvp.com/",
+      "fund_size_overall": {
+        "currency": "USD",
+        "note": "Operates several small specialised funds; AUM is in the low hundreds of millions of USD equivalent."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": true,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": 2010,
+        "portfolio_maturity_category": "long_term",
+        "notes": "Invests in networked worlds and experiential game companies; a subset is directly relevant to immersive, destination-linked content."
+      },
+      "preferred_stages": [
+        "pre_seed",
+        "seed",
+        "early_stage"
+      ],
+      "ticket_size": {
+        "min_musd_estimate": 0.3,
+        "max_musd_estimate": 3.0,
+        "note": "Seed tickets targeting game and interactive entertainment startups."
+      },
+      "investment_instruments": [
+        "equity"
+      ],
+      "thematic_focus": [
+        "creative_industries",
+        "metaverse"
+      ],
+      "geographic_focus": [
+        "Europe",
+        "North America",
+        "global"
+      ],
+      "exclusion_criteria": [],
+      "ppp_profile": {
+        "ppp_active": false,
+        "ppp_description": ""
+      },
+      "vision_alignment": {
+        "keywords": [
+          "gaming",
+          "online_worlds"
+        ],
+        "fit_comment": "Potential backer for studios whose IP can extend into dome shows and destination activations."
+      },
+      "immersive_projects": [],
+      "key_people": [],
+      "tags": [
+        "gaming_vc",
+        "seed_vc"
+      ],
+      "notes": "",
+      "sources": [
+        {
+          "source_id": "SRC_LVP_PROFILE",
+          "title": "London Venture Partners \u2013 Official Site",
+          "url": "https://www.londonvp.com/",
+          "publisher": "London Venture Partners",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Describes LVP as an early-stage fund focused on the games sector."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "investor_id": "INV_00043_PLAY_VENTURES",
+      "investor_name": "Play Ventures",
+      "investor_category": "venture_and_growth_fund",
+      "description": "Global early-stage gaming VC investing in free-to-play and Web3 game studios and infrastructure from hubs in Helsinki and Singapore.",
+      "country": "Singapore",
+      "country_iso2": "SG",
+      "world_region": "ASIA_PACIFIC",
+      "hq_city": "Singapore",
+      "ownership_structure": "private",
+      "governance_type": "partnership",
+      "main_website": "https://playventures.vc/",
+      "fund_size_overall": {
+        "currency": "USD",
+        "note": "Public materials reference several funds with aggregate commitments in the low hundreds of millions USD."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": true,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": 2018,
+        "portfolio_maturity_category": "emerging",
+        "notes": "Backs studios and platforms building persistent game worlds and Web3 ecosystems relevant to destination-linked experiences."
+      },
+      "preferred_stages": [
+        "seed",
+        "early_stage"
+      ],
+      "ticket_size": {
+        "min_musd_estimate": 0.5,
+        "max_musd_estimate": 5.0,
+        "note": "Seed and Series A tickets as described in press summaries."
+      },
+      "investment_instruments": [
+        "equity",
+        "token_rights"
+      ],
+      "thematic_focus": [
+        "creative_industries",
+        "metaverse"
+      ],
+      "geographic_focus": [
+        "global"
+      ],
+      "exclusion_criteria": [],
+      "ppp_profile": {
+        "ppp_active": false,
+        "ppp_description": ""
+      },
+      "vision_alignment": {
+        "keywords": [
+          "gaming",
+          "web3",
+          "metaverse"
+        ],
+        "fit_comment": "Potential co-investor for studios building IP that can move between online worlds and physical dome/destination spaces."
+      },
+      "immersive_projects": [],
+      "key_people": [],
+      "tags": [
+        "gaming_vc",
+        "web3"
+      ],
+      "notes": "",
+      "sources": [
+        {
+          "source_id": "SRC_PLAY_VENTURES_SITE",
+          "title": "Play Ventures \u2013 Official Site",
+          "url": "https://playventures.vc/",
+          "publisher": "Play Ventures",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Describes Play Ventures as a global early-stage gaming investor with hubs in Helsinki and Singapore."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "investor_id": "INV_00044_OUTLIER_VENTURES",
+      "investor_name": "Outlier Ventures",
+      "investor_category": "venture_fund_family",
+      "description": "UK-based open metaverse accelerator and investor supporting Web3, infrastructure and metaverse startups via accelerator cohorts and follow-on capital.",
+      "country": "United Kingdom",
+      "country_iso2": "GB",
+      "world_region": "EUROPE",
+      "hq_city": "London",
+      "ownership_structure": "private",
+      "governance_type": "partnership",
+      "main_website": "https://outlierventures.io/",
+      "fund_size_overall": {
+        "currency": "USD",
+        "note": "Runs multiple accelerator programmes and follow-on investment vehicles; combined capital commitments reported in the low hundreds of millions USD."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": true,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": 2016,
+        "portfolio_maturity_category": "established",
+        "notes": "Supports open metaverse and Web3 infrastructure projects; several are directly relevant to immersive destinations and spatial content economies."
+      },
+      "preferred_stages": [
+        "pre_seed",
+        "seed",
+        "early_stage"
+      ],
+      "ticket_size": {
+        "min_musd_estimate": 0.06,
+        "max_musd_estimate": 1.0,
+        "note": "Typical accelerator and early-stage tickets in Web3/metaverse startups."
+      },
+      "investment_instruments": [
+        "equity",
+        "token_rights"
+      ],
+      "thematic_focus": [
+        "metaverse",
+        "digital_infrastructure",
+        "creative_industries"
+      ],
+      "geographic_focus": [
+        "global"
+      ],
+      "exclusion_criteria": [],
+      "ppp_profile": {
+        "ppp_active": false,
+        "ppp_description": ""
+      },
+      "vision_alignment": {
+        "keywords": [
+          "open_metaverse",
+          "web3"
+        ],
+        "fit_comment": "Relevant for protocols and platforms that can underpin ticketing, identity and virtual layers of dome and destination ecosystems."
+      },
+      "immersive_projects": [],
+      "key_people": [],
+      "tags": [
+        "accelerator",
+        "web3",
+        "metaverse"
+      ],
+      "notes": "",
+      "sources": [
+        {
+          "source_id": "SRC_OUTLIER_SITE",
+          "title": "Outlier Ventures \u2013 Official Site",
+          "url": "https://outlierventures.io/",
+          "publisher": "Outlier Ventures",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Describes Outlier Ventures as a leading open metaverse accelerator and investor."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "investor_id": "INV_00045_ANIMOCA_BRANDS",
+      "investor_name": "Animoca Brands",
+      "investor_category": "venture_and_growth_fund",
+      "description": "Hong Kong\u2013based Web3 and gaming company that acts as both operator and prolific investor in blockchain games, metaverse projects and digital asset ecosystems.",
+      "country": "China (Hong Kong SAR)",
+      "country_iso2": "HK",
+      "world_region": "ASIA_PACIFIC",
+      "hq_city": "Hong Kong",
+      "ownership_structure": "private",
+      "governance_type": "corporate_board",
+      "main_website": "https://www.animocabrands.com/",
+      "fund_size_overall": {
+        "currency": "USD",
+        "note": "Various reports describe Animoca Brands as having invested in hundreds of Web3 projects with an equity and token portfolio once valued in the multi-billion USD range."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": true,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": 2018,
+        "portfolio_maturity_category": "established",
+        "notes": "Backs metaverse platforms, virtual worlds and Web3 infrastructure that can connect to physical destinations and immersive venues."
+      },
+      "preferred_stages": [
+        "seed",
+        "early_stage",
+        "growth"
+      ],
+      "ticket_size": {
+        "min_musd_estimate": 0.25,
+        "max_musd_estimate": 30.0,
+        "note": "Ranges from small seed cheques to larger strategic investments reported in press coverage."
+      },
+      "investment_instruments": [
+        "equity",
+        "token_rights"
+      ],
+      "thematic_focus": [
+        "creative_industries",
+        "metaverse",
+        "digital_infrastructure"
+      ],
+      "geographic_focus": [
+        "Asia",
+        "Europe",
+        "North America",
+        "global"
+      ],
+      "exclusion_criteria": [],
+      "ppp_profile": {
+        "ppp_active": false,
+        "ppp_description": ""
+      },
+      "vision_alignment": {
+        "keywords": [
+          "web3",
+          "metaverse",
+          "gaming"
+        ],
+        "fit_comment": "Key player in Web3 ecosystems; could underpin virtual layers, ticketing and IP ecosystems linked to dome destinations."
+      },
+      "immersive_projects": [],
+      "key_people": [],
+      "tags": [
+        "web3_investor",
+        "gaming",
+        "metaverse"
+      ],
+      "notes": "",
+      "sources": [
+        {
+          "source_id": "SRC_ANIMOCA_SITE",
+          "title": "Animoca Brands \u2013 Official Site",
+          "url": "https://www.animocabrands.com/",
+          "publisher": "Animoca Brands",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Corporate overview describing Animoca Brands\u2019 role as a Web3 and gaming investor and operator."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
     }
   ],
   "institutions": [
     {
-      "institution_id": "INS_QIDDIYA_INVESTMENT_COMPANY",
+      "institution_id": "INS_00001_QIDDIYA_INVESTMENT_COMPANY",
       "name": "Qiddiya Investment Company",
       "country": "Saudi Arabia",
       "world_region": "MENA_GCC",
@@ -2714,10 +4343,10 @@
         "INV_PIF"
       ],
       "policy_ids": [
-        "POL_SA_VISION2030"
+        "POL_00001_SA_VISION2030"
       ],
       "project_ids": [
-        "PRJ_QIDDIYA_CITY"
+        "PRJ_00002_QIDDIYA_CITY"
       ],
       "notes": "",
       "sources": [
@@ -2735,7 +4364,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "institution_id": "INS_DIRIYAH_COMPANY",
+      "institution_id": "INS_00002_DIRIYAH_COMPANY",
       "name": "Diriyah Company",
       "country": "Saudi Arabia",
       "world_region": "MENA_GCC",
@@ -2745,10 +4374,10 @@
         "INV_PIF"
       ],
       "policy_ids": [
-        "POL_SA_VISION2030"
+        "POL_00001_SA_VISION2030"
       ],
       "project_ids": [
-        "PRJ_DIRIYAH"
+        "PRJ_00004_DIRIYAH"
       ],
       "notes": "",
       "sources": [
@@ -2766,7 +4395,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "institution_id": "INS_MIRAL_GROUP",
+      "institution_id": "INS_00003_MIRAL_GROUP",
       "name": "Miral",
       "country": "United Arab Emirates",
       "world_region": "MENA_GCC",
@@ -2777,11 +4406,11 @@
       ],
       "policy_ids": [],
       "project_ids": [
-        "PRJ_FERRARI_WORLD",
-        "PRJ_WB_WORLD",
-        "PRJ_SEAWORLD_YAS",
-        "PRJ_TEAMLAB_PHENOMENA",
-        "PRJ_YAS_ISLAND_DISNEY_RESORT"
+        "PRJ_00005_FERRARI_WORLD",
+        "PRJ_00006_WB_WORLD",
+        "PRJ_00007_SEAWORLD_YAS",
+        "PRJ_00008_TEAMLAB_PHENOMENA",
+        "PRJ_00009_YAS_ISLAND_DISNEY_RESORT"
       ],
       "notes": "In this dataset Miral appears as both an investor and an institution, reflecting its dual role as capital provider and development company.",
       "sources": [
@@ -2801,7 +4430,7 @@
   ],
   "projects": [
     {
-      "project_id": "PRJ_NEOM",
+      "project_id": "PRJ_00001_NEOM",
       "project_name": "NEOM",
       "project_type": "mixed_use_immersive_cluster",
       "country": "Saudi Arabia",
@@ -2839,7 +4468,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "project_id": "PRJ_QIDDIYA_CITY",
+      "project_id": "PRJ_00002_QIDDIYA_CITY",
       "project_name": "Qiddiya City",
       "project_type": "themed_entertainment_district",
       "country": "Saudi Arabia",
@@ -2852,7 +4481,7 @@
       ],
       "co_investor_ids": [],
       "operator_institutions": [
-        "INS_QIDDIYA_INVESTMENT_COMPANY"
+        "INS_00001_QIDDIYA_INVESTMENT_COMPANY"
       ],
       "immersive_formats": [
         "other",
@@ -2880,7 +4509,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "project_id": "PRJ_RED_SEA_CLUSTER",
+      "project_id": "PRJ_00003_RED_SEA_CLUSTER",
       "project_name": "Red Sea Tourism Cluster",
       "project_type": "mixed_use_immersive_cluster",
       "country": "Saudi Arabia",
@@ -2918,7 +4547,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "project_id": "PRJ_DIRIYAH",
+      "project_id": "PRJ_00004_DIRIYAH",
       "project_name": "Diriyah",
       "project_type": "themed_entertainment_district",
       "country": "Saudi Arabia",
@@ -2931,7 +4560,7 @@
       ],
       "co_investor_ids": [],
       "operator_institutions": [
-        "INS_DIRIYAH_COMPANY"
+        "INS_00002_DIRIYAH_COMPANY"
       ],
       "immersive_formats": [
         "experience_center",
@@ -2958,7 +4587,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "project_id": "PRJ_FERRARI_WORLD",
+      "project_id": "PRJ_00005_FERRARI_WORLD",
       "project_name": "Ferrari World Yas Island",
       "project_type": "XR_park",
       "country": "United Arab Emirates",
@@ -2971,7 +4600,7 @@
       ],
       "co_investor_ids": [],
       "operator_institutions": [
-        "INS_MIRAL_GROUP"
+        "INS_00003_MIRAL_GROUP"
       ],
       "immersive_formats": [
         "other"
@@ -2997,7 +4626,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "project_id": "PRJ_WB_WORLD",
+      "project_id": "PRJ_00006_WB_WORLD",
       "project_name": "Warner Bros. World Abu Dhabi",
       "project_type": "XR_park",
       "country": "United Arab Emirates",
@@ -3010,7 +4639,7 @@
       ],
       "co_investor_ids": [],
       "operator_institutions": [
-        "INS_MIRAL_GROUP"
+        "INS_00003_MIRAL_GROUP"
       ],
       "immersive_formats": [
         "other"
@@ -3035,7 +4664,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "project_id": "PRJ_SEAWORLD_YAS",
+      "project_id": "PRJ_00007_SEAWORLD_YAS",
       "project_name": "SeaWorld Yas Island Abu Dhabi",
       "project_type": "other",
       "country": "United Arab Emirates",
@@ -3048,7 +4677,7 @@
       ],
       "co_investor_ids": [],
       "operator_institutions": [
-        "INS_MIRAL_GROUP"
+        "INS_00003_MIRAL_GROUP"
       ],
       "immersive_formats": [
         "experience_center"
@@ -3073,7 +4702,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "project_id": "PRJ_TEAMLAB_PHENOMENA",
+      "project_id": "PRJ_00008_TEAMLAB_PHENOMENA",
       "project_name": "teamLab Phenomena Abu Dhabi",
       "project_type": "other",
       "country": "United Arab Emirates",
@@ -3086,7 +4715,7 @@
       ],
       "co_investor_ids": [],
       "operator_institutions": [
-        "INS_MIRAL_GROUP"
+        "INS_00003_MIRAL_GROUP"
       ],
       "immersive_formats": [
         "experience_center"
@@ -3111,7 +4740,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "project_id": "PRJ_YAS_ISLAND_DISNEY_RESORT",
+      "project_id": "PRJ_00009_YAS_ISLAND_DISNEY_RESORT",
       "project_name": "Disney Theme Park & Resort \u2013 Yas Island Abu Dhabi",
       "project_type": "themed_entertainment_district",
       "country": "United Arab Emirates",
@@ -3124,7 +4753,7 @@
       ],
       "co_investor_ids": [],
       "operator_institutions": [
-        "INS_MIRAL_GROUP"
+        "INS_00003_MIRAL_GROUP"
       ],
       "immersive_formats": [
         "other",
@@ -3153,7 +4782,7 @@
   ],
   "policies": [
     {
-      "policy_id": "POL_SA_VISION2030",
+      "policy_id": "POL_00001_SA_VISION2030",
       "policy_name": "Saudi Vision 2030 \u2013 Tourism, Culture and Entertainment Pillars",
       "country": "Saudi Arabia",
       "world_region": "MENA_GCC",
@@ -3165,10 +4794,10 @@
         "INV_PIF"
       ],
       "linked_project_ids": [
-        "PRJ_NEOM",
-        "PRJ_QIDDIYA_CITY",
-        "PRJ_RED_SEA_CLUSTER",
-        "PRJ_DIRIYAH"
+        "PRJ_00001_NEOM",
+        "PRJ_00002_QIDDIYA_CITY",
+        "PRJ_00003_RED_SEA_CLUSTER",
+        "PRJ_00004_DIRIYAH"
       ],
       "notes": "",
       "sources": [
@@ -3186,7 +4815,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "policy_id": "POL_SA_PIF_ENT_LEISURE_SPORTS",
+      "policy_id": "POL_00002_SA_PIF_ENT_LEISURE_SPORTS",
       "policy_name": "PIF Entertainment, Leisure and Sports Priority Sector",
       "country": "Saudi Arabia",
       "world_region": "MENA_GCC",
@@ -3204,9 +4833,9 @@
         "INV_PIF"
       ],
       "linked_project_ids": [
-        "PRJ_QIDDIYA_CITY",
-        "PRJ_DIRIYAH",
-        "PRJ_RED_SEA_CLUSTER"
+        "PRJ_00002_QIDDIYA_CITY",
+        "PRJ_00004_DIRIYAH",
+        "PRJ_00003_RED_SEA_CLUSTER"
       ],
       "notes": "Captures PIF's sector-level framing that underpins immersive-relevant projects and companies.",
       "sources": [
@@ -3224,7 +4853,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "policy_id": "POL_AE_AD_TOURISM2030",
+      "policy_id": "POL_00003_AE_AD_TOURISM2030",
       "policy_name": "Abu Dhabi Tourism Strategy 2030",
       "country": "United Arab Emirates",
       "world_region": "MENA_GCC",
@@ -3242,11 +4871,11 @@
         "INV_MIRAL"
       ],
       "linked_project_ids": [
-        "PRJ_FERRARI_WORLD",
-        "PRJ_WB_WORLD",
-        "PRJ_SEAWORLD_YAS",
-        "PRJ_TEAMLAB_PHENOMENA",
-        "PRJ_YAS_ISLAND_DISNEY_RESORT"
+        "PRJ_00005_FERRARI_WORLD",
+        "PRJ_00006_WB_WORLD",
+        "PRJ_00007_SEAWORLD_YAS",
+        "PRJ_00008_TEAMLAB_PHENOMENA",
+        "PRJ_00009_YAS_ISLAND_DISNEY_RESORT"
       ],
       "notes": "Miral's role as a key partner in delivering Yas Island and Saadiyat Island attractions aligns with this strategy.",
       "sources": [
@@ -3266,7 +4895,7 @@
   ],
   "people": [
     {
-      "person_id": "PEO_YASIR_ALRUMAYYAN",
+      "person_id": "PEO_00001_YASIR_ALRUMAYYAN",
       "name": "Yasir Al-Rumayyan",
       "role_title": "Governor of the Public Investment Fund",
       "organisation_id": "INV_PIF",
@@ -3293,7 +4922,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "person_id": "PEO_YASIR_ALSALMAN",
+      "person_id": "PEO_00002_YASIR_ALSALMAN",
       "name": "Yasir A. AlSalman",
       "role_title": "Chief Financial Officer, PIF",
       "organisation_id": "INV_PIF",
@@ -3319,10 +4948,10 @@
       "last_checked": "2025-11-16"
     },
     {
-      "person_id": "PEO_MOHAMED_ALZAABI",
+      "person_id": "PEO_00003_MOHAMED_ALZAABI",
       "name": "Mohamed Abdalla Al Zaabi",
       "role_title": "Group CEO, Miral",
-      "organisation_id": "INS_MIRAL_GROUP",
+      "organisation_id": "INS_00003_MIRAL_GROUP",
       "responsibility_areas": [
         "overall_strategy",
         "destination_development"
@@ -3345,10 +4974,10 @@
       "last_checked": "2025-11-16"
     },
     {
-      "person_id": "PEO_JULIEN_KAUFFMANN",
+      "person_id": "PEO_00004_JULIEN_KAUFFMANN",
       "name": "Julien Kauffmann",
       "role_title": "CEO, Miral Experiences",
-      "organisation_id": "INS_MIRAL_GROUP",
+      "organisation_id": "INS_00003_MIRAL_GROUP",
       "responsibility_areas": [
         "operations",
         "experience_portfolio"
@@ -3371,7 +5000,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "person_id": "PEO_MISHARY_ALIBRAHEEM",
+      "person_id": "PEO_00005_MISHARY_ALIBRAHEEM",
       "name": "Mishary Alibraheem",
       "role_title": "Head of Entertainment, Leisure, Sports and Education, MENA Direct Investments",
       "organisation_id": "INV_PIF",
@@ -3400,10 +5029,10 @@
       "last_checked": "2025-11-16"
     },
     {
-      "person_id": "PEO_MOHAMED_KHALIFA_ALMUBARAK",
+      "person_id": "PEO_00006_MOHAMED_KHALIFA_ALMUBARAK",
       "name": "Mohamed Khalifa Al Mubarak",
       "role_title": "Chairman of Miral",
-      "organisation_id": "INS_MIRAL_GROUP",
+      "organisation_id": "INS_00003_MIRAL_GROUP",
       "responsibility_areas": [
         "cultural_tourism",
         "destination_development",
@@ -3433,7 +5062,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "person_id": "PEO_VINEET_BUDKI",
+      "person_id": "PEO_00007_VINEET_BUDKI",
       "name": "Vineet Budki",
       "role_title": "CEO and Managing Partner, Sigma Capital",
       "organisation_id": "INV_SIGMA_CAPITAL",
@@ -3478,7 +5107,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "person_id": "PEO_VICKAASH_AGARAWAL",
+      "person_id": "PEO_00008_VICKAASH_AGARAWAL",
       "name": "Vickaash Agarawal",
       "role_title": "Partner and COO, Sigma Capital",
       "organisation_id": "INV_SIGMA_CAPITAL",
@@ -3509,7 +5138,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "person_id": "PEO_VISION_PARTNERS",
+      "person_id": "PEO_00009_VISION_PARTNERS",
       "name": "Kais Al-Essa / Haitham Bu-Aisha / Mohammed Alamad",
       "role_title": "Founding Partners, Vision Ventures",
       "organisation_id": "INV_VISION_VENTURES",
@@ -3554,7 +5183,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "person_id": "PEO_NADER_ALBASTAKI",
+      "person_id": "PEO_00010_NADER_ALBASTAKI",
       "name": "Nader Albastaki",
       "role_title": "Managing Director, Dubai Future District Fund",
       "organisation_id": "INV_DFDF",
@@ -3599,7 +5228,7 @@
       "last_checked": "2025-11-16"
     },
     {
-      "person_id": "PEO_KUSHAL_SHAH",
+      "person_id": "PEO_00011_KUSHAL_SHAH",
       "name": "Kushal Shah",
       "role_title": "Managing Director, e& capital",
       "organisation_id": "INV_EAND_CAPITAL",
