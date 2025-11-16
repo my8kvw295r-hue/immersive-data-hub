@@ -2,7 +2,7 @@
   "dataset_metadata": {
     "dataset_id": "IMMERSIVE_INVESTORS_GLOBAL",
     "name": "Immersive Investors \u2013 Pilot (Two Fully Mapped Cases)",
-    "version": "v0.3.1",
+    "version": "v0.3.2",
     "description": "Two deeply documented immersive investors (PIF and Miral) with linked projects, institutions, policies and people for prototyping the schema.",
     "author": "Martin Sambauer (martin-sambauer.com)",
     "created": "2025-11-15",
@@ -1348,21 +1348,17 @@
         "climate_resilience",
         "protected_areas"
       ],
-      "geographic_focus": {
-        "regions": [
-          "Sub-Saharan Africa",
-          "Southern Africa",
-          "Eastern Africa"
-        ],
-        "countries": [
-          "Botswana",
-          "Kenya",
-          "Mozambique",
-          "Namibia",
-          "Zambia",
-          "Zimbabwe"
-        ]
-      },
+      "geographic_focus": [
+        "Sub-Saharan Africa",
+        "Southern Africa",
+        "Eastern Africa",
+        "Botswana",
+        "Kenya",
+        "Mozambique",
+        "Namibia",
+        "Zambia",
+        "Zimbabwe"
+      ],
       "exclusion_criteria": [
         "non_conservation_tourism",
         "extractive_industries_without_conservation_benefit"
@@ -1486,19 +1482,15 @@
         "community_aquaculture",
         "sustainable_fisheries"
       ],
-      "geographic_focus": {
-        "regions": [
-          "Sub-Saharan Africa",
-          "Southeast Asia",
-          "Small Island Developing States"
-        ],
-        "countries": [
-          "Indonesia",
-          "Philippines",
-          "Tanzania",
-          "Cabo Verde"
-        ]
-      },
+      "geographic_focus": [
+        "Sub-Saharan Africa",
+        "Southeast Asia",
+        "Small Island Developing States",
+        "Indonesia",
+        "Philippines",
+        "Tanzania",
+        "Cabo Verde"
+      ],
       "exclusion_criteria": [
         "activities_damaging_coral_reefs",
         "unsustainable_fishing_practices"
@@ -1620,15 +1612,11 @@
         "blue_economy",
         "food_systems"
       ],
-      "geographic_focus": {
-        "regions": [
-          "Southeast Asia"
-        ],
-        "countries": [
-          "Indonesia",
-          "Philippines"
-        ]
-      },
+      "geographic_focus": [
+        "Southeast Asia",
+        "Indonesia",
+        "Philippines"
+      ],
       "exclusion_criteria": [
         "destructive_fishing_practices",
         "activities_that_degrade_coastal_habitats"
@@ -1749,14 +1737,10 @@
         "renewable_energy",
         "state_owned_enterprises_restructuring"
       ],
-      "geographic_focus": {
-        "regions": [
-          "Southern Africa"
-        ],
-        "countries": [
-          "Botswana"
-        ]
-      },
+      "geographic_focus": [
+        "Southern Africa",
+        "Botswana"
+      ],
       "exclusion_criteria": [],
       "ppp_profile": {
         "works_with_governments": true,
@@ -1802,6 +1786,464 @@
           "publication_year": 2025,
           "accessed": "2025-11-16",
           "note": "Additional coverage confirming the fund\u2019s role in diversification, including tourism and renewable energy."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "investor_id": "INV_OCEAN14_FUND1",
+      "investor_name": "Ocean 14 Capital Fund I",
+      "investor_category": "impact_private_equity_fund",
+      "description": "Article 9 SFDR private equity impact fund advised by Ocean 14 Capital Limited and focused on the blue economy. The fund invests in growth-stage companies across aquaculture, alternative proteins, seafood value chains, marine pollution solutions and other ocean-related sectors with the explicit objective of contributing to UN SDG 14 (Life below water).",
+      "country": "United Kingdom",
+      "country_iso2": "GB",
+      "world_region": "EUROPE",
+      "hq_city": "London",
+      "ownership_structure": "gp_lp_fund_structure",
+      "governance_type": "article_9_sfdr_private_equity_fund",
+      "main_website": "https://ocean14capital.com/",
+      "fund_size_overall": {
+        "amount": 201000000,
+        "currency": "EUR",
+        "as_of_year": 2024,
+        "as_of_date": null,
+        "note": "Multiple sources report that Ocean 14 Capital Fund I closed at around EUR 200\u2013201m, reaching its hard cap in 2023/2024."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": false,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": null,
+        "portfolio_maturity_category": "not_immersive_specific",
+        "notes": "The fund does not invest directly in visitor venues like domes but targets technologies and businesses along the blue economy. Immersive projects could connect via strategic partnerships around seafood, reef regeneration, coastal protection or plastic pollution storylines."
+      },
+      "preferred_stages": [
+        "growth",
+        "late_growth"
+      ],
+      "ticket_size": {
+        "amount_min": 5000000,
+        "amount_max": 20000000,
+        "currency": "EUR",
+        "note": "Typical private equity tickets for portfolio companies; indicative range based on market benchmarks."
+      },
+      "investment_instruments": [
+        "equity",
+        "quasi_equity"
+      ],
+      "thematic_focus": [
+        "blue_economy",
+        "sustainable_aquaculture",
+        "alternative_seafood",
+        "marine_pollution_solutions",
+        "ocean_health"
+      ],
+      "geographic_focus": [
+        "Europe",
+        "global_blue_economy"
+      ],
+      "exclusion_criteria": [
+        "unsustainable_fishing",
+        "activities_harmful_to_marine_ecosystems"
+      ],
+      "ppp_profile": {
+        "works_with_governments": false,
+        "works_with_ngo_partners": true,
+        "typical_public_partners": [
+          "conservation_ngos",
+          "development_finance_institutions"
+        ],
+        "notes": "The fund mobilises institutional investors, DFIs and family offices alongside ocean NGOs; formal PPP structures are not its core instrument."
+      },
+      "vision_alignment": {
+        "keywords": [
+          "sdg14",
+          "blue_economy",
+          "ocean_health"
+        ],
+        "fit_comment": "For fulldome impact projects with strong ocean science, fisheries or plastic-pollution narratives in Europe or globally, Ocean 14 is a natural co-investor or strategic partner on the technology and content side."
+      },
+      "immersive_projects": [],
+      "key_people": [],
+      "tags": [
+        "private_equity",
+        "blue_economy",
+        "impact_investing",
+        "sdg14"
+      ],
+      "notes": "Ocean 14 Capital Fund I SCSp is advised by Ocean 14 Capital Limited, a firm founded by ocean impact investor and Blue Marine Foundation co-founder Chris Gorell Barnes and partners with backgrounds in Pontos Aqua, Gottex and other investment platforms. The team combines private equity, venture capital, marine science and conservation expertise. Public materials emphasise the fund\u2019s Article 9 SFDR classification and B Corp certification of the adviser.",
+      "sources": [
+        {
+          "source_id": "SRC_O14_WEBSITE",
+          "title": "Ocean 14 Capital \u2013 Official website",
+          "url": "https://ocean14capital.com/",
+          "publisher": "Ocean 14 Capital Limited",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "General information about the firm and its focus on the blue economy."
+        },
+        {
+          "source_id": "SRC_O14_PITCHBOOK",
+          "title": "Ocean 14 Capital Fund 1 \u2013 Fund profile",
+          "url": "https://pitchbook.com/profiles/fund/20065-24F",
+          "publisher": "PitchBook",
+          "publication_year": 2023,
+          "accessed": "2025-11-16",
+          "note": "Describes Ocean 14 Capital Fund 1 as a 2022 vintage buyout fund investing in renewable energy, fisheries, maritime transport, tourism and waste."
+        },
+        {
+          "source_id": "SRC_O14_HARDCAP",
+          "title": "Ocean 14 Capital Fund I Closes at Hard Cap of \u20ac200M",
+          "url": "https://globalaginvesting.com/ocean-14-capital-fund-i-closes-at-hard-cap-of-e200m/",
+          "publisher": "Global AgInvesting",
+          "publication_year": 2023,
+          "accessed": "2025-11-16",
+          "note": "Reports that the fund reached its hard cap around EUR 200m and summarises its blue economy strategy."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "investor_id": "INV_GROWTH_BLUE_FUND",
+      "investor_name": "Growth Blue Fund I",
+      "investor_category": "private_equity_fund",
+      "description": "CMVM-regulated private equity growth fund managed by Growth Partners Capital (Portugal), investing in profitable SMEs and small mid-caps in the Portuguese and Iberian blue economy. The fund combines growth-equity returns with measurable positive impact on ocean resources and coastal regions.",
+      "country": "Portugal",
+      "country_iso2": "PT",
+      "world_region": "EUROPE",
+      "hq_city": "Lisbon",
+      "ownership_structure": "gp_lp_fund_structure",
+      "governance_type": "private_equity_fund_with_esg_mandate",
+      "main_website": "https://growthpartners.capital/blue.html",
+      "fund_size_overall": {
+        "amount": 50000000,
+        "currency": "EUR",
+        "as_of_year": 2023,
+        "as_of_date": null,
+        "note": "European Investment Fund and InvestEU communications describe Growth Blue I as targeting a total fund size of around EUR 50m."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": false,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": null,
+        "portfolio_maturity_category": "not_immersive_specific",
+        "notes": "The fund invests across blue economy sectors such as aquaculture, blue bioeconomy, offshore energy and maritime services. Tourism and coastal destination businesses can be in scope when they are embedded in sustainable blue value chains, making the fund relevant for Portugal-based dome venues linked to ocean narratives."
+      },
+      "preferred_stages": [
+        "growth",
+        "expansion"
+      ],
+      "ticket_size": {
+        "amount_min": 1500000,
+        "amount_max": 10000000,
+        "currency": "EUR",
+        "note": "InvestEU and fund marketing materials mention equity/quasi-equity tickets above EUR 1.5m."
+      },
+      "investment_instruments": [
+        "equity",
+        "quasi_equity"
+      ],
+      "thematic_focus": [
+        "blue_economy",
+        "aquaculture",
+        "blue_bioeconomy",
+        "offshore_energy",
+        "maritime_services"
+      ],
+      "geographic_focus": [
+        "Portugal",
+        "Iberian_Peninsula",
+        "Europe_blue_economy"
+      ],
+      "exclusion_criteria": [
+        "unsustainable_extractive_activities"
+      ],
+      "ppp_profile": {
+        "works_with_governments": false,
+        "works_with_ngo_partners": false,
+        "typical_public_partners": [
+          "EU_institutions",
+          "development_finance_institutions"
+        ],
+        "notes": "Although the fund co-operates closely with EIF, EMFAF and InvestEU as cornerstone investors, it is structured as a commercial private equity fund rather than a PPP vehicle."
+      },
+      "vision_alignment": {
+        "keywords": [
+          "blue_economy",
+          "climate_action",
+          "portugal_ocean_strategy"
+        ],
+        "fit_comment": "A strong candidate for Portuguese coastal dome or science centre projects that can be embedded in a profitable SME structure with clear blue-economy impact metrics (e.g. ocean literacy, sustainable tourism)."
+      },
+      "immersive_projects": [],
+      "key_people": [],
+      "tags": [
+        "private_equity",
+        "blue_economy",
+        "portugal",
+        "growth_equity"
+      ],
+      "notes": "Growth Blue I is managed by Growth Partners Capital SCR with a dedicated management team led by Miguel Her\u00e9dia and Juan Jos\u00e9 Rodriguez-Navarro. Public materials highlight the fund as the first blue-economy-focused growth-equity vehicle backed by the European Investment Fund in Europe.",
+      "sources": [
+        {
+          "source_id": "SRC_GROWTH_BLUE_INVESTEU",
+          "title": "Growth Blue Fund I \u2013 InvestEU operations list",
+          "url": "https://investeu.europa.eu/investeu-operations/investeu-operations-list/growth-blue-fund-i_en",
+          "publisher": "European Commission / InvestEU",
+          "publication_year": 2022,
+          "accessed": "2025-11-16",
+          "note": "Describes Growth Blue Fund I, its target size, sectors and role within the EU blue economy initiatives."
+        },
+        {
+          "source_id": "SRC_GROWTH_BLUE_EIF",
+          "title": "PORTUGAL BLUE commits to Growth Blue I",
+          "url": "https://www.eif.org/what_we_do/resources/news/2023/portugal-blue-commits-to-growth-blue-i.htm",
+          "publisher": "European Investment Fund",
+          "publication_year": 2023,
+          "accessed": "2025-11-16",
+          "note": "Explains the fund\u2019s investment strategy, Iberian focus and management team leadership."
+        },
+        {
+          "source_id": "SRC_GROWTH_BLUE_MANAGER",
+          "title": "Growth Blue \u2013 Growth Partners Capital",
+          "url": "https://growthpartners.capital/blue.html",
+          "publisher": "Growth Partners Capital",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Fund manager\u2019s own description of Growth Blue I and its sustainability orientation."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "investor_id": "INV_INDICO_BLUE_FUND",
+      "investor_name": "Indico Blue Fund",
+      "investor_category": "venture_and_growth_fund",
+      "description": "Venture and growth climate-action fund managed by Indico Capital Partners, dedicated to startups and SMEs in the blue economy with measurable positive contributions to SDG 14 and related SDGs. The fund invests in technology and service companies across multiple ocean-related verticals, including coastal tourism, sustainable aquaculture, blue biotech and ocean renewable energy.",
+      "country": "Portugal",
+      "country_iso2": "PT",
+      "world_region": "EUROPE",
+      "hq_city": "Lisbon",
+      "ownership_structure": "gp_lp_fund_structure",
+      "governance_type": "venture_capital_fund",
+      "main_website": "https://www.indicocapital.com/our-funds",
+      "fund_size_overall": {
+        "amount": 50000000,
+        "currency": "EUR",
+        "as_of_year": 2022,
+        "as_of_date": null,
+        "note": "Indico Capital communications describe Indico Blue Fund as a EUR 50m climate action fund for the blue economy."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": false,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": null,
+        "portfolio_maturity_category": "not_immersive_specific",
+        "notes": "The fund backs technology and service businesses rather than visitor attractions. However, it explicitly includes coastal tourism and circular economy solutions, which can overlap with immersive experience platforms or content companies active in blue destinations."
+      },
+      "preferred_stages": [
+        "early_growth",
+        "growth"
+      ],
+      "ticket_size": {
+        "amount_min": 100000,
+        "amount_max": 5000000,
+        "currency": "EUR",
+        "note": "Indico Blue Fund generally invests between EUR 0.1m and 5m per company."
+      },
+      "investment_instruments": [
+        "equity",
+        "convertible_instruments"
+      ],
+      "thematic_focus": [
+        "blue_economy",
+        "coastal_tourism",
+        "sustainable_aquaculture",
+        "fisheries",
+        "blue_biotech",
+        "ocean_renewable_energy",
+        "circular_economy",
+        "green_shipping"
+      ],
+      "geographic_focus": [
+        "Portugal",
+        "startups_located_or_RnD_in_Portugal"
+      ],
+      "exclusion_criteria": [
+        "extractive_industries",
+        "activities_inconsistent_with_unepfi_blue_principles"
+      ],
+      "ppp_profile": {
+        "works_with_governments": false,
+        "works_with_ngo_partners": false,
+        "typical_public_partners": [
+          "EU_innovation_programmes",
+          "marine_RnD_centres"
+        ],
+        "notes": "The fund is commercial VC but works closely with Portuguese marine research centres, universities and BlueInvest/Blue Economy initiatives."
+      },
+      "vision_alignment": {
+        "keywords": [
+          "climate_action",
+          "sdg14",
+          "blue_tech"
+        ],
+        "fit_comment": "Relevant where a fulldome or immersive project has a strong software/data/blue-tech component or is coupled with a scalable coastal tourism platform headquartered in Portugal."
+      },
+      "immersive_projects": [],
+      "key_people": [],
+      "tags": [
+        "venture_capital",
+        "blue_economy",
+        "portugal",
+        "climate_action"
+      ],
+      "notes": "Indico Capital Partners is led by founder and Managing General Partner Stephan Morais, a well-known Portuguese VC investor. Indico Blue Fund leverages the broader Indico platform and Portugal\u2019s marine innovation ecosystem to source and scale blue-economy startups.",
+      "sources": [
+        {
+          "source_id": "SRC_INDICO_FUNDS",
+          "title": "Our Funds \u2013 Indico Capital Partners",
+          "url": "https://www.indicocapital.com/our-funds",
+          "publisher": "Indico Capital Partners",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Lists Indico Blue Fund as a EUR 50m blue economy and climate action vehicle."
+        },
+        {
+          "source_id": "SRC_INDICO_BLUE_PROFILE",
+          "title": "Indico Blue Fund \u2013 Bioeconomy Ventures",
+          "url": "https://platform.bioeconomyventures.eu/investor/indico-indico-blue-fund-lisbon-portugal/",
+          "publisher": "Bioeconomy Ventures",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Describes Indico Blue Fund\u2019s ticket sizes, blue-vertical scope and SDG alignment."
+        },
+        {
+          "source_id": "SRC_INDICO_STEPPHAN",
+          "title": "Stephan Morais \u2013 Managing General Partner, Indico Capital Partners",
+          "url": "https://www.sbs.ox.ac.uk/about-us/people/stephan-morais",
+          "publisher": "Sa\u00efd Business School, University of Oxford",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Provides background on Stephan Morais as founder and Managing General Partner of Indico."
+        }
+      ],
+      "data_valid_as_of": "2025-11-16",
+      "last_checked": "2025-11-16"
+    },
+    {
+      "investor_id": "INV_KATAPULT_OCEAN",
+      "investor_name": "Katapult Ocean Funds",
+      "investor_category": "venture_fund_family",
+      "description": "Series of early-stage venture funds and accelerator vehicles managed by Katapult Ocean, focused on ocean-impact technology companies worldwide. The funds back startups working on ocean health, climate, biodiversity and sustainable food systems, often coupled with accelerator programmes.",
+      "country": "Norway",
+      "country_iso2": "NO",
+      "world_region": "EUROPE",
+      "hq_city": "Oslo",
+      "ownership_structure": "gp_lp_fund_structure",
+      "governance_type": "venture_fund_with_accelerator",
+      "main_website": "https://katapult.vc/ocean/",
+      "fund_size_overall": {
+        "amount": null,
+        "currency": "USD",
+        "as_of_year": 2025,
+        "as_of_date": null,
+        "note": "Katapult Ocean manages several funds (Ocean Funds 1\u20133, Deep Blue and regional vehicles). UN SDG partnership documentation cites a goal to mobilise around USD 1bn for ocean ventures by 2035; individual fund sizes vary."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": false,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": null,
+        "portfolio_maturity_category": "not_immersive_specific",
+        "notes": "Core focus is on ocean-tech startups (e.g. offshore energy, seaweed, digital monitoring). Immersive applications could emerge around data visualisation, education platforms or visitor-facing tech for aquariums and marine parks."
+      },
+      "preferred_stages": [
+        "seed",
+        "early_stage",
+        "series_a"
+      ],
+      "ticket_size": {
+        "amount_min": 150000,
+        "amount_max": 500000,
+        "currency": "EUR",
+        "note": "Recent Deep Blue accelerator cohorts indicate initial ticket sizes in the EUR 150k\u2013500k range."
+      },
+      "investment_instruments": [
+        "equity",
+        "convertible_instruments"
+      ],
+      "thematic_focus": [
+        "ocean_tech",
+        "climate",
+        "biodiversity",
+        "sustainable_food",
+        "blue_economy"
+      ],
+      "geographic_focus": [
+        "global"
+      ],
+      "exclusion_criteria": [
+        "activities_damaging_ocean_health"
+      ],
+      "ppp_profile": {
+        "works_with_governments": false,
+        "works_with_ngo_partners": true,
+        "typical_public_partners": [
+          "un_initiatives",
+          "development_partners"
+        ],
+        "notes": "Katapult Ocean is heavily networked with UN SDG platforms, DFIs and NGOs but invests via commercial venture vehicles."
+      },
+      "vision_alignment": {
+        "keywords": [
+          "ocean_impact",
+          "startup_ecosystem",
+          "accelerator"
+        ],
+        "fit_comment": "Best positioned as a partner for early-stage, tech-heavy components of immersive projects that intersect with blue-economy data, hardware or platforms, rather than for funding dome infrastructure directly."
+      },
+      "immersive_projects": [],
+      "key_people": [],
+      "tags": [
+        "venture_capital",
+        "accelerator",
+        "blue_economy",
+        "ocean_tech"
+      ],
+      "notes": "Katapult Ocean is led by CEO Jonas Skattum Svegaarden, an experienced impact investor with a global asset-management background. The funds have backed dozens of ocean-tech startups via accelerator cohorts and follow-on investments.",
+      "sources": [
+        {
+          "source_id": "SRC_KATAPULT_OCEAN_SITE",
+          "title": "Katapult Ocean \u2013 Investing in ocean tech startups",
+          "url": "https://katapult.vc/ocean/",
+          "publisher": "Katapult Ocean",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Overview of Katapult Ocean\u2019s investment thesis and accelerator model."
+        },
+        {
+          "source_id": "SRC_KATAPULT_FUNDS",
+          "title": "Our Funds \u2013 Katapult",
+          "url": "https://katapult.vc/investors/our-funds/",
+          "publisher": "Katapult",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Lists the various Katapult climate and ocean funds, including Ocean Funds 1\u20133 and Deep Blue."
+        },
+        {
+          "source_id": "SRC_KATAPULT_UN_SDG",
+          "title": "Filling the ocean solutions funding gap with $1 billion",
+          "url": "https://sdgs.un.org/partnerships/filling-ocean-solutions-funding-gap-1-billion",
+          "publisher": "United Nations / SDG Partnerships",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Describes Katapult Ocean\u2019s commitment to mobilise USD 1bn for ocean ventures by 2035."
         }
       ],
       "data_valid_as_of": "2025-11-16",
