@@ -229,6 +229,406 @@
           "note": "Background article on Miral\u2019s structure and portfolio."
         }
       ]
+    },
+    {
+      "investor_id": "INV_SIGMA_CAPITAL",
+      "investor_name": "Sigma Capital",
+      "investor_category": "private_equity",
+      "description": "Dubai-based Web3-focused venture capital manager running Sigma Capital Fund I, a roughly USD 100m fund investing in early-stage blockchain, gaming and metaverse projects across the Middle East and globally.",
+      "country": "United Arab Emirates",
+      "country_iso2": "AE",
+      "world_region": "MENA_GCC",
+      "hq_city": "Dubai",
+      "ownership_structure": "private",
+      "governance_type": "corporate_board",
+      "main_website": "https://sigmavc.com/",
+      "fund_size_overall": {
+        "amount": 100000000,
+        "currency": "USD",
+        "as_of_year": 2025,
+        "note": "Sigma Capital Fund I target size as reported in 2025 fund launch coverage."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": true,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": 2025,
+        "portfolio_maturity_category": "very_new",
+        "notes": "Immersive relevance via declared focus on gaming and metaverse Web3 projects. Specific portfolio companies are not yet public at time of writing."
+      },
+      "preferred_stages": [
+        "early_stage"
+      ],
+      "ticket_size": {
+        "min_musd_estimate": null,
+        "max_musd_estimate": null,
+        "note": "No public range; fund plans to back around 100 early-stage projects."
+      },
+      "investment_instruments": [
+        "equity"
+      ],
+      "thematic_focus": [
+        "metaverse",
+        "creative_industries"
+      ],
+      "geographic_focus": [
+        "Middle East",
+        "GCC",
+        "global"
+      ],
+      "exclusion_criteria": [],
+      "ppp_profile": {
+        "ppp_active": false,
+        "ppp_description": ""
+      },
+      "vision_alignment": {
+        "linked_national_programs": [],
+        "explicit_immersive_mentions": "",
+        "policy_ids": []
+      },
+      "immersive_projects": [],
+      "key_people": [
+        "PEO_VINEET_BUDKI",
+        "PEO_VICKAASH_AGARAWAL"
+      ],
+      "tags": [
+        "web3",
+        "metaverse",
+        "gaming",
+        "VC",
+        "early_stage",
+        "GCC_investor"
+      ],
+      "notes": "Useful reference for offshore early-stage capital into metaverse/gaming ecosystems from a GCC base. Web3-native focus; primarily financial/technology rather than venue-based immersion.",
+      "sources": [
+        {
+          "source_id": "SRC_SIGMA_FUND_WAMDA_2025",
+          "title": "Sigma Capital launches first fund at $100 million to accelerate Web3 innovation",
+          "url": "https://www.wamda.com/2025/01/sigma-capital-launches-100-million-sigma-capital-fund-i-accelerate-web3-innovation",
+          "publisher": "Wamda",
+          "publication_year": 2025,
+          "accessed": "2025-11-16",
+          "note": "Announces Sigma Capital Fund I, a $100m Web3 fund focused on early-stage startups in the Middle East and globally."
+        },
+        {
+          "source_id": "SRC_SIGMA_FUND_ZAWYA_2025",
+          "title": "Gulf-based Sigma Capital launches $100mln fund \u201cSigma Capital Fund I\u201d to accelerate Web3 innovation",
+          "url": "https://www.zawya.com/en/press-release/companies-news/gulf-based-sigma-capital-launches-100mln-fund-sigma-capital-fund-i-to-accelerate-web3-innovation-eac0sf63",
+          "publisher": "Zawya",
+          "publication_year": 2025,
+          "accessed": "2025-11-16",
+          "note": "Press release describing Sigma Capital as a leading Web3 early-stage venture manager with presence in Dubai, Singapore and Cayman Islands."
+        },
+        {
+          "source_id": "SRC_SIGMA_PROFILE_ENTREPRENEUR_2025",
+          "title": "Indian Visionaries 2025: Vineet Budki, CEO, Sigma Capital",
+          "url": "https://www.entrepreneur.com/en-ae/leadership/indian-visionaries-2025-vineet-budki-ceo-sigma-capital/488108",
+          "publisher": "Entrepreneur Middle East",
+          "publication_year": 2025,
+          "accessed": "2025-11-16",
+          "note": "Profile of Sigma Capital and its CEO, confirming fund size and Web3 focus."
+        }
+      ]
+    },
+    {
+      "investor_id": "INV_VISION_VENTURES",
+      "investor_name": "Vision Ventures",
+      "investor_category": "corporate_venture",
+      "description": "Saudi-based venture capital firm (corporate VC arm of Sahara Net) investing in early-stage technology startups across Saudi Arabia and the wider MENA region, including participation in the immersive social app VUZ.",
+      "country": "Saudi Arabia",
+      "country_iso2": "SA",
+      "world_region": "MENA_GCC",
+      "hq_city": "Dammam",
+      "ownership_structure": "corporate",
+      "governance_type": "corporate_board",
+      "main_website": "https://visionvc.co/",
+      "fund_size_overall": {
+        "amount": null,
+        "currency": "USD",
+        "as_of_year": null,
+        "note": "Saqr Fund II target size reported at USD 90m, but total AUM for Vision Ventures is not consolidated in public sources."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": true,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": 2022,
+        "portfolio_maturity_category": "emerging",
+        "notes": "Immersive activity evidenced by investment in VUZ, an immersive XR social app. Broader portfolio is sector-agnostic and not focused exclusively on immersive media."
+      },
+      "preferred_stages": [
+        "seed",
+        "early_stage"
+      ],
+      "ticket_size": {
+        "min_musd_estimate": null,
+        "max_musd_estimate": null,
+        "note": "Fund materials mention pre-seed to pre-Series B; no public typical ticket range."
+      },
+      "investment_instruments": [
+        "equity"
+      ],
+      "thematic_focus": [
+        "metaverse",
+        "creative_industries",
+        "other"
+      ],
+      "geographic_focus": [
+        "Saudi Arabia",
+        "MENA"
+      ],
+      "exclusion_criteria": [],
+      "ppp_profile": {
+        "ppp_active": false,
+        "ppp_description": ""
+      },
+      "vision_alignment": {
+        "linked_national_programs": [],
+        "explicit_immersive_mentions": "",
+        "policy_ids": []
+      },
+      "immersive_projects": [],
+      "key_people": [
+        "PEO_VISION_PARTNERS"
+      ],
+      "tags": [
+        "VC",
+        "early_stage",
+        "Saudi",
+        "MENA",
+        "VUZ_investor"
+      ],
+      "notes": "Represents an early-stage Saudi VC with at least one documented immersive/XR deal (VUZ). Primarily regional focus; invests offshore within MENA (e.g. UAE).",
+      "sources": [
+        {
+          "source_id": "SRC_VISION_VENTURES_WEBSITE",
+          "title": "Vision Ventures \u2013 Venture Capital",
+          "url": "https://visionvc.co/",
+          "publisher": "Vision Ventures",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Confirms Vision Ventures as a Saudi-based VC firm backing early-stage technology startups across MENA."
+        },
+        {
+          "source_id": "SRC_VISION_VENTURES_SAQR_FUND_II",
+          "title": "Saudi Venture Capital invests $15 million in Saqr Fund II by Vision Ventures",
+          "url": "https://economysaudiarabia.com/news/saudi-venture-capital-to-invest-15-million-in-a-vc-fund-by-vision-ventures/",
+          "publisher": "Economy Saudi Arabia",
+          "publication_year": 2024,
+          "accessed": "2025-11-16",
+          "note": "Describes Saqr Fund II, an early-stage fund managed by Vision Ventures investing from pre-seed to pre-Series B in Saudi Arabia and MENA."
+        },
+        {
+          "source_id": "SRC_VUZ_SERIES_B_VISION",
+          "title": "VUZ, UAE\u2019s immersive social app, raises $20 million in a Series B round",
+          "url": "https://waya.media/vuz-uaes-immersive-social-app-raises-20-million-in-a-series-b-round/",
+          "publisher": "WAYA",
+          "publication_year": 2022,
+          "accessed": "2025-11-16",
+          "note": "Lists Vision Ventures VC Fund among investors in VUZ, an XR-based immersive social app."
+        }
+      ]
+    },
+    {
+      "investor_id": "INV_DFDF",
+      "investor_name": "Dubai Future District Fund",
+      "investor_category": "state_fund",
+      "description": "Sovereign-backed evergreen venture fund of funds and direct investment platform anchored by Dubai Future Foundation and DIFC, investing in Future of Finance and Future Economies, including metaverse and AR/VR related startups such as VUZ.",
+      "country": "United Arab Emirates",
+      "country_iso2": "AE",
+      "world_region": "MENA_GCC",
+      "hq_city": "Dubai",
+      "ownership_structure": "state_owned",
+      "governance_type": "board_governed",
+      "main_website": "https://dfdf.vc/",
+      "fund_size_overall": {
+        "amount": null,
+        "currency": "USD",
+        "as_of_year": null,
+        "note": "Evergreen vehicle; no single consolidated AUM figure in public sources."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": true,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": 2022,
+        "portfolio_maturity_category": "emerging",
+        "notes": "Immersive exposure via direct investment in VUZ and metaverse / AR/VR-labelled portfolio segments. Immersive remains a subset of a broader future-economy thesis."
+      },
+      "preferred_stages": [
+        "early_stage",
+        "growth"
+      ],
+      "ticket_size": {
+        "min_musd_estimate": null,
+        "max_musd_estimate": null,
+        "note": "Invests both via fund-of-funds and direct co-investments; ticket sizes vary and are not consistently disclosed."
+      },
+      "investment_instruments": [
+        "equity",
+        "other"
+      ],
+      "thematic_focus": [
+        "metaverse",
+        "smart_city",
+        "creative_industries"
+      ],
+      "geographic_focus": [
+        "Dubai",
+        "United Arab Emirates",
+        "MENA",
+        "global"
+      ],
+      "exclusion_criteria": [],
+      "ppp_profile": {
+        "ppp_active": true,
+        "ppp_description": "Operates as a partnership between Dubai Future Foundation and DIFC, co-investing alongside private funds and startups."
+      },
+      "vision_alignment": {
+        "linked_national_programs": [],
+        "explicit_immersive_mentions": "",
+        "policy_ids": []
+      },
+      "immersive_projects": [],
+      "key_people": [
+        "PEO_NADER_ALBASTAKI"
+      ],
+      "tags": [
+        "fund_of_funds",
+        "VC",
+        "Dubai",
+        "future_economies",
+        "metaverse"
+      ],
+      "notes": "Important anchor investor and co-investor for metaverse and AR/VR startups out of Dubai; not purely early-stage but relevant for scaling immersive ventures with public backing.",
+      "sources": [
+        {
+          "source_id": "SRC_DFDF_COMPANIES",
+          "title": "Companies \u2013 Dubai Future District Fund",
+          "url": "https://dfdf.vc/companies",
+          "publisher": "Dubai Future District Fund",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Portfolio overview showing exposure to metaverse, AR/VR and listing VUZ among portfolio companies."
+        },
+        {
+          "source_id": "SRC_DFDF_PROFILE_INVESTOPIA",
+          "title": "Nader Albastaki \u2013 Managing Director, Dubai Future District Fund",
+          "url": "https://investopia.ae/speakers/nader-albastaki/",
+          "publisher": "Investopia",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Describes DFDF as an evergreen venture fund of funds and direct investment vehicle anchored by Dubai Future Foundation and DIFC."
+        },
+        {
+          "source_id": "SRC_DFDF_REFINED_STRATEGY_2025",
+          "title": "DFDF refines investment strategy to focus on sectoral depth, co-investments",
+          "url": "https://www.vccircle.com/dfdfrefines-investment-strategy-to-focus-on-sectoral-depth-co-investments",
+          "publisher": "VCCircle",
+          "publication_year": 2025,
+          "accessed": "2025-11-16",
+          "note": "Reports DFDF\u2019s shift to a more targeted fund-of-funds and co-investment approach."
+        }
+      ]
+    },
+    {
+      "investor_id": "INV_EAND_CAPITAL",
+      "investor_name": "e& capital",
+      "investor_category": "corporate_venture",
+      "description": "Corporate venture capital arm of UAE telecom and technology group e&, deploying a dedicated VC fund to back technology startups and scale MENA ventures globally, including immersive media such as VUZ.",
+      "country": "United Arab Emirates",
+      "country_iso2": "AE",
+      "world_region": "MENA_GCC",
+      "hq_city": "Abu Dhabi",
+      "ownership_structure": "corporate",
+      "governance_type": "corporate_board",
+      "main_website": "https://www.eand.com/en/capital.html",
+      "fund_size_overall": {
+        "amount": 250000000,
+        "currency": "USD",
+        "as_of_year": 2022,
+        "note": "Approximate size of the dedicated VC fund mentioned at GITEX Global 2022; e& capital also references ~USD 500m of broader commitments."
+      },
+      "immersive_investment": {
+        "has_immersive_portfolio": true,
+        "immersive_allocated_capital_estimate": null,
+        "immersive_alloc_share_percent_estimate": null,
+        "immersive_portfolio_start_year": 2022,
+        "portfolio_maturity_category": "emerging",
+        "notes": "Immersive exposure primarily via investment in VUZ; broader portfolio spans connectivity, SaaS, AI and other themes that may intersect with immersive experiences."
+      },
+      "preferred_stages": [
+        "early_stage",
+        "growth"
+      ],
+      "ticket_size": {
+        "min_musd_estimate": null,
+        "max_musd_estimate": null,
+        "note": "Ticket sizes vary from Series A upwards; no consistent public range."
+      },
+      "investment_instruments": [
+        "equity"
+      ],
+      "thematic_focus": [
+        "metaverse",
+        "creative_industries",
+        "smart_city"
+      ],
+      "geographic_focus": [
+        "United Arab Emirates",
+        "MENA",
+        "global"
+      ],
+      "exclusion_criteria": [],
+      "ppp_profile": {
+        "ppp_active": false,
+        "ppp_description": ""
+      },
+      "vision_alignment": {
+        "linked_national_programs": [],
+        "explicit_immersive_mentions": "",
+        "policy_ids": []
+      },
+      "immersive_projects": [],
+      "key_people": [
+        "PEO_KUSHAL_SHAH"
+      ],
+      "tags": [
+        "CVC",
+        "telecom",
+        "UAE",
+        "VUZ_investor"
+      ],
+      "notes": "Corporate VC with both regional and offshore reach, leveraging e&\u2019s telecom footprint to scale digital and immersive services.",
+      "sources": [
+        {
+          "source_id": "SRC_EAND_CAPITAL_CORP_PAGE",
+          "title": "e& capital \u2013 Moving the world forward with e& capital",
+          "url": "https://www.eand.com/en/capital.html",
+          "publisher": "e&",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Corporate description of e& capital as the venture capital arm of e& with around USD 500m of commitments."
+        },
+        {
+          "source_id": "SRC_EAND_CAPITAL_GITEX_2022",
+          "title": "e& presents its investment pillar, e& capital, powered by USD 250mln VC fund at GITEX Global 2022",
+          "url": "https://www.zawya.com/en/press-release/companies-news/e-and-presents-its-investment-pillar-e-and-capital-powered-by-usd-250mln-vc-fund-at-gitex-global-2022-ir0ha5sx",
+          "publisher": "Zawya",
+          "publication_year": 2022,
+          "accessed": "2025-11-16",
+          "note": "Explains mandate to scale MENA tech startups to the global stage via e& capital\u2019s VC fund."
+        },
+        {
+          "source_id": "SRC_VUZ_SERIES_B_EAND",
+          "title": "UAE-based VUZ raises $20mn in Series B funding",
+          "url": "https://www.zawya.com/en/wealth/alternative-investments/uae-based-vuz-raises-20mln-in-series-b-funding-co-led-by-e-and-s-venture-xk3z74ab",
+          "publisher": "Zawya",
+          "publication_year": 2022,
+          "accessed": "2025-11-16",
+          "note": "Lists e& capital as lead/strategic investor in the Series B of immersive social app VUZ."
+        }
+      ]
     }
   ],
   "institutions": [
@@ -919,6 +1319,207 @@
           "publication_year": 2024,
           "accessed": "2025-11-16",
           "note": "Provides biographical details and describes his leadership role."
+        }
+      ]
+    },
+    {
+      "person_id": "PEO_VINEET_BUDKI",
+      "name": "Vineet Budki",
+      "role_title": "CEO and Managing Partner, Sigma Capital",
+      "organisation_id": "INV_SIGMA_CAPITAL",
+      "responsibility_areas": [
+        "overall_strategy",
+        "web3_investments",
+        "metaverse_gaming"
+      ],
+      "public_stance_on_immersive": "Presented publicly as a Web3 visionary leading a $100m crypto-native fund focused on gaming and metaverse projects from the Middle East to global markets.",
+      "links": [
+        {
+          "type": "personal_website",
+          "url": "https://www.vineetbudki.com/"
+        },
+        {
+          "type": "firm_bio",
+          "url": "https://sigmavc.com/team/"
+        }
+      ],
+      "notes": "",
+      "sources": [
+        {
+          "source_id": "SRC_VINEETBUDKI_SITE",
+          "title": "Vineet Budki \u2013 Official website",
+          "url": "https://www.vineetbudki.com/",
+          "publisher": "Vineet Budki",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Confirms role as CEO of Sigma Capital and Web3 investor positioning."
+        },
+        {
+          "source_id": "SRC_SIGMA_TEAM_PAGE",
+          "title": "Team \u2013 Sigma Capital",
+          "url": "https://sigmavc.com/team/",
+          "publisher": "Sigma Capital",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Lists Vineet Budki as Partner & CEO of Sigma Capital."
+        }
+      ]
+    },
+    {
+      "person_id": "PEO_VICKAASH_AGARAWAL",
+      "name": "Vickaash Agarawal",
+      "role_title": "Partner and COO, Sigma Capital",
+      "organisation_id": "INV_SIGMA_CAPITAL",
+      "responsibility_areas": [
+        "operations",
+        "fund_management"
+      ],
+      "public_stance_on_immersive": "Operational lead for Sigma Capital\u2019s Web3 fund, indirectly relevant for immersive projects in gaming and metaverse.",
+      "links": [
+        {
+          "type": "firm_bio",
+          "url": "https://sigmavc.com/team/"
+        }
+      ],
+      "notes": "",
+      "sources": [
+        {
+          "source_id": "SRC_SIGMA_TEAM_PAGE",
+          "title": "Team \u2013 Sigma Capital",
+          "url": "https://sigmavc.com/team/",
+          "publisher": "Sigma Capital",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Shows Vickaash Agarawal as Partner & COO with operational responsibilities."
+        }
+      ]
+    },
+    {
+      "person_id": "PEO_VISION_PARTNERS",
+      "name": "Kais Al-Essa / Haitham Bu-Aisha / Mohammed Alamad",
+      "role_title": "Founding Partners, Vision Ventures",
+      "organisation_id": "INV_VISION_VENTURES",
+      "responsibility_areas": [
+        "overall_strategy",
+        "early_stage_investments",
+        "MENA_portfolio"
+      ],
+      "public_stance_on_immersive": "Lead partners at Vision Ventures, which participated in the Series B of immersive social app VUZ; no dedicated public statements on immersive media, but active in early-stage digital ventures.",
+      "links": [
+        {
+          "type": "firm_bio",
+          "url": "https://visionvc.co/"
+        },
+        {
+          "type": "ranking_profile",
+          "url": "https://www.forbesmiddleeast.com/lists/the-middle-easts-top-venture-capitalists-2024/kais-al-essa-haitham-bu-aisha-mohammed-alamad/"
+        }
+      ],
+      "notes": "Grouped representation of Vision Ventures\u2019 main partners to keep the people table compact.",
+      "sources": [
+        {
+          "source_id": "SRC_VISION_VENTURES_WEBSITE",
+          "title": "Vision Ventures \u2013 Venture Capital",
+          "url": "https://visionvc.co/",
+          "publisher": "Vision Ventures",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Confirms Vision Ventures\u2019 positioning and partner-led structure."
+        },
+        {
+          "source_id": "SRC_FORBES_VISION_PARTNERS_2024",
+          "title": "The Middle East\u2019s Top Venture Capitalists 2024 \u2013 Kais Al-Essa, Haitham Bu-Aisha, Mohammed Alamad",
+          "url": "https://www.forbesmiddleeast.com/lists/the-middle-easts-top-venture-capitalists-2024/kais-al-essa-haitham-bu-aisha-mohammed-alamad/",
+          "publisher": "Forbes Middle East",
+          "publication_year": 2024,
+          "accessed": "2025-11-16",
+          "note": "Profiles Vision Ventures\u2019 founding partners."
+        }
+      ]
+    },
+    {
+      "person_id": "PEO_NADER_ALBASTAKI",
+      "name": "Nader Albastaki",
+      "role_title": "Managing Director, Dubai Future District Fund",
+      "organisation_id": "INV_DFDF",
+      "responsibility_areas": [
+        "overall_strategy",
+        "fund_of_funds",
+        "future_economy_thematic"
+      ],
+      "public_stance_on_immersive": "Leads DFDF\u2019s strategy on Future Economies, which includes metaverse and AR/VR segments; positions DFDF as a catalyst for Dubai\u2019s innovation and startup ecosystem.",
+      "links": [
+        {
+          "type": "profile",
+          "url": "https://investopia.ae/speakers/nader-albastaki/"
+        },
+        {
+          "type": "profile",
+          "url": "https://uaestories.com/nader-albastaki-dubais-future-economy/"
+        }
+      ],
+      "notes": "",
+      "sources": [
+        {
+          "source_id": "SRC_DFDF_PROFILE_INVESTOPIA",
+          "title": "Nader Albastaki \u2013 Managing Director, Dubai Future District Fund",
+          "url": "https://investopia.ae/speakers/nader-albastaki/",
+          "publisher": "Investopia",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Confirms his role and describes DFDF\u2019s mandate."
+        },
+        {
+          "source_id": "SRC_UAESTORIES_ALBASTAKI",
+          "title": "Nader Albastaki: Pioneering Dubai\u2019s Future Economy",
+          "url": "https://uaestories.com/nader-albastaki-dubais-future-economy/",
+          "publisher": "UAE Stories",
+          "publication_year": 2025,
+          "accessed": "2025-11-16",
+          "note": "Narrative profile of Albastaki and his leadership of DFDF."
+        }
+      ]
+    },
+    {
+      "person_id": "PEO_KUSHAL_SHAH",
+      "name": "Kushal Shah",
+      "role_title": "Managing Director, e& capital",
+      "organisation_id": "INV_EAND_CAPITAL",
+      "responsibility_areas": [
+        "CVC_strategy",
+        "deal_sourcing",
+        "MENA_and_global_expansion"
+      ],
+      "public_stance_on_immersive": "As head of e&\u2019s CVC arm, he highlights using corporate venture capital to scale technology ventures from MENA to global markets; immersive investments like VUZ sit within this broader digital innovation thesis.",
+      "links": [
+        {
+          "type": "podcast_profile",
+          "url": "https://www.couchonomics.com/season-3/kushal-shah"
+        },
+        {
+          "type": "mentor_profile",
+          "url": "https://www.gleac.com/mentors/kushal-shah"
+        }
+      ],
+      "notes": "",
+      "sources": [
+        {
+          "source_id": "SRC_COUCHONOMICS_KUSHAL_SHAH",
+          "title": "Building a career in CVC with Kushal Shah, Managing Director at e& capital",
+          "url": "https://www.couchonomics.com/season-3/kushal-shah",
+          "publisher": "Couchonomics",
+          "publication_year": 2023,
+          "accessed": "2025-11-16",
+          "note": "Podcast profile confirming role as Managing Director of e& capital."
+        },
+        {
+          "source_id": "SRC_GLEAC_KUSHAL_SHAH",
+          "title": "Kushal Shah \u2013 Managing Director (Ventures) at e& capital",
+          "url": "https://www.gleac.com/mentors/kushal-shah",
+          "publisher": "Gleac",
+          "publication_year": null,
+          "accessed": "2025-11-16",
+          "note": "Mentor profile describing his role heading CVC at e&."
         }
       ]
     }
