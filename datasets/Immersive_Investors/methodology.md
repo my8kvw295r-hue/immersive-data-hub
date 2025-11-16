@@ -234,3 +234,62 @@ This methodology ensures that the Immersive-Investors dataset remains:
 * consistent across regions and updates
 
 It is designed to support long-term integration into the broader immersive data ecosystem curated by Martin Sambauer.
+
+---
+
+## 7. Temporal validity and review rules
+
+1. Dataset-level timestamps
+
+- `dataset_metadata.snapshot_date`  
+  The date of the current JSON snapshot. Any consumer should treat this as the minimum date of validity for the file as a whole.
+
+- `dataset_metadata.last_reviewed`  
+  The date when a human curator last reviewed the dataset in a structured way (e.g. a curation sprint).
+
+2. Entity-level timestamps
+
+All entities (investors, institutions, projects, policies, people) carry:
+
+- `data_valid_as_of` – the ISO date (YYYY-MM-DD) the entry is considered valid as of.
+- `last_checked` – the ISO date when the entry was last manually checked or updated.
+
+Operational rule:
+
+- If `last_checked` is older than 18 months, agents must flag the entity as potentially outdated.
+- Automated agents must not silently overwrite timestamps; only explicit curation passes may bump `last_checked`.
+
+3. Time for quantitative fields
+
+For time-sensitive quantitative values (e.g. AUM, fund size) the preferred pattern is:
+
+- `fund_size_overall.amount` (number)
+- `fund_size_overall.currency` (e.g. USD)
+- `fund_size_overall.as_of_date` (ISO date, precise if available)
+- optional `fund_size_overall.as_of_year` (legacy/approximate)
+
+Agents must not infer dates; if a date is unknown, leave the field `null` and document this in the notes.
+
+---
+
+## 8. Provenance and source discipline
+
+The following rules are mandatory:
+
+1. No value without a source
+
+- Every non-null factual value must be supported by at least one external source.
+- The entity-level `sources` array must contain the URLs or formal references that justify the values used.
+
+2. No synthesis beyond the sources
+
+- Agents and curators must not invent values that are not clearly supported by the sources.
+- If multiple sources disagree, choose the most recent and clearly mark the uncertainty in `notes`.
+
+3. Handling of uncertainty
+
+- If a value cannot be justified from available sources, set it to `null`.
+- If there is an approximate but not exact value (e.g. "about $900bn AUM"), choose a reasonable numeric approximation and explain the choice in `fund_size_overall.note` or the entity `notes`.
+
+These rules ensure that downstream users can audit any field by going back to at least one documented source. Field-level provenance (per-field `source_ids`) may be introduced later, but for the current version entity-level provenance is the minimum requirement.
+
