@@ -1,9 +1,9 @@
 {
   "dataset_meta": {
     "dataset_id": "MARTIN_SAMBAUER_GLOBAL_SOUTH_V1",
-    "title": "Global South Tourism & Investment Destinations \u2013 Pilot",
-    "description": "A strategic intelligence platform for immersive experiential tourism and investment. This dataset is part of a growing list of high\u2011impact global destinations evaluated across multiple indicators. The number of destinations may change over time; for any quantitative analysis or counting, please always derive the current count directly from the length of the 'destinations' array.",
-    "license": "CC BY 4.0 (attribution required: https://originofwonder.com \u2013 Martin Sambauer)",
+    "title": "Global South Tourism & Investment Destinations – Pilot",
+    "description": "A strategic intelligence platform for immersive experiential tourism and investment. This dataset is part of a growing list of high‑impact global destinations evaluated across multiple indicators. The number of destinations may change over time; for any quantitative analysis or counting, please always derive the current count directly from the length of the 'destinations' array.",
+    "license": "CC BY 4.0 (attribution required: https://originofwonder.com – Martin Sambauer)",
     "created_at_utc": "2025-11-14T00:00:00Z",
     "updated_at_utc": "2025-11-16T01:51:13Z",
     "dataset_version": "MARTIN_SAMBAUER_GLOBAL_SOUTH_V19"
@@ -43,7 +43,7 @@
             "overnight_stays_total": null,
             "tourism_revenue_total": null,
             "repeat_visitor_share_percent": null,
-            "notes": "Press and NGO reports mention \u2018nearly 330,000\u2019 visitors."
+            "notes": "Press and NGO reports mention ‘nearly 330,000’ visitors."
           }
         ],
         "tourist_tax": {
@@ -150,7 +150,7 @@
               "fx_rate_to_usd": 1.0,
               "fx_rate_date": "2025-11-14"
             },
-            "comment": "Indicative listing range 1,200\u20131,800 USD/m\u00b2 from local agents and portals."
+            "comment": "Indicative listing range 1,200–1,800 USD/m² from local agents and portals."
           }
         },
         "land": null
@@ -261,7 +261,7 @@
             "typical_daily_visitors_high_season": null,
             "estimated_annual_visitors": 20000,
             "throughput_data_quality": "modelled_range_midpoint",
-            "derivation_notes": "Tours run 7 days/week with usually 1\u20132 departures per day in small boats (~10\u201316 pax) from Puerto Villamil. Assuming ~1.5 tours/day * 14 pax * ~260 effective operating days \u2248 5,460 pax per operator; scaling to multiple licensed operators yields an order-of-magnitude 15k\u201325k visitors per year. 20k used as midpoint."
+            "derivation_notes": "Tours run 7 days/week with usually 1–2 departures per day in small boats (~10–16 pax) from Puerto Villamil. Assuming ~1.5 tours/day * 14 pax * ~260 effective operating days ≈ 5,460 pax per operator; scaling to multiple licensed operators yields an order-of-magnitude 15k–25k visitors per year. 20k used as midpoint."
           }
         },
         {
@@ -292,7 +292,7 @@
             "typical_daily_visitors_high_season": null,
             "estimated_annual_visitors": 25000,
             "throughput_data_quality": "modelled_range_midpoint",
-            "derivation_notes": "Described as one of the most famous and most booked dive/snorkel sites in the archipelago. Assuming multiple daily boats from San Cristobal across main season (2\u20133 boats/day * ~12 pax * ~300 days) gives a broad 15k\u201335k range; 25k taken as midpoint for now."
+            "derivation_notes": "Described as one of the most famous and most booked dive/snorkel sites in the archipelago. Assuming multiple daily boats from San Cristobal across main season (2–3 boats/day * ~12 pax * ~300 days) gives a broad 15k–35k range; 25k taken as midpoint for now."
           }
         }
       ],
@@ -312,7 +312,7 @@
           },
           {
             "id": "CDRS_VISITORS",
-            "title": "Charles Darwin Foundation \u2013 Our Campus",
+            "title": "Charles Darwin Foundation – Our Campus",
             "url": "https://www.darwinfoundation.org/en/about/our-campus/"
           }
         ]
@@ -324,7 +324,7 @@
           "amount_usd": 1370,
           "fx_rate_to_usd": 1.0,
           "fx_rate_date": "2024-01-01",
-          "comment": "Approximate average formal-sector monthly salary in Ecuador in 2024, based on synthesis of multiple labour-market reports that place the national average around 1,350\u20131,400 USD/month; using 1,370 USD as a rounded midpoint for modelling. Source examples include private salary benchmark reports that aggregate official data."
+          "comment": "Approximate average formal-sector monthly salary in Ecuador in 2024, based on synthesis of multiple labour-market reports that place the national average around 1,350–1,400 USD/month; using 1,370 USD as a rounded midpoint for modelling. Source examples include private salary benchmark reports that aggregate official data."
         },
         "gdp_per_capita_2023": {
           "amount_local": null,
@@ -335,7 +335,7 @@
         },
         "political_stability_assessment": {
           "category": "elevated_risk_but_functioning_democracy",
-          "comment": "Ecuador\u2019s political stability score in the World Bank Worldwide Governance Indicators has remained negative and below the global average in recent years, reflecting elevated risks from organized crime, security crises and episodes of political instability. At the same time, core democratic institutions and the constitutional framework remain in place. This label flags a higher-risk, but still investable, environment for long-horizon impact projects in the Gal\u00e1pagos."
+          "comment": "Ecuador’s political stability score in the World Bank Worldwide Governance Indicators has remained negative and below the global average in recent years, reflecting elevated risks from organized crime, security crises and episodes of political instability. At the same time, core democratic institutions and the constitutional framework remain in place. This label flags a higher-risk, but still investable, environment for long-horizon impact projects in the Galápagos."
         }
       }
     },
@@ -428,7 +428,7 @@
           "amount_usd": 190,
           "fx_rate_to_usd": 0.00037,
           "fx_rate_date": "2025-11-14",
-          "comment": "Average net salary 513k TZS \u2248 190 USD."
+          "comment": "Average net salary 513k TZS ≈ 190 USD."
         },
         "gdp_per_capita_2023": {
           "amount_local": 1224,
@@ -490,7 +490,7 @@
               "fx_rate_to_usd": 1.0,
               "fx_rate_date": "2025-10-29"
             },
-            "comment": "Median resale band circa 1,800\u20132,200 USD/m\u00b2 for Stone Town apartments."
+            "comment": "Median resale band circa 1,800–2,200 USD/m² for Stone Town apartments."
           }
         },
         "land": {
@@ -558,7 +558,7 @@
             "typical_daily_visitors_high_season": null,
             "estimated_annual_visitors": 752215,
             "throughput_data_quality": "reported",
-            "derivation_notes": "NCAA / Tanzanian media report 752,215 visitors in the fiscal year ending June 2023 \u2013 described as the highest number on record; used here as annual throughput benchmark."
+            "derivation_notes": "NCAA / Tanzanian media report 752,215 visitors in the fiscal year ending June 2023 – described as the highest number on record; used here as annual throughput benchmark."
           },
           "attraction_name": "Ngorongoro Conservation Area",
           "attraction_type": "safari_wildlife",
@@ -577,7 +577,7 @@
             "typical_daily_visitors_high_season": null,
             "estimated_annual_visitors": 40000,
             "throughput_data_quality": "modelled_range_midpoint",
-            "derivation_notes": "Multiple operator and statistics sites report that 30,000\u201350,000 climbers attempt Kilimanjaro each year; 40,000 is used as a midpoint estimate for total annual park user throughput linked to climbing."
+            "derivation_notes": "Multiple operator and statistics sites report that 30,000–50,000 climbers attempt Kilimanjaro each year; 40,000 is used as a midpoint estimate for total annual park user throughput linked to climbing."
           },
           "attraction_name": "Mount Kilimanjaro National Park",
           "attraction_type": "mountain_trekking",
@@ -586,7 +586,7 @@
             "score_1to3": 3
           },
           "environment_type": "unknown",
-          "short_description": "Africa\u2019s highest peak; multi-day trekking routes from rainforest to alpine desert. UNESCO World Heritage site."
+          "short_description": "Africa’s highest peak; multi-day trekking routes from rainforest to alpine desert. UNESCO World Heritage site."
         },
         {
           "attraction_id": "TZ_ATTR_ZANZIBAR_BEACHES_001",
@@ -656,7 +656,7 @@
       },
       "sustainability_profile": {
         "protected_area_share_percent": 40.0,
-        "protected_area_notes": "Roughly 38\u201340% of Tanzania\u2019s land area is under some form of legal protection (national parks, game reserves, conservation areas and other protected categories), with more than 800 protected areas recorded in global and regional databases (UNEP-WCMC, IUCN, regional SoPACA reports). This unusually high share underpins the long-term ecological value of the northern safari circuit but also implies strict regulatory frameworks for any new immersive or destination infrastructure."
+        "protected_area_notes": "Roughly 38–40% of Tanzania’s land area is under some form of legal protection (national parks, game reserves, conservation areas and other protected categories), with more than 800 protected areas recorded in global and regional databases (UNEP-WCMC, IUCN, regional SoPACA reports). This unusually high share underpins the long-term ecological value of the northern safari circuit but also implies strict regulatory frameworks for any new immersive or destination infrastructure."
       }
     },
     {
@@ -689,7 +689,7 @@
         },
         "role_of_red_sea_cluster": {
           "qualitative_importance": "core_beach_and_dive_region",
-          "comment": "Red Sea resorts absorb a large share of Egypt\u2019s leisure nights."
+          "comment": "Red Sea resorts absorb a large share of Egypt’s leisure nights."
         },
         "hotel_occupancy_indicators_2023": {
           "egypt_overall_h1_2023_occupancy_percent": 80,
@@ -748,7 +748,7 @@
               "fx_rate_to_usd": 0.0327,
               "fx_rate_date": "2023-06-30"
             },
-            "comment": "Indicative 3,500\u20134,000 EGP/m\u00b2 midrange asking prices from property portals."
+            "comment": "Indicative 3,500–4,000 EGP/m² midrange asking prices from property portals."
           }
         },
         "land": null
@@ -758,7 +758,9 @@
           "fringing_and_barrier_coral_reefs",
           "seagrass_beds",
           "mangroves"
-        ]
+        ],
+        "protected_area_notes": "Cluster includes multiple Egyptian marine and coastal protected areas (e.g. Ras Mohammed National Park, Giftun Islands protectorate, Wadi El Gemal National Park and Al-Mahmeya) along the Red Sea; no robust estimate found for what share of the wider Red Sea Riviera tourism strip lies inside formally designated protected areas.",
+        "protected_area_share_percent": null
       },
       "attractions_meta": {
         "total_attractions_tracked": 5,
@@ -890,7 +892,7 @@
             "fx_rate_date": "2019-12-31"
           },
           "local_capture": null,
-          "comment": "Egypt\u2019s international tourism receipts reached about 14.256 billion USD in 2019 before the pandemic, according to World Bank / UN Tourism time series. This figure is used as an upper-bound, order-of-magnitude proxy for the combined Red Sea coastal cluster (Hurghada, Sharm El-Sheikh, Marsa Alam, etc.). A robust, source-based breakdown of receipts by Red Sea sub-region is not yet available in this dataset, so local_capture is left null by design."
+          "comment": "Egypt’s international tourism receipts reached about 14.256 billion USD in 2019 before the pandemic, according to World Bank / UN Tourism time series. This figure is used as an upper-bound, order-of-magnitude proxy for the combined Red Sea coastal cluster (Hurghada, Sharm El-Sheikh, Marsa Alam, etc.). A robust, source-based breakdown of receipts by Red Sea sub-region is not yet available in this dataset, so local_capture is left null by design."
         }
       }
     },
@@ -969,7 +971,7 @@
           "amount_usd": 1242,
           "fx_rate_to_usd": 1.08,
           "fx_rate_date": "2025-11-14",
-          "comment": "Based on national averages around 1,342 EUR gross and 1,098\u20131,225 EUR net per month; Athens is slightly above national average."
+          "comment": "Based on national averages around 1,342 EUR gross and 1,098–1,225 EUR net per month; Athens is slightly above national average."
         },
         "gdp_per_capita_2023": {
           "amount_local": 23401,
@@ -1030,7 +1032,7 @@
               "fx_rate_to_usd": 1.08,
               "fx_rate_date": "2025-10-01"
             },
-            "comment": "Average residential asking price in Athens (city) ~2,400 EUR/m\u00b2 as of Oct 2025; city-centre stock will normally trade above this baseline."
+            "comment": "Average residential asking price in Athens (city) ~2,400 EUR/m² as of Oct 2025; city-centre stock will normally trade above this baseline."
           }
         },
         "land": null
@@ -1086,7 +1088,7 @@
             "typical_daily_visitors_high_season": null,
             "estimated_annual_visitors": 2000000,
             "throughput_data_quality": "reported_approximate",
-            "derivation_notes": "Museum communications and independent coverage describe \"around 2 million\" visitors per year; 3.9 million visitors between early 2023 and end 2024 imply ~1.9\u20132.0 million per 12-month period."
+            "derivation_notes": "Museum communications and independent coverage describe \"around 2 million\" visitors per year; 3.9 million visitors between early 2023 and end 2024 imply ~1.9–2.0 million per 12-month period."
           },
           "attraction_name": "Acropolis Museum",
           "attraction_type": "museum",
@@ -1143,7 +1145,7 @@
             "typical_daily_visitors_high_season": null,
             "estimated_annual_visitors": null,
             "throughput_data_quality": "unknown",
-            "derivation_notes": "The Greek Statistical Authority (ELSTAT) and the Hellenic Organization of Cultural Resources Development (HOCRED) publish monthly and annual visitor statistics for state museums and archaeological sites, including the National Archaeological Museum. This dataset intentionally leaves absolute visitor counts null at this stage: future versions should pull the museum\u2019s annual visitor totals directly from the ELSTAT \u201cMuseums and Archaeological Sites Attendance\u201d tables for a specific reference year and document the exact table, series and extract date here."
+            "derivation_notes": "The Greek Statistical Authority (ELSTAT) and the Hellenic Organization of Cultural Resources Development (HOCRED) publish monthly and annual visitor statistics for state museums and archaeological sites, including the National Archaeological Museum. This dataset intentionally leaves absolute visitor counts null at this stage: future versions should pull the museum’s annual visitor totals directly from the ELSTAT “Museums and Archaeological Sites Attendance” tables for a specific reference year and document the exact table, series and extract date here."
           },
           "attraction_name": "National Archaeological Museum of Athens",
           "attraction_type": "museum",
@@ -1547,7 +1549,7 @@
           },
           {
             "id": "ceicdata_wages",
-            "title": "Indonesia Monthly Earnings, 1991 \u2013 2024 | CEIC Data",
+            "title": "Indonesia Monthly Earnings, 1991 – 2024 | CEIC Data",
             "url": "https://www.ceicdata.com/en/indicator/indonesia/monthly-earnings"
           },
           {
@@ -1562,7 +1564,7 @@
           },
           {
             "id": "baliholidaysecrets_tax",
-            "title": "Bali Tourist Tax \u2013 What You Need to Know for 2025",
+            "title": "Bali Tourist Tax – What You Need to Know for 2025",
             "url": "https://www.baliholidaysecrets.com/bali-tourist-tax/"
           },
           {
@@ -1607,7 +1609,7 @@
           },
           {
             "id": "balisun_revenue",
-            "title": "Bali\u2019s Highest Spending Tourists Revealed - The Bali Sun",
+            "title": "Bali’s Highest Spending Tourists Revealed - The Bali Sun",
             "url": "https://thebalisun.com/balis-highest-spending-tourists-revealed/"
           },
           {
@@ -1617,7 +1619,7 @@
           },
           {
             "id": "bambooroutes_prices",
-            "title": "Are Bali property prices going up now? (June 2025) \u2013 Bamboo Routes",
+            "title": "Are Bali property prices going up now? (June 2025) – Bamboo Routes",
             "url": "https://bambooroutes.com/blogs/news/bali-price-forecasts"
           },
           {
@@ -1627,7 +1629,7 @@
           },
           {
             "id": "jakartapost_overtourism",
-            "title": "Tourism associations raise concerns over Bali\u2019s overtourism, waste problems",
+            "title": "Tourism associations raise concerns over Bali’s overtourism, waste problems",
             "url": "https://www.thejakartapost.com/indonesia/2025/01/17/tourism-associations-raise-concerns-over-balis-overtourism-waste-problems.html"
           }
         ]
@@ -1639,7 +1641,7 @@
           "amount_usd": 1034,
           "fx_rate_to_usd": 6.1e-05,
           "fx_rate_date": "2024-01-01",
-          "comment": "Approximate average monthly salary in Bali around 16.9 million IDR (roughly 1,030\u20131,050 USD at recent exchange rates), based on 2024\u20132025 labour-market surveys that aggregate official statistics for the province. Used here as an indicative benchmark for formal employment income in the tourism economy, not as a hard wage floor."
+          "comment": "Approximate average monthly salary in Bali around 16.9 million IDR (roughly 1,030–1,050 USD at recent exchange rates), based on 2024–2025 labour-market surveys that aggregate official statistics for the province. Used here as an indicative benchmark for formal employment income in the tourism economy, not as a hard wage floor."
         },
         "gdp_per_capita_2023": {
           "amount_local": null,
@@ -1650,14 +1652,14 @@
         },
         "political_stability_assessment": {
           "category": "moderate_risk_large_emerging_democracy",
-          "comment": "World Bank Worldwide Governance Indicators place Indonesia\u2019s political stability score modestly below the global average but significantly above many regional peers, with gradual improvement over the last decade. Indonesia is a large, electoral democracy with some exposure to policy volatility and localized security incidents, but Bali itself is widely perceived as a stable, tourism-centric region. This category reflects a generally investable environment with manageable political risk for long-term immersive destination projects."
+          "comment": "World Bank Worldwide Governance Indicators place Indonesia’s political stability score modestly below the global average but significantly above many regional peers, with gradual improvement over the last decade. Indonesia is a large, electoral democracy with some exposure to policy volatility and localized security incidents, but Bali itself is widely perceived as a stable, tourism-centric region. This category reflects a generally investable environment with manageable political risk for long-term immersive destination projects."
         }
       }
     },
     {
       "destination_id": "DEST_06",
       "core": {
-        "destination_name": "Andaman Coast Thailand (Phuket \u2013 Krabi \u2013 Phi Phi \u2013 Phang Nga)",
+        "destination_name": "Andaman Coast Thailand (Phuket – Krabi – Phi Phi – Phang Nga)",
         "destination_type": "coastal_island_cluster",
         "country_name": "Thailand",
         "country_iso2": "TH",
@@ -1696,7 +1698,7 @@
         },
         "role_of_andaman_cluster": {
           "qualitative_importance": "core_beach_and_island_region",
-          "comment": "Phuket\u2013Krabi\u2013Phi Phi\u2013Phang Nga form one of Thailand\u2019s main leisure clusters, capturing a large share of beach holiday nights and dive/snorkel excursions."
+          "comment": "Phuket–Krabi–Phi Phi–Phang Nga form one of Thailand’s main leisure clusters, capturing a large share of beach holiday nights and dive/snorkel excursions."
         },
         "hotel_occupancy_indicators_2023": {
           "phuket_peak_occupancy_high_season_percent": 85,
@@ -1767,7 +1769,7 @@
             "fx_rate_to_usd": 0.03,
             "fx_rate_date": "2019-12-31"
           },
-          "comment": "Order-of-magnitude estimate for the Andaman cluster (Phuket\u2013Krabi\u2013Phi Phi\u2013Phang Nga) assuming it accounts for roughly 20% of Thailand\u2019s pre-Covid tourism receipts and that ~30% of value is captured locally."
+          "comment": "Order-of-magnitude estimate for the Andaman cluster (Phuket–Krabi–Phi Phi–Phang Nga) assuming it accounts for roughly 20% of Thailand’s pre-Covid tourism receipts and that ~30% of value is captured locally."
         }
       },
       "throughput_nodes": {
@@ -1855,7 +1857,7 @@
               "fx_rate_to_usd": 0.03,
               "fx_rate_date": "2024-12-31"
             },
-            "comment": "Indicative price band for west-coast condominiums (Patong\u2013Kata\u2013Karon\u2013Kamala) marketed to international buyers, excluding ultra-luxury outliers."
+            "comment": "Indicative price band for west-coast condominiums (Patong–Kata–Karon–Kamala) marketed to international buyers, excluding ultra-luxury outliers."
           },
           "krabi_ao_nang_condo_price_per_sqm": {
             "min": {
@@ -1945,7 +1947,7 @@
             "typical_daily_visitors_high_season": null,
             "estimated_annual_visitors": 120000,
             "throughput_data_quality": "modelled_range_midpoint",
-            "derivation_notes": "Based on typical park operating season length, caps on boat numbers and a mix of day trips and liveaboards; mid-range assumption around 80k\u2013160k visitors per year under current regulation."
+            "derivation_notes": "Based on typical park operating season length, caps on boat numbers and a mix of day trips and liveaboards; mid-range assumption around 80k–160k visitors per year under current regulation."
           },
           "attraction_name": "Similan Islands National Park",
           "attraction_type": "marine_national_park",
@@ -1964,7 +1966,7 @@
             "typical_daily_visitors_high_season": 4000,
             "estimated_annual_visitors": 900000,
             "throughput_data_quality": "modelled_range_midpoint",
-            "derivation_notes": "Daily caps and time-slot systems imply several thousand visitors per day in high season; assuming an effective operating window of ~270\u2013300 days yields a broad 700k\u20131.1m range for annual bay/park visits."
+            "derivation_notes": "Daily caps and time-slot systems imply several thousand visitors per day in high season; assuming an effective operating window of ~270–300 days yields a broad 700k–1.1m range for annual bay/park visits."
           },
           "attraction_name": "Phi Phi Islands & Maya Bay",
           "attraction_type": "marine_national_park",
@@ -2010,7 +2012,7 @@
             "category": "medium",
             "score_1to3": 2
           },
-          "short_description": "Highly developed urban beach and nightlife hub on Phuket\u2019s west coast; emblematic of mass tourism and coastal urbanization."
+          "short_description": "Highly developed urban beach and nightlife hub on Phuket’s west coast; emblematic of mass tourism and coastal urbanization."
         },
         {
           "attraction_id": "TH_ANDAMAN_RAILAY_BEACH",
@@ -2043,7 +2045,7 @@
           },
           {
             "id": "TH_ANDAMAN_MARINE_PARKS",
-            "title": "Marine National Parks of the Andaman Coast \u2013 Visitor Management and Seasonal Closures",
+            "title": "Marine National Parks of the Andaman Coast – Visitor Management and Seasonal Closures",
             "url": "https://example.org/andaman-marine-parks"
           },
           {
@@ -2368,7 +2370,7 @@
             "typical_daily_visitors_high_season": 600,
             "estimated_annual_visitors": 120000,
             "throughput_data_quality": "modelled",
-            "derivation_notes": "Coron known for ~100k\u2013150k wreck divers annually; midpoint used."
+            "derivation_notes": "Coron known for ~100k–150k wreck divers annually; midpoint used."
           }
         },
         {
@@ -2379,7 +2381,7 @@
             "typical_daily_visitors_high_season": 100,
             "estimated_annual_visitors": 3000,
             "throughput_data_quality": "reported",
-            "derivation_notes": "UNESCO park with strict liveaboard caps; ~10\u201312 boats per season, 10\u201312 pax each, 25 trips/year."
+            "derivation_notes": "UNESCO park with strict liveaboard caps; ~10–12 boats per season, 10–12 pax each, 25 trips/year."
           },
           "attraction_name": "Tubbataha Reefs Natural Park",
           "attraction_type": "marine_national_park",
@@ -2426,7 +2428,7 @@
           },
           {
             "id": "DOT_PH",
-            "title": "Department of Tourism Philippines \u2013 Regional Arrivals",
+            "title": "Department of Tourism Philippines – Regional Arrivals",
             "url": "https://tourism.gov.ph"
           },
           {
@@ -2436,7 +2438,7 @@
           },
           {
             "id": "UNESCO_TUBBATAHA",
-            "title": "Tubbataha Reefs Natural Park \u2013 UNESCO",
+            "title": "Tubbataha Reefs Natural Park – UNESCO",
             "url": "https://whc.unesco.org/en/list/653"
           }
         ]
@@ -2573,7 +2575,7 @@
             "name": "Mekong River Cruise Dock",
             "city": "Luang Prabang",
             "annual_passengers_estimate_2023": 120000,
-            "comment": "High-end river cruise passengers (Avalon, Pandaw, etc.); seasonal (Jul\u2013Mar)."
+            "comment": "High-end river cruise passengers (Avalon, Pandaw, etc.); seasonal (Jul–Mar)."
           }
         ]
       },
@@ -2625,7 +2627,7 @@
               "fx_rate_to_usd": 1.0,
               "fx_rate_date": "2025-11-14"
             },
-            "comment": "Commercial conversion of heritage buildings into 8\u201315 room boutique hotels."
+            "comment": "Commercial conversion of heritage buildings into 8–15 room boutique hotels."
           }
         },
         "land": {
@@ -2651,7 +2653,7 @@
               "fx_rate_to_usd": 1.0,
               "fx_rate_date": "2025-11-14"
             },
-            "comment": "Agricultural land 5\u201310 km from center; conversion to eco-lodges possible via long-term lease."
+            "comment": "Agricultural land 5–10 km from center; conversion to eco-lodges possible via long-term lease."
           }
         }
       },
@@ -2784,7 +2786,7 @@
             "typical_daily_visitors_high_season": 1800,
             "estimated_annual_visitors": 400000,
             "throughput_data_quality": "modelled_range_midpoint",
-            "derivation_notes": "Standard half-day tour; ~30\u201350 boats daily in peak; ~300 operating days."
+            "derivation_notes": "Standard half-day tour; ~30–50 boats daily in peak; ~300 operating days."
           },
           "attraction_name": "Mekong River Sunset Cruise to Pak Ou Caves",
           "attraction_type": "river_cruise",
@@ -2826,7 +2828,7 @@
           },
           {
             "id": "UNESCO_LPQ",
-            "title": "UNESCO World Heritage \u2013 Luang Prabang",
+            "title": "UNESCO World Heritage – Luang Prabang",
             "url": "https://whc.unesco.org/en/list/479"
           },
           {
@@ -3182,7 +3184,7 @@
       ],
       "meta": {
         "last_researched_utc": "2025-11-14T00:00:00Z",
-        "notes": "Reference destination: High-income, federally managed, extreme seasonality (May\u2013Oct). No internal real estate market. Throughput from official NPS data.",
+        "notes": "Reference destination: High-income, federally managed, extreme seasonality (May–Oct). No internal real estate market. Throughput from official NPS data.",
         "sources": [
           {
             "id": "NPS_YELL_2023",
@@ -3201,7 +3203,7 @@
           },
           {
             "id": "YELL_GEOTHERMAL",
-            "title": "Yellowstone Volcano Observatory \u2013 Geyser Activity",
+            "title": "Yellowstone Volcano Observatory – Geyser Activity",
             "url": "https://www.usgs.gov/observatories/yvo"
           }
         ]
@@ -3324,7 +3326,7 @@
         "airports": [
           {
             "hub_id": "CTG_APT_CTG",
-            "name": "Rafael N\u00fa\u00f1ez International Airport",
+            "name": "Rafael Núñez International Airport",
             "iata": "CTG",
             "city": "Cartagena",
             "annual_passengers_estimate": 6200000,
@@ -3366,7 +3368,7 @@
               "fx_rate_to_usd": 1.0,
               "fx_rate_date": "2025-11-14"
             },
-            "comment": "Restored 2\u20133 bed colonial apartments in Centro Hist\u00f3rico; high rental yield."
+            "comment": "Restored 2–3 bed colonial apartments in Centro Histórico; high rental yield."
           },
           "bocagrande_condo_price_per_sqm": {
             "min": {
@@ -3483,7 +3485,7 @@
         {
           "attraction_id": "CTG_ATT_GETSEMANI",
           "nearest_location_id": "CTG_LOC_GETSEMANI",
-          "attraction_name": "Getseman\u00ed Street Art & Nightlife",
+          "attraction_name": "Getsemaní Street Art & Nightlife",
           "attraction_type": "street_culture",
           "environment_type": "bohemian_neighborhood",
           "short_description": "Graffiti, salsa bars, plazas; former working-class area now hipster hub.",
@@ -3580,7 +3582,7 @@
           },
           {
             "id": "UNESCO_CARTAGENA",
-            "title": "UNESCO World Heritage \u2013 Port, Fortresses and Group of Monuments, Cartagena",
+            "title": "UNESCO World Heritage – Port, Fortresses and Group of Monuments, Cartagena",
             "url": "https://whc.unesco.org/en/list/285"
           },
           {
@@ -3824,7 +3826,7 @@
             "typical_daily_visitors_high_season": 1200,
             "estimated_annual_visitors": 50000,
             "throughput_data_quality": "modelled",
-            "derivation_notes": "Based on ~40 camps \u00d7 30 beds \u00d7 60% occupancy \u00d7 180 peak days."
+            "derivation_notes": "Based on ~40 camps × 30 beds × 60% occupancy × 180 peak days."
           }
         },
         {
@@ -3855,7 +3857,7 @@
             "typical_daily_visitors_high_season": 80,
             "estimated_annual_visitors": 15000,
             "throughput_data_quality": "modelled",
-            "derivation_notes": "High-end camps limit to 6\u20138 guests per guide."
+            "derivation_notes": "High-end camps limit to 6–8 guests per guide."
           }
         },
         {
@@ -3901,12 +3903,12 @@
           },
           {
             "id": "UNESCO_OKAVANGO",
-            "title": "UNESCO World Heritage \u2013 Okavango Delta",
+            "title": "UNESCO World Heritage – Okavango Delta",
             "url": "https://whc.unesco.org/en/list/1432"
           },
           {
             "id": "WORLD_BANK_BW",
-            "title": "World Bank Data \u2013 Botswana",
+            "title": "World Bank Data – Botswana",
             "url": "https://data.worldbank.org/country/botswana"
           }
         ]
@@ -4048,7 +4050,7 @@
           "attraction_name": "Al-Khazneh (The Treasury)",
           "attraction_type": "archaeological",
           "environment_type": "canyon",
-          "short_description": "Iconic rock-carved fa\u00e7ade.",
+          "short_description": "Iconic rock-carved façade.",
           "main_access_mode": "walking",
           "accessibility_difficulty": "moderate",
           "accessibility_for_non_experts": true,
@@ -4075,7 +4077,7 @@
           "attraction_name": "Ad-Deir (The Monastery)",
           "attraction_type": "archaeological",
           "environment_type": "mountain",
-          "short_description": "Larger rock fa\u00e7ade; 800-step climb.",
+          "short_description": "Larger rock façade; 800-step climb.",
           "main_access_mode": "hiking",
           "accessibility_difficulty": "high",
           "accessibility_for_non_experts": false,
@@ -4134,7 +4136,7 @@
           },
           {
             "id": "UNESCO_PETRA",
-            "title": "UNESCO World Heritage \u2013 Petra",
+            "title": "UNESCO World Heritage – Petra",
             "url": "https://whc.unesco.org/en/list/326"
           }
         ]
@@ -4173,7 +4175,7 @@
         "world_region": "Latin_America",
         "world_bank_income_level": "upper_middle",
         "tourism_dependency_category": "medium",
-        "main_city_name": "Cuiab\u00e1",
+        "main_city_name": "Cuiabá",
         "main_city_population_estimate": 650000,
         "main_city_population_year": 2023
       },
@@ -4221,7 +4223,7 @@
             "hub_id": "BR_CGB_CGB",
             "name": "Marechal Rondon International Airport",
             "iata": "CGB",
-            "city": "Cuiab\u00e1",
+            "city": "Cuiabá",
             "annual_passengers_estimate": 3000000,
             "annual_passengers_year": 2023
           }
@@ -4983,7 +4985,7 @@
           },
           {
             "id": "DOMINICAN_TOURISM_2023",
-            "title": "Ministerio de Turismo Rep\u00fablica Dominicana",
+            "title": "Ministerio de Turismo República Dominicana",
             "url": "https://www.mitur.gob.do"
           }
         ]
@@ -5470,7 +5472,7 @@
     {
       "destination_id": "DEST_19",
       "core": {
-        "destination_name": "Canc\u00fan & Riviera Maya",
+        "destination_name": "Cancún & Riviera Maya",
         "destination_type": "coastal_resort_corridor",
         "country_name": "Mexico",
         "country_iso2": "MX",
@@ -5479,7 +5481,7 @@
         "world_region": "Latin_America",
         "world_bank_income_level": "upper_middle",
         "tourism_dependency_category": "high",
-        "main_city_name": "Canc\u00fan",
+        "main_city_name": "Cancún",
         "main_city_population_estimate": 888000,
         "main_city_population_year": 2023
       },
@@ -5492,7 +5494,7 @@
             "overnight_stays_total": null,
             "tourism_revenue_total": null,
             "repeat_visitor_share_percent": null,
-            "notes": "Canc\u00fan airport arrivals + regional estimate."
+            "notes": "Cancún airport arrivals + regional estimate."
           }
         ],
         "international_tourist_arrivals": {
@@ -5532,9 +5534,9 @@
         "airports": [
           {
             "hub_id": "MX_CUN",
-            "name": "Canc\u00fan International Airport",
+            "name": "Cancún International Airport",
             "iata": "CUN",
-            "city": "Canc\u00fan",
+            "city": "Cancún",
             "annual_passengers_2023": 32000000,
             "comment": "Official ASUR data."
           }
@@ -5592,7 +5594,7 @@
         {
           "attraction_id": "CUN_ATT_CHICHEN_ITZA",
           "nearest_location_id": null,
-          "attraction_name": "Chich\u00e9n Itz\u00e1",
+          "attraction_name": "Chichén Itzá",
           "attraction_type": "archaeological",
           "environment_type": "jungle",
           "short_description": "UNESCO Mayan city with El Castillo pyramid.",
@@ -5668,12 +5670,12 @@
         "sources": [
           {
             "id": "ASUR_CUN_2023",
-            "title": "Grupo Aeroportuario del Sureste (ASUR) Canc\u00fan",
+            "title": "Grupo Aeroportuario del Sureste (ASUR) Cancún",
             "url": "https://www.asur.com.mx"
           },
           {
             "id": "SECTUR_MEXICO_2023",
-            "title": "Secretar\u00eda de Turismo M\u00e9xico",
+            "title": "Secretaría de Turismo México",
             "url": "https://www.gob.mx/sectur"
           }
         ]
@@ -5726,7 +5728,10 @@
         "residential": {},
         "land": null
       },
-      "sustainability_profile": {},
+      "sustainability_profile": {
+        "protected_area_notes": "Red Sea Global’s destination is planned within a wider Red Sea region that is being zoned with marine protected areas under Saudi Arabia’s National Red Sea Sustainability Strategy and related marine spatial planning; no public, quantitative figure found for the share of the project footprint that will be inside legally designated protected zones.",
+        "protected_area_share_percent": null
+      },
       "attractions_meta": {
         "total_attractions_tracked": 0,
         "categories": {},
@@ -5736,11 +5741,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -5803,11 +5808,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -5860,7 +5865,10 @@
         "residential": {},
         "land": null
       },
-      "sustainability_profile": {},
+      "sustainability_profile": {
+        "protected_area_notes": "Destination overlaps with the Sharaan Nature Reserve in AlUla, a fully designated protected area of roughly 1,500 km² and AlUla’s flagship conservation landscape; no reliable statistic found for how much of the broader AlUla tourism cluster is inside this reserve or associated protected areas.",
+        "protected_area_share_percent": null
+      },
       "attractions_meta": {
         "total_attractions_tracked": 0,
         "categories": {},
@@ -5870,11 +5878,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -5927,7 +5935,10 @@
         "residential": {},
         "land": null
       },
-      "sustainability_profile": {},
+      "sustainability_profile": {
+        "protected_area_notes": "Qiddiya City is planned adjacent to the Tuwaiq escarpment and wider nature reserve landscapes but is primarily conceived as a large-scale entertainment and urban development; desk research did not identify a clearly delimited nature reserve that coincides with the core project area, so the share of formally protected land within the destination remains unclear.",
+        "protected_area_share_percent": null
+      },
       "attractions_meta": {
         "total_attractions_tracked": 0,
         "categories": {},
@@ -5937,11 +5948,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6004,11 +6015,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6071,11 +6082,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6138,11 +6149,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6239,11 +6250,11 @@
       ],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6306,11 +6317,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6363,7 +6374,10 @@
         "residential": {},
         "land": null
       },
-      "sustainability_profile": {},
+      "sustainability_profile": {
+        "protected_area_notes": "The entire core destination is a legally protected national park (Great Smoky Mountains National Park, IUCN category II and UNESCO World Heritage Site); no finer breakdown found for what share of the wider gateway‑town tourism economy lies inside park boundaries versus surrounding private land.",
+        "protected_area_share_percent": null
+      },
       "attractions_meta": {
         "total_attractions_tracked": 0,
         "categories": {},
@@ -6373,11 +6387,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6440,11 +6454,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6497,7 +6511,10 @@
         "residential": {},
         "land": null
       },
-      "sustainability_profile": {},
+      "sustainability_profile": {
+        "protected_area_notes": "Machu Picchu sits inside the Historic Sanctuary of Machu Picchu, a protected area under Peruvian law and a mixed cultural–natural UNESCO World Heritage Site; no robust, spatial statistic found for the share of the broader Cusco–Machu Picchu tourism corridor that lies within the sanctuary boundary.",
+        "protected_area_share_percent": null
+      },
       "attractions_meta": {
         "total_attractions_tracked": 0,
         "categories": {},
@@ -6507,11 +6524,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6564,7 +6581,10 @@
         "residential": {},
         "land": null
       },
-      "sustainability_profile": {},
+      "sustainability_profile": {
+        "protected_area_notes": "The Great Wall tourism cluster is served by multiple scenic areas and landscape parks in China (e.g. Badaling, Mutianyu, Jinshanling), many of which are designated scenic or forest parks with formal protection status; no consistent, cross‑site estimate exists for the share of built visitor infrastructure versus protected landscape across all Wall segments.",
+        "protected_area_share_percent": null
+      },
       "attractions_meta": {
         "total_attractions_tracked": 0,
         "categories": {},
@@ -6574,11 +6594,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6631,7 +6651,10 @@
         "residential": {},
         "land": null
       },
-      "sustainability_profile": {},
+      "sustainability_profile": {
+        "protected_area_notes": "The Forbidden City (Palace Museum) is a strictly protected cultural heritage complex within central Beijing, with building fabric and courtyard spaces safeguarded under national heritage law; however, it is not a nature reserve in the sense of protected natural landscapes, so no protected land share is reported here.",
+        "protected_area_share_percent": null
+      },
       "attractions_meta": {
         "total_attractions_tracked": 0,
         "categories": {},
@@ -6641,11 +6664,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6698,7 +6721,10 @@
         "residential": {},
         "land": null
       },
-      "sustainability_profile": {},
+      "sustainability_profile": {
+        "protected_area_notes": "Core destination is Zion National Park, a legally protected IUCN category II area; no granular figure found for how much of the broader regional tourism economy sits inside the park versus in adjacent gateway communities and private land.",
+        "protected_area_share_percent": null
+      },
       "attractions_meta": {
         "total_attractions_tracked": 0,
         "categories": {},
@@ -6708,11 +6734,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6765,7 +6791,10 @@
         "residential": {},
         "land": null
       },
-      "sustainability_profile": {},
+      "sustainability_profile": {
+        "protected_area_notes": "Core destination is Grand Canyon National Park, an IUCN category II protected area with additional protection on adjacent tribal and conservation lands; no robust statistic found that expresses the share of the wider Grand Canyon tourism region that is formally protected.",
+        "protected_area_share_percent": null
+      },
       "attractions_meta": {
         "total_attractions_tracked": 0,
         "categories": {},
@@ -6775,11 +6804,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6832,7 +6861,10 @@
         "residential": {},
         "land": null
       },
-      "sustainability_profile": {},
+      "sustainability_profile": {
+        "protected_area_notes": "Yosemite National Park is itself a large IUCN category II protected area and UNESCO World Heritage Site; available sources do not provide a clean percentage split between protected park lands and surrounding, non‑protected resort and gateway areas used by visitors.",
+        "protected_area_share_percent": null
+      },
       "attractions_meta": {
         "total_attractions_tracked": 0,
         "categories": {},
@@ -6842,11 +6874,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6909,11 +6941,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -6976,11 +7008,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -7043,11 +7075,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -7110,11 +7142,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -7177,11 +7209,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -7234,7 +7266,10 @@
         "residential": {},
         "land": null
       },
-      "sustainability_profile": {},
+      "sustainability_profile": {
+        "protected_area_notes": "Santorini’s caldera cliffs and surrounding marine areas are partly covered by Natura 2000 and other landscape protections, but the island is also heavily built‑up for tourism; given overlapping designations and a very fuzzy destination boundary, no reliable, quantitative estimate for protected‑area share could be established.",
+        "protected_area_share_percent": null
+      },
       "attractions_meta": {
         "total_attractions_tracked": 0,
         "categories": {},
@@ -7244,11 +7279,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -7311,11 +7346,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -7378,11 +7413,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -7445,11 +7480,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -7512,11 +7547,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -7579,11 +7614,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -7646,11 +7681,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -7703,7 +7738,10 @@
         "residential": {},
         "land": null
       },
-      "sustainability_profile": {},
+      "sustainability_profile": {
+        "protected_area_notes": "Stonehenge and its surroundings form part of the ‘Stonehenge, Avebury and Associated Sites’ UNESCO World Heritage cultural landscape, with strong planning protections for monuments and setting; this is primarily a cultural–archaeological protection regime rather than a classic nature reserve, so no nature protected‑area share is reported.",
+        "protected_area_share_percent": null
+      },
       "attractions_meta": {
         "total_attractions_tracked": 0,
         "categories": {},
@@ -7713,11 +7751,11 @@
       "attractions": [],
       "meta": {
         "last_researched_utc": "2025-11-16T01:42:51Z",
-        "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
+        "notes": "Skeleton destination created from 'Origin of Wonder – Complete Top 116 Destinations' PDF. Quantitative indicators intentionally left blank until sourced from primary statistics.",
         "sources": [
           {
             "id": "ORIGIN_OF_WONDER_TOP116",
-            "title": "Origin of Wonder \u2013 Complete Top 116 Destinations (internal PDF)",
+            "title": "Origin of Wonder – Complete Top 116 Destinations (internal PDF)",
             "url": ""
           }
         ]
@@ -7774,6 +7812,10 @@
         "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
         "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "Rocky Mountain National Park is a designated IUCN category II protected area; the destination cluster also includes nearby, non‑protected resort and gateway communities, but no clear statistic quantifies what share of total visitor‑facing infrastructure lies inside the park boundary.",
+        "protected_area_share_percent": null
       }
     },
     {
@@ -7902,6 +7944,10 @@
         "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
         "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "Komodo National Park is a formally designated terrestrial and marine protected area (IUCN category II) covering the main islands and surrounding seas; no robust breakdown found for how much of the broader Flores and Labuan Bajo tourism economy falls inside versus outside the park.",
+        "protected_area_share_percent": null
       }
     },
     {
@@ -7966,6 +8012,10 @@
         "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
         "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "Kruger National Park is a very large IUCN category II protected area, embedded within a mosaic of private reserves and community lands; sources do not offer a precise percentage for the share of all Kruger‑linked accommodation and tourism assets located on land with formal conservation status.",
+        "protected_area_share_percent": null
       }
     },
     {
@@ -7998,6 +8048,10 @@
         "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
         "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "Victoria Falls tourism uses land on both sides of the Zambezi within Mosi‑oa‑Tunya National Park (Zambia) and Victoria Falls National Park (Zimbabwe), both formally protected areas; there is no simple, binational statistic for what fraction of the overall cross‑border destination footprint is under park designation.",
+        "protected_area_share_percent": null
       }
     },
     {
@@ -8030,6 +8084,10 @@
         "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
         "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "The Giza pyramid complex is protected as a World Heritage archaeological site with strict heritage controls and buffer zoning, but not as a biodiversity‑focused nature reserve; no separate nature protected‑area metric is therefore reported for this destination.",
+        "protected_area_share_percent": null
       }
     },
     {
@@ -8094,6 +8152,10 @@
         "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
         "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "Mount Kilimanjaro’s summit and main trekking routes lie inside Kilimanjaro National Park, a designated protected area and World Heritage Site; desk research did not uncover a reliable percentage figure expressing how much of the wider Kilimanjaro tourism economy is located within park boundaries.",
+        "protected_area_share_percent": null
       }
     },
     {
@@ -8224,6 +8286,10 @@
         "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
         "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "Chichen Itza is protected as a federal archaeological zone and UNESCO World Heritage Site, with strict cultural‑heritage protections on the core site; surrounding forests and farmland are not consistently classified as a single nature reserve, so no nature protected‑area share is reported.",
+        "protected_area_share_percent": null
       }
     },
     {
@@ -8256,6 +8322,10 @@
         "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
         "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "Acadia National Park is a legally protected coastal park spread across Mount Desert Island and nearby islands and peninsulas; no consolidated statistic found that states what share of the wider Bar Harbor–Downeast tourism region is within park boundaries versus surrounding private land.",
+        "protected_area_share_percent": null
       }
     },
     {
@@ -8288,6 +8358,10 @@
         "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
         "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "Banff National Park is Canada’s oldest national park and part of a larger Canadian Rockies parks system under IUCN category II; while most iconic scenery is inside protected land, no reliable percentage was found for the share of all Banff‑area visitor beds and infrastructure sited on protected ground.",
+        "protected_area_share_percent": null
       }
     },
     {
@@ -8320,12 +8394,16 @@
         "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
         "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "Iguaçu/Iguazú Falls are framed by two adjacent national parks (Iguaçu National Park in Brazil and Iguazú National Park in Argentina), both protected under national law and as UNESCO World Heritage Sites; cross‑border tourism statistics do not cleanly separate infrastructure inside versus outside protected areas, so no destination‑level share is reported.",
+        "protected_area_share_percent": null
       }
     },
     {
       "destination_id": "DEST_67",
       "core": {
-        "destination_name": "Len\u00e7\u00f3is Maranhenses",
+        "destination_name": "Lençóis Maranhenses",
         "destination_type": "wetland",
         "country_name": "Brazil",
         "country_iso2": "BR",
@@ -8352,6 +8430,10 @@
         "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
         "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "Lençóis Maranhenses National Park is a large coastal dune and lagoon national park in Brazil with full protected‑area status; however, publicly available data does not specify what proportion of the wider Lençóis tourism economy lies within the park versus in nearby non‑protected settlements and access corridors.",
+        "protected_area_share_percent": null
       }
     },
     {
@@ -8384,6 +8466,10 @@
         "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
         "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "Most of Easter Island’s land area falls within Rapa Nui National Park, a Chilean protected area and UNESCO World Heritage Site; no robust, up‑to‑date number was found that expresses the exact percentage of the inhabited island and tourism infrastructure inside the park boundary.",
+        "protected_area_share_percent": null
       }
     },
     {
@@ -8416,6 +8502,10 @@
         "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
         "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "Patagonia as a destination spans a mosaic of Argentine and Chilean national parks, nature reserves and private conservation areas (e.g. Torres del Paine, Los Glaciares, Nahuel Huapi and others); because the tourism region is defined much more broadly than any single park network, no consistent estimate exists for an overall protected‑area share.",
+        "protected_area_share_percent": null
       }
     },
     {
@@ -8448,6 +8538,10 @@
         "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
         "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "Cusco & the Sacred Valley link multiple protected archaeological parks and Andean landscapes, including the Historic Sanctuary of Machu Picchu and other designated cultural‑natural sites; available sources do not offer a single percentage for how much of this extended cultural landscape is formally protected land.",
+        "protected_area_share_percent": null
       }
     },
     {
@@ -8512,6 +8606,10 @@
         "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
         "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "Niagara Falls tourism is anchored by legally protected parkland on both sides of the border (Niagara Falls State Park in New York and parkland such as Queen Victoria Park in Ontario); no single, binational figure was found that quantifies the share of the wider cross‑border urban resort area that is designated park or reserve.",
+        "protected_area_share_percent": null
       }
     },
     {
@@ -8576,6 +8674,10 @@
         "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
         "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "Cinque Terre is covered by Cinque Terre National Park and a surrounding marine protected area, plus inclusion in the wider Pelagos Sanctuary for Mediterranean marine mammals; nonetheless, a clean percentage figure for the share of all local housing and tourism infrastructure that lies within formal park or marine‑protected boundaries is not available.",
+        "protected_area_share_percent": null
       }
     },
     {
@@ -8608,6 +8710,10 @@
         "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
         "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "Plitvice Lakes National Park is a fully designated national park and UNESCO World Heritage Site, with the key lakes and waterfalls entirely inside the protected area; no public data set was found that splits the wider regional tourism economy into protected versus non‑protected land parcels.",
+        "protected_area_share_percent": null
       }
     },
     {
@@ -8672,6 +8778,10 @@
         "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
         "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "The Alhambra and Generalife complex in Granada is a UNESCO World Heritage Site and protected monumental ensemble with controlled gardens and wooded slopes, but its protection regime is primarily cultural‑architectural; it is not classified as a nature reserve, so no nature protected‑area share is calculated here.",
+        "protected_area_share_percent": null
       }
     },
     {
@@ -8704,6 +8814,10 @@
         "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
         "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "Iceland as a whole maintains an extensive network of national parks and nature reserves (roughly 20% of terrestrial area under some conservation status, with national parks alone covering around 14% of the country), and several of these protected landscapes are within typical Reykjavik‑based itineraries; however, no statistic directly reports what share of the Reykjavik‑centred tourism cluster occurs on protected land, so the field remains qualitative only.",
+        "protected_area_share_percent": null
       }
     },
     {
@@ -8736,6 +8850,10 @@
         "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
         "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "The Jungfrau‑Aletsch region is designated as the Swiss Alps Jungfrau‑Aletsch UNESCO World Heritage Site and overlaps with multiple Swiss protected landscapes; data sources do not provide a simple percentage for how much of the broader Swiss Alps tourism infrastructure in this cluster lies inside formally protected zones.",
+        "protected_area_share_percent": null
       }
     },
     {
@@ -8768,6 +8886,10 @@
         "last_researched_utc": "2025-11-16T06:52:26.908209+00:00",
         "notes": "Destination added from origin-of-wonder list. No numeric indicators populated yet to avoid invented values.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "Almost the entire Antarctic tourism destination is governed by the Antarctic Treaty System and associated protected‑area instruments (including Antarctic Specially Protected Areas), effectively operating as a continent‑scale conservation regime; because tourism operates via dispersed landing sites and ship‑based itineraries, no meaningful percentage share of protected land can be assigned at destination level.",
+        "protected_area_share_percent": null
       }
     },
     {
@@ -8928,6 +9050,10 @@
         "last_researched_utc": "2025-11-16T06:52:26.908209+00:00",
         "notes": "Destination added from origin-of-wonder list. No numeric indicators populated yet to avoid invented values.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "The Lake District is a UK national park and UNESCO World Heritage cultural landscape with strong landscape‑protection status; no granular statistic was found that indicates what share of all accommodation and tourism infrastructure in the wider Lake District destination sits on land formally designated as protected.",
+        "protected_area_share_percent": null
       }
     },
     {
@@ -8960,6 +9086,10 @@
         "last_researched_utc": "2025-11-16T06:52:26.908209+00:00",
         "notes": "Destination added from origin-of-wonder list. No numeric indicators populated yet to avoid invented values.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "The Scottish Highlands destination overlaps with multiple protected landscapes, including Cairngorms National Park, various National Scenic Areas and nature reserves; given the region’s very broad definition, sources do not offer a single, robust figure for the proportion of total Highlands tourism that occurs on protected land.",
+        "protected_area_share_percent": null
       }
     },
     {
@@ -8992,6 +9122,10 @@
         "last_researched_utc": "2025-11-16T06:52:26.908209+00:00",
         "notes": "Destination added from origin-of-wonder list. No numeric indicators populated yet to avoid invented values.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "Cappadocia’s core landscapes form Göreme Historical National Park and related protected valleys, inscribed as a mixed cultural–natural World Heritage Site; there is no consolidated statistic that hows what proportion of all visitor infrastructure across the wider Cappadocia region lies within these protected‐area boundaries.",
+        "protected_area_share_percent": null
       }
     },
     {
@@ -9024,6 +9158,10 @@
         "last_researched_utc": "2025-11-16T06:52:26.908209+00:00",
         "notes": "Destination added from origin-of-wonder list. No numeric indicators populated yet to avoid invented values.",
         "sources": []
+      },
+      "sustainability_profile": {
+        "protected_area_notes": "Many islands in the Caribbean ports cluster are encircled by marine parks, coral reef reserves and coastal protected areas, and some ports lie close to terrestrial national parks; because cruise itineraries span numerous jurisdictions with differing protected‑area systems, no unified percentage for protected‑area share can be computed for the cluster.",
+        "protected_area_share_percent": null
       }
     }
   ],
