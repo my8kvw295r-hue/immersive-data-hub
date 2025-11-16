@@ -222,3 +222,30 @@ For questions, corrections or collaboration related to immersive investors and i
 
 Website: https://martin-sambauer.com  
 Contact details are listed on the website.
+
+---
+
+## Temporal validity and review
+
+Each dataset version is treated as a dated snapshot.
+
+- `dataset_metadata.snapshot_date` records the ISO date (YYYY-MM-DD) of the snapshot for this JSON file.
+- `dataset_metadata.last_reviewed` records the ISO date when the dataset as a whole was last curator-reviewed.
+- Each entity (`investors`, `institutions`, `projects`, `policies`, `people`) has:
+  - `data_valid_as_of` – the date the information is considered valid as of.
+  - `last_checked` – the date when a human curator or trusted agent last reviewed the entry.
+
+Analyses should always treat these dates as lower bounds: if `last_checked` is older than 12–18 months, downstream tools should consider the entry potentially outdated and prioritise it for refresh.
+
+---
+
+## Provenance and sources
+
+Every factual value in the dataset must be traceable to at least one external source:
+
+- Entities must list one or more `sources` objects with URLs or formal references.
+- Curators must only enter values that are explicitly supported by at least one listed source.
+- If no supporting source exists, the field must be set to `null` rather than guessed.
+
+The current schema keeps provenance at entity level (via the `sources` array). For future, more granular temporal or field-level provenance, additional per-field `source_ids` can be added, but this is out of scope for the pilot.
+
