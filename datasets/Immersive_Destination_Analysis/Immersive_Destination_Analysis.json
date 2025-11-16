@@ -5134,11 +5134,12 @@
         ]
       },
       "attractions_meta": {
-        "total_attractions_tracked": 2,
+        "total_attractions_tracked": 3,
         "categories": {
-          "urban_icon": 2
+          "high": 2,
+          "medium": 1
         },
-        "avg_immersive_story_potential_1to3": 2.5,
+        "avg_immersive_story_potential_1to3": 2.6666666666666665,
         "comment": null
       },
       "attractions": [
@@ -5196,6 +5197,37 @@
             "estimated_annual_visitors": 80000000,
             "throughput_data_quality": "reported",
             "derivation_notes": "Official footfall 80M in 2023."
+          }
+        },
+        {
+          "attraction_id": "DUBAI_ATT_BURJ_KHALIFA",
+          "nearest_location_id": null,
+          "attraction_name": "Burj Khalifa",
+          "attraction_type": "landmark",
+          "environment_type": "urban",
+          "short_description": "",
+          "distance_km_from_nearest_location": null,
+          "travel_time_from_nearest_location_minutes": null,
+          "main_access_mode": null,
+          "accessibility_difficulty": null,
+          "accessibility_for_non_experts": null,
+          "seasonality": null,
+          "protection_status": null,
+          "visitor_restrictions": null,
+          "sustainability_pressure": null,
+          "main_target_audience": null,
+          "typical_visit_duration_hours": null,
+          "immersive_story_potential": {
+            "category": "high",
+            "score_1to3": 3
+          },
+          "throughput": {
+            "max_licensed_daily_visitors": null,
+            "typical_daily_visitors_low_season": null,
+            "typical_daily_visitors_high_season": null,
+            "estimated_annual_visitors": null,
+            "throughput_data_quality": "unknown",
+            "derivation_notes": "No reliable visitor throughput figures integrated yet; placeholder record only."
           }
         }
       ],
@@ -6165,12 +6197,46 @@
       },
       "sustainability_profile": {},
       "attractions_meta": {
-        "total_attractions_tracked": 0,
-        "categories": {},
-        "avg_immersive_story_potential_1to3": null,
+        "total_attractions_tracked": 1,
+        "categories": {
+          "high": 1
+        },
+        "avg_immersive_story_potential_1to3": 3.0,
         "comment": "Placeholder skeleton destination; detailed attractions and sustainability indicators to be integrated in a future research pass."
       },
-      "attractions": [],
+      "attractions": [
+        {
+          "attraction_id": "BARCELONA_ATT_SAGRADA_FAMILIA",
+          "nearest_location_id": null,
+          "attraction_name": "Sagrada Familia",
+          "attraction_type": "landmark",
+          "environment_type": "urban",
+          "short_description": "",
+          "distance_km_from_nearest_location": null,
+          "travel_time_from_nearest_location_minutes": null,
+          "main_access_mode": null,
+          "accessibility_difficulty": null,
+          "accessibility_for_non_experts": null,
+          "seasonality": null,
+          "protection_status": null,
+          "visitor_restrictions": null,
+          "sustainability_pressure": null,
+          "main_target_audience": null,
+          "typical_visit_duration_hours": null,
+          "immersive_story_potential": {
+            "category": "high",
+            "score_1to3": 3
+          },
+          "throughput": {
+            "max_licensed_daily_visitors": null,
+            "typical_daily_visitors_low_season": null,
+            "typical_daily_visitors_high_season": null,
+            "estimated_annual_visitors": null,
+            "throughput_data_quality": "unknown",
+            "derivation_notes": "No reliable visitor throughput figures integrated yet; placeholder record only."
+          }
+        }
+      ],
       "meta": {
         "last_researched_utc": "2025-11-16T01:35:35Z",
         "notes": "Skeleton destination created from 'Origin of Wonder \u2013 Complete Top 116 Destinations' PDF. Quantitative tourism, economic and throughput indicators are intentionally left blank/null until sourced from primary statistics.",
@@ -8050,12 +8116,46 @@
       "throughput_nodes": {},
       "real_estate": {},
       "attractions_meta": {
-        "total_attractions_tracked": 0,
-        "categories": {},
-        "avg_immersive_story_potential_1to3": null,
+        "total_attractions_tracked": 1,
+        "categories": {
+          "high": 1
+        },
+        "avg_immersive_story_potential_1to3": 3.0,
         "comment": "Placeholder meta entry for new destination added from origin-of-wonder list; detailed attractions to be added in later research pass."
       },
-      "attractions": [],
+      "attractions": [
+        {
+          "attraction_id": "NEW_YORK_CITY_ATT_TIMES_SQUARE",
+          "nearest_location_id": null,
+          "attraction_name": "Times Square",
+          "attraction_type": "landmark",
+          "environment_type": "urban",
+          "short_description": "",
+          "distance_km_from_nearest_location": null,
+          "travel_time_from_nearest_location_minutes": null,
+          "main_access_mode": null,
+          "accessibility_difficulty": null,
+          "accessibility_for_non_experts": null,
+          "seasonality": null,
+          "protection_status": null,
+          "visitor_restrictions": null,
+          "sustainability_pressure": null,
+          "main_target_audience": null,
+          "typical_visit_duration_hours": null,
+          "immersive_story_potential": {
+            "category": "high",
+            "score_1to3": 3
+          },
+          "throughput": {
+            "max_licensed_daily_visitors": null,
+            "typical_daily_visitors_low_season": null,
+            "typical_daily_visitors_high_season": null,
+            "estimated_annual_visitors": null,
+            "throughput_data_quality": "unknown",
+            "derivation_notes": "No reliable visitor throughput figures integrated yet; placeholder record only."
+          }
+        }
+      ],
       "meta": {
         "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
         "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
@@ -8635,6 +8735,294 @@
       "meta": {
         "last_researched_utc": "2025-11-16T06:41:55.043748+00:00",
         "notes": "Destination scaffold added based on origin-of-wonder destination screening. Tourism, throughput, real estate and investor metrics intentionally left empty/null to avoid fabricated values. Fill in with sourced data in a subsequent research pass.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_80",
+      "core": {
+        "destination_name": "Antarctica",
+        "destination_type": "wilderness_region",
+        "country_name": "Antarctica",
+        "country_iso2": "AQ",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Antarctica",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Scaffold entry for new destination from origin-of-wonder set; detailed tourism, throughput and real-estate data to be added in a later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:52:26.908209+00:00",
+        "notes": "Destination added from origin-of-wonder list. No numeric indicators populated yet to avoid invented values.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_81",
+      "core": {
+        "destination_name": "Berlin",
+        "destination_type": "city_destination",
+        "country_name": "Germany",
+        "country_iso2": "DE",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Scaffold entry for new destination from origin-of-wonder set; detailed tourism, throughput and real-estate data to be added in a later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:52:26.908209+00:00",
+        "notes": "Destination added from origin-of-wonder list. No numeric indicators populated yet to avoid invented values.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_82",
+      "core": {
+        "destination_name": "Budapest",
+        "destination_type": "city_destination",
+        "country_name": "Hungary",
+        "country_iso2": "HU",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Scaffold entry for new destination from origin-of-wonder set; detailed tourism, throughput and real-estate data to be added in a later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:52:26.908209+00:00",
+        "notes": "Destination added from origin-of-wonder list. No numeric indicators populated yet to avoid invented values.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_83",
+      "core": {
+        "destination_name": "Copenhagen",
+        "destination_type": "city_destination",
+        "country_name": "Denmark",
+        "country_iso2": "DK",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Scaffold entry for new destination from origin-of-wonder set; detailed tourism, throughput and real-estate data to be added in a later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:52:26.908209+00:00",
+        "notes": "Destination added from origin-of-wonder list. No numeric indicators populated yet to avoid invented values.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_84",
+      "core": {
+        "destination_name": "Hamburg",
+        "destination_type": "city_destination",
+        "country_name": "Germany",
+        "country_iso2": "DE",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Scaffold entry for new destination from origin-of-wonder set; detailed tourism, throughput and real-estate data to be added in a later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:52:26.908209+00:00",
+        "notes": "Destination added from origin-of-wonder list. No numeric indicators populated yet to avoid invented values.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_85",
+      "core": {
+        "destination_name": "Lake District",
+        "destination_type": "heritage_landscape_cluster",
+        "country_name": "United Kingdom",
+        "country_iso2": "GB",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Scaffold entry for new destination from origin-of-wonder set; detailed tourism, throughput and real-estate data to be added in a later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:52:26.908209+00:00",
+        "notes": "Destination added from origin-of-wonder list. No numeric indicators populated yet to avoid invented values.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_86",
+      "core": {
+        "destination_name": "Scottish Highlands",
+        "destination_type": "heritage_landscape_cluster",
+        "country_name": "United Kingdom",
+        "country_iso2": "GB",
+        "global_south_flag": false,
+        "reference_location_flag": true,
+        "world_region": "Europe",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Scaffold entry for new destination from origin-of-wonder set; detailed tourism, throughput and real-estate data to be added in a later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:52:26.908209+00:00",
+        "notes": "Destination added from origin-of-wonder list. No numeric indicators populated yet to avoid invented values.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_87",
+      "core": {
+        "destination_name": "Cappadocia",
+        "destination_type": "heritage_landscape_cluster",
+        "country_name": "Turkey",
+        "country_iso2": "TR",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Europe_Central_Asia",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Scaffold entry for new destination from origin-of-wonder set; detailed tourism, throughput and real-estate data to be added in a later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:52:26.908209+00:00",
+        "notes": "Destination added from origin-of-wonder list. No numeric indicators populated yet to avoid invented values.",
+        "sources": []
+      }
+    },
+    {
+      "destination_id": "DEST_88",
+      "core": {
+        "destination_name": "Caribbean Ports Cluster",
+        "destination_type": "coastal_resort_corridor",
+        "country_name": "Caribbean multi-port cluster",
+        "country_iso2": "ZZ",
+        "global_south_flag": true,
+        "reference_location_flag": false,
+        "world_region": "Latin_America_Caribbean",
+        "world_bank_income_level": null,
+        "tourism_dependency_category": null,
+        "main_city_name": null,
+        "main_city_population_estimate": null,
+        "main_city_population_year": null
+      },
+      "tourism": {},
+      "throughput_nodes": {},
+      "real_estate": {},
+      "attractions_meta": {
+        "total_attractions_tracked": 0,
+        "categories": {},
+        "avg_immersive_story_potential_1to3": null,
+        "comment": "Scaffold entry for new destination from origin-of-wonder set; detailed tourism, throughput and real-estate data to be added in a later research pass."
+      },
+      "attractions": [],
+      "meta": {
+        "last_researched_utc": "2025-11-16T06:52:26.908209+00:00",
+        "notes": "Destination added from origin-of-wonder list. No numeric indicators populated yet to avoid invented values.",
         "sources": []
       }
     }
