@@ -17,29 +17,51 @@
         "candidate_for_main_dataset": false
       },
       "research_window": {
-        "from_year": null,
-        "to_year": null
+        "from_year": 2015,
+        "to_year": 2025
       },
       "issues": {
-        "tags": [],
-        "comment": "To be coded based on detailed overtourism discourse research for this destination."
+        "tags": [
+          "crowding",
+          "heritage_site_pressure",
+          "infrastructure_strain",
+          "heatwave_closures",
+          "urban_liveability_concerns"
+        ],
+        "comment": "Acropolis and central Athens experience intense crowding, long queues, and heat-related closures; debates link mass tourism, climate extremes and quality of life."
       },
       "awareness_assessment": {
-        "awareness_level": null,
-        "conflict_intensity": null,
-        "policy_response_level": null,
-        "assessment_basis": null,
-        "notes": "Placeholder; requires qualitative coding."
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "high",
+        "assessment_basis": "High-profile media coverage of Acropolis caps and heat closures; Greek authorities introduced timed-entry system and daily visitor cap amid overtourism fears.",
+        "notes": "Acropolis visitor numbers and heatwave shutdowns are widely reported; Athens framed internationally as a test case for managing heritage sites under climate and tourism pressure."
       },
-      "media_pressure_level": null,
-      "ngo_pressure_level": null,
-      "tourism_dependency_level": null,
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "Low",
+      "tourism_dependency_level": "Mid",
       "ngos_involved_count": null,
       "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
-        "sources_overview": []
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained.",
+        "sources_overview": [
+          {
+            "title": "Greece’s Acropolis to introduce visitor cap to tackle overtourism",
+            "url": "https://www.independent.co.uk/travel/news-and-advice/greece-acropolis-tourist-cap-overtourism-b2405014.html",
+            "source_type": "news_article"
+          },
+          {
+            "title": "Athens’ Acropolis is crumbling under tourism pressure",
+            "url": "https://www.euronews.com/travel/2023/07/23/athens-acropolis-is-crumbling-under-tourism-pressure-should-you-visit-quieter-places-inste",
+            "source_type": "news_article"
+          },
+          {
+            "title": "Overtourism in Athens: Is the Greek capital too crowded?",
+            "url": "https://realgreekexperiences.com/overtourism-in-athens",
+            "source_type": "blog_analysis"
+          }
+        ]
       }
     },
     {
@@ -52,29 +74,52 @@
         "candidate_for_main_dataset": false
       },
       "research_window": {
-        "from_year": null,
-        "to_year": null
+        "from_year": 2010,
+        "to_year": 2025
       },
       "issues": {
-        "tags": [],
-        "comment": "To be coded based on detailed overtourism discourse research for this destination."
+        "tags": [
+          "overtourism_general",
+          "environmental_degradation",
+          "water_stress",
+          "waste_management_crisis",
+          "traffic_congestion",
+          "cultural_conflicts"
+        ],
+        "comment": "South Bali in particular faces severe crowding, traffic, waste accumulation, water shortages and cultural tensions linked to rapid tourism growth."
       },
       "awareness_assessment": {
-        "awareness_level": null,
-        "conflict_intensity": null,
-        "policy_response_level": null,
-        "assessment_basis": null,
-        "notes": "Placeholder; requires qualitative coding."
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "medium",
+        "assessment_basis": "Overtourism narratives are central in international reporting; local authorities introduced a tourist tax and codes of conduct but enforcement and structural reforms remain partial.",
+        "notes": "Tourism accounts for a very large share of regional GDP; debates focus on whether Bali should shift from mass tourism to so‑called 'quality tourism'."
       },
-      "media_pressure_level": null,
-      "ngo_pressure_level": null,
-      "tourism_dependency_level": "high",
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "Mid",
+      "tourism_dependency_level": "Extreme",
       "ngos_involved_count": null,
       "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
-        "sources_overview": []
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained.",
+        "sources_overview": [
+          {
+            "title": "Can Bali Ever Solve Its Overtourism Conundrum?",
+            "url": "https://time.com/7272442/bali-overtourism-tourist-tax-behavior-rules-foreign-visitors-economy-indonesia/",
+            "source_type": "news_article"
+          },
+          {
+            "title": "Bali faces overtourism crisis as visitor numbers soar past pre-pandemic levels",
+            "url": "https://balithisweek.net/bali-faces-overtourism-crisis-can-new-regulations-and-a-tourist-tax-restore-paradise/",
+            "source_type": "news_article"
+          },
+          {
+            "title": "Waste makes Bali ‘unfit to visit’ by 2025 – could tourist tax be the solution?",
+            "url": "https://ecotourismbali.com/2024/11/29/waste-makes-bali-unfit-to-visit-by-2025-tourist-tax-should-be-the-solution/",
+            "source_type": "ngo_or_local_initiative"
+          }
+        ]
       }
     },
     {
@@ -87,29 +132,51 @@
         "candidate_for_main_dataset": false
       },
       "research_window": {
-        "from_year": null,
-        "to_year": null
+        "from_year": 2015,
+        "to_year": 2025
       },
       "issues": {
-        "tags": [],
-        "comment": "To be coded based on detailed overtourism discourse research for this destination."
+        "tags": [
+          "marine_ecosystem_damage",
+          "coral_degradation",
+          "beach_carrying_capacity",
+          "boat_traffic_pressure",
+          "iconic_site_closures"
+        ],
+        "comment": "Mass tourism to Phi Phi and Maya Bay led to coral damage, shark disturbance and overcrowding, prompting multi‑year closure and strict new limits."
       },
       "awareness_assessment": {
-        "awareness_level": null,
-        "conflict_intensity": null,
-        "policy_response_level": null,
-        "assessment_basis": null,
-        "notes": "Placeholder; requires qualitative coding."
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "high",
+        "assessment_basis": "Maya Bay became a global symbol of overtourism; Thai authorities closed the bay for ecosystem recovery, later reopening with caps and no‑swim rules.",
+        "notes": "The Andaman coast is promoted as a recovery success story but long‑term sustainability remains contested."
       },
-      "media_pressure_level": null,
-      "ngo_pressure_level": null,
-      "tourism_dependency_level": "high",
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "High",
+      "tourism_dependency_level": "High",
       "ngos_involved_count": null,
       "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
-        "sources_overview": []
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained.",
+        "sources_overview": [
+          {
+            "title": "Revenge Travel May Be a Big Problem for Thailand’s Maya Bay",
+            "url": "https://time.com/6204958/thailand-travel-phi-phi-maya-bay/",
+            "source_type": "news_article"
+          },
+          {
+            "title": "World‑famous Maya Bay reopens – but swimming is banned to protect the environment",
+            "url": "https://www.independent.co.uk/travel/news-and-advice/maya-beach-thailand-reopening-swimming-banned-b1987107.html",
+            "source_type": "news_article"
+          },
+          {
+            "title": "Why Maya Bay was closed for restoration",
+            "url": "https://www.loveandaman.com/beach-en/maya-bay-closed-restoration",
+            "source_type": "tour_operator_explanation"
+          }
+        ]
       }
     },
     {
@@ -122,29 +189,51 @@
         "candidate_for_main_dataset": false
       },
       "research_window": {
-        "from_year": null,
-        "to_year": null
+        "from_year": 2015,
+        "to_year": 2025
       },
       "issues": {
-        "tags": [],
-        "comment": "To be coded based on detailed overtourism discourse research for this destination."
+        "tags": [
+          "marine_ecosystem_damage",
+          "sewage_and_water_infrastructure",
+          "overcrowding",
+          "land_use_change",
+          "social_media_driven_tourism"
+        ],
+        "comment": "El Nido and Coron see intense resort development, boat traffic and Instagram‑driven visitor peaks; weak sewage systems and coastal construction stress reefs and water quality."
       },
       "awareness_assessment": {
-        "awareness_level": null,
-        "conflict_intensity": null,
-        "policy_response_level": null,
-        "assessment_basis": null,
-        "notes": "Placeholder; requires qualitative coding."
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "medium",
+        "assessment_basis": "Development banks, local media and NGOs flag risks of overtourism; provincial government has started tightening wastewater rules and permit conditions.",
+        "notes": "Palawan is marketed as a 'last frontier', increasing pressure while governance capacity and infrastructure lag behind demand."
       },
-      "media_pressure_level": null,
-      "ngo_pressure_level": null,
-      "tourism_dependency_level": "high",
+      "media_pressure_level": "Mid",
+      "ngo_pressure_level": "Mid",
+      "tourism_dependency_level": "High",
       "ngos_involved_count": null,
       "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
-        "sources_overview": []
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained.",
+        "sources_overview": [
+          {
+            "title": "How Coron and El Nido in Palawan can curb overtourism",
+            "url": "https://seads.adb.org/articles/how-coron-and-el-nido-palawan-can-curb-overtourism",
+            "source_type": "policy_analysis"
+          },
+          {
+            "title": "Tourists are back at this Insta‑worthy Philippine town – but can its sewage system keep up?",
+            "url": "https://news.mongabay.com/2025/02/tourists-are-back-at-this-instaworthy-philippine-town-but-can-its-sewage-system-keep-up/",
+            "source_type": "news_article"
+          },
+          {
+            "title": "Palawan steps up wastewater management in El Nido to protect tourism waters",
+            "url": "https://palawandailynews.com/provincial-news/palawan-steps-up-wastewater-management-in-el-nido-to-protect-tourism-waters/",
+            "source_type": "local_news"
+          }
+        ]
       }
     },
     {
@@ -157,29 +246,51 @@
         "candidate_for_main_dataset": false
       },
       "research_window": {
-        "from_year": null,
-        "to_year": null
+        "from_year": 2010,
+        "to_year": 2025
       },
       "issues": {
-        "tags": [],
-        "comment": "To be coded based on detailed overtourism discourse research for this destination."
+        "tags": [
+          "heritage_site_pressure",
+          "urban_development_pressure",
+          "ceremony_commodification",
+          "infrastructure_capacity_limits",
+          "rail_and_dam_projects"
+        ],
+        "comment": "UNESCO‑listed town faces rapid tourism growth, high‑speed rail access, and nearby dam construction; concerns focus on crowding, cultural erosion and infrastructure strain."
       },
       "awareness_assessment": {
-        "awareness_level": null,
-        "conflict_intensity": null,
-        "policy_response_level": null,
-        "assessment_basis": null,
-        "notes": "Placeholder; requires qualitative coding."
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "medium",
+        "assessment_basis": "UNESCO monitoring reports and regional media highlight risk of Luang Prabang losing World Heritage status if visitor management and development are not controlled.",
+        "notes": "Local business owners and residents voice concern that high visitor volumes and unmanaged party tourism undermine the town’s spiritual character."
       },
-      "media_pressure_level": null,
-      "ngo_pressure_level": null,
-      "tourism_dependency_level": "high",
+      "media_pressure_level": "Mid",
+      "ngo_pressure_level": "Mid",
+      "tourism_dependency_level": "High",
       "ngos_involved_count": null,
       "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
-        "sources_overview": []
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained.",
+        "sources_overview": [
+          {
+            "title": "Could Luang Prabang Be at Risk of Overtourism?",
+            "url": "https://laotiantimes.com/2023/03/21/could-luang-prabang-be-at-risk-of-overtourism/",
+            "source_type": "news_article"
+          },
+          {
+            "title": "Luang Prabang targets 1.7 million tourists amid heritage preservation concerns",
+            "url": "https://www.tourismlaos.org/2024/02/21/luang-prabang-targets-1-7-million-tourists-amid-heritage-preservation-concerns/",
+            "source_type": "official_tourism_news"
+          },
+          {
+            "title": "Historic Luang Prabang braces for change",
+            "url": "https://southeastasiaglobe.com/laos-dam-overtourism/",
+            "source_type": "feature_article"
+          }
+        ]
       }
     },
     {
@@ -192,29 +303,51 @@
         "candidate_for_main_dataset": false
       },
       "research_window": {
-        "from_year": null,
-        "to_year": null
+        "from_year": 2010,
+        "to_year": 2025
       },
       "issues": {
-        "tags": [],
-        "comment": "To be coded based on detailed overtourism discourse research for this destination."
+        "tags": [
+          "crowding",
+          "traffic_congestion",
+          "parking_pressure",
+          "wildlife_disturbance",
+          "trail_and_site_erosion"
+        ],
+        "comment": "Record visitation drives long traffic jams, crowded boardwalks and risky wildlife encounters; gateway communities depend on tourism but ecosystems face cumulative pressure."
       },
       "awareness_assessment": {
-        "awareness_level": null,
-        "conflict_intensity": null,
-        "policy_response_level": null,
-        "assessment_basis": null,
-        "notes": "Placeholder; requires qualitative coding."
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "medium",
+        "assessment_basis": "Visitor‑use surveys, media stories and NPS documents all describe crowding, bear jams and unsafe behavior; park pilots timed‑entry and shuttle schemes at hotspots.",
+        "notes": "Debate focuses on how to keep Yellowstone accessible while protecting wildlife and visitor experience."
       },
-      "media_pressure_level": null,
-      "ngo_pressure_level": null,
-      "tourism_dependency_level": "low",
+      "media_pressure_level": "Mid",
+      "ngo_pressure_level": "Mid",
+      "tourism_dependency_level": "Low",
       "ngos_involved_count": null,
       "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
-        "sources_overview": []
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained.",
+        "sources_overview": [
+          {
+            "title": "Visitor Use Management – Yellowstone National Park",
+            "url": "https://www.nps.gov/yell/learn/management/visitor-use.htm",
+            "source_type": "official_management_doc"
+          },
+          {
+            "title": "Why Is Yellowstone National Park Such a Crowded Mess?",
+            "url": "https://www.outsideonline.com/adventure-travel/national-parks/yellowstone-national-park-crowds/",
+            "source_type": "feature_article"
+          },
+          {
+            "title": "Tourists vs. Wildlife: The Dangers in the Greater Yellowstone Ecosystem",
+            "url": "https://www.nationalparkstraveler.org/2024/12/tourists-vs-wildlife-dangers-greater-yellowstone-ecosystem",
+            "source_type": "news_article"
+          }
+        ]
       }
     },
     {
@@ -227,29 +360,51 @@
         "candidate_for_main_dataset": false
       },
       "research_window": {
-        "from_year": null,
-        "to_year": null
+        "from_year": 2000,
+        "to_year": 2025
       },
       "issues": {
-        "tags": [],
-        "comment": "To be coded based on detailed overtourism discourse research for this destination."
+        "tags": [
+          "cruise_tourism_pressure",
+          "heritage_site_pressure",
+          "crowding_in_historic_center",
+          "resident_livability_concerns",
+          "air_and_noise_pollution_from_ships"
+        ],
+        "comment": "Historic walled city receives large cruise flows and short‑stay visitors; crowding and commercialization strain local life and heritage management."
       },
       "awareness_assessment": {
-        "awareness_level": null,
-        "conflict_intensity": null,
-        "policy_response_level": null,
-        "assessment_basis": null,
-        "notes": "Placeholder; requires qualitative coding."
+        "awareness_level": "high",
+        "conflict_intensity": "high",
+        "policy_response_level": "medium",
+        "assessment_basis": "Academic work and UNESCO‑related studies document negative perceptions among residents; cruise tourism is central in wider debates on overtourism in port cities.",
+        "notes": "Governance reforms and heritage management proposals seek to avoid Cartagena’s inscription as a World Heritage site ‘at risk’."
       },
-      "media_pressure_level": null,
-      "ngo_pressure_level": null,
-      "tourism_dependency_level": "very_high",
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "Mid",
+      "tourism_dependency_level": "Very High",
       "ngos_involved_count": null,
       "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
-        "sources_overview": []
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained.",
+        "sources_overview": [
+          {
+            "title": "Residents’ Attitudes and Perception Towards Cruise Tourism Development: Cartagena de Indias",
+            "url": "https://www.academia.edu/118839226/Residents_Attitudes_and_Perception_Towards_Cruise_Tourism_Development_A_Case_Study_of_Cartagena_de_Indias_Colombia",
+            "source_type": "academic_article"
+          },
+          {
+            "title": "Residents’ attitudes and perceptions towards cruise tourism development in Cartagena de Indias",
+            "url": "https://www.jstor.org/stable/23745368",
+            "source_type": "academic_article"
+          },
+          {
+            "title": "A Critical Assessment of the Current State and Governance of the UNESCO World Heritage Site of Cartagena de Indias",
+            "url": "https://www.mdpi.com/2571-9408/6/7/287",
+            "source_type": "academic_article"
+          }
+        ]
       }
     },
     {
@@ -262,29 +417,51 @@
         "candidate_for_main_dataset": false
       },
       "research_window": {
-        "from_year": null,
-        "to_year": null
+        "from_year": 2000,
+        "to_year": 2025
       },
       "issues": {
-        "tags": [],
-        "comment": "To be coded based on detailed overtourism discourse research for this destination."
+        "tags": [
+          "wildlife_disturbance",
+          "habitat_fragmentation",
+          "water_use_conflicts",
+          "boat_and_air_traffic_pressure",
+          "luxury_lodge_footprint"
+        ],
+        "comment": "High‑end safari model concentrates visitors along key channels; boat traffic, airstrips and lodge infrastructure raise concerns over wildlife disturbance and wetland integrity."
       },
       "awareness_assessment": {
-        "awareness_level": null,
-        "conflict_intensity": null,
-        "policy_response_level": null,
-        "assessment_basis": null,
-        "notes": "Placeholder; requires qualitative coding."
+        "awareness_level": "medium",
+        "conflict_intensity": "low",
+        "policy_response_level": "medium",
+        "assessment_basis": "Research on environmental impacts and sustainability stresses the need for strict low‑volume policies and monitoring of cumulative tourism effects.",
+        "notes": "Botswana’s positioning of the Delta as a premier but exclusive safari destination both protects and commercialises the ecosystem."
       },
-      "media_pressure_level": null,
-      "ngo_pressure_level": null,
-      "tourism_dependency_level": "high",
+      "media_pressure_level": "Low",
+      "ngo_pressure_level": "Mid",
+      "tourism_dependency_level": "High",
       "ngos_involved_count": null,
       "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
-        "sources_overview": []
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained.",
+        "sources_overview": [
+          {
+            "title": "The socio‑economic and environmental impacts of tourism development on the Okavango Delta",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0140196302911018",
+            "source_type": "academic_article"
+          },
+          {
+            "title": "Tourists’ perceptions of environmental impacts of tourism development in the Okavango Delta, Botswana",
+            "url": "https://www.ajhtl.com/uploads/7/1/6/3/7163688/article_39_vol_6__3__2017.pdf",
+            "source_type": "academic_article"
+          },
+          {
+            "title": "Sustainable Tourism – Okavango Research Institute",
+            "url": "https://ori.ub.bw/ori-research/sustainable-tourism",
+            "source_type": "research_institute"
+          }
+        ]
       }
     },
     {
@@ -297,29 +474,51 @@
         "candidate_for_main_dataset": false
       },
       "research_window": {
-        "from_year": null,
-        "to_year": null
+        "from_year": 1990,
+        "to_year": 2025
       },
       "issues": {
-        "tags": [],
-        "comment": "To be coded based on detailed overtourism discourse research for this destination."
+        "tags": [
+          "heritage_site_pressure",
+          "erosion_of_sandstone_structures",
+          "crowding",
+          "informal_economy_pressure",
+          "visitor_management_challenges"
+        ],
+        "comment": "Intense visitor flows through the Siq and central monuments accelerate erosion and structural stress; informal horse, camel and souvenir economies complicate regulation."
       },
       "awareness_assessment": {
-        "awareness_level": null,
-        "conflict_intensity": null,
-        "policy_response_level": null,
-        "assessment_basis": null,
-        "notes": "Placeholder; requires qualitative coding."
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "high",
+        "assessment_basis": "UNESCO and academic work explicitly frame Petra as vulnerable to over‑tourism; a Tourism Development Master Plan (2023–2033) focuses on visitor management and risk reduction.",
+        "notes": "Petra is simultaneously a national economic asset and a fragile archaeological landscape, making trade‑offs highly visible."
       },
-      "media_pressure_level": null,
-      "ngo_pressure_level": null,
-      "tourism_dependency_level": "high",
+      "media_pressure_level": "Mid",
+      "ngo_pressure_level": "Mid",
+      "tourism_dependency_level": "High",
       "ngos_involved_count": null,
       "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
-        "sources_overview": []
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained.",
+        "sources_overview": [
+          {
+            "title": "Over‑tourism in Petra Protected Areas",
+            "url": "https://www.researchgate.net/profile/Areej-Aloudat/publication/356731144_Over_tourism_in_Petra_Protected_Areas_In_D_FennellEd_Routledge_Handbook_of_Ecotourism_Routledge_Taylor_Francis_Group/links/6332827886b22d3db4e64f55/Over-tourism-in-Petra-Protected-Areas-In-D-FennellEd-Routledge-Handbook-of-Ecotourism-Routledge-Taylor-Francis-Group.pdf",
+            "source_type": "academic_chapter"
+          },
+          {
+            "title": "Tourism and Archaeological Heritage Management at Petra: Driver to Development or Destruction?",
+            "url": "https://www.academia.edu/19121872/Tourism_and_Archaeological_Heritage_Management_at_Petra_Driver_to_Development_or_Destruction",
+            "source_type": "academic_article"
+          },
+          {
+            "title": "Petra – State of Conservation Reports",
+            "url": "https://whc.unesco.org/en/soc/4715",
+            "source_type": "unesco_report"
+          }
+        ]
       }
     },
     {
@@ -332,29 +531,51 @@
         "candidate_for_main_dataset": false
       },
       "research_window": {
-        "from_year": null,
-        "to_year": null
+        "from_year": 2010,
+        "to_year": 2025
       },
       "issues": {
-        "tags": [],
-        "comment": "To be coded based on detailed overtourism discourse research for this destination."
+        "tags": [
+          "wildlife_disturbance",
+          "boat_traffic_pressure",
+          "fire_risk_and_drought",
+          "climate_change_vulnerability",
+          "land_use_change"
+        ],
+        "comment": "Jaguar‑watching boom and expanding tourism infrastructure intersect with severe fire seasons and changing hydrology; concerns about cumulative stress on wetlands and fauna."
       },
       "awareness_assessment": {
-        "awareness_level": null,
-        "conflict_intensity": null,
-        "policy_response_level": null,
-        "assessment_basis": null,
-        "notes": "Placeholder; requires qualitative coding."
+        "awareness_level": "medium",
+        "conflict_intensity": "low",
+        "policy_response_level": "medium",
+        "assessment_basis": "Recent journalism and scientific work highlight climate‑driven fires and rapid tourism growth; conservation NGOs argue for stricter guidelines on wildlife viewing and land management.",
+        "notes": "Narrative balances need for tourism revenue to fund conservation with risks of unregulated expansion."
       },
-      "media_pressure_level": null,
-      "ngo_pressure_level": null,
-      "tourism_dependency_level": "medium",
+      "media_pressure_level": "Mid",
+      "ngo_pressure_level": "Mid",
+      "tourism_dependency_level": "Mid",
       "ngos_involved_count": null,
       "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
-        "sources_overview": []
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained.",
+        "sources_overview": [
+          {
+            "title": "Pantanal’s Jaguar Boom Faces Overtourism Crisis",
+            "url": "https://gbej.org/pantanals-jaguar-boom-faces-overtourism-crisis/",
+            "source_type": "news_article"
+          },
+          {
+            "title": "Conditions behind devastating fires in the Pantanal region were intensified by climate change",
+            "url": "https://english.elpais.com/climate/2024-08-18/conditions-behind-devastating-fires-in-the-pantanal-region-of-south-america-were-intensified-by-climate-change.html",
+            "source_type": "news_article"
+          },
+          {
+            "title": "In Brazil’s Pantanal Wetlands, Jaguars, Cowboys, and a Changing Landscape Coexist",
+            "url": "https://www.cntraveler.com/story/in-brazils-pantanal-wetlands-jaguars-cowboys-and-a-changing-landscape-coexist",
+            "source_type": "feature_article"
+          }
+        ]
       }
     },
     {
@@ -367,29 +588,51 @@
         "candidate_for_main_dataset": false
       },
       "research_window": {
-        "from_year": null,
-        "to_year": null
+        "from_year": 2000,
+        "to_year": 2025
       },
       "issues": {
-        "tags": [],
-        "comment": "To be coded based on detailed overtourism discourse research for this destination."
+        "tags": [
+          "marine_pollution",
+          "plastic_waste",
+          "cruise_tourism_pressure",
+          "coastal_urban_development",
+          "water_quality_decline"
+        ],
+        "comment": "Ha Long Bay hosts dense cruise and boat traffic plus coastal construction; plastic waste, wastewater and over‑development threaten scenic and ecological values."
       },
       "awareness_assessment": {
-        "awareness_level": null,
-        "conflict_intensity": null,
-        "policy_response_level": null,
-        "assessment_basis": null,
-        "notes": "Placeholder; requires qualitative coding."
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "medium",
+        "assessment_basis": "UNESCO and news outlets warn that unchecked development and mass tourism could jeopardise the bay’s World Heritage status.",
+        "notes": "The site illustrates tensions between national tourism growth targets and international conservation obligations."
       },
-      "media_pressure_level": null,
-      "ngo_pressure_level": null,
-      "tourism_dependency_level": "high",
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "High",
+      "tourism_dependency_level": "High",
       "ngos_involved_count": null,
       "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
-        "sources_overview": []
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained.",
+        "sources_overview": [
+          {
+            "title": "UNESCO to study development risks to Vietnam’s Ha Long Bay",
+            "url": "https://www.reuters.com/world/asia-pacific/unesco-study-development-risks-vietnams-ha-long-bay-2024-12-20/",
+            "source_type": "news_article"
+          },
+          {
+            "title": "Ha Long Bay in danger as pollution, over‑development threaten its pristine beauty",
+            "url": "https://www.travelerstoday.com/articles/49841/20240101/ha-long-bay-danger-pollution-over-development-threaten-pristine-beauty.htm",
+            "source_type": "news_article"
+          },
+          {
+            "title": "‘It makes you sad’: Tourists and fishermen leave Vietnam’s Ha Long Bay covered in trash",
+            "url": "https://www.euronews.com/travel/2023/05/29/it-makes-you-sad-tourists-and-fishermen-leave-vietnams-ha-long-bay-covered-in-trash",
+            "source_type": "news_article"
+          }
+        ]
       }
     },
     {
@@ -402,29 +645,51 @@
         "candidate_for_main_dataset": false
       },
       "research_window": {
-        "from_year": null,
-        "to_year": null
+        "from_year": 2000,
+        "to_year": 2025
       },
       "issues": {
-        "tags": [],
-        "comment": "To be coded based on detailed overtourism discourse research for this destination."
+        "tags": [
+          "biodiversity_loss",
+          "deforestation_pressure",
+          "protected_area_funding_gap",
+          "infrastructure_limitations",
+          "community_benefit_challenges"
+        ],
+        "comment": "Nature‑based tourism is promoted as a conservation and development pathway, but weak infrastructure, poverty and deforestation threaten ecosystems that attract visitors."
       },
       "awareness_assessment": {
-        "awareness_level": null,
-        "conflict_intensity": null,
-        "policy_response_level": null,
-        "assessment_basis": null,
-        "notes": "Placeholder; requires qualitative coding."
+        "awareness_level": "medium",
+        "conflict_intensity": "low",
+        "policy_response_level": "medium",
+        "assessment_basis": "Reports by international organisations and NGOs stress that tourism revenues could support conservation if leakages are reduced and local benefits improved.",
+        "notes": "Debates focus less on overtourism volumes and more on how to scale tourism without amplifying environmental degradation."
       },
-      "media_pressure_level": null,
-      "ngo_pressure_level": null,
-      "tourism_dependency_level": "medium",
+      "media_pressure_level": "Low",
+      "ngo_pressure_level": "High",
+      "tourism_dependency_level": "Mid",
       "ngos_involved_count": null,
       "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
-        "sources_overview": []
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained.",
+        "sources_overview": [
+          {
+            "title": "Status of deforestation of Madagascar",
+            "url": "https://www.sciencedirect.com/science/article/pii/S2351989423000240",
+            "source_type": "academic_article"
+          },
+          {
+            "title": "Ecotourism – Wildlife Madagascar",
+            "url": "https://wildlifemadagascar.org/ecotourism/",
+            "source_type": "ngo_or_local_initiative"
+          },
+          {
+            "title": "Tourism in Madagascar: impacts and opportunities",
+            "url": "https://tourismteacher.com/tourism-in-madagascar/",
+            "source_type": "sector_analysis"
+          }
+        ]
       }
     },
     {
@@ -437,29 +702,51 @@
         "candidate_for_main_dataset": false
       },
       "research_window": {
-        "from_year": null,
-        "to_year": null
+        "from_year": 2000,
+        "to_year": 2025
       },
       "issues": {
-        "tags": [],
-        "comment": "To be coded based on detailed overtourism discourse research for this destination."
+        "tags": [
+          "mass_tourism_all_inclusive_resorts",
+          "water_and_energy_use",
+          "coral_and_mangrove_degradation",
+          "waste_management",
+          "sargassum_influx"
+        ],
+        "comment": "Punta Cana’s all‑inclusive resort corridor has transformed coastline and ecosystems; intensive resort operations, waste and sargassum management shape environmental risk."
       },
       "awareness_assessment": {
-        "awareness_level": null,
-        "conflict_intensity": null,
-        "policy_response_level": null,
-        "assessment_basis": null,
-        "notes": "Placeholder; requires qualitative coding."
+        "awareness_level": "medium",
+        "conflict_intensity": "low",
+        "policy_response_level": "medium",
+        "assessment_basis": "National and international actors acknowledge pollution, reef damage and resource use; sustainability roadmaps and private foundations respond with conservation projects.",
+        "notes": "Destination remains marketed as a carefree beach escape despite ongoing environmental remediation efforts."
       },
-      "media_pressure_level": null,
-      "ngo_pressure_level": null,
-      "tourism_dependency_level": "high",
+      "media_pressure_level": "Mid",
+      "ngo_pressure_level": "Mid",
+      "tourism_dependency_level": "High",
       "ngos_involved_count": null,
       "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
-        "sources_overview": []
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained.",
+        "sources_overview": [
+          {
+            "title": "The Dominican Republic embraces sustainable tourism",
+            "url": "https://www.unep.org/news-and-stories/story/dominican-republic-embraces-sustainable-tourism",
+            "source_type": "un_agency_story"
+          },
+          {
+            "title": "Impact of tourism in Punta Cana: sustainability and environment",
+            "url": "https://novalproperties.com/en/blog/impact-tourism-punta-cana",
+            "source_type": "sector_analysis"
+          },
+          {
+            "title": "Puntacana Ecological Foundation – Sustainable development",
+            "url": "https://www.puntacana.com/en/about/sustainable-development",
+            "source_type": "ngo_or_local_initiative"
+          }
+        ]
       }
     },
     {
@@ -472,29 +759,51 @@
         "candidate_for_main_dataset": false
       },
       "research_window": {
-        "from_year": null,
-        "to_year": null
+        "from_year": 2000,
+        "to_year": 2025
       },
       "issues": {
-        "tags": [],
-        "comment": "To be coded based on detailed overtourism discourse research for this destination."
+        "tags": [
+          "high_carbon_footprint",
+          "water_and_energy_intensity",
+          "mega_project_resource_use",
+          "urban_heat_island",
+          "coastal_and_desert_ecosystem_pressure"
+        ],
+        "comment": "Dubai’s tourism growth is anchored in aviation and large‑scale real‑estate and entertainment projects, raising questions about carbon emissions and resource use in an arid environment."
       },
       "awareness_assessment": {
-        "awareness_level": null,
-        "conflict_intensity": null,
-        "policy_response_level": null,
-        "assessment_basis": null,
-        "notes": "Placeholder; requires qualitative coding."
+        "awareness_level": "medium",
+        "conflict_intensity": "low",
+        "policy_response_level": "high",
+        "assessment_basis": "City and federal authorities actively frame Dubai as a sustainable tourism hub, while independent analyses underline the scale of emissions and resource demands.",
+        "notes": "Overtourism discourse is less about local crowding and more about global climate and sustainability responsibilities of mega‑destinations."
       },
-      "media_pressure_level": null,
-      "ngo_pressure_level": null,
-      "tourism_dependency_level": "high",
+      "media_pressure_level": "Mid",
+      "ngo_pressure_level": "Low",
+      "tourism_dependency_level": "High",
       "ngos_involved_count": null,
       "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
-        "sources_overview": []
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained.",
+        "sources_overview": [
+          {
+            "title": "Dubai Sustainability Report 2024",
+            "url": "https://www.dubaidet.gov.ae/en/-/media/files/faqs/sustainability-report/dubai-sustainability-report-2024.pdf",
+            "source_type": "official_report"
+          },
+          {
+            "title": "Dubai eco‑tourism – building a greener travel future",
+            "url": "https://www.uaevisa.ae/news/dubai-eco-tourism-building-greener-travel-future",
+            "source_type": "sector_analysis"
+          },
+          {
+            "title": "Dubai’s tourism boom: environmental costs and conservation challenges",
+            "url": "https://shunwaste.com/article/how-does-tourism-in-dubai-impact-on-the-natural-environment",
+            "source_type": "analysis_article"
+          }
+        ]
       }
     },
     {
@@ -507,29 +816,50 @@
         "candidate_for_main_dataset": false
       },
       "research_window": {
-        "from_year": null,
-        "to_year": null
+        "from_year": 2005,
+        "to_year": 2025
       },
       "issues": {
-        "tags": [],
-        "comment": "To be coded based on detailed overtourism discourse research for this destination."
+        "tags": [
+          "coastal_urban_development",
+          "mangrove_ecosystem_pressure",
+          "cultural_district_tourism_growth",
+          "water_and_energy_use"
+        ],
+        "comment": "Saadiyat Island’s museums and beach resorts are turning Abu Dhabi into a major cultural‑coastal destination; conservation efforts for mangroves coexist with intensive real‑estate and tourism projects."
       },
       "awareness_assessment": {
-        "awareness_level": null,
-        "conflict_intensity": null,
-        "policy_response_level": null,
-        "assessment_basis": null,
-        "notes": "Placeholder; requires qualitative coding."
+        "awareness_level": "low",
+        "conflict_intensity": "low",
+        "policy_response_level": "medium",
+        "assessment_basis": "Destination marketing emphasises culture and sustainability; critical debate on tourism‑related ecological pressure is limited and often embedded in broader urban development discussions.",
+        "notes": "Overtourism risks are forward‑looking, linked to expected visitor growth once the cultural district is fully complete."
       },
-      "media_pressure_level": null,
-      "ngo_pressure_level": null,
-      "tourism_dependency_level": "medium",
+      "media_pressure_level": "Low",
+      "ngo_pressure_level": "Low",
+      "tourism_dependency_level": "Mid",
       "ngos_involved_count": null,
       "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
-        "sources_overview": []
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained.",
+        "sources_overview": [
+          {
+            "title": "Saadiyat Cultural District Abu Dhabi",
+            "url": "https://scdabudhabi.ae/en",
+            "source_type": "official_site"
+          },
+          {
+            "title": "Saadiyat Island to welcome new cultural and eco‑tourism projects",
+            "url": "https://uaestories.com/saadiyat-island-to-welcome-new-cultural-and/",
+            "source_type": "news_article"
+          },
+          {
+            "title": "Saadiyat Cultural District to be completed this year: here’s what it will be like",
+            "url": "https://whatson.ae/2025/01/saadiyat-cultural-district-to-be-completed-by-2025-heres-what-it-will-be-like/",
+            "source_type": "news_article"
+          }
+        ]
       }
     },
     {
@@ -542,29 +872,51 @@
         "candidate_for_main_dataset": false
       },
       "research_window": {
-        "from_year": null,
-        "to_year": null
+        "from_year": 2010,
+        "to_year": 2025
       },
       "issues": {
-        "tags": [],
-        "comment": "To be coded based on detailed overtourism discourse research for this destination."
+        "tags": [
+          "mass_tourism_all_inclusive_resorts",
+          "coastal_urbanisation",
+          "sargassum_crisis",
+          "coral_and_seagrass_impacts",
+          "water_and_energy_use"
+        ],
+        "comment": "Cancún and the Riviera Maya are emblematic mass‑tourism coastlines; hotel corridors, cruise arrivals and record sargassum blooms stress beaches, reefs and local infrastructure."
       },
       "awareness_assessment": {
-        "awareness_level": null,
-        "conflict_intensity": null,
-        "policy_response_level": null,
-        "assessment_basis": null,
-        "notes": "Placeholder; requires qualitative coding."
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "medium",
+        "assessment_basis": "Tourism and environmental media track record sargassum influxes and their economic costs; regional authorities coordinate clean‑up and monitoring but development pace remains high.",
+        "notes": "Destination illustrates climate‑linked environmental shocks intersecting with a highly tourism‑dependent regional economy."
       },
-      "media_pressure_level": null,
-      "ngo_pressure_level": null,
-      "tourism_dependency_level": "high",
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "Mid",
+      "tourism_dependency_level": "Very High",
       "ngos_involved_count": null,
       "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
-        "sources_overview": []
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained.",
+        "sources_overview": [
+          {
+            "title": "Mexican beaches overwhelmed by the worst sargassum arrival ever",
+            "url": "https://www.travelinglifestyle.net/mexican-beaches-overwhelmed-by-the-worst-sargassum-arrival-ever/",
+            "source_type": "news_article"
+          },
+          {
+            "title": "Forecast Sargassum Seaweed – Riviera Maya, Mexico",
+            "url": "https://sargassummonitoring.com/en/forecast-sargassum-mexico-riviera-maya/",
+            "source_type": "monitoring_platform"
+          },
+          {
+            "title": "Mexican beaches struggle as record seaweed belts hit Caribbean",
+            "url": "https://apnews.com/article/3a4e46bcc179ae05195440c0510da545",
+            "source_type": "news_article"
+          }
+        ]
       }
     },
     {
@@ -662,7 +1014,7 @@
         "notes": "Island-wide closure, legal cases against local officials, extensive national and international media coverage."
       },
       "media_pressure_level": "Extreme",
-      "ngo_pressure_level": "Medium",
+      "ngo_pressure_level": "Mid",
       "tourism_dependency_level": "High",
       "ngos_involved_count": null,
       "statement_ids": [
@@ -725,7 +1077,7 @@
         "notes": "Large demonstrations in Palma de Mallorca and broader regional debate on the tourism model."
       },
       "media_pressure_level": "High",
-      "ngo_pressure_level": "Medium",
+      "ngo_pressure_level": "Mid",
       "tourism_dependency_level": "High",
       "ngos_involved_count": null,
       "statement_ids": [
@@ -780,7 +1132,7 @@
         "assessment_basis": "interpretative_synthesis_from_cited_sources",
         "notes": "Local officials and conservationists publicly warn about carrying capacity and threats to heritage."
       },
-      "media_pressure_level": "Medium",
+      "media_pressure_level": "Mid",
       "ngo_pressure_level": "Low",
       "tourism_dependency_level": "Extreme",
       "ngos_involved_count": null,
@@ -839,7 +1191,7 @@
         "notes": "Environmental groups and residents publicly criticise inadequate sewage treatment and overdevelopment."
       },
       "media_pressure_level": "High",
-      "ngo_pressure_level": "Medium",
+      "ngo_pressure_level": "Mid",
       "tourism_dependency_level": "High",
       "ngos_involved_count": null,
       "statement_ids": [
