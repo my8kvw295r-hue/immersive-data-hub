@@ -143,7 +143,7 @@
           "boat_traffic_pressure",
           "iconic_site_closures"
         ],
-        "comment": "Mass tourism to Phi Phi and Maya Bay led to coral damage, shark disturbance and overcrowding, prompting multi‑year closure and strict new limits."
+        "comment": "Mass tourism to Phi Phi and Maya Bay led to coral damage, shark disturbance and overcrowding, prompting multi‑year closure and strict new limits. Additional reporting describes daily visitor peaks of several thousand people and hundreds of boats entering Maya Bay before 2018, causing severe coral damage and prompting a four-year closure for ecological rehabilitation. Since reopening, authorities enforce strict caps on visitor numbers, ban boats from entering the bay directly and schedule seasonal closures each year, yet pressure persists at other Phi Phi and Andaman sites as demand is displaced along the coast."
       },
       "awareness_assessment": {
         "awareness_level": "high",
@@ -155,11 +155,17 @@
       "media_pressure_level": "High",
       "ngo_pressure_level": "High",
       "tourism_dependency_level": "High",
-      "ngos_involved_count": null,
-      "statement_ids": [],
+      "ngos_involved_count": 3,
+      "statement_ids": [
+        "STM_0018",
+        "STM_0019",
+        "STM_0020",
+        "STM_0021",
+        "STM_0022"
+      ],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained.",
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained. Deep-dive enrichment for OTC_003 (Andaman coast / Phi Phi / Maya Bay): expanded sources, NGOs_involved_count, and issues.comment to reflect multi-year closure, strict visitor caps, annual eco-rest periods and ongoing displacement of pressure along the Andaman coast.",
         "sources_overview": [
           {
             "title": "Revenge Travel May Be a Big Problem for Thailand’s Maya Bay",
@@ -175,6 +181,36 @@
             "title": "Why Maya Bay was closed for restoration",
             "url": "https://www.loveandaman.com/beach-en/maya-bay-closed-restoration",
             "source_type": "tour_operator_explanation"
+          },
+          {
+            "title": "How Thailand’s Maya Bay cleaned up its act",
+            "url": "https://adventure.com/thailand-maya-bay-open-2022/",
+            "source_type": "feature_article"
+          },
+          {
+            "title": "Thailand: Recovery of Maya Bay shows signs of life",
+            "url": "https://asiamedia.lmu.edu/2022/02/25/thailand-recovery-of-maya-bay-shows-signs-of-life/",
+            "source_type": "news_article"
+          },
+          {
+            "title": "Facial recognition to help manage Maya Bay crowds",
+            "url": "https://www.bangkokpost.com/thailand/general/3071586/facial-recognition-to-help-manage-maya-bay-crowds",
+            "source_type": "news_article"
+          },
+          {
+            "title": "Coral and sharks back in Maya as scientists, locals restore ecosystem",
+            "url": "https://www.nationthailand.com/special-edition/sustainability/40035964",
+            "source_type": "news_article"
+          },
+          {
+            "title": "Overtourism in Thailand: Understanding its impacts and finding balance",
+            "url": "https://www.local-routes.com/post/overtourism-in-thailand-understanding-its-impacts-and-finding-balance",
+            "source_type": "blog_analysis"
+          },
+          {
+            "title": "Phi Phi in dire straits: Coral extinction, ‘overtourism’ threaten island sustainability",
+            "url": "https://www.thephuketnews.com/phi-phi-in-dire-straits-coral-extinction-overtourism-threaten-island-sustainability-55311.php",
+            "source_type": "local_news"
           }
         ]
       }
@@ -1596,6 +1632,96 @@
         "for_partnerships": false,
         "comment": "Residents affected by evictions and housing pressure as land is converted to luxury tourism and real-estate projects."
       }
+    },
+    {
+      "actor_id": "ACT_0018",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Department of National Parks, Wildlife and Plant Conservation (DNP)",
+      "actor_type": "national_park_authority",
+      "role_title": "Central agency responsible for national parks, including Hat Noppharat Thara–Mu Ko Phi Phi National Park",
+      "organisation": "Thai Ministry of Natural Resources and Environment",
+      "sector": "public",
+      "location": "Bangkok, Thailand",
+      "is_collective_actor": true,
+      "supervising_ministry": "Ministry of Natural Resources and Environment",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Leads on Maya Bay closures, visitor caps and new digital monitoring tools in the Phi Phi Islands."
+      }
+    },
+    {
+      "actor_id": "ACT_0019",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Hat Noppharat Thara–Mu Ko Phi Phi National Park Office",
+      "actor_type": "park_management_unit",
+      "role_title": "Local management authority for Phi Phi Islands marine national park",
+      "organisation": "Department of National Parks, Wildlife and Plant Conservation",
+      "sector": "public",
+      "location": "Krabi Province, Thailand",
+      "is_collective_actor": true,
+      "supervising_ministry": "Ministry of Natural Resources and Environment",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Implements visitor regulations, boat rules and seasonal closures at Maya Bay and nearby sites."
+      }
+    },
+    {
+      "actor_id": "ACT_0020",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Dr Thon Thamrongnawasawat",
+      "actor_type": "academic_researcher",
+      "role_title": "Marine biologist and advisor on marine conservation",
+      "organisation": "Kasetsart University",
+      "sector": "academic",
+      "location": "Bangkok, Thailand",
+      "is_collective_actor": false,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Prominent scientist tracking coral and shark recovery in Maya Bay and advising on tourism limits."
+      }
+    },
+    {
+      "actor_id": "ACT_0021",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Phi Phi Longtail Boat Cooperatives",
+      "actor_type": "tourism_operator_association",
+      "role_title": null,
+      "organisation": null,
+      "sector": "private",
+      "location": "Phi Phi Islands, Krabi Province, Thailand",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Local operators affected by boat bans inside Maya Bay and re-routing of tours to alternative sites."
+      }
+    },
+    {
+      "actor_id": "ACT_0022",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Tourism Authority of Thailand (TAT), Andaman office",
+      "actor_type": "tourism_board",
+      "role_title": "Regional office for Andaman coast destinations",
+      "organisation": "Tourism Authority of Thailand",
+      "sector": "public",
+      "location": "Phuket / Krabi, Thailand",
+      "is_collective_actor": true,
+      "supervising_ministry": "Ministry of Tourism and Sports",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Coordinates marketing and development plans for Phuket, Krabi and Phang Nga, balancing growth and sustainability narratives."
+      }
     }
   ],
   "statements": [
@@ -2449,6 +2575,245 @@
         ],
         "notes": "Can be turned into interactive scenarios where audiences explore different rules for beach access and their distributional impacts."
       }
+    },
+    {
+      "case_id": "OTC_003",
+      "actor_id": "ACT_0018",
+      "source": {
+        "source_id": "SRC_AND_S1",
+        "source_type": "news_article",
+        "title": "Thailand: Recovery of Maya Bay shows signs of life",
+        "url": "https://asiamedia.lmu.edu/2022/02/25/thailand-recovery-of-maya-bay-shows-signs-of-life/",
+        "publisher": "Asia Media / LMU",
+        "publication_date": "2022-02-25",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Officials from the Department of National Parks explain that Maya Bay was closed in mid-2018 after years of extreme overcrowding and coral damage, and that its reopening in 2022 comes with strict daily visitor limits and a ban on boats entering the bay to allow the ecosystem to recover.",
+      "content_coding": {
+        "primary_issues": [
+          "coral_degradation",
+          "carrying_capacity"
+        ],
+        "secondary_issues": [
+          "marine_ecosystem_damage"
+        ],
+        "problem_framing": "environmental_limits",
+        "attributed_causes": [
+          "unregulated mass tourism to Maya Bay",
+          "high-frequency boat traffic into the lagoon"
+        ],
+        "proposed_solutions": [
+          "long-term closure for ecological rehabilitation",
+          "strict daily visitor caps",
+          "permanent ban on boats entering the bay directly"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "balanced",
+        "tone": "explaining",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "carrying_capacity_explanation",
+          "before_after_ecosystem_visualisation"
+        ],
+        "notes": "Immersive content could show the contrast between pre-closure overcrowding and post-restoration conditions, supporting acceptance of strict limits."
+      },
+      "statement_id": "STM_0018"
+    },
+    {
+      "case_id": "OTC_003",
+      "actor_id": "ACT_0019",
+      "source": {
+        "source_id": "SRC_AND_S2",
+        "source_type": "news_article",
+        "title": "Facial recognition to help manage Maya Bay crowds",
+        "url": "https://www.bangkokpost.com/thailand/general/3071586/facial-recognition-to-help-manage-maya-bay-crowds",
+        "publisher": "Bangkok Post",
+        "publication_date": "2025-07-10",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Park managers describe a new facial-recognition ticketing system at Maya Bay designed to enforce visitor caps, ensure transparent fee collection and free rangers to focus on safety and environmental protection.",
+      "content_coding": {
+        "primary_issues": [
+          "visitor_management",
+          "governance"
+        ],
+        "secondary_issues": [
+          "data_and_privacy"
+        ],
+        "problem_framing": "management_innovation",
+        "attributed_causes": [
+          "need to reliably enforce visitor limits",
+          "previous difficulties monitoring actual numbers and revenues"
+        ],
+        "proposed_solutions": [
+          "digital ticketing and facial recognition for all visitors",
+          "real-time monitoring of numbers inside the bay"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "confident",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "data_driven_management_explanation"
+        ],
+        "notes": "Could be combined with immersive dashboards that visualise visitor flows and ecosystem stress for decision-makers."
+      },
+      "statement_id": "STM_0019"
+    },
+    {
+      "case_id": "OTC_003",
+      "actor_id": "ACT_0020",
+      "source": {
+        "source_id": "SRC_AND_S3",
+        "source_type": "news_article",
+        "title": "Coral and sharks back in Maya as scientists, locals restore ecosystem",
+        "url": "https://www.nationthailand.com/special-edition/sustainability/40035964",
+        "publisher": "Nation Thailand",
+        "publication_date": "2023-05-15",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Marine biologist Dr Thon highlights that blacktip reef sharks and corals have returned to Maya Bay after several years of closure and ongoing restrictions, stressing that the ecosystem is still fragile and that visitor limits must be strictly maintained.",
+      "content_coding": {
+        "primary_issues": [
+          "marine_ecosystem_recovery",
+          "coral_degradation"
+        ],
+        "secondary_issues": [
+          "climate_impact"
+        ],
+        "problem_framing": "ecological_recovery",
+        "attributed_causes": [
+          "temporary closure of the bay",
+          "reduced boat traffic and better mooring practices"
+        ],
+        "proposed_solutions": [
+          "maintaining strict visitor caps",
+          "continued seasonal closures for rest periods"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "cautiously_supportive",
+        "tone": "cautious",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "ecosystem_recovery_story",
+          "science_communication"
+        ],
+        "notes": "Good basis for a science-led immersive narrative showing how recovery unfolded and why limits must stay in place."
+      },
+      "statement_id": "STM_0020"
+    },
+    {
+      "case_id": "OTC_003",
+      "actor_id": "ACT_0021",
+      "source": {
+        "source_id": "SRC_AND_S4",
+        "source_type": "local_news",
+        "title": "Phi Phi in dire straits: Coral extinction, ‘overtourism’ threaten island sustainability",
+        "url": "https://www.thephuketnews.com/phi-phi-in-dire-straits-coral-extinction-overtourism-threaten-island-sustainability-55311.php",
+        "publisher": "The Phuket News",
+        "publication_date": "2015-11-21",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Local boat operators acknowledge that mass tourism has damaged corals around Phi Phi but emphasise that thousands of livelihoods depend on island tours, expressing concern that stricter rules at Maya Bay push them to other crowded spots with limited guidance.",
+      "content_coding": {
+        "primary_issues": [
+          "tourism_dependency",
+          "marine_ecosystem_damage"
+        ],
+        "secondary_issues": [
+          "economic_vulnerability"
+        ],
+        "problem_framing": "livelihood_vs_conservation_trap",
+        "attributed_causes": [
+          "heavy dependence on day-trip tourism",
+          "lack of diversified income sources for local operators"
+        ],
+        "proposed_solutions": [
+          "clear zoning and guidance for alternative low-impact routes",
+          "support for operators to adopt more ecological practices"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "equitable_transition",
+          "alternative_itineraries"
+        ],
+        "notes": "Immersive tools could help design and communicate new tour routes that spread income while reducing pressure on the most fragile sites."
+      },
+      "statement_id": "STM_0021"
+    },
+    {
+      "case_id": "OTC_003",
+      "actor_id": "ACT_0022",
+      "source": {
+        "source_id": "SRC_AND_S5",
+        "source_type": "industry_media",
+        "title": "TAT reviews tourist development plans of Andaman coast",
+        "url": "https://www.krabivillas.com/en/blog/tat-reviews-tourist-development-plans-of-andaman-coast",
+        "publisher": "Krabi Riviera / TAT briefing",
+        "publication_date": "2016-06-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "At a regional meeting, the Tourism Authority of Thailand and local operators discuss boosting visitor numbers along the Andaman coast while also recognising the need to address environmental issues and infrastructure constraints in Phuket, Krabi and Phang Nga.",
+      "content_coding": {
+        "primary_issues": [
+          "tourism_dependency",
+          "governance"
+        ],
+        "secondary_issues": [
+          "infrastructure_strain"
+        ],
+        "problem_framing": "growth_with_constraints",
+        "attributed_causes": [
+          "strong national push to grow tourism revenues",
+          "limited coordination across destinations on carrying capacity"
+        ],
+        "proposed_solutions": [
+          "regional planning for tourism corridors",
+          "investments in infrastructure with environmental safeguards"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "strategic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "regional_planning_support"
+        ],
+        "notes": "Immersive scenarios could support corridor-level planning, showing how visitor flows shift between Phuket, Krabi, Phi Phi and Phang Nga."
+      },
+      "statement_id": "STM_0022"
     }
   ]
 }
