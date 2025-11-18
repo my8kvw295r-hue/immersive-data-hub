@@ -23,6 +23,8 @@ Each project entry includes:
 * project goals (flow redirection, behaviour change, substitution, etc.),
 * methods (routing, priming, temporal redistribution, narrative interventions),
 * media formats (fulldome, VR, AR, projection, digital twin),
+* intervention archetypes (high-level classification of the gateway’s primary intervention logic, e.g. behaviour_priming_gateway, immersive_substitution_hub),
+* problem-fit tags (list of overtourism problem-types the project is intended to address, aligned with the Overtourism N+1 issue-tag taxonomy),
 * commissioning authority and, where documented, the responsible manager/contact at the authority,
 * production entities (producers, operators, creators, directors),
 * capacity data, visitor metrics, duration, budget (when available),
@@ -32,6 +34,16 @@ Each project entry includes:
 * source links for every data point.
 
 Unknown fields remain empty until reliable sources are found.
+
+## Intervention Archetypes and Problem Fit
+
+To make the dataset interoperable with the Overtourism N+1 dataset, each project can be annotated with:
+
+* one or more **intervention archetypes** (behaviour_priming_gateway, immersive_substitution_hub, logistics_flow_hub, emotional_peak_gateway, intro_context_gateway), and
+* a set of **problem-fit tags** that mirror the overtourism problem-types (e.g. water_stress, infrastructure_overload, plastic_pollution, housing_pressure, governance_lag).
+
+This makes it possible to analyse which gateway logics are used for specific overtourism problem clusters and where immersive interventions are still missing.
+
 
 ## ID Convention
 
