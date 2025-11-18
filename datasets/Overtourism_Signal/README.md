@@ -1,205 +1,94 @@
-# Overtourism n+1 Dataset – README
+## Immersive Tourist Flow Gateways
 
-This repository contains the **Overtourism n+1 Dataset**, a global qualitative discourse and stakeholder layer designed to complement the structural core dataset **Immersive_Destination_Analysis (n)**.
+This dataset documents global projects that use immersive media to guide, redirect, modulate, or replace tourist flows. It focuses on gateway infrastructures such as airports, marinas, mobility hubs, visitor centres, and virtual pre-visit layers designed to influence behaviour before guests enter sensitive environments.
 
-The n+1 dataset focuses exclusively on **documented overtourism discourse**, including conflicts, governance responses, NGO activity, stakeholder perspectives, and media pressure.
-
----
+The dataset is based on the methodology defined in *Immersive Tourist Flow Gateways Methodology* and on the conceptual framework described in the article [“Origins of Wonder – An Immersive Impact Investment”](https://martin-sambauer.com/origins-of-wonder-an-immersive-impact-investment/).
 
 ## Purpose
 
-The dataset enables:
+The dataset enables systematic comparison of immersive flow-navigation strategies. It supports:
 
-* analysis of overtourism discourse across destinations
-* identification of key actors and institutions
-* mapping of NGO involvement and pressure
-* assessment of media visibility and conflict intensity
-* evaluation of tourism dependency levels
-* discovery of intervention opportunities for immersive communication
-* support for impact‑driven destination stewardship strategies
+* understanding how immersive storytelling influences visitor behaviour,
+* identifying techniques that redirect flows to alternative attractions,
+* mapping methods used to shift activity into different timeslots,
+* analysing projects that replace fragile physical visits with immersive substitutes,
+* tracking conservation-driven visitor guidance systems across the world.
 
-The dataset is **not globally representative**. It is intentionally biased toward destinations where overtourism is explicitly discussed in public sources.
+## What the Dataset Contains
 
----
+Each project entry includes:
 
-## Data File
+* project_id (ascending internal identifier in the form ITFG_0001, ITFG_0002, … stored as a string),
+* gateway type (airport, marina, urban, ecological, virtual),
+* project goals (flow redirection, behaviour change, substitution, etc.),
+* methods (routing, priming, temporal redistribution, narrative interventions),
+* media formats (fulldome, VR, AR, projection, digital twin),
+* intervention archetypes (high-level classification of the gateway’s primary intervention logic, e.g. behaviour_priming_gateway, immersive_substitution_hub),
+* problem-fit tags (list of overtourism problem-types the project is intended to address, aligned with the Overtourism N+1 issue-tag taxonomy),
+* commissioning authority and, where documented, the responsible manager/contact at the authority,
+* production entities (producers, operators, creators, directors),
+* capacity data, visitor metrics, duration, budget (when available),
+* sustainability context (biodiversity, emissions, ecological standards),
+* measurable effects and available effectiveness studies,
+* timestamped verification fields,
+* source links for every data point.
 
-Primary dataset file:
+Unknown fields remain empty until reliable sources are found.
 
-**Overtourism_Signal.json**
+## Intervention Archetypes and Problem Fit
 
-This file contains three collections:
+To make the dataset interoperable with the Overtourism N+1 dataset, each project can be annotated with:
 
-* `cases`
-* `actors`
-* `statements`
+* one or more **intervention archetypes** (behaviour_priming_gateway, immersive_substitution_hub, logistics_flow_hub, emotional_peak_gateway, intro_context_gateway), and
+* a set of **problem-fit tags** that mirror the overtourism problem-types (e.g. water_stress, infrastructure_overload, plastic_pollution, housing_pressure, governance_lag).
 
-together representing the full overtourism discourse for each destination.
-
----
-
-## Structure Overview
-
-### 1. Cases
-
-Each Case corresponds to one destination and includes:
-
-* destination linkage (to n dataset when available)
-* issues and conflict fields
-* awareness and policy response levels
-* NGO pressure level
-* media pressure level
-* tourism dependency category
-* research window
-* associated statement IDs
-* meta information and key sources
-
-### 2. Actors
-
-Actors include individuals and organisations such as:
-
-* government representatives
-* destination managers and sustainability managers
-* NGOs
-* residents and activist groups
-* tourism businesses and operators
-* researchers and experts
-
-Institutional metadata may include supervising ministries, budgets (if documented), and timestamps.
-
-### 3. Statements
-
-Statements represent individual contributions to the discourse and include:
-
-* source metadata (title, URL, publisher, dates)
-* quote (if permissible)
-* English paraphrase
-* issue coding, problem framing, proposed solutions
-* stance, tone and calls for action
-* relevance for immersive interventions
-
----
-
-## Taxonomies
-
-The dataset uses controlled vocabulary for:
-
-* media pressure (None, Low, Mid, High, Extreme)
-* NGO pressure (None, Low, Mid, High, Extreme)
-* tourism dependency (Low to Extreme)
-* issue tags, used as problem‑type codes at Case and Statement level. Recommended tags include:
-
-  * `crowding`
-  * `heritage_damage`
-  * `housing_pressure`
-  * `cruise_tourism`
-  * `water_stress`
-  * `waste_management`
-  * `traffic_congestion`
-  * `noise`
-  * `price_pressure`
-  * `safety_and_security`
-  * `climate_impact`
-  * `infrastructure_overload`
-  * `plastic_pollution`
-  * `ecosystem_stress`
-  * `biodiversity_loss`
-  * `social_conflict_protests`
-  * `ngo_pressure`
-  * `governance_lag`
-  * `cultural_erosion`
+This makes it possible to analyse which gateway logics are used for specific overtourism problem clusters and where immersive interventions are still missing.
 
 
----
+## ID Convention
 
-## Research and Source Requirements
+project_id is an internal ascending identifier for each project, formatted as ITFG_ followed by four digits, for example:
 
-All content must be based strictly on **real, verifiable sources**.
-No fabricated actors, quotes, NGOs, documents or issues are permitted.
+* ITFG_0001
+* ITFG_0002
+* ITFG_0003
 
-Sources include:
+Core rules:
 
-* local and national media
-* academic papers
-* NGO reports
-* government documents
-* identifiable social media statements
+* Unique: every project receives a unique ID.
+* Ascending: new projects get the next available number (ITFG_0004, ITFG_0005, …).
+* Never reused: IDs of removed projects stay retired.
+* Stored as string: in JSON and CSV the ID is always stored as a string, preserving leading zeros.
 
-Every statement must have a complete source object with access timestamp.
+All semantic information about a project (name, location, media formats, gateway type, etc.) is kept in the other fields such as project_name and country.
 
----
+## Philosophy
 
-## Interoperability with the Core Dataset (n)
+The dataset assumes that immersive gateways are not entertainment add-ons but behavioural and infrastructural tools. They can:
 
-When destinations exist in **Immersive_Destination_Analysis**, Cases reference them via:
+* shift desire away from high-impact zones,
+* set expectations at arrival,
+* function as ecological filters,
+* relocate emotional peaks to controlled environments,
+* prepare visitors for sensitive ecosystems using narrative priming.
 
-* `destination_ref.destination_id`
-* `destination_ref.destination_name`
-* `in_main_dataset = true`
+This perspective follows the argumentation in the *Origins of Wonder* article: immersive experiences can decouple emotion from footprint and thereby support sustainable destination management.
 
-External enrichment destinations use:
+## File Structure
 
-* `destination_id = null`
-* `in_main_dataset = false`
-* optional `candidate_for_main_dataset = true`
+* data/ — JSON and CSV versions of the dataset
+* methodology.md — detailed research and classification method
+* README.md — this document
+* schema.json — JSON schema definition for a single project entry
 
-Core dataset links:
+## Reliability
 
-Repo: [https://github.com/martin-sambauer/immersive-datasets/tree/main/datasets/Immersive_Destination_Analysis](https://github.com/martin-sambauer/immersive-datasets/tree/main/datasets/Immersive_Destination_Analysis)
-Raw Data: [https://raw.githubusercontent.com/martin-sambauer/immersive-datasets/main/datasets/Immersive_Destination_Analysis/Immersive_Destination_Analysis.json](https://raw.githubusercontent.com/martin-sambauer/immersive-datasets/main/datasets/Immersive_Destination_Analysis/Immersive_Destination_Analysis.json)
-Data File: [https://github.com/martin-sambauer/immersive-datasets/blob/main/datasets/Immersive_Destination_Analysis/Immersive_Destination_Analysis.json](https://github.com/martin-sambauer/immersive-datasets/blob/main/datasets/Immersive_Destination_Analysis/Immersive_Destination_Analysis.json)
-README.md: [https://github.com/martin-sambauer/immersive-datasets/blob/main/datasets/Immersive_Destination_Analysis/README.md](https://github.com/martin-sambauer/immersive-datasets/blob/main/datasets/Immersive_Destination_Analysis/README.md)
-Methodology.md: [https://github.com/martin-sambauer/immersive-datasets/blob/main/datasets/Immersive_Destination_Analysis/methodology.md](https://github.com/martin-sambauer/immersive-datasets/blob/main/datasets/Immersive_Destination_Analysis/methodology.md)
-Schema.json: [https://github.com/martin-sambauer/immersive-datasets/blob/main/datasets/Immersive_Destination_Analysis/schema.json](https://github.com/martin-sambauer/immersive-datasets/blob/main/datasets/Immersive_Destination_Analysis/schema.json)
-
----
-
-## Schema
-
-The exact structure is defined in:
-
-**schema.json**
-
-This schema ensures:
-
-* consistency across Cases, Actors, and Statements
-* correct typing
-* completeness of required fields
-* enforcement of taxonomies and controlled lists
-
----
-
-## Versioning
-
-Current dataset version:
-
-`MARTIN_SAMBAUER_OVERTOURISM_NPLUS1_V1`
-
-Future releases may extend actor typologies, add new cases, refine taxonomies, or introduce additional collections for complex source management.
-
----
-
-## Article
-
-Background and conceptual foundation for this dataset are described here:
-
-[https://martin-sambauer.com/origins-of-wonder-an-immersive-impact-investment/](https://martin-sambauer.com/origins-of-wonder-an-immersive-impact-investment/)
-
-### Conceptual Synopsis
-
-The article outlines how immersive media can serve as a strategic response to overtourism pressures by shifting visitor behaviour, redistributing flows, and strengthening local stewardship. It introduces the idea that destinations under pressure require new forms of communication capable of conveying complexity, emotional resonance, and carrying-capacity awareness. This forms the philosophical basis for the n+1 dataset: overtourism discourse reveals where immersive interventions could support sustainable tourism futures.
-
----
+* No hallucinated data
+* Every field must be backed by verifiable non-AI sources
+* Timestamped verification for transparency
+* Projects without evidence are not included
 
 ## Explore and Licensing
 
-Dataset background and conceptual foundations are described here:
-
-[https://martin-sambauer.com/origins-of-wonder-an-immersive-impact-investment/overtourism-signal](https://martin-sambauer.com/origins-of-wonder-an-immersive-impact-investment/overtourism-signal)
-
----
-
-## Explore and Licensing
-
-Explore: repository folder · JSON · article with insights
-Licensing: CC BY 4.0 · © Martin Sambauer · martin-sambauer.com
+Explore. repository folder · JSON · article with insights
+Licensing. CC BY 4.0 · © Martin Sambauer · martin-sambauer.com
