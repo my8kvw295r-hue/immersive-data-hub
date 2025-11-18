@@ -1829,6 +1829,313 @@
           }
         ]
       }
+    },
+    {
+      "case_id": "OTC_027",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "South Bali tourism belt (Canggu–Seminyak–Kuta–Ubud)",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": 2010,
+        "to_year": 2025
+      },
+      "issues": {
+        "tags": [
+          "overtourism_general",
+          "infrastructure_strain",
+          "waste_management",
+          "water_stress",
+          "housing_pressure",
+          "cultural_change"
+        ],
+        "comment": " South Bali – particularly the corridor linking Canggu, Seminyak, Kuta and parts of Denpasar, as well as the inland hub Ubud – has become emblematic of concentrated overtourism. Chronic traffic congestion, overloaded waste and wastewater systems, land conversion from rice paddies to villas, and rapidly rising housing costs are documented alongside water shortages and beach pollution. National and provincial authorities have discussed tourist behaviour rules, new taxes and a strategic shift towards distributing visitors to less-saturated regions, but implementation remains partial."
+      },
+      "awareness_assessment": {
+        "awareness_level": "high",
+        "conflict_intensity": "high",
+        "policy_response_level": "mid",
+        "assessment_basis": "High national and international media attention, policy speeches and local campaigns framing South Bali as a tipping-point case for overtourism in Indonesia.",
+        "notes": "The case connects global overtourism debates with climate-related flooding, waste crises and social tensions between local residents, long-term expats and short-stay visitors."
+      },
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "Mid",
+      "tourism_dependency_level": "Very High",
+      "ngos_involved_count": 3,
+      "statement_ids": [
+        "STM_0083",
+        "STM_0084",
+        "STM_0085"
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": " Deep-dive creation of OTC_027 (South Bali tourism belt) based on recent coverage of traffic, waste and water crises, behaviour rules and tourism concentration in Canggu/Seminyak/Ubud.",
+        "sources_overview": [
+          {
+            "title": "Bali’s overtourism challenge: waste, misused permits and the future of investment",
+            "url": "https://baliwide.com/balis-overtourism-challenge-waste-misused-permits-and-the-future-of-real-estate-investment/",
+            "source_type": "analysis_article"
+          },
+          {
+            "title": "Bali on the brink: exploring the crisis of over tourism in paradise",
+            "url": "https://balithisweek.net/bali-on-the-brink-exploring-the-crisis-of-over-tourism-in-paradise-and-the-urgent-call-for-sustainable-solutions/",
+            "source_type": "feature_article"
+          },
+          {
+            "title": "The global problem of over tourism, and why Bali is at a tipping point",
+            "url": "https://www.thejakartapost.com/opinion/2025/06/25/the-global-problem-of-over-tourism-and-why-bali-is-at-a-tipping-point.html",
+            "source_type": "opinion_article"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "OTC_028",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Amsterdam city centre and canals",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": 2010,
+        "to_year": 2025
+      },
+      "issues": {
+        "tags": [
+          "overtourism_general",
+          "housing_pressure",
+          "party_tourism",
+          "cruise_ship_pressure",
+          "short_term_rentals",
+          "nuisance_tourism"
+        ],
+        "comment": " Amsterdam faces a combination of party tourism, high visitor numbers in the historic centre, short-term rental growth and cruise traffic on top of an acute housing shortage. Policies such as the ‘Stay Away’ campaign targeting nuisance tourists, higher tourist taxes, limits on short-term rentals and a phased ban on sea cruise ships stopping at the city centre are part of a broader attempt to rebalance liveability and tourism revenues."
+      },
+      "awareness_assessment": {
+        "awareness_level": "high",
+        "conflict_intensity": "high",
+        "policy_response_level": "high",
+        "assessment_basis": "Amsterdam is frequently cited in European debates on overtourism, with city council decisions on cruise bans, red-light district reforms and nuisance controls receiving extensive media coverage.",
+        "notes": "The case links tourism management to wider issues of urban justice, climate targets and the right to housing in a popular European capital."
+      },
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "Mid",
+      "tourism_dependency_level": "High",
+      "ngos_involved_count": 2,
+      "statement_ids": [
+        "STM_0086",
+        "STM_0087",
+        "STM_0088"
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": " Deep-dive creation of OTC_028 (Amsterdam city centre) focusing on cruise bans, party tourism controls, housing pressure and tourist taxes.",
+        "sources_overview": [
+          {
+            "title": "Amsterdam to ban cruise ships from 2035 to fight overtourism",
+            "url": "https://www.schengenvisainfo.com/news/amsterdam-to-ban-cruise-ships-from-2035-to-fight-overtourism/",
+            "source_type": "news_article"
+          },
+          {
+            "title": "Amsterdam sets sights on cruisers: crucial ban set for 2035",
+            "url": "https://www.thetravel.com/amsterdam-sets-sights-on-cruisers-crucial-ban-set-for-2035/",
+            "source_type": "feature_article"
+          },
+          {
+            "title": "Europe’s new tourist rules: taxes, bans and limits explained",
+            "url": "https://transition-pathways.europa.eu/tourism/knowledge-documents/europes-new-tourist-rules-taxes-bans-and-limits-explained",
+            "source_type": "policy_overview"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "OTC_029",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Dubrovnik Old Town",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": 2010,
+        "to_year": 2025
+      },
+      "issues": {
+        "tags": [
+          "overtourism_general",
+          "cruise_ship_pressure",
+          "heritage_risk",
+          "game_of_thrones_tourism",
+          "day_tripper_pressure"
+        ],
+        "comment": " Dubrovnik’s walled Old Town has become a classic example of cruise-driven overtourism, amplified by its role as a filming location for Game of Thrones. Crowding from day-trippers, pressure on the city walls and limited economic benefits from cruise passengers have triggered management responses such as daily caps on visitors to the walls, a ‘special traffic regime’ and coordination with cruise lines to stagger arrivals."
+      },
+      "awareness_assessment": {
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "high",
+        "assessment_basis": "UNESCO attention, mayoral statements and international coverage of Game of Thrones tourism and cruise congestion frame Dubrovnik as a high-profile overtourism case.",
+        "notes": "The city is often referenced in policy debates about how to capture more value from cruise tourism while limiting social and environmental costs."
+      },
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "Mid",
+      "tourism_dependency_level": "High",
+      "ngos_involved_count": 2,
+      "statement_ids": [
+        "STM_0089",
+        "STM_0090",
+        "STM_0091"
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": " Deep-dive creation of OTC_029 (Dubrovnik Old Town) focusing on cruise congestion, Game of Thrones effects and new visitor caps for the city walls.",
+        "sources_overview": [
+          {
+            "title": "Overtourism in Dubrovnik",
+            "url": "https://www.responsibletravel.com/holidays/dubrovnik/travel-guide/overtourism-in-dubrovnik",
+            "source_type": "analysis_article"
+          },
+          {
+            "title": "Croatia’s ‘Game of Thrones’ town to limit tourist traffic in 2025",
+            "url": "https://skift.com/2024/10/01/croatias-game-of-thrones-town-to-limit-tourist-traffic-in-2025/",
+            "source_type": "news_article"
+          },
+          {
+            "title": "Mayor of Dubrovnik reveals crackdown on overtourism after Game of Thrones surge",
+            "url": "https://www.independent.co.uk/travel/news-and-advice/dubrovnik-overtourism-game-of-thrones-tourists-city-walls-book-advance-b2817848.html",
+            "source_type": "news_article"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "OTC_030",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Galápagos Islands",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": 2010,
+        "to_year": 2025
+      },
+      "issues": {
+        "tags": [
+          "overtourism_general",
+          "wildlife_disturbance",
+          "fragile_ecosystems",
+          "visitor_quota_systems",
+          "tourism_tax"
+        ],
+        "comment": " The Galápagos Islands are a flagship case of conservation-oriented tourism. Visitor numbers, while modest in absolute terms, exert strong pressure on fragile ecosystems and local communities. Strict park rules, guided-only visits and designated routes are in place, and in 2024 the entry fee for most foreign visitors was doubled to US$200 to support conservation and deter some demand. Debates continue over whether current controls are sufficient to prevent long-term ecological damage and social conflicts."
+      },
+      "awareness_assessment": {
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "high",
+        "assessment_basis": "Global media, NGO campaigns and academic research highlight overtourism risks and the Galápagos as a high-stakes laboratory for regulating wildlife tourism.",
+        "notes": "The case is central for discussions about ‘last-chance tourism’ and the limits of market-based conservation funding models."
+      },
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "High",
+      "tourism_dependency_level": "High",
+      "ngos_involved_count": 3,
+      "statement_ids": [
+        "STM_0092",
+        "STM_0093",
+        "STM_0094"
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": " Deep-dive creation of OTC_030 (Galápagos Islands), emphasising fee hikes, visitor rules and concerns about long-term ecological and social impacts.",
+        "sources_overview": [
+          {
+            "title": "Galapagos Islands rules for visitors",
+            "url": "https://galapagosinsiders.com/travel-blog/galapagos-rules-visitors/",
+            "source_type": "visitor_information"
+          },
+          {
+            "title": "The Galapagos islands are cracking down on overtourism by doubling their entry fee",
+            "url": "https://www.euronews.com/travel/2024/03/19/the-galapagos-islands-are-cracking-down-on-overtourism-by-doubling-their-entry-fee",
+            "source_type": "news_article"
+          },
+          {
+            "title": "Why locals are concerned about tourism in the Galapagos Islands",
+            "url": "https://viatormundi.com/why-locals-are-concerned-about-tourism-in-the-galapagos-islands-ecuador/",
+            "source_type": "analysis_article"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "OTC_031",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Iceland South Coast and Golden Circle hotspots",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": 2010,
+        "to_year": 2025
+      },
+      "issues": {
+        "tags": [
+          "overtourism_general",
+          "infrastructure_strain",
+          "environmental_degradation",
+          "last_chance_tourism",
+          "seasonality"
+        ],
+        "comment": " Iceland’s tourism boom has been heavily concentrated along the South Coast and Golden Circle, where waterfalls, glaciers and geothermal sites attract the majority of visitors. Research and media reports highlight overuse of popular stops, pressure on small-town infrastructure, environmental damage to trails and ‘last-chance tourism’ dynamics around shrinking glaciers. Policy discussions focus on reintroducing tourist taxes, redistributing travel beyond the southwest and investing in facilities and nature protection."
+      },
+      "awareness_assessment": {
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "mid",
+        "assessment_basis": "Academic work, national policy debates and international coverage of overtourism in key Icelandic hotspots all point to high awareness of the issue.",
+        "notes": "The case illustrates how concentrated self-drive tourism and climate change combine to create hotspots of pressure in an otherwise sparsely populated country."
+      },
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "Mid",
+      "tourism_dependency_level": "High",
+      "ngos_involved_count": 2,
+      "statement_ids": [
+        "STM_0095",
+        "STM_0096",
+        "STM_0097"
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": " Deep-dive creation of OTC_031 (Iceland South Coast and Golden Circle), focusing on hotspot pressure, last-chance glacier tourism and redistribution debates.",
+        "sources_overview": [
+          {
+            "title": "Overtourism in Iceland",
+            "url": "https://www.responsibletravel.com/holidays/iceland/travel-guide/overtourism-in-iceland",
+            "source_type": "analysis_article"
+          },
+          {
+            "title": "Challenges of overtourism in coastal Iceland",
+            "url": "https://link.springer.com/chapter/10.1007/978-3-031-73187-7_12",
+            "source_type": "academic_chapter"
+          },
+          {
+            "title": "What can Iceland do to minimize the negative outcomes of tourism?",
+            "url": "https://tripjoy.fun/what-can-iceland-do-to-minimize-the-negative-outcomes-of-tourism/",
+            "source_type": "feature_article"
+          }
+        ]
+      }
     }
   ],
   "actors": [
@@ -3306,6 +3613,294 @@
         "for_interviews": true,
         "for_partnerships": true,
         "comment": "Companies organising wildlife-viewing tours and liveaboard trips within the park."
+      }
+    },
+    {
+      "actor_id": "ACT_0083",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Government of Indonesia – national tourism and coordinating ministries (Bali overtourism)",
+      "actor_type": "national_ministry",
+      "role_title": null,
+      "organisation": "Government of Indonesia",
+      "sector": "public",
+      "location": "Jakarta / Bali",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of Indonesia",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Sets national tourism policies, behaviour rules and taxes related to Bali’s overtourism challenge."
+      }
+    },
+    {
+      "actor_id": "ACT_0084",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Province of Bali – governor and provincial agencies",
+      "actor_type": "regional_government",
+      "role_title": null,
+      "organisation": "Provincial Government of Bali",
+      "sector": "public",
+      "location": "Denpasar, Bali, Indonesia",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of Indonesia",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Coordinates local implementation of waste, water and traffic management and tourism zoning."
+      }
+    },
+    {
+      "actor_id": "ACT_0085",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "South Bali residents and local movements against overtourism",
+      "actor_type": "community_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Canggu, Seminyak, Kuta, Denpasar and Ubud, Bali",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Local communities and groups such as ‘Bali is not for tourists’ or river clean-up initiatives voicing concerns about overtourism."
+      }
+    },
+    {
+      "actor_id": "ACT_0086",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Environmental NGOs and river-cleanup initiatives in Bali",
+      "actor_type": "ngo",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Bali, Indonesia",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Groups monitoring plastic waste, river health and coastal pollution, and advocating tighter regulations."
+      }
+    },
+    {
+      "actor_id": "ACT_0087",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "City of Amsterdam – municipal council and tourism portfolio",
+      "actor_type": "local_government",
+      "role_title": null,
+      "organisation": "Gemeente Amsterdam",
+      "sector": "public",
+      "location": "Amsterdam, Netherlands",
+      "is_collective_actor": true,
+      "supervising_ministry": "Dutch national government",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Leads policies on cruise bans, nuisance campaigns, tourist taxes and rental regulation."
+      }
+    },
+    {
+      "actor_id": "ACT_0088",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Amsterdam residents and neighbourhood groups in the inner city",
+      "actor_type": "community_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Amsterdam, Netherlands",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Residents concerned about noise, nuisance behaviour, rising rents and loss of local shops."
+      }
+    },
+    {
+      "actor_id": "ACT_0089",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Cruise industry and port authorities serving Amsterdam",
+      "actor_type": "tourism_business_association",
+      "role_title": null,
+      "organisation": null,
+      "sector": "private",
+      "location": "Amsterdam and IJmuiden, Netherlands",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Actors involved in shifting sea cruise calls away from the city centre terminal."
+      }
+    },
+    {
+      "actor_id": "ACT_0090",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "City of Dubrovnik – mayor and city council",
+      "actor_type": "local_government",
+      "role_title": null,
+      "organisation": "City of Dubrovnik",
+      "sector": "public",
+      "location": "Dubrovnik, Croatia",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of Croatia",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Implements visitor caps, traffic regimes and agreements with cruise lines."
+      }
+    },
+    {
+      "actor_id": "ACT_0091",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Cruise lines serving Dubrovnik and the Adriatic",
+      "actor_type": "tourism_business_association",
+      "role_title": null,
+      "organisation": null,
+      "sector": "private",
+      "location": "Adriatic Sea region",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Coordinate ship schedules with Dubrovnik authorities and respond to crowding concerns."
+      }
+    },
+    {
+      "actor_id": "ACT_0092",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Residents and small business owners in Dubrovnik Old Town",
+      "actor_type": "community_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Dubrovnik, Croatia",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Local population experiencing crowding, changes in retail mix and housing pressure from tourism."
+      }
+    },
+    {
+      "actor_id": "ACT_0093",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Galápagos National Park Directorate",
+      "actor_type": "protected_area_authority",
+      "role_title": null,
+      "organisation": "Galápagos National Park",
+      "sector": "public",
+      "location": "Galápagos Islands, Ecuador",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of Ecuador",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Administers visitor rules, quotas and conservation programmes in the archipelago."
+      }
+    },
+    {
+      "actor_id": "ACT_0094",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Residents and local business owners in the Galápagos Islands",
+      "actor_type": "community_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Galápagos Islands, Ecuador",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Communities balancing livelihoods linked to tourism with concerns about cost of living and ecosystem pressure."
+      }
+    },
+    {
+      "actor_id": "ACT_0095",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Conservation NGOs and research institutions in the Galápagos",
+      "actor_type": "ngo",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Ecuador and international",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Organisations monitoring species, invasive threats and tourism impacts, advocating for strict limits."
+      }
+    },
+    {
+      "actor_id": "ACT_0096",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Government of Iceland – ministries responsible for tourism and environment",
+      "actor_type": "national_ministry",
+      "role_title": null,
+      "organisation": "Government of Iceland",
+      "sector": "public",
+      "location": "Reykjavík, Iceland",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of Iceland",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Designs national tourism taxes, infrastructure support schemes and nature protection policies."
+      }
+    },
+    {
+      "actor_id": "ACT_0097",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Municipalities and communities along the South Coast and Golden Circle",
+      "actor_type": "community_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "South and Southwest Iceland",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Local authorities and residents dealing with traffic, waste and pressure on services from self-drive tourists."
+      }
+    },
+    {
+      "actor_id": "ACT_0098",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Tour guides and operators specialising in Iceland’s glacier and waterfall sites",
+      "actor_type": "tourism_business_association",
+      "role_title": null,
+      "organisation": null,
+      "sector": "private",
+      "location": "Iceland",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Businesses that both depend on and witness the pressure on iconic sites and glaciers."
       }
     }
   ],
@@ -7210,6 +7805,695 @@
           "stakeholder_dialogue"
         ],
         "notes": "Immersive participatory tools could explore fee and access scenarios with operators and communities."
+      }
+    },
+    {
+      "statement_id": "STM_0083",
+      "case_id": "OTC_027",
+      "actor_id": "ACT_0083",
+      "source": {
+        "source_id": "SRC_BAL_S1",
+        "source_type": "opinion_article",
+        "title": "The global problem of over tourism, and why Bali is at a tipping point",
+        "url": "https://www.thejakartapost.com/opinion/2025/06/25/the-global-problem-of-over-tourism-and-why-bali-is-at-a-tipping-point.html",
+        "publisher": "The Jakarta Post",
+        "publication_date": "2025-06-25",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "National officials warn that unchecked overtourism in Bali could lead to environmental collapse, water shortages and displacement of local residents, calling for stricter enforcement of building and permit rules.",
+      "content_coding": {
+        "primary_issues": [
+          "infrastructure_strain",
+          "environmental_degradation"
+        ],
+        "secondary_issues": [
+          "housing_pressure"
+        ],
+        "problem_framing": "tipping_point_scenario",
+        "attributed_causes": [
+          "concentration of tourism in South Bali",
+          "weak enforcement of spatial planning and permits"
+        ],
+        "proposed_solutions": [
+          "stronger enforcement and sanctions for illegal developments",
+          "redistribution of tourism to other regions of Bali"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_critical",
+        "tone": "alarmed",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "risk_visualisation"
+        ],
+        "notes": "Immersive scenarios could show future Bali under continued growth versus rebalanced tourism."
+      }
+    },
+    {
+      "statement_id": "STM_0084",
+      "case_id": "OTC_027",
+      "actor_id": "ACT_0085",
+      "source": {
+        "source_id": "SRC_BAL_S2",
+        "source_type": "feature_article",
+        "title": "Bali on the brink: exploring the crisis of over tourism in paradise",
+        "url": "https://balithisweek.net/bali-on-the-brink-exploring-the-crisis-of-over-tourism-in-paradise-and-the-urgent-call-for-sustainable-solutions/",
+        "publisher": "Bali This Week",
+        "publication_date": "2025-07-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Residents describe daily traffic jams, noise, overflowing trash and the loss of traditional landscapes as rice paddies are turned into villas, expressing frustration that Bali is becoming unaffordable for locals.",
+      "content_coding": {
+        "primary_issues": [
+          "infrastructure_strain",
+          "cultural_change"
+        ],
+        "secondary_issues": [
+          "housing_pressure"
+        ],
+        "problem_framing": "loss_of_liveability_and_identity",
+        "attributed_causes": [
+          "real-estate speculation targeting foreign visitors",
+          "policy preference for rapid tourism growth"
+        ],
+        "proposed_solutions": [
+          "limits on villa developments",
+          "policies that prioritise local housing needs"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "ambivalent",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "community_voice"
+        ],
+        "notes": "Immersive storytelling could communicate lived experiences of residents to national decision-makers."
+      }
+    },
+    {
+      "statement_id": "STM_0085",
+      "case_id": "OTC_027",
+      "actor_id": "ACT_0086",
+      "source": {
+        "source_id": "SRC_BAL_S3",
+        "source_type": "analysis_article",
+        "title": "Bali’s overtourism challenge: waste, misused permits and the future of investment",
+        "url": "https://baliwide.com/balis-overtourism-challenge-waste-misused-permits-and-the-future-of-real-estate-investment/",
+        "publisher": "Baliwide",
+        "publication_date": "2025-09-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Analysts and NGOs highlight escalating waste volumes, inadequate treatment plants and frequent flooding, arguing that environmental limits are already being breached in parts of South Bali.",
+      "content_coding": {
+        "primary_issues": [
+          "waste_management",
+          "water_stress"
+        ],
+        "secondary_issues": [
+          "environmental_degradation"
+        ],
+        "problem_framing": "breaching_ecological_thresholds",
+        "attributed_causes": [
+          "insufficient investment in waste and water infrastructure",
+          "uncontrolled construction in flood-prone areas"
+        ],
+        "proposed_solutions": [
+          "comprehensive waste and water management upgrades",
+          "moratoriums on new developments in critical zones"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "cautiously_supportive",
+        "tone": "critical",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "infrastructure_visualisation"
+        ],
+        "notes": "Immersive tools could make invisible waste and water flows tangible for investors and policymakers."
+      }
+    },
+    {
+      "statement_id": "STM_0086",
+      "case_id": "OTC_028",
+      "actor_id": "ACT_0087",
+      "source": {
+        "source_id": "SRC_AMS_S1",
+        "source_type": "news_article",
+        "title": "Amsterdam to ban cruise ships from 2035 to fight overtourism",
+        "url": "https://www.schengenvisainfo.com/news/amsterdam-to-ban-cruise-ships-from-2035-to-fight-overtourism/",
+        "publisher": "SchengenVisaInfo",
+        "publication_date": "2024-06-30",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Amsterdam’s city council approved plans to phase out sea cruise ships from its city-centre terminal by 2035, arguing that cruising is a polluting form of tourism that contributes to crowding and emissions.",
+      "content_coding": {
+        "primary_issues": [
+          "cruise_ship_pressure",
+          "environmental_degradation"
+        ],
+        "secondary_issues": [
+          "nuisance_tourism"
+        ],
+        "problem_framing": "cruise_as_high_impact_tourism",
+        "attributed_causes": [
+          "large ships entering a densely populated historic area"
+        ],
+        "proposed_solutions": [
+          "relocating or reducing cruise calls near the city centre"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_critical",
+        "tone": "assertive",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "scenario_visualisation"
+        ],
+        "notes": "Immersive models could compare crowding and emission scenarios with and without central cruise calls."
+      }
+    },
+    {
+      "statement_id": "STM_0087",
+      "case_id": "OTC_028",
+      "actor_id": "ACT_0088",
+      "source": {
+        "source_id": "SRC_AMS_S2",
+        "source_type": "feature_article",
+        "title": "Amsterdam sets sights on cruisers: crucial ban set for 2035",
+        "url": "https://www.thetravel.com/amsterdam-sets-sights-on-cruisers-crucial-ban-set-for-2035/",
+        "publisher": "TheTravel",
+        "publication_date": "2025-06-15",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Reporting links the cruise ban and nuisance-control campaigns to local demands for a city less dominated by stag parties, pub crawls and short-stay visitors.",
+      "content_coding": {
+        "primary_issues": [
+          "nuisance_tourism",
+          "housing_pressure"
+        ],
+        "secondary_issues": [
+          "cultural_change"
+        ],
+        "problem_framing": "protecting_quality_of_life",
+        "attributed_causes": [
+          "cheap party-focused tourism products",
+          "platform-driven growth of short-term rentals"
+        ],
+        "proposed_solutions": [
+          "targeted behaviour campaigns and enforcement",
+          "stricter rules on tourist rentals in core districts"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "critical",
+        "tone": "frustrated",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "community_voice"
+        ],
+        "notes": "Immersive narratives could contrast everyday life in residential streets with party-tourism imagery."
+      }
+    },
+    {
+      "statement_id": "STM_0088",
+      "case_id": "OTC_028",
+      "actor_id": "ACT_0087",
+      "source": {
+        "source_id": "SRC_AMS_S3",
+        "source_type": "policy_overview",
+        "title": "Europe’s new tourist rules: taxes, bans and limits explained",
+        "url": "https://transition-pathways.europa.eu/tourism/knowledge-documents/europes-new-tourist-rules-taxes-bans-and-limits-explained",
+        "publisher": "Transition Pathways / Euronews",
+        "publication_date": "2025-02-04",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Overviews of European measures highlight Amsterdam’s higher tourist taxes and restrictions as part of a wave of experiments to control overtourism while maintaining public revenues.",
+      "content_coding": {
+        "primary_issues": [
+          "tourism_tax",
+          "governance"
+        ],
+        "secondary_issues": [
+          "tourism_dependency"
+        ],
+        "problem_framing": "using_fiscal_tools_to_shape_tourism",
+        "attributed_causes": [
+          "unsustainable visitor pressure in central areas"
+        ],
+        "proposed_solutions": [
+          "higher tourist taxes targeting short-stay visitors"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_critical",
+        "tone": "policy_oriented",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "budget_visualisation"
+        ],
+        "notes": "Immersive dashboards could show how tourism tax income is used for housing and public services."
+      }
+    },
+    {
+      "statement_id": "STM_0089",
+      "case_id": "OTC_029",
+      "actor_id": "ACT_0090",
+      "source": {
+        "source_id": "SRC_DUB_S1",
+        "source_type": "news_article",
+        "title": "Mayor of Dubrovnik reveals crackdown on overtourism after Game of Thrones visitor surge",
+        "url": "https://www.independent.co.uk/travel/news-and-advice/dubrovnik-overtourism-game-of-thrones-tourists-city-walls-book-advance-b2817848.html",
+        "publisher": "The Independent",
+        "publication_date": "2025-09-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Dubrovnik’s mayor announced that from 2026, access to the city walls will require advance booking, as part of efforts to manage crowds following a post–Game of Thrones tourism boom.",
+      "content_coding": {
+        "primary_issues": [
+          "cruise_ship_pressure",
+          "crowding"
+        ],
+        "secondary_issues": [
+          "heritage_risk"
+        ],
+        "problem_framing": "protecting_heritage_from_tourism_spikes",
+        "attributed_causes": [
+          "large cruise ships and organised tours arriving at the same time",
+          "screen-induced popularity of the Old Town"
+        ],
+        "proposed_solutions": [
+          "advance booking systems for key attractions",
+          "coordination of cruise schedules with capacity limits"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_critical",
+        "tone": "pragmatic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "capacity_visualisation"
+        ],
+        "notes": "Immersive tools could simulate visitor flows along the walls under different booking regimes."
+      }
+    },
+    {
+      "statement_id": "STM_0090",
+      "case_id": "OTC_029",
+      "actor_id": "ACT_0091",
+      "source": {
+        "source_id": "SRC_DUB_S2",
+        "source_type": "analysis_article",
+        "title": "Overtourism in Dubrovnik",
+        "url": "https://www.responsibletravel.com/holidays/dubrovnik/travel-guide/overtourism-in-dubrovnik",
+        "publisher": "Responsible Travel",
+        "publication_date": "2023-01-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Cruise industry representatives cooperate with the city on slot allocations but critics note that high passenger volumes still arrive in short windows, with relatively limited local spending.",
+      "content_coding": {
+        "primary_issues": [
+          "cruise_ship_pressure",
+          "day_tripper_pressure"
+        ],
+        "secondary_issues": [
+          "tourism_reputation_risk"
+        ],
+        "problem_framing": "high_volume_low_spend_model",
+        "attributed_causes": [
+          "cruise itineraries designed around quick Old Town stops"
+        ],
+        "proposed_solutions": [
+          "tighter limits on simultaneous ship calls",
+          "incentives for longer, higher-value stays"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "analytical",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "economic_flow_visualisation"
+        ],
+        "notes": "Immersive data stories could illustrate the gap between crowding and local value capture."
+      }
+    },
+    {
+      "statement_id": "STM_0091",
+      "case_id": "OTC_029",
+      "actor_id": "ACT_0092",
+      "source": {
+        "source_id": "SRC_DUB_S3",
+        "source_type": "news_article",
+        "title": "Croatia’s ‘Game of Thrones’ town to limit tourist traffic in 2025",
+        "url": "https://skift.com/2024/10/01/croatias-game-of-thrones-town-to-limit-tourist-traffic-in-2025/",
+        "publisher": "Skift",
+        "publication_date": "2024-10-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Local voices express hope that new traffic regimes and controls on tour buses will reduce congestion within the Old Town, while still allowing tourism to support the economy.",
+      "content_coding": {
+        "primary_issues": [
+          "infrastructure_strain",
+          "crowding"
+        ],
+        "secondary_issues": [
+          "heritage_risk"
+        ],
+        "problem_framing": "seeking_livable_balance",
+        "attributed_causes": [
+          "concentration of visitors in narrow time windows and streets"
+        ],
+        "proposed_solutions": [
+          "traffic management zones and bus restrictions"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "ambivalent",
+        "tone": "cautiously_optimistic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "community_voice"
+        ],
+        "notes": "Immersive visualisations could help show residents and visitors the effects of new traffic regimes."
+      }
+    },
+    {
+      "statement_id": "STM_0092",
+      "case_id": "OTC_030",
+      "actor_id": "ACT_0093",
+      "source": {
+        "source_id": "SRC_GAL_S1",
+        "source_type": "news_article",
+        "title": "The Galapagos islands are cracking down on overtourism by doubling their entry fee",
+        "url": "https://www.euronews.com/travel/2024/03/19/the-galapagos-islands-are-cracking-down-on-overtourism-by-doubling-their-entry-fee",
+        "publisher": "Euronews Travel",
+        "publication_date": "2024-03-19",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Authorities decided to double the park entry fee from US$100 to US$200 for most foreign visitors, stating that the increase will help finance conservation and reduce pressure from low-budget, high-volume tourism.",
+      "content_coding": {
+        "primary_issues": [
+          "tourism_tax",
+          "wildlife_disturbance"
+        ],
+        "secondary_issues": [
+          "fragile_ecosystems"
+        ],
+        "problem_framing": "using_fees_to_control_volume_and_fund_conservation",
+        "attributed_causes": [
+          "rising visitor numbers post-pandemic"
+        ],
+        "proposed_solutions": [
+          "higher access fees to discourage some demand",
+          "earmarking revenues for conservation programmes"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_critical",
+        "tone": "pragmatic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "fee_impact_visualisation"
+        ],
+        "notes": "Immersive models could show how different fee levels influence visitor mix and conservation budgets."
+      }
+    },
+    {
+      "statement_id": "STM_0093",
+      "case_id": "OTC_030",
+      "actor_id": "ACT_0093",
+      "source": {
+        "source_id": "SRC_GAL_S2",
+        "source_type": "visitor_information",
+        "title": "Galapagos National Park rules for visitors",
+        "url": "https://galapagosinsiders.com/travel-blog/galapagos-rules-visitors/",
+        "publisher": "Galapagos Insiders",
+        "publication_date": "2023-01-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "The park rules state that visitors must be accompanied by licensed guides, stay on marked trails, avoid touching wildlife and adhere to strict rules on waste, food and distance to animals.",
+      "content_coding": {
+        "primary_issues": [
+          "wildlife_disturbance",
+          "visitor_quota_systems"
+        ],
+        "secondary_issues": [
+          "fragile_ecosystems"
+        ],
+        "problem_framing": "behavioural_controls_to_protect_wildlife",
+        "attributed_causes": [
+          "high sensitivity of endemic species to disturbance"
+        ],
+        "proposed_solutions": [
+          "guided-only visits and strict codes of conduct"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "instructive",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "visitor_education"
+        ],
+        "notes": "Pre-trip immersive briefings could explain the rules and ecological rationale to visitors."
+      }
+    },
+    {
+      "statement_id": "STM_0094",
+      "case_id": "OTC_030",
+      "actor_id": "ACT_0094",
+      "source": {
+        "source_id": "SRC_GAL_S3",
+        "source_type": "analysis_article",
+        "title": "Why locals are concerned about tourism in the Galapagos Islands",
+        "url": "https://viatormundi.com/why-locals-are-concerned-about-tourism-in-the-galapagos-islands-ecuador/",
+        "publisher": "Viatormundi",
+        "publication_date": "2024-01-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Local commentators note rising costs of living, pressure on limited infrastructure and concerns that tourism growth might undermine both ecosystems and the long-term wellbeing of island communities.",
+      "content_coding": {
+        "primary_issues": [
+          "fragile_ecosystems",
+          "livelihood_impacts"
+        ],
+        "secondary_issues": [
+          "tourism_dependency"
+        ],
+        "problem_framing": "trade_offs_between_income_and_ecosystem_health",
+        "attributed_causes": [
+          "rapid tourism expansion relative to local capacity"
+        ],
+        "proposed_solutions": [
+          "stronger limits and diversification of local economies"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "ambivalent",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "community_voice"
+        ],
+        "notes": "Immersive storytelling could centre local perspectives in global debates on Galápagos tourism."
+      }
+    },
+    {
+      "statement_id": "STM_0095",
+      "case_id": "OTC_031",
+      "actor_id": "ACT_0096",
+      "source": {
+        "source_id": "SRC_ICE_S1",
+        "source_type": "analysis_article",
+        "title": "Overtourism in Iceland",
+        "url": "https://www.responsibletravel.com/holidays/iceland/travel-guide/overtourism-in-iceland",
+        "publisher": "Responsible Travel",
+        "publication_date": "2023-01-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Analyses describe overtourism not as a national visitor-number problem, but as excessive concentration at a handful of South Coast and Golden Circle sites, leading to erosion, parking shortages and local frustration.",
+      "content_coding": {
+        "primary_issues": [
+          "infrastructure_strain",
+          "environmental_degradation"
+        ],
+        "secondary_issues": [
+          "seasonality"
+        ],
+        "problem_framing": "concentrated_pressure_in_hotspots",
+        "attributed_causes": [
+          "self-drive itineraries focusing on the same attractions"
+        ],
+        "proposed_solutions": [
+          "spreading visitors to under-visited regions",
+          "investing in site management infrastructure"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_critical",
+        "tone": "analytical",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "scenario_visualisation"
+        ],
+        "notes": "Immersive maps could illustrate alternative routes and capacities beyond the standard hotspots."
+      }
+    },
+    {
+      "statement_id": "STM_0096",
+      "case_id": "OTC_031",
+      "actor_id": "ACT_0096",
+      "source": {
+        "source_id": "SRC_ICE_S2",
+        "source_type": "feature_article",
+        "title": "What can Iceland do to minimize the negative outcomes of tourism?",
+        "url": "https://tripjoy.fun/what-can-iceland-do-to-minimize-the-negative-outcomes-of-tourism/",
+        "publisher": "TripJoy",
+        "publication_date": "2025-03-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Commentary suggests rerouting more flights to northern airports and encouraging visits to less-crowded regions as ways to reduce congestion in the southwest and diversify local economies.",
+      "content_coding": {
+        "primary_issues": [
+          "infrastructure_strain",
+          "seasonality"
+        ],
+        "secondary_issues": [
+          "tourism_dependency"
+        ],
+        "problem_framing": "redistribution_as_key_strategy",
+        "attributed_causes": [
+          "over-reliance on Reykjavík gateway and nearby attractions"
+        ],
+        "proposed_solutions": [
+          "redirecting air traffic and promotion towards other regions"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "solution_oriented",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "route_reimagining"
+        ],
+        "notes": "Immersive storytelling could showcase lesser-known areas as attractive alternatives to crowded sites."
+      }
+    },
+    {
+      "statement_id": "STM_0097",
+      "case_id": "OTC_031",
+      "actor_id": "ACT_0098",
+      "source": {
+        "source_id": "SRC_ICE_S3",
+        "source_type": "academic_chapter",
+        "title": "Challenges of overtourism in coastal Iceland",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-031-73187-7_12",
+        "publisher": "Springer",
+        "publication_date": "2024-01-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Researchers and guides report that high seasonality and uneven distribution of tourists strain facilities and services in municipalities with the highest visitor numbers, while other regions receive few benefits.",
+      "content_coding": {
+        "primary_issues": [
+          "infrastructure_strain",
+          "seasonality"
+        ],
+        "secondary_issues": [
+          "livelihood_impacts"
+        ],
+        "problem_framing": "uneven_burdens_and_benefits",
+        "attributed_causes": [
+          "short peak season with surges in selected coastal towns"
+        ],
+        "proposed_solutions": [
+          "investment support for affected municipalities",
+          "policies that encourage off-season and off-route travel"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "ambivalent",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "monitoring_visualisation"
+        ],
+        "notes": "Immersive dashboards could visualise seasonal peaks and pressure on small coastal communities."
       }
     }
   ]
