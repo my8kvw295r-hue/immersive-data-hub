@@ -88,6 +88,37 @@ These ensure transparency about the dataset’s freshness.
 * visitor_centre
 * virtual_gateway
 
+
+### 3.5 Intervention Archetypes
+
+For analytical work, each project is classified into one or more high-level intervention archetypes. These archetypes summarise how the gateway primarily intervenes in visitor flows and behaviours:
+
+* behaviour_priming_gateway – the project focuses on codes of conduct, cultural understanding, and ecological awareness before visitors enter sensitive zones. The physical experience at the site remains largely unchanged; the gateway shapes attitudes and expectations.
+* immersive_substitution_hub – the project offers a substantial part of the desired experience as an immersive substitute (e.g. dome, AV theatre, XR). Visitors can satisfy a large portion of their curiosity without going all the way into fragile or remote environments.
+* logistics_flow_hub – the gateway is tightly coupled to transport, ticketing, or routing infrastructure (e.g. shuttle systems, mandatory visitor centres, timeslot management) and acts as a physical and organisational filter.
+* emotional_peak_gateway – the project relocates the strongest emotional or iconic moment of the destination into the gateway (e.g. 360° Stonehenge room, fjord cinema, aurora dome), thereby reducing pressure on the most sensitive locations.
+* intro_context_gateway – the project primarily provides narrative and spatial context (history, geology, ecosystem framing) with light or no explicit flow-control mechanisms.
+
+Projects can carry more than one archetype, but typically one or two dominate.
+
+### 3.6 Problem Fit (Overtourism Problem Types)
+
+To link the gateway dataset to the overtourism problem-space, each project can be annotated with a list of problem-types for which it is a plausible intervention. These problem-types mirror the issue-tag taxonomy used in the Overtourism N+1 dataset, for example:
+
+* water_stress
+* infrastructure_overload
+* plastic_pollution
+* ecosystem_stress
+* biodiversity_loss
+* housing_pressure
+* social_conflict_protests
+* ngo_pressure
+* governance_lag
+* cultural_erosion
+
+This allows later analyses to ask: which intervention archetypes are actually used (or missing) for specific overtourism problem clusters.
+
+
 ## 4. Data Fields
 
 For each project, the dataset records:
@@ -100,6 +131,8 @@ For each project, the dataset records:
 * project_goal,
 * methods_used,
 * media_format,
+* intervention_archetype (one or more high-level intervention archetypes, as defined in section 3.5),
+* problem_fit (list of overtourism problem-types for which the project is a plausible intervention, aligned with the Overtourism N+1 issue-tag taxonomy),
 * implementation_stage (concept, planned, under construction, operating, discontinued, unknown),
 * commissioning_authority (name of the commissioning public body or client institution),
 * commissioning_authority_manager (responsible manager or contact person at the commissioning authority, if documented),
