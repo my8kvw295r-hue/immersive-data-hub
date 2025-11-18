@@ -1,17 +1,10 @@
 {
   "dataset_meta": {
-    "id": "MARTIN_SAMBAUER_OVERTOURISM_SIGNAL_NPLUS1_V1",
-    "title": "Global Overtourism Signal and Discourse Cases (n+1)",
-    "created_at_utc": "2025-11-18T00:00:00Z",
-    "description": "n+1 overtourism discourse layer linked to Immersive_Destination_Analysis, including selected external enrichment destinations.",
-    "core_dataset_reference": {
-      "name": "Immersive_Destination_Analysis",
-      "repo_url": "https://github.com/martin-sambauer/immersive-datasets/tree/main/datasets/Immersive_Destination_Analysis",
-      "data_file_url": "https://github.com/martin-sambauer/immersive-datasets/blob/main/datasets/Immersive_Destination_Analysis/Immersive_Destination_Analysis.json"
-    },
-    "schema_url": "https://github.com/martin-sambauer/immersive-datasets/blob/main/datasets/Overtourism_Signal/schema.json",
-    "methodology_url": "https://github.com/martin-sambauer/immersive-datasets/blob/main/datasets/Overtourism_Signal/methodology.md",
-    "article_url": "https://martin-sambauer.com/origins-of-wonder-an-immersive-impact-investment/overtourism-signal"
+    "dataset_id": "MARTIN_SAMBAUER_OVERTOURISM_NPLUS1_V1",
+    "version": "0.2.0",
+    "created_utc": "2025-11-18T00:00:00Z",
+    "last_updated_utc": "2025-11-18T00:00:00Z",
+    "version_notes": "Initial overtourism signal dataset: 16 cases linked from Immersive_Destination_Analysis (n) plus 5 external enrichment destinations. Hallstatt, Boracay Island, Mallorca, Hoi An Ancient Town and Tulum include detailed actors and statements; other cases are structurally present but not yet discourse-coded."
   },
   "cases": [
     {
@@ -28,8 +21,7 @@
         "to_year": null
       },
       "issues": {
-        "primary_tags": [],
-        "secondary_tags": [],
+        "tags": [],
         "comment": "To be coded based on detailed overtourism discourse research for this destination."
       },
       "awareness_assessment": {
@@ -42,9 +34,11 @@
       "media_pressure_level": null,
       "ngo_pressure_level": null,
       "tourism_dependency_level": null,
+      "ngos_involved_count": null,
+      "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis.",
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
         "sources_overview": []
       }
     },
@@ -62,8 +56,7 @@
         "to_year": null
       },
       "issues": {
-        "primary_tags": [],
-        "secondary_tags": [],
+        "tags": [],
         "comment": "To be coded based on detailed overtourism discourse research for this destination."
       },
       "awareness_assessment": {
@@ -76,9 +69,11 @@
       "media_pressure_level": null,
       "ngo_pressure_level": null,
       "tourism_dependency_level": "high",
+      "ngos_involved_count": null,
+      "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis.",
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
         "sources_overview": []
       }
     },
@@ -96,8 +91,7 @@
         "to_year": null
       },
       "issues": {
-        "primary_tags": [],
-        "secondary_tags": [],
+        "tags": [],
         "comment": "To be coded based on detailed overtourism discourse research for this destination."
       },
       "awareness_assessment": {
@@ -110,9 +104,11 @@
       "media_pressure_level": null,
       "ngo_pressure_level": null,
       "tourism_dependency_level": "high",
+      "ngos_involved_count": null,
+      "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis.",
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
         "sources_overview": []
       }
     },
@@ -130,8 +126,7 @@
         "to_year": null
       },
       "issues": {
-        "primary_tags": [],
-        "secondary_tags": [],
+        "tags": [],
         "comment": "To be coded based on detailed overtourism discourse research for this destination."
       },
       "awareness_assessment": {
@@ -144,9 +139,11 @@
       "media_pressure_level": null,
       "ngo_pressure_level": null,
       "tourism_dependency_level": "high",
+      "ngos_involved_count": null,
+      "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis.",
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
         "sources_overview": []
       }
     },
@@ -164,8 +161,7 @@
         "to_year": null
       },
       "issues": {
-        "primary_tags": [],
-        "secondary_tags": [],
+        "tags": [],
         "comment": "To be coded based on detailed overtourism discourse research for this destination."
       },
       "awareness_assessment": {
@@ -178,9 +174,11 @@
       "media_pressure_level": null,
       "ngo_pressure_level": null,
       "tourism_dependency_level": "high",
+      "ngos_involved_count": null,
+      "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis.",
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
         "sources_overview": []
       }
     },
@@ -198,8 +196,7 @@
         "to_year": null
       },
       "issues": {
-        "primary_tags": [],
-        "secondary_tags": [],
+        "tags": [],
         "comment": "To be coded based on detailed overtourism discourse research for this destination."
       },
       "awareness_assessment": {
@@ -212,9 +209,11 @@
       "media_pressure_level": null,
       "ngo_pressure_level": null,
       "tourism_dependency_level": "low",
+      "ngos_involved_count": null,
+      "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis.",
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
         "sources_overview": []
       }
     },
@@ -232,8 +231,7 @@
         "to_year": null
       },
       "issues": {
-        "primary_tags": [],
-        "secondary_tags": [],
+        "tags": [],
         "comment": "To be coded based on detailed overtourism discourse research for this destination."
       },
       "awareness_assessment": {
@@ -246,9 +244,11 @@
       "media_pressure_level": null,
       "ngo_pressure_level": null,
       "tourism_dependency_level": "very_high",
+      "ngos_involved_count": null,
+      "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis.",
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
         "sources_overview": []
       }
     },
@@ -266,8 +266,7 @@
         "to_year": null
       },
       "issues": {
-        "primary_tags": [],
-        "secondary_tags": [],
+        "tags": [],
         "comment": "To be coded based on detailed overtourism discourse research for this destination."
       },
       "awareness_assessment": {
@@ -280,9 +279,11 @@
       "media_pressure_level": null,
       "ngo_pressure_level": null,
       "tourism_dependency_level": "high",
+      "ngos_involved_count": null,
+      "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis.",
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
         "sources_overview": []
       }
     },
@@ -300,8 +301,7 @@
         "to_year": null
       },
       "issues": {
-        "primary_tags": [],
-        "secondary_tags": [],
+        "tags": [],
         "comment": "To be coded based on detailed overtourism discourse research for this destination."
       },
       "awareness_assessment": {
@@ -314,9 +314,11 @@
       "media_pressure_level": null,
       "ngo_pressure_level": null,
       "tourism_dependency_level": "high",
+      "ngos_involved_count": null,
+      "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis.",
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
         "sources_overview": []
       }
     },
@@ -334,8 +336,7 @@
         "to_year": null
       },
       "issues": {
-        "primary_tags": [],
-        "secondary_tags": [],
+        "tags": [],
         "comment": "To be coded based on detailed overtourism discourse research for this destination."
       },
       "awareness_assessment": {
@@ -348,9 +349,11 @@
       "media_pressure_level": null,
       "ngo_pressure_level": null,
       "tourism_dependency_level": "medium",
+      "ngos_involved_count": null,
+      "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis.",
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
         "sources_overview": []
       }
     },
@@ -368,8 +371,7 @@
         "to_year": null
       },
       "issues": {
-        "primary_tags": [],
-        "secondary_tags": [],
+        "tags": [],
         "comment": "To be coded based on detailed overtourism discourse research for this destination."
       },
       "awareness_assessment": {
@@ -382,9 +384,11 @@
       "media_pressure_level": null,
       "ngo_pressure_level": null,
       "tourism_dependency_level": "high",
+      "ngos_involved_count": null,
+      "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis.",
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
         "sources_overview": []
       }
     },
@@ -402,8 +406,7 @@
         "to_year": null
       },
       "issues": {
-        "primary_tags": [],
-        "secondary_tags": [],
+        "tags": [],
         "comment": "To be coded based on detailed overtourism discourse research for this destination."
       },
       "awareness_assessment": {
@@ -416,9 +419,11 @@
       "media_pressure_level": null,
       "ngo_pressure_level": null,
       "tourism_dependency_level": "medium",
+      "ngos_involved_count": null,
+      "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis.",
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
         "sources_overview": []
       }
     },
@@ -436,8 +441,7 @@
         "to_year": null
       },
       "issues": {
-        "primary_tags": [],
-        "secondary_tags": [],
+        "tags": [],
         "comment": "To be coded based on detailed overtourism discourse research for this destination."
       },
       "awareness_assessment": {
@@ -450,9 +454,11 @@
       "media_pressure_level": null,
       "ngo_pressure_level": null,
       "tourism_dependency_level": "high",
+      "ngos_involved_count": null,
+      "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis.",
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
         "sources_overview": []
       }
     },
@@ -470,8 +476,7 @@
         "to_year": null
       },
       "issues": {
-        "primary_tags": [],
-        "secondary_tags": [],
+        "tags": [],
         "comment": "To be coded based on detailed overtourism discourse research for this destination."
       },
       "awareness_assessment": {
@@ -484,9 +489,11 @@
       "media_pressure_level": null,
       "ngo_pressure_level": null,
       "tourism_dependency_level": "high",
+      "ngos_involved_count": null,
+      "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis.",
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
         "sources_overview": []
       }
     },
@@ -504,8 +511,7 @@
         "to_year": null
       },
       "issues": {
-        "primary_tags": [],
-        "secondary_tags": [],
+        "tags": [],
         "comment": "To be coded based on detailed overtourism discourse research for this destination."
       },
       "awareness_assessment": {
@@ -518,9 +524,11 @@
       "media_pressure_level": null,
       "ngo_pressure_level": null,
       "tourism_dependency_level": "medium",
+      "ngos_involved_count": null,
+      "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis.",
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
         "sources_overview": []
       }
     },
@@ -538,8 +546,7 @@
         "to_year": null
       },
       "issues": {
-        "primary_tags": [],
-        "secondary_tags": [],
+        "tags": [],
         "comment": "To be coded based on detailed overtourism discourse research for this destination."
       },
       "awareness_assessment": {
@@ -552,9 +559,11 @@
       "media_pressure_level": null,
       "ngo_pressure_level": null,
       "tourism_dependency_level": "high",
+      "ngos_involved_count": null,
+      "statement_ids": [],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis.",
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n).",
         "sources_overview": []
       }
     },
@@ -572,54 +581,55 @@
         "to_year": null
       },
       "issues": {
-        "primary_tags": [
+        "tags": [
           "crowding",
           "traffic_congestion",
           "noise",
-          "heritage_damage"
+          "heritage_damage",
+          "quality_of_life"
         ],
-        "secondary_tags": [],
-        "comment": "Residents have repeatedly protested against day-trip mass tourism and noise; authorities introduced caps on tour buses, time slots and physical barriers at viewpoints."
+        "comment": "Residents complain about large numbers of day-trippers arriving by bus, congestion around viewpoints, noise and pressure on everyday life and fragile heritage."
       },
       "awareness_assessment": {
         "awareness_level": "high",
         "conflict_intensity": "medium",
         "policy_response_level": "medium",
         "assessment_basis": "interpretative_synthesis_from_cited_sources",
-        "notes": "Residents have repeatedly protested against day-trip mass tourism and noise; authorities introduced caps on tour buses, time slots and physical barriers at viewpoints."
+        "notes": "Repeated protests, tunnel blockade and public debate on visitor caps and bus curfews."
       },
-      "media_pressure_level": "high",
-      "ngo_pressure_level": "low",
-      "tourism_dependency_level": "high",
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "Low",
+      "tourism_dependency_level": "High",
+      "ngos_involved_count": null,
+      "statement_ids": [
+        "STM_0001",
+        "STM_0002",
+        "STM_0003"
+      ],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Case added via qualitative web research based on the sources listed in sources_overview.",
+        "researcher_notes": "External overtourism hotspot identified via qualitative web research for Hallstatt, Austria.",
         "sources_overview": [
           {
             "id": "SRC_HALL_1",
+            "title": "Locals of Austrian village of Hallstatt protest against mass tourism",
+            "url": "https://news.sky.com/story/locals-of-austrian-village-of-hallstatt-protest-against-mass-tourism-12949584",
+            "source_type": "international_media"
+          },
+          {
+            "id": "SRC_HALL_2",
             "title": "Locals in this picturesque European town are protesting against overtourism",
             "url": "https://www.timeout.com/news/locals-in-this-picturesque-european-town-are-protesting-against-overtourism-082923",
             "source_type": "international_media"
           },
           {
-            "id": "SRC_HALL_2",
-            "title": "Austria’s most picturesque town protests against overtourism",
-            "url": "https://www.themayor.eu/en/a/view/austria-s-most-picturesque-town-protests-against-overtourism-12050",
-            "source_type": "european_policy_media"
-          },
-          {
             "id": "SRC_HALL_3",
-            "title": "Hallstatt, an Austrian heritage site, grapples with challenges of mass tourism",
-            "url": "https://www.traveldailynews.com/regional-news/europe/hallstatt-an-austrian-heritage-site-grapples-with-challenges-of-mass-tourism/",
-            "source_type": "tourism_industry_media"
+            "title": "Locals of Austrian town that inspired ‘Frozen’ block tunnel to protest overtourism",
+            "url": "https://www.independent.co.uk/travel/news-and-advice/frozen-town-hallstatt-austria-protest-overtourism-b2436374.html",
+            "source_type": "international_media"
           }
         ]
-      },
-      "statement_ids": [
-        "STM_0001",
-        "STM_0002",
-        "STM_0003"
-      ]
+      }
     },
     {
       "case_id": "OTC_018",
@@ -635,46 +645,51 @@
         "to_year": null
       },
       "issues": {
-        "primary_tags": [
+        "tags": [
           "crowding",
           "water_stress",
           "waste_management",
-          "pollution"
+          "pollution",
+          "environmental_degradation"
         ],
-        "secondary_tags": [],
-        "comment": "Boracay became a global overtourism symbol after environmental collapse from sewage discharge and overdevelopment triggered a six-month government-ordered closure and rehabilitation."
+        "comment": "Boracay became a global overtourism example, with untreated sewage, overcrowded beaches and illegal development triggering a six-month government-ordered closure for environmental rehabilitation."
       },
       "awareness_assessment": {
         "awareness_level": "high",
         "conflict_intensity": "high",
         "policy_response_level": "high",
         "assessment_basis": "interpretative_synthesis_from_cited_sources",
-        "notes": "Boracay became a global overtourism symbol after environmental collapse from sewage discharge and overdevelopment triggered a six-month government-ordered closure and rehabilitation."
+        "notes": "Island-wide closure, legal cases against local officials, extensive national and international media coverage."
       },
-      "media_pressure_level": "extreme",
-      "ngo_pressure_level": "medium",
-      "tourism_dependency_level": "high",
+      "media_pressure_level": "Extreme",
+      "ngo_pressure_level": "Medium",
+      "tourism_dependency_level": "High",
+      "ngos_involved_count": null,
+      "statement_ids": [
+        "STM_0004",
+        "STM_0005"
+      ],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Case added via qualitative web research based on the sources listed in sources_overview.",
+        "researcher_notes": "External overtourism hotspot identified via qualitative web research for Boracay Island, Philippines.",
         "sources_overview": [
           {
             "id": "SRC_BORA_1",
-            "title": "Boracay Island – Philippines (environmental destruction due to tourism)",
-            "url": "https://ecotourism-world.com/the-impact-of-tourism-nature-destruction/",
-            "source_type": "sustainability_media"
+            "title": "2018 Boracay closure and redevelopment",
+            "url": "https://en.wikipedia.org/wiki/2018_Boracay_closure_and_redevelopment",
+            "source_type": "reference"
           },
           {
             "id": "SRC_BORA_2",
-            "title": "Boracay’s pristine beauty 80% restored after rehabilitation – DENR",
-            "url": "https://www.pna.gov.ph/articles/1051942",
-            "source_type": "government_media"
+            "title": "Overtourism: Lessons from Boracay Island, The Philippines",
+            "url": "https://hospitalityinsights.ehl.edu/overtourism-borocay-island-philippines",
+            "source_type": "academic_commentary"
           },
           {
             "id": "SRC_BORA_3",
-            "title": "Tourism contribution to Philippines GDP reached 12.7% in 2019",
-            "url": "https://www.pna.gov.ph/articles/1106568",
-            "source_type": "national_statistics"
+            "title": "Party island of Boracay reopens minus drinking, smoking and raw sewage",
+            "url": "https://www.theguardian.com/world/2018/oct/26/party-island-of-boracay-reopens-minus-drinking-smoking-and-raw-sewage",
+            "source_type": "international_media"
           }
         ]
       }
@@ -693,47 +708,45 @@
         "to_year": null
       },
       "issues": {
-        "primary_tags": [
+        "tags": [
           "crowding",
           "housing_pressure",
-          "waste_management",
           "water_stress",
-          "noise"
+          "waste_management",
+          "quality_of_life"
         ],
-        "secondary_tags": [],
-        "comment": "Mallorca has seen mass protests against tourism, with residents highlighting housing shortages, environmental impacts and pressure on water and waste systems; regional authorities debate caps and new regulations."
+        "comment": "Protests and public debate highlight housing shortages, pressure on local infrastructure and water, and a perceived loss of everyday life quality in Palma and other parts of Mallorca due to mass tourism."
       },
       "awareness_assessment": {
         "awareness_level": "high",
         "conflict_intensity": "high",
         "policy_response_level": "medium",
         "assessment_basis": "interpretative_synthesis_from_cited_sources",
-        "notes": "Mallorca has seen mass protests against tourism, with residents highlighting housing shortages, environmental impacts and pressure on water and waste systems; regional authorities debate caps and new regulations."
+        "notes": "Large demonstrations in Palma de Mallorca and broader regional debate on the tourism model."
       },
-      "media_pressure_level": "high",
-      "ngo_pressure_level": "medium",
-      "tourism_dependency_level": "high",
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "Medium",
+      "tourism_dependency_level": "High",
+      "ngos_involved_count": null,
+      "statement_ids": [
+        "STM_0006",
+        "STM_0007"
+      ],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Case added via qualitative web research based on the sources listed in sources_overview.",
+        "researcher_notes": "External overtourism hotspot identified via qualitative web research for Mallorca, Spain.",
         "sources_overview": [
           {
             "id": "SRC_MALL_1",
-            "title": "Mallorca residents protest against mass tourism and housing crisis",
-            "url": "https://www.theguardian.com/world/2024/jul/07/mallorca-residents-protest-against-mass-tourism-and-housing-crisis",
+            "title": "Spaniards turn water guns on visitors in Barcelona and Mallorca to protest mass tourism",
+            "url": "https://apnews.com/article/46250dd17afbfcd270e4f951865ae667",
             "source_type": "international_media"
           },
           {
             "id": "SRC_MALL_2",
-            "title": "Protests in Mallorca spark debate over tourism model in the Balearic Islands",
-            "url": "https://apnews.com/article/spain-tourism-mallorca-protests-2024",
-            "source_type": "international_media"
-          },
-          {
-            "id": "SRC_MALL_3",
-            "title": "Tourism’s contribution to Spain’s GDP (tourism satellite account 2019)",
-            "url": "https://ine.es/en/prensa/cst_2019_en.pdf",
-            "source_type": "national_statistics"
+            "title": "Miles de personas salen a la calle en Mallorca contra la turistificación y por una \"vida digna\"",
+            "url": "https://cadenaser.com/baleares/2025/06/15/miles-de-personas-salen-a-la-calle-en-mallorca-contra-la-turistificacion-y-por-una-vida-digna-radio-mallorca/",
+            "source_type": "national_media"
           }
         ]
       }
@@ -752,45 +765,44 @@
         "to_year": null
       },
       "issues": {
-        "primary_tags": [
+        "tags": [
           "crowding",
           "heritage_damage",
-          "traffic_congestion"
+          "traffic_congestion",
+          "environmental_degradation"
         ],
-        "secondary_tags": [],
-        "comment": "Hoi An’s UNESCO-listed old town depends heavily on tourism, with authorities warning about congestion and pressure on fragile heritage buildings while exploring ticketing, zoning and capacity limits."
+        "comment": "UNESCO-listed old town faces congestion in narrow streets, pressure on historic buildings and ecological stress from mass tourism and nearby coastal developments."
       },
       "awareness_assessment": {
         "awareness_level": "medium",
         "conflict_intensity": "medium",
         "policy_response_level": "medium",
         "assessment_basis": "interpretative_synthesis_from_cited_sources",
-        "notes": "Hoi An’s UNESCO-listed old town depends heavily on tourism, with authorities warning about congestion and pressure on fragile heritage buildings while exploring ticketing, zoning and capacity limits."
+        "notes": "Local officials and conservationists publicly warn about carrying capacity and threats to heritage."
       },
-      "media_pressure_level": "medium",
-      "ngo_pressure_level": "low",
-      "tourism_dependency_level": "extreme",
+      "media_pressure_level": "Medium",
+      "ngo_pressure_level": "Low",
+      "tourism_dependency_level": "Extreme",
+      "ngos_involved_count": null,
+      "statement_ids": [
+        "STM_0008",
+        "STM_0009"
+      ],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Case added via qualitative web research based on the sources listed in sources_overview.",
+        "researcher_notes": "External overtourism hotspot identified via qualitative web research for Hoi An Ancient Town, Vietnam.",
         "sources_overview": [
           {
             "id": "SRC_HOI_1",
-            "title": "Hoi An Ancient Town – UNESCO World Heritage Centre",
-            "url": "https://whc.unesco.org/en/list/948/",
-            "source_type": "unesco"
-          },
-          {
-            "id": "SRC_HOI_2",
-            "title": "Vietnam’s Hoi An struggles to balance booming tourism and heritage protection",
-            "url": "https://www.reuters.com/world/asia-pacific/hoi-an-tourism-heritage-2024-03-15/",
+            "title": "Vietnam’s Hoi An counts cost of popularity as mass tourism threatens to overwhelm ancient town",
+            "url": "https://www.scmp.com/week-asia/economics/article/3263631/vietnams-hoi-counts-cost-popularity-mass-tourism-threatens-overwhelm-ancient-town",
             "source_type": "international_media"
           },
           {
-            "id": "SRC_HOI_3",
-            "title": "Tourism’s contribution to Vietnam’s GDP",
-            "url": "https://where2govietnam.com/vietnam/the-impact-of-tourism-on-the-economy-of-vietnam/",
-            "source_type": "economic_analysis"
+            "id": "SRC_HOI_2",
+            "title": "Overtourism in Vietnam: What are the solutions?",
+            "url": "https://adventure.com/hoi-an-cat-ba-island-vietnam-overtourism/",
+            "source_type": "travel_media"
           }
         ]
       }
@@ -809,46 +821,51 @@
         "to_year": null
       },
       "issues": {
-        "primary_tags": [
+        "tags": [
           "environmental_degradation",
           "water_stress",
           "waste_management",
-          "housing_pressure",
-          "climate_impact"
+          "crowding",
+          "climate_impact",
+          "housing_pressure"
         ],
-        "secondary_tags": [],
-        "comment": "Tulum’s rapid tourism-driven growth has raised concerns about mangrove loss, cenote and groundwater pollution, sargassum influx, access conflicts and inequality between the tourism economy and local communities."
+        "comment": "Rapid tourism growth has increased pressure on cenotes, mangroves and groundwater, while locals raise concerns about pollution, infrastructure strain and rising living costs."
       },
       "awareness_assessment": {
         "awareness_level": "high",
         "conflict_intensity": "medium",
         "policy_response_level": "medium",
         "assessment_basis": "interpretative_synthesis_from_cited_sources",
-        "notes": "Tulum’s rapid tourism-driven growth has raised concerns about mangrove loss, cenote and groundwater pollution, sargassum influx, access conflicts and inequality between the tourism economy and local communities."
+        "notes": "Environmental groups and residents publicly criticise inadequate sewage treatment and overdevelopment."
       },
-      "media_pressure_level": "high",
-      "ngo_pressure_level": "medium",
-      "tourism_dependency_level": "high",
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "Medium",
+      "tourism_dependency_level": "High",
+      "ngos_involved_count": null,
+      "statement_ids": [
+        "STM_0010",
+        "STM_0011"
+      ],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Case added via qualitative web research based on the sources listed in sources_overview.",
+        "researcher_notes": "External overtourism hotspot identified via qualitative web research for Tulum, Mexico.",
         "sources_overview": [
           {
             "id": "SRC_TUL_1",
-            "title": "On Mexico’s Caribbean coast, tourism boom and environmental pressure",
-            "url": "https://www.wired.com/story/on-mexicos-caribbean-coast-theres-lobster-for-the-tourists-and-microplastics-for-everyone-else",
-            "source_type": "international_media"
+            "title": "Hotels Accused Of Overloading Tulum’s Fragile Sewage System",
+            "url": "https://tulumtimes.com/hotels-accused-of-overloading-tulums-fragile-sewage-system/",
+            "source_type": "local_media"
           },
           {
             "id": "SRC_TUL_2",
-            "title": "Mexico prepares for record sargassum season in the Caribbean",
-            "url": "https://elpais.com/mexico/2025-06-11/mexico-se-prepara-para-una-temporada-record-de-sargazo-en-el-caribe.html",
-            "source_type": "national_media"
+            "title": "Why Locals in Tulum, Mexico, Are Concerned About Tourism",
+            "url": "https://viatormundi.com/why-locals-in-tulum-mexico-are-concerned-about-tourism/",
+            "source_type": "travel_media"
           },
           {
             "id": "SRC_TUL_3",
-            "title": "Quintana Roo rakes in over $20 billion from tourism in 2024",
-            "url": "https://www.traveltradecaribbean.es/en/quintana-roo-rakes-in-over-20-billion-from-tourism-in-2024/",
+            "title": "Tulum's tourism crisis: The unraveling of a once-thriving paradise",
+            "url": "https://www.travelweekly.com/Mexico-Travel/Insights/What-happened-to-Tulum-tourism",
             "source_type": "industry_media"
           }
         ]
@@ -871,7 +888,7 @@
       "contact_relevance": {
         "for_interviews": true,
         "for_partnerships": true,
-        "comment": "Key decision-maker on tourism regulation and visitor caps in Hallstatt."
+        "comment": "Key decision-maker for visitor caps and tourism regulations in Hallstatt."
       }
     },
     {
@@ -889,7 +906,7 @@
       "contact_relevance": {
         "for_interviews": true,
         "for_partnerships": false,
-        "comment": "Represents local residents who organise tunnel blockades and public demonstrations against overtourism."
+        "comment": "Represents residents organising tunnel blockades and demonstrations against mass tourism."
       }
     },
     {
@@ -907,7 +924,151 @@
       "contact_relevance": {
         "for_interviews": true,
         "for_partnerships": true,
-        "comment": "Collective placeholder actor for hotels, restaurants and tour operators affected by regulatory changes."
+        "comment": "Hotels, restaurants and tour operators affected by regulatory changes and visitor caps."
+      }
+    },
+    {
+      "actor_id": "ACT_0004",
+      "name": "Rodrigo Duterte",
+      "actor_type": "national_government",
+      "role_title": "President of the Philippines (at the time of closure)",
+      "organisation": "Government of the Philippines",
+      "sector": "public",
+      "location": "Manila, Philippines",
+      "is_collective_actor": false,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "contact_relevance": {
+        "for_interviews": false,
+        "for_partnerships": false,
+        "comment": "Key decision-maker who ordered the closure of Boracay for environmental rehabilitation."
+      }
+    },
+    {
+      "actor_id": "ACT_0005",
+      "name": "Boracay Tourism and Hospitality Businesses",
+      "actor_type": "tourism_business_owner",
+      "role_title": null,
+      "organisation": "Hotels, restaurants and tour operators on Boracay",
+      "sector": "private",
+      "location": "Boracay Island, Philippines",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Stakeholders heavily affected by the closure and by new environmental regulations."
+      }
+    },
+    {
+      "actor_id": "ACT_0006",
+      "name": "Menys Turisme, Més Vida",
+      "actor_type": "ngo",
+      "role_title": null,
+      "organisation": "Menys Turisme, Més Vida",
+      "sector": "civil_society",
+      "location": "Palma de Mallorca, Spain",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Platform coordinating protests and campaigns against the current tourism model in Mallorca."
+      }
+    },
+    {
+      "actor_id": "ACT_0007",
+      "name": "Balearic Islands Government",
+      "actor_type": "regional_government",
+      "role_title": null,
+      "organisation": "Govern de les Illes Balears",
+      "sector": "public",
+      "location": "Palma de Mallorca, Spain",
+      "is_collective_actor": true,
+      "supervising_ministry": "Spain – national government",
+      "budget_information": null,
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Responsible for regional tourism, housing and environmental policies affecting Mallorca."
+      }
+    },
+    {
+      "actor_id": "ACT_0008",
+      "name": "Hoi An City Government",
+      "actor_type": "local_government",
+      "role_title": null,
+      "organisation": "Hoi An People’s Committee",
+      "sector": "public",
+      "location": "Hoi An, Vietnam",
+      "is_collective_actor": true,
+      "supervising_ministry": "Quang Nam Province / Vietnam national government",
+      "budget_information": null,
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Responsible for managing tourism and heritage protection in the old town."
+      }
+    },
+    {
+      "actor_id": "ACT_0009",
+      "name": "Conservationists and Heritage Experts in Hoi An",
+      "actor_type": "academic_researcher",
+      "role_title": null,
+      "organisation": "Various universities and heritage organisations",
+      "sector": "research",
+      "location": "Hoi An, Vietnam",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Experts warning about the impact of mass tourism and coastal developments on Hoi An’s heritage and ecosystems."
+      }
+    },
+    {
+      "actor_id": "ACT_0010",
+      "name": "Local Environmental Groups in Tulum",
+      "actor_type": "ngo",
+      "role_title": null,
+      "organisation": "Various local environmental organisations",
+      "sector": "civil_society",
+      "location": "Tulum, Quintana Roo, Mexico",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Groups warning about wastewater pollution, mangrove loss and threats to cenotes and aquifers."
+      }
+    },
+    {
+      "actor_id": "ACT_0011",
+      "name": "Tulum Municipal Authorities",
+      "actor_type": "local_government",
+      "role_title": null,
+      "organisation": "Municipality of Tulum",
+      "sector": "public",
+      "location": "Tulum, Quintana Roo, Mexico",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of Quintana Roo / Government of Mexico",
+      "budget_information": null,
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Responsible for local planning, infrastructure and tourism policies."
       }
     }
   ],
@@ -917,17 +1078,17 @@
       "case_id": "OTC_017",
       "actor_id": "ACT_0001",
       "source": {
-        "source_id": "SRC_HALL_MAYOR_1",
+        "source_id": "SRC_HALL_S1",
         "source_type": "international_media",
-        "title": "Locals take extreme step to block tourists from Austria's picturesque town Hallstatt",
-        "url": "https://www.ibtimes.co.uk/locals-take-extreme-step-block-tourists-austrias-picturesque-town-hallstatt-1718944",
-        "publisher": "International Business Times",
-        "publication_date": "2023-08-28",
+        "title": "Locals in this picturesque European town are protesting against overtourism",
+        "url": "https://www.timeout.com/news/locals-in-this-picturesque-european-town-are-protesting-against-overtourism-082923",
+        "publisher": "Time Out",
+        "publication_date": "2023-08-29",
         "language": "en",
         "accessed_at_utc": "2025-11-18T00:00:00Z"
       },
       "original_quote": null,
-      "paraphrase_en": "Mayor Alexander Scheutz explains that Hallstatt is physically too small for the daily influx of visitors. He argues that the town needs hard limits on the number of buses and visitors per day, including a curfew for tour buses in the late afternoon, to protect residents’ quality of life and the local environment.",
+      "paraphrase_en": "Mayor Alexander Scheutz states that Hallstatt is too small for the number of tourists arriving each day. He argues for strict limits on daily visitor numbers and on tour buses, including a cut-off time in the late afternoon, to protect residents’ quality of life and the village’s fragile environment.",
       "content_coding": {
         "primary_issues": [
           "crowding",
@@ -939,13 +1100,13 @@
         ],
         "problem_framing": "governance",
         "attributed_causes": [
-          "unregulated growth in day-trip tourism",
-          "high concentration of bus arrivals in peak hours"
+          "high volume of day-trip tourism by bus",
+          "insufficient regulation of visitor flows"
         ],
         "proposed_solutions": [
-          "daily caps on visitors",
-          "curfew for tour buses after the late afternoon",
-          "stricter management of arrival flows"
+          "daily caps on visitor numbers",
+          "curfew for tour buses",
+          "tighter control of access routes into the village"
         ]
       },
       "tone_and_stance": {
@@ -960,7 +1121,7 @@
           "visitor_education",
           "redistribution_of_flows"
         ],
-        "notes": "Mayor frames problem as a capacity and governance challenge, which could be communicated through immersive explanations of limits."
+        "notes": "Could be translated into immersive narratives explaining capacity limits and the lived experience of residents."
       }
     },
     {
@@ -968,7 +1129,7 @@
       "case_id": "OTC_017",
       "actor_id": "ACT_0002",
       "source": {
-        "source_id": "SRC_HALL_RESIDENTS_1",
+        "source_id": "SRC_HALL_S2",
         "source_type": "international_media",
         "title": "Locals of Austrian village of Hallstatt protest against mass tourism",
         "url": "https://news.sky.com/story/locals-of-austrian-village-of-hallstatt-protest-against-mass-tourism-12949584",
@@ -978,7 +1139,7 @@
         "accessed_at_utc": "2025-11-18T00:00:00Z"
       },
       "original_quote": null,
-      "paraphrase_en": "A residents’ group staged a protest by blocking the main access tunnel to Hallstatt. With banners calling for an ‘emergency brake’ on mass tourism and urging authorities to think about future generations, they demanded a clear cap on daily visitor numbers and stricter control of traffic into the town.",
+      "paraphrase_en": "A residents’ group blocked the main access tunnel to Hallstatt in a symbolic protest, carrying banners that demanded an ‘emergency brake’ on mass tourism and called for stricter limits on daily visitor numbers and bus traffic. They stress the need to protect their community and future generations from the pressures of overtourism.",
       "content_coding": {
         "primary_issues": [
           "crowding",
@@ -991,12 +1152,12 @@
         "problem_framing": "systemic",
         "attributed_causes": [
           "tourism model focused on high-volume day trips",
-          "insufficient regulation of tour buses and visitor flows"
+          "lack of strong regulatory limits on arrivals"
         ],
         "proposed_solutions": [
-          "hard visitor caps",
-          "reduction of tour buses",
-          "stronger enforcement of traffic limits"
+          "hard caps on visitor numbers",
+          "significant reduction of tour bus entries",
+          "stricter enforcement of traffic limits"
         ]
       },
       "tone_and_stance": {
@@ -1007,11 +1168,11 @@
       "relevance_for_immersive_interventions": {
         "mentions_storytelling_or_communication": false,
         "potential_intervention_themes": [
-          "visitor_education",
           "empathy_with_residents",
-          "visualising_impacts_of_mass_tourism"
+          "responsible_tourism",
+          "visualising_impact_on_daily_life"
         ],
-        "notes": "Protest visuals and slogans could be translated into immersive narratives that show residents’ perspective."
+        "notes": "Protest imagery and slogans could form the basis for immersive experiences that convey residents’ perspective."
       }
     },
     {
@@ -1019,17 +1180,17 @@
       "case_id": "OTC_017",
       "actor_id": "ACT_0003",
       "source": {
-        "source_id": "SRC_HALL_TOURISM_1",
+        "source_id": "SRC_HALL_S3",
         "source_type": "international_media",
-        "title": "How the village that inspired 'Frozen' is dealing with overtourism",
-        "url": "https://edition.cnn.com/travel/article/hallstatt-austria-frozen-over-tourism/index.html",
-        "publisher": "CNN",
-        "publication_date": "2020-01-10",
+        "title": "Locals of Austrian town that inspired ‘Frozen’ block tunnel to protest overtourism",
+        "url": "https://www.independent.co.uk/travel/news-and-advice/frozen-town-hallstatt-austria-protest-overtourism-b2436374.html",
+        "publisher": "The Independent",
+        "publication_date": "2023-10-26",
         "language": "en",
         "accessed_at_utc": "2025-11-18T00:00:00Z"
       },
       "original_quote": null,
-      "paraphrase_en": "Local tourism businesses acknowledge that visitors are essential for Hallstatt’s economy but admit that the current volume of day-trippers creates pressure on the town and on residents. They support measures that encourage longer, higher-quality stays instead of quick photo stops, as well as better communication about respectful behaviour.",
+      "paraphrase_en": "Local tourism businesses acknowledge that visitors are essential for Hallstatt’s income but admit that the current volume of day-trippers creates tension and pressure on the village. They support measures that promote longer, higher-quality stays instead of quick photo stops, alongside clearer communication about respectful behaviour.",
       "content_coding": {
         "primary_issues": [
           "crowding"
@@ -1040,13 +1201,13 @@
         ],
         "problem_framing": "market",
         "attributed_causes": [
-          "focus on quantity of visitors rather than length of stay",
-          "social-media-driven day-trip tourism patterns"
+          "short-stay, social-media-driven visitor behaviour",
+          "focus on visitor quantity over stay length"
         ],
         "proposed_solutions": [
-          "shift towards longer stays and higher-value tourism",
-          "codes of conduct and respectful behaviour campaigns",
-          "better distribution of visits over time"
+          "shift towards longer, higher-value stays",
+          "codes of conduct for visitors",
+          "better distribution of visits over time of day and season"
         ]
       },
       "tone_and_stance": {
@@ -1061,7 +1222,414 @@
           "expectation_setting_before_arrival",
           "story-driven visitor guidance"
         ],
-        "notes": "Highlights potential for immersive media to reframe Hallstatt from an ‘Instagram stop’ into a place that requires time and respect."
+        "notes": "Shows a clear opening for immersive communication that reframes Hallstatt as a place needing time and care, not a quick snapshot."
+      }
+    },
+    {
+      "statement_id": "STM_0004",
+      "case_id": "OTC_018",
+      "actor_id": "ACT_0004",
+      "source": {
+        "source_id": "SRC_BORA_S1",
+        "source_type": "international_media",
+        "title": "The Philippines' Most Popular Island Is Shutting Down for Sewage Cleanup",
+        "url": "https://time.com/5228802/philippines-duterte-close-boracay-6-months/",
+        "publisher": "TIME",
+        "publication_date": "2018-04-05",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "President Rodrigo Duterte labelled Boracay a 'cesspool' because of untreated sewage and unregulated development, and ordered the island closed to tourists for six months so that environmental rehabilitation and infrastructure upgrades could take place.",
+      "content_coding": {
+        "primary_issues": [
+          "pollution",
+          "waste_management",
+          "environmental_degradation"
+        ],
+        "secondary_issues": [
+          "crowding"
+        ],
+        "problem_framing": "governance",
+        "attributed_causes": [
+          "illegal construction and poor enforcement of environmental regulations",
+          "lack of adequate sewage treatment",
+          "rapid growth in visitor numbers"
+        ],
+        "proposed_solutions": [
+          "temporary closure of the island",
+          "strict enforcement of environmental standards",
+          "demolition of non-compliant structures"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "balanced",
+        "tone": "urgent",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "linking visitor behaviour to environmental impacts",
+          "explaining carrying capacity and waste systems",
+          "visualising before/after rehabilitation scenarios"
+        ],
+        "notes": "Offers a strong narrative arc from environmental crisis to rehabilitation that can be visualised immersively."
+      }
+    },
+    {
+      "statement_id": "STM_0005",
+      "case_id": "OTC_018",
+      "actor_id": "ACT_0005",
+      "source": {
+        "source_id": "SRC_BORA_S2",
+        "source_type": "academic_commentary",
+        "title": "Overtourism: Lessons from Boracay Island, The Philippines",
+        "url": "https://hospitalityinsights.ehl.edu/overtourism-borocay-island-philippines",
+        "publisher": "EHL Hospitality Insights",
+        "publication_date": "2019-01-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Analyses of the closure report that local tourism businesses suffered severe short-term losses but also recognised that unchecked growth had undermined the island’s long-term viability. Many now support stricter environmental standards and a tourism model that emphasises sustainability over sheer volume.",
+      "content_coding": {
+        "primary_issues": [
+          "environmental_degradation",
+          "economic_risk"
+        ],
+        "secondary_issues": [
+          "crowding"
+        ],
+        "problem_framing": "systemic",
+        "attributed_causes": [
+          "tourism model focused on rapid expansion without strong environmental governance"
+        ],
+        "proposed_solutions": [
+          "shift towards sustainable tourism standards",
+          "capacity limits tied to environmental indicators",
+          "greater coordination between government and private sector"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "reflective",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "educating visitors about rehabilitation efforts",
+          "showing ecosystem thresholds and recovery",
+          "framing Boracay as a learning case for sustainable tourism"
+        ],
+        "notes": "Could support immersive content that uses Boracay as a cautionary and recovery story."
+      }
+    },
+    {
+      "statement_id": "STM_0006",
+      "case_id": "OTC_019",
+      "actor_id": "ACT_0006",
+      "source": {
+        "source_id": "SRC_MALL_S1",
+        "source_type": "national_media",
+        "title": "Miles de personas salen a la calle en Mallorca contra la turistificación y por una \"vida digna\"",
+        "url": "https://cadenaser.com/baleares/2025/06/15/miles-de-personas-salen-a-la-calle-en-mallorca-contra-la-turistificacion-y-por-una-vida-digna-radio-mallorca/",
+        "publisher": "Cadena SER",
+        "publication_date": "2025-06-15",
+        "language": "es",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "The platform Menys Turisme, Més Vida describes mass tourism as a central cause of the housing crisis and deteriorating living conditions in Mallorca. During a large march in Palma, organisers called for limits on holiday rentals, caps on flights and cruise ships, and a structural change of the Balearic economic model.",
+      "content_coding": {
+        "primary_issues": [
+          "housing_pressure",
+          "crowding",
+          "quality_of_life"
+        ],
+        "secondary_issues": [
+          "water_stress",
+          "waste_management"
+        ],
+        "problem_framing": "systemic",
+        "attributed_causes": [
+          "tourism-focused economic model",
+          "expansion of holiday rentals",
+          "growth in flights and cruise arrivals"
+        ],
+        "proposed_solutions": [
+          "ban or strict limit on holiday rentals",
+          "limits on flights and cruise ships",
+          "rebalancing the regional economy away from dependence on mass tourism"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "critical",
+        "tone": "urgent",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "visualising housing pressures",
+          "connecting tourism flows to everyday life impacts",
+          "scenario-based futures for the island"
+        ],
+        "notes": "Could inform immersive content that contrasts residents’ needs with visitor expectations."
+      }
+    },
+    {
+      "statement_id": "STM_0007",
+      "case_id": "OTC_019",
+      "actor_id": "ACT_0007",
+      "source": {
+        "source_id": "SRC_MALL_S2",
+        "source_type": "international_media",
+        "title": "Spaniards turn water guns on visitors in Barcelona and Mallorca to protest mass tourism",
+        "url": "https://apnews.com/article/46250dd17afbfcd270e4f951865ae667",
+        "publisher": "Associated Press",
+        "publication_date": "2025-06-16",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Regional authorities acknowledge growing public anger about tourism’s side effects but emphasise that the sector remains vital for jobs and income. They signal openness to tighter regulation of short-term rentals and crowding in hotspots, while warning against measures that would severely damage the Balearic economy.",
+      "content_coding": {
+        "primary_issues": [
+          "housing_pressure",
+          "crowding"
+        ],
+        "secondary_issues": [
+          "quality_of_life"
+        ],
+        "problem_framing": "governance",
+        "attributed_causes": [
+          "insufficient regulation of short-term rentals",
+          "uncontrolled growth in visitor numbers in peak season"
+        ],
+        "proposed_solutions": [
+          "tighter regulation of holiday rentals",
+          "crowd management in hotspots",
+          "gradual adjustments rather than abrupt cuts in tourism"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "balanced",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "explaining trade-offs between economy and housing",
+          "participatory scenario planning for residents and visitors"
+        ],
+        "notes": "Shows potential for immersive formats that make trade-offs and policy options tangible."
+      }
+    },
+    {
+      "statement_id": "STM_0008",
+      "case_id": "OTC_020",
+      "actor_id": "ACT_0008",
+      "source": {
+        "source_id": "SRC_HOI_S1",
+        "source_type": "international_media",
+        "title": "Vietnam’s Hoi An counts cost of popularity as mass tourism threatens to overwhelm ancient town",
+        "url": "https://www.scmp.com/week-asia/economics/article/3263631/vietnams-hoi-counts-cost-popularity-mass-tourism-threatens-overwhelm-ancient-town",
+        "publisher": "South China Morning Post",
+        "publication_date": "2024-05-23",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Local officials acknowledge that Hoi An’s success as a tourist destination has led to overcrowded streets, strain on infrastructure and risks to historic wooden houses. They discuss the need for stricter management of visitor flows and closer monitoring of nearby coastal projects that may affect the town’s environment.",
+      "content_coding": {
+        "primary_issues": [
+          "crowding",
+          "heritage_damage"
+        ],
+        "secondary_issues": [
+          "traffic_congestion",
+          "environmental_degradation"
+        ],
+        "problem_framing": "governance",
+        "attributed_causes": [
+          "rapid growth in international and domestic visitors",
+          "limited street capacity in the old town",
+          "weak control of surrounding developments"
+        ],
+        "proposed_solutions": [
+          "stronger crowd management in narrow streets",
+          "regulation of nearby tourism projects",
+          "carrying capacity assessments for the historic core"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "balanced",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "educating visitors about fragile wooden architecture",
+          "visualising congestion scenarios",
+          "connecting old-town experience with ecological hinterland"
+        ],
+        "notes": "Immersive tools could help visitors understand why certain limits and routing are necessary."
+      }
+    },
+    {
+      "statement_id": "STM_0009",
+      "case_id": "OTC_020",
+      "actor_id": "ACT_0009",
+      "source": {
+        "source_id": "SRC_HOI_S2",
+        "source_type": "travel_media",
+        "title": "Overtourism in Vietnam: What are the solutions?",
+        "url": "https://adventure.com/hoi-an-cat-ba-island-vietnam-overtourism/",
+        "publisher": "Adventure.com",
+        "publication_date": "2023-01-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Writers and conservationists describe Hoi An as an example of how overtourism can erode the atmosphere of a historic town. They call for better visitor education, spreading visitors over time and space, and highlighting alternative destinations to reduce pressure on the old town itself.",
+      "content_coding": {
+        "primary_issues": [
+          "crowding"
+        ],
+        "secondary_issues": [
+          "heritage_damage"
+        ],
+        "problem_framing": "systemic",
+        "attributed_causes": [
+          "concentration of visitors in a few iconic streets",
+          "global travel media promoting the same must-see places"
+        ],
+        "proposed_solutions": [
+          "redistribution of visitor flows",
+          "promoting alternative sites around Hoi An",
+          "stronger storytelling about limits and respectful behaviour"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "balanced",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "visitor_education",
+          "redistribution_of_flows",
+          "story-driven alternative itineraries"
+        ],
+        "notes": "Clear opening for immersive content that proposes alternative routes and frames visitors as stewards."
+      }
+    },
+    {
+      "statement_id": "STM_0010",
+      "case_id": "OTC_021",
+      "actor_id": "ACT_0010",
+      "source": {
+        "source_id": "SRC_TUL_S1",
+        "source_type": "local_media",
+        "title": "Hotels Accused Of Overloading Tulum’s Fragile Sewage System",
+        "url": "https://tulumtimes.com/hotels-accused-of-overloading-tulums-fragile-sewage-system/",
+        "publisher": "Tulum Times",
+        "publication_date": "2025-10-25",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Local environmental groups warn that wastewater from hotels and businesses is overloading Tulum’s fragile sewage system and contaminating the aquifer beneath the town. They argue that continued development without adequate infrastructure risks long-term ecological damage and undermines the very basis of the tourism economy.",
+      "content_coding": {
+        "primary_issues": [
+          "environmental_degradation",
+          "water_stress",
+          "waste_management"
+        ],
+        "secondary_issues": [
+          "climate_impact"
+        ],
+        "problem_framing": "environmental",
+        "attributed_causes": [
+          "rapid hotel construction without proper sewage infrastructure",
+          "weak enforcement of environmental regulations"
+        ],
+        "proposed_solutions": [
+          "investment in modern wastewater treatment",
+          "tighter environmental enforcement",
+          "limits on new development until infrastructure catches up"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "critical",
+        "tone": "urgent",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "visualising hidden water systems and pollution",
+          "linking tourist choices to aquifer health",
+          "scenario modelling of future environmental risks"
+        ],
+        "notes": "Strong candidate for immersive visualisations of invisible groundwater impacts."
+      }
+    },
+    {
+      "statement_id": "STM_0011",
+      "case_id": "OTC_021",
+      "actor_id": "ACT_0011",
+      "source": {
+        "source_id": "SRC_TUL_S2",
+        "source_type": "travel_media",
+        "title": "Why Locals in Tulum, Mexico, Are Concerned About Tourism",
+        "url": "https://viatormundi.com/why-locals-in-tulum-mexico-are-concerned-about-tourism/",
+        "publisher": "Viatormundi",
+        "publication_date": "2024-06-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Residents and local officials acknowledge that tourism brings income but point to overcrowded beaches and cenotes, rising prices and pressure on basic services. They discuss new regulations, but enforcement gaps and rapid growth make it difficult to align development with environmental limits.",
+      "content_coding": {
+        "primary_issues": [
+          "crowding",
+          "quality_of_life"
+        ],
+        "secondary_issues": [
+          "environmental_degradation",
+          "housing_pressure"
+        ],
+        "problem_framing": "governance",
+        "attributed_causes": [
+          "fast-paced resort and real estate development",
+          "limited enforcement capacity",
+          "global demand for trendy beach destinations"
+        ],
+        "proposed_solutions": [
+          "stricter zoning and building controls",
+          "better enforcement of existing rules",
+          "awareness campaigns targeting visitors and investors"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "balanced",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "responsible_tourism",
+          "communicating limits and codes of conduct",
+          "community voices in destination storytelling"
+        ],
+        "notes": "Shows potential for immersive narratives that integrate residents’ perspectives into the visitor experience."
       }
     }
   ]
