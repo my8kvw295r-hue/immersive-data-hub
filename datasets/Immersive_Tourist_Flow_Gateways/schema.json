@@ -4,45 +4,37 @@
   "description": "Schema for one project entry in the Immersive_Tourist_Flow_Gateways dataset.",
   "type": "object",
   "additionalProperties": false,
-
   "properties": {
     "schema_version": {
       "type": "string",
       "description": "Version tag of the schema used for this record.",
       "default": "1.0.0"
     },
-
     "project_id": {
       "type": "string",
-      "description": "Ascending numeric identifier for the project (stored as a string, typically zero-padded, e.g. \"0001\", \"0002\").",
-      "pattern": "^[0-9]{1,8}$"
+      "description": "Ascending internal identifier in the form ITFG_0001, ITFG_0002, … (prefix ITFG_ plus four digits).",
+      "pattern": "^ITFG_[0-9]{4}$"
     },
-
     "project_name": {
       "type": "string",
       "description": "Official or commonly used project name."
     },
-
     "short_description": {
       "type": "string",
       "description": "1–3 sentence description of the project’s purpose and character."
     },
-
     "country": {
       "type": "string",
       "description": "Country where the project is located."
     },
-
     "region": {
       "type": "string",
       "description": "Region, state or province of the project."
     },
-
     "location_notes": {
       "type": "string",
       "description": "City, site, park, island or other location details."
     },
-
     "gateway_type": {
       "type": "string",
       "description": "High-level spatial gateway type for the project.",
@@ -56,7 +48,6 @@
         "other"
       ]
     },
-
     "project_goal": {
       "type": "array",
       "description": "Primary and secondary goals of the project in terms of flow and behaviour.",
@@ -74,7 +65,6 @@
       },
       "uniqueItems": true
     },
-
     "methods_used": {
       "type": "array",
       "description": "Techniques used to navigate or modulate tourist flows.",
@@ -93,7 +83,6 @@
       },
       "uniqueItems": true
     },
-
     "media_format": {
       "type": "array",
       "description": "Immersive media formats used in the project.",
@@ -114,7 +103,6 @@
       },
       "uniqueItems": true
     },
-
     "implementation_stage": {
       "type": "string",
       "description": "Current stage of implementation.",
@@ -127,27 +115,25 @@
         "unknown"
       ]
     },
-
     "year_opened_or_announced": {
-      "type": ["integer", "null"],
+      "type": [
+        "integer",
+        "null"
+      ],
       "description": "Year in which the project was opened to the public or officially announced."
     },
-
     "producer_operating_entity": {
       "type": "string",
       "description": "Main producing or operating entity (organisation, agency, operator)."
     },
-
     "director_lead_creator": {
       "type": "string",
       "description": "Name of the director or lead creator, if documented."
     },
-
     "creative_studio": {
       "type": "string",
       "description": "Primary creative studio or design lead, if applicable."
     },
-
     "technical_partners": {
       "type": "array",
       "description": "Key technical partners (e.g. dome integrators, XR teams).",
@@ -156,33 +142,39 @@
       },
       "uniqueItems": true
     },
-
     "budget_currency": {
       "type": "string",
       "description": "Currency code for the budget (preferably ISO 4217).",
       "maxLength": 16
     },
-
     "budget_amount_estimate": {
-      "type": ["number", "null"],
+      "type": [
+        "number",
+        "null"
+      ],
       "description": "Estimated budget of the project, if documented."
     },
-
     "visitor_capacity_per_hour": {
-      "type": ["integer", "null"],
+      "type": [
+        "integer",
+        "null"
+      ],
       "description": "Estimated or documented maximum visitor throughput per hour."
     },
-
     "annual_visitors_estimate": {
-      "type": ["integer", "null"],
+      "type": [
+        "integer",
+        "null"
+      ],
       "description": "Estimated or documented annual number of visitors for the gateway system."
     },
-
     "duration_min": {
-      "type": ["number", "null"],
+      "type": [
+        "number",
+        "null"
+      ],
       "description": "Typical duration of a single immersive experience in minutes."
     },
-
     "sustainability_context": {
       "type": "object",
       "description": "Context for ecological and sustainability-related goals.",
@@ -210,18 +202,23 @@
         }
       }
     },
-
     "measurable_effects": {
       "type": "object",
       "description": "Quantitative or semi-quantitative indicators of project impact.",
       "additionalProperties": false,
       "properties": {
         "traffic_reduction_sensitive_zones_pct": {
-          "type": ["number", "null"],
+          "type": [
+            "number",
+            "null"
+          ],
           "description": "Percentage reduction in visitor traffic to sensitive zones, if measured."
         },
         "increase_alt_attractions_pct": {
-          "type": ["number", "null"],
+          "type": [
+            "number",
+            "null"
+          ],
           "description": "Percentage increase in use of alternative attractions, if measured."
         },
         "timeslot_redistribution_notes": {
@@ -229,7 +226,10 @@
           "description": "Description or metrics of redistribution across timeslots, if available."
         },
         "behaviour_compliance_rate_pct": {
-          "type": ["number", "null"],
+          "type": [
+            "number",
+            "null"
+          ],
           "description": "Compliance rate with desired behaviours (e.g. rules, codes), in percent."
         },
         "awareness_uplift_metric": {
@@ -237,12 +237,14 @@
           "description": "Metric and value for awareness/knowledge uplift (e.g. survey scale), if documented."
         },
         "substitution_rate_pct": {
-          "type": ["number", "null"],
+          "type": [
+            "number",
+            "null"
+          ],
           "description": "Percentage of visitors who choose immersive substitution instead of visiting a fragile site."
         }
       }
     },
-
     "measurement_methods_used": {
       "type": "array",
       "description": "Empirical methods used to measure impact and effectiveness.",
@@ -261,12 +263,10 @@
       },
       "uniqueItems": true
     },
-
     "effectiveness_studies_available": {
       "type": "boolean",
       "description": "Indicates whether any formal effectiveness or evaluation study exists."
     },
-
     "effectiveness_studies_refs": {
       "type": "array",
       "description": "References to scientific or evaluation studies (DOIs, titles, reports).",
@@ -275,7 +275,6 @@
       },
       "uniqueItems": true
     },
-
     "reference_urls": {
       "type": "array",
       "description": "List of non-AI sources used for this entry (official pages, papers, reports, news).",
@@ -285,30 +284,33 @@
       },
       "uniqueItems": true
     },
-
     "notes": {
       "type": "string",
       "description": "Free-form notes and context that do not fit other fields."
     },
-
     "date_added": {
       "type": "string",
       "format": "date-time",
       "description": "UTC timestamp when the project was first added to the dataset."
     },
-
     "date_last_verified": {
       "type": "string",
       "format": "date-time",
       "description": "UTC timestamp when the entry was last checked against its sources."
     },
-
     "source_last_checked": {
       "type": "string",
       "description": "Short note or URL of the most recently checked primary source."
+    },
+    "commissioning_authority": {
+      "type": "string",
+      "description": "Name of the commissioning authority, public body, or client institution."
+    },
+    "commissioning_authority_manager": {
+      "type": "string",
+      "description": "Name or title of the responsible manager/contact person at the commissioning authority, if documented."
     }
   },
-
   "required": [
     "project_id",
     "project_name",
