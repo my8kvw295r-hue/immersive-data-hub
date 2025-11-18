@@ -18,6 +18,7 @@ The dataset enables systematic comparison of immersive flow‑navigation strateg
 
 Each project entry includes:
 
+* project_id (ascending numeric identifier: 1, 2, 3, …; stored as a string, typically zero‑padded such as 0001, 0002),
 * gateway type (airport, marina, urban, ecological, virtual),
 * project goals (flow redirection, behaviour change, substitution, etc.),
 * methods (routing, priming, temporal redistribution, narrative interventions),
@@ -30,6 +31,16 @@ Each project entry includes:
 * source links for every data point.
 
 Unknown fields remain empty until reliable sources are found.
+
+## ID Convention
+
+project_id is an internal ascending numeric identifier for each project (1, 2, 3, …). It is:
+
+* unique for every project,
+* never reused (IDs of removed projects stay retired),
+* stored as a string in the data files (e.g. "0001", "0002") to allow consistent sorting and stable references in articles or analyses.
+
+The actual semantic information about a project (name, location, media formats, gateway type, etc.) is always kept in the other fields such as project_name and country.
 
 ## Philosophy
 
@@ -45,9 +56,10 @@ This perspective follows the argumentation in the *Origins of Wonder* article: i
 
 ## File Structure
 
-* `data/` — JSON and CSV versions of the dataset
-* `methodology.md` — detailed research and classification method
-* `README.md` — this document
+* data/ — JSON and CSV versions of the dataset
+* methodology.md — detailed research and classification method
+* README.md — this document
+* schema.json — JSON schema definition for a single project entry
 
 ## Reliability
 
