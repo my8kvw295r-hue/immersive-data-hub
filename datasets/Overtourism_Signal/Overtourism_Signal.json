@@ -1516,6 +1516,319 @@
           }
         ]
       }
+    },
+    {
+      "case_id": "OTC_022",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Venice Historic Centre",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": 2010,
+        "to_year": 2025
+      },
+      "issues": {
+        "tags": [
+          "overtourism_general",
+          "heritage_risk",
+          "cruise_ship_pressure",
+          "day_tripper_pressure",
+          "housing_pressure",
+          "environmental_degradation"
+        ],
+        "comment": " Venice has become a flagship European example of overtourism: high volumes of day-trippers and cruise visitors, a shrinking resident population in the historic centre, and mounting concerns about the city’s UNESCO World Heritage status. Authorities have introduced a €5 day-tripper fee on selected days, restricted large cruise ships from sailing past St Mark’s Square and through the Giudecca canal, and experimented with access controls, yet media and local groups argue these measures only partially address deeper structural pressures on housing, infrastructure and lagoon ecosystems."
+      },
+      "awareness_assessment": {
+        "awareness_level": "high",
+        "conflict_intensity": "high",
+        "policy_response_level": "high",
+        "assessment_basis": "International media coverage, UNESCO monitoring and local protest movements frame Venice as one of the most prominent overtourism hotspots in Europe.",
+        "notes": "Venice is frequently cited in policy debates on how to manage cruise traffic, limit day-tripper flows and protect resident life in historic city centres."
+      },
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "High",
+      "tourism_dependency_level": "Very High",
+      "ngos_involved_count": 3,
+      "statement_ids": [
+        "STM_0063",
+        "STM_0064",
+        "STM_0065",
+        "STM_0066"
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": " Deep-dive creation of OTC_022 (Venice Historic Centre) based on recent coverage of day-tripper fees, cruise-ship restrictions and housing pressure.",
+        "sources_overview": [
+          {
+            "title": "Venice implements day-tripper fee and other restrictions to combat overtourism",
+            "url": "https://etias.com/articles/venice-implements-fees-restrictions-overtourism",
+            "source_type": "policy_overview"
+          },
+          {
+            "title": "Venice’s day-tripper tax raised millions but did it curb overtourism?",
+            "url": "https://www.euronews.com/travel/2025/09/08/venices-daytripper-fee-raised-5-million-in-2025-but-did-it-curb-overtourism",
+            "source_type": "news_article"
+          },
+          {
+            "title": "Overtourism experiment: When and how Venice day-tripper fees will work",
+            "url": "https://travelindustrytoday.com/overtourism-experiment-when-and-how-venice-day-tripper-fees-will-work/",
+            "source_type": "trade_media"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "OTC_023",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Barcelona",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": 2010,
+        "to_year": 2025
+      },
+      "issues": {
+        "tags": [
+          "overtourism_general",
+          "housing_pressure",
+          "short_term_rentals",
+          "cruise_ship_pressure",
+          "protests",
+          "cultural_conflicts"
+        ],
+        "comment": " Barcelona is widely referenced as a city struggling with mass tourism’s impact on housing, neighbourhood life and public space. Visitor numbers, cruise arrivals and the proliferation of short-term rentals have fuelled rent increases, resident protests and a political backlash against the current tourism model. The city now plans to revoke all short-term holiday rental licences by 2028, tighten cruise regulation and increase tourist taxes to fund housing and public services."
+      },
+      "awareness_assessment": {
+        "awareness_level": "high",
+        "conflict_intensity": "high",
+        "policy_response_level": "high",
+        "assessment_basis": "Sustained international coverage of protests, policy experiments and conflicts around housing and tourism, with Barcelona often framed as a reference case for urban overtourism in Europe.",
+        "notes": "Debates link tourism management directly to the housing crisis, social justice and the right to the city, giving the case high political salience."
+      },
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "Mid",
+      "tourism_dependency_level": "High",
+      "ngos_involved_count": 3,
+      "statement_ids": [
+        "STM_0067",
+        "STM_0068",
+        "STM_0069",
+        "STM_0070"
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": " Deep-dive creation of OTC_023 (Barcelona) focusing on housing, cruise traffic, short-term rentals and protest-driven policy responses.",
+        "sources_overview": [
+          {
+            "title": "Overtourism: Barcelona sparks global rethinking",
+            "url": "https://www.greeneuropeanjournal.eu/overtourism-barcelona-sparks-global-rethinking/",
+            "source_type": "analysis_article"
+          },
+          {
+            "title": "Barcelona limits mass tourism to protect city life",
+            "url": "https://inspain.news/barcelona-declares-war-on-mass-tourism/",
+            "source_type": "news_article"
+          },
+          {
+            "title": "From street protests to an Airbnb ban: all the ways Barcelona said no to tourists",
+            "url": "https://www.euronews.com/travel/2024/12/23/from-street-protests-to-an-airbnb-ban-all-the-ways-barcelona-said-no-to-tourists-in-2024",
+            "source_type": "news_article"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "OTC_024",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Santorini",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": 2010,
+        "to_year": 2025
+      },
+      "issues": {
+        "tags": [
+          "overtourism_general",
+          "cruise_ship_pressure",
+          "infrastructure_strain",
+          "housing_pressure",
+          "water_stress",
+          "waste_management"
+        ],
+        "comment": " Santorini’s small land area and limited infrastructure are under intense pressure from millions of annual visitors, particularly cruise passengers. Reports describe severe congestion in Oia and Thera, housing shortages for essential workers, rising prices, waste and water stress, and concerns that the island is becoming inaccessible to most Greeks. National authorities have announced a levy on cruise visitors and are preparing caps on daily cruise arrivals to reduce crowding and environmental impacts."
+      },
+      "awareness_assessment": {
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "mid",
+        "assessment_basis": "Media coverage and political statements present Santorini as a key example of Greek island overtourism, with debates centred on cruise traffic and loss of liveability.",
+        "notes": "Policy discussions link Santorini with other hotspots such as Mykonos and feed into national debates about monitoring tourism’s environmental footprint in the Mediterranean."
+      },
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "Mid",
+      "tourism_dependency_level": "Very High",
+      "ngos_involved_count": 2,
+      "statement_ids": [
+        "STM_0071",
+        "STM_0072",
+        "STM_0073",
+        "STM_0074"
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": " Deep-dive creation of OTC_024 (Santorini), emphasising cruise-driven crowding, infrastructure strain, housing issues and new fiscal/volume controls.",
+        "sources_overview": [
+          {
+            "title": "Overcrowded, overpriced, overheated: Santorini is done with overtourism",
+            "url": "https://worldcrunch.com/food-travel/santorini-greece-overtourism-cruise-ships/",
+            "source_type": "feature_article"
+          },
+          {
+            "title": "Overtourism crisis: Cruise ship surge disrupts Santorini’s calm",
+            "url": "https://www.travelandtourworld.com/news/article/overtourism-crisis-cruise-ship-surge-disrupts-santorinis-calm/",
+            "source_type": "news_article"
+          },
+          {
+            "title": "Santorini at breaking point: The impact of mass tourism on Greece’s iconic island",
+            "url": "https://www.ieidiseis.gr/english-edition/277274/santorini-at-breaking-point-the-impact-of-mass-tourism-on-greece-s-iconic-island/",
+            "source_type": "news_article"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "OTC_025",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Machu Picchu and Aguas Calientes",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": 2010,
+        "to_year": 2025
+      },
+      "issues": {
+        "tags": [
+          "overtourism_general",
+          "heritage_conservation",
+          "crowding",
+          "infrastructure_strain",
+          "ticketing_restrictions"
+        ],
+        "comment": " Machu Picchu and the gateway town of Aguas Calientes illustrate how a single iconic site can dominate a national tourism model. Visitor caps, time-slot ticketing and circuit-based routes aim to reduce crowding and protect the archaeological complex, yet criticism persists over congestion, high prices, environmental strain and limited benefits for nearby communities. The planned Chinchero airport is expected to increase arrivals further, prompting debates about diversifying tourism to other sites and regions."
+      },
+      "awareness_assessment": {
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "high",
+        "assessment_basis": "UNESCO World Heritage status, global media attention and policy research on visitor caps and ticketing reforms all contribute to high awareness of tourism pressures at Machu Picchu.",
+        "notes": "International debates compare Machu Picchu to overtouristed sites like Venice and Bali, while Peruvian authorities defend the current cap system and promotion of alternative destinations."
+      },
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "Mid",
+      "tourism_dependency_level": "Very High",
+      "ngos_involved_count": 2,
+      "statement_ids": [
+        "STM_0075",
+        "STM_0076",
+        "STM_0077",
+        "STM_0078"
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": " Deep-dive creation of OTC_025 (Machu Picchu and Aguas Calientes), focusing on visitor caps, ticketing reforms, local infrastructure and national diversification debates.",
+        "sources_overview": [
+          {
+            "title": "Machu Picchu – time limits for visiting",
+            "url": "https://www.machupicchu.org/time-limits-for-visiting-machu-picchu-what-you-need-to-know.htm",
+            "source_type": "visitor_information"
+          },
+          {
+            "title": "Machu Picchu new rules for visiting",
+            "url": "https://www.incatrailmachu.com/en/travel-blog/machu-picchu-new-rules-2019",
+            "source_type": "tour_operator_info"
+          },
+          {
+            "title": "Machu Picchu sets a visitor limit for 2025 high season",
+            "url": "https://www.voyagers.travel/news/machu-picchu-top-peruvian-tourist-destination-sets-a-visitor-limit",
+            "source_type": "news_article"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "OTC_026",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Komodo National Park",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": 2010,
+        "to_year": 2025
+      },
+      "issues": {
+        "tags": [
+          "overtourism_general",
+          "wildlife_disturbance",
+          "habitat_fragmentation",
+          "indigenous_rights_pressure",
+          "cruise_ship_pressure"
+        ],
+        "comment": " Komodo National Park has seen rapid growth in tourism focused on encounters with Komodo dragons and marine attractions. Conservationists warn that poorly managed visitor numbers, boat traffic and large-scale tourism projects could fragment habitats, disturb wildlife and threaten Indigenous communities’ rights. Debates over a proposed ‘Jurassic Park’-style development, increased entrance fees and potential partial closures have turned the park into a high-profile example of tensions between flagship tourism and conservation."
+      },
+      "awareness_assessment": {
+        "awareness_level": "mid",
+        "conflict_intensity": "medium",
+        "policy_response_level": "mid",
+        "assessment_basis": "NGO campaigns, academic work and international coverage of mega-project plans and fee increases have raised global awareness of the tourism–conservation conflicts in Komodo National Park.",
+        "notes": "The case is often cited in discussions about wildlife-viewing tourism, Indigenous rights and the risks of marketing protected areas as mass tourism destinations."
+      },
+      "media_pressure_level": "Mid",
+      "ngo_pressure_level": "High",
+      "tourism_dependency_level": "High",
+      "ngos_involved_count": 3,
+      "statement_ids": [
+        "STM_0079",
+        "STM_0080",
+        "STM_0081",
+        "STM_0082"
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": " Deep-dive creation of OTC_026 (Komodo National Park), highlighting visitor growth, mega-project plans, Indigenous concerns and conservation responses.",
+        "sources_overview": [
+          {
+            "title": "In the dragons’ lair: tourism faces a delicate balancing act in Komodo National Park",
+            "url": "https://www.downtoearth.org.in/wildlife-biodiversity/in-the-dragons-lair-tourism-faces-a-delicate-balancing-act",
+            "source_type": "feature_article"
+          },
+          {
+            "title": "Home of the Komodo dragon under strain from increased tourism",
+            "url": "https://www.planetattractions.com/news/Home-of-the-Komodo-Dragon-under-strain-from-increased-tourism-as-government-considers-closures/3674",
+            "source_type": "news_article"
+          },
+          {
+            "title": "Indonesia risks destroying protected wildlife habitat with massive tourism projects in Komodo National Park",
+            "url": "https://www.travelandtourworld.com/news/article/indonesia-risks-destroying-protected-wildlife-habitat-and-undermining-indigenous-rights-with-massive-tourism-projects-in-the-heart-of-komodo-national-park/",
+            "source_type": "news_article"
+          }
+        ]
+      }
     }
   ],
   "actors": [
@@ -2633,6 +2946,366 @@
         "for_interviews": true,
         "for_partnerships": true,
         "comment": "Guesthouse owners, tour operators and investors responding to growing visitor flows."
+      }
+    },
+    {
+      "actor_id": "ACT_0063",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "City of Venice (Comune di Venezia)",
+      "actor_type": "local_government",
+      "role_title": null,
+      "organisation": "Comune di Venezia",
+      "sector": "public",
+      "location": "Venice, Italy",
+      "is_collective_actor": true,
+      "supervising_ministry": "Italian national government / Veneto Region",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Leads implementation of day-tripper fees, cruise restrictions and tourism management plans."
+      }
+    },
+    {
+      "actor_id": "ACT_0064",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "UNESCO World Heritage Committee – Venice and its Lagoon",
+      "actor_type": "international_heritage_body",
+      "role_title": null,
+      "organisation": "UNESCO",
+      "sector": "intergovernmental",
+      "location": "Paris / Venice liaison",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Monitors Venice’s World Heritage status and pressures linked to mass tourism and infrastructure projects."
+      }
+    },
+    {
+      "actor_id": "ACT_0065",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Venice resident and activist groups against overtourism",
+      "actor_type": "community_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Venice, Italy",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Local committees and networks campaigning on housing, liveability and cruise ship impacts."
+      }
+    },
+    {
+      "actor_id": "ACT_0066",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Cruise operators serving Venice and the northern Adriatic",
+      "actor_type": "tourism_business_association",
+      "role_title": null,
+      "organisation": null,
+      "sector": "private",
+      "location": "Northern Adriatic region",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Companies affected by bans on large ships entering central Venice routes."
+      }
+    },
+    {
+      "actor_id": "ACT_0067",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Barcelona City Hall",
+      "actor_type": "local_government",
+      "role_title": null,
+      "organisation": "Ajuntament de Barcelona",
+      "sector": "public",
+      "location": "Barcelona, Spain",
+      "is_collective_actor": true,
+      "supervising_ministry": "Generalitat de Catalunya / Government of Spain",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Leads local tourism, housing and public-space regulation, including the plan to cancel holiday rental licences."
+      }
+    },
+    {
+      "actor_id": "ACT_0068",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Government of Catalonia – tourism and housing departments",
+      "actor_type": "regional_government",
+      "role_title": null,
+      "organisation": "Generalitat de Catalunya",
+      "sector": "public",
+      "location": "Barcelona, Spain",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of Spain",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Sets regional tourist tax levels and supports housing policies responding to overtourism pressures."
+      }
+    },
+    {
+      "actor_id": "ACT_0069",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Barcelona neighbourhood and tenants’ movements",
+      "actor_type": "community_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Barcelona, Spain",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Grassroots organisations mobilising against evictions, rent hikes and touristification of central districts."
+      }
+    },
+    {
+      "actor_id": "ACT_0070",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Tourism and short-term rental business associations in Barcelona",
+      "actor_type": "tourism_business_association",
+      "role_title": null,
+      "organisation": null,
+      "sector": "private",
+      "location": "Barcelona, Spain",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Hotel, apartment and cruise-related lobbies that respond to tourism regulations and bans."
+      }
+    },
+    {
+      "actor_id": "ACT_0071",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Greek national government and Ministry of Tourism",
+      "actor_type": "national_ministry",
+      "role_title": null,
+      "organisation": "Government of Greece",
+      "sector": "public",
+      "location": "Athens and Cyclades, Greece",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of Greece",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Announces national measures on cruise levies and caps for islands such as Santorini and Mykonos."
+      }
+    },
+    {
+      "actor_id": "ACT_0072",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Municipality of Thera (Santorini) and local authorities",
+      "actor_type": "local_government",
+      "role_title": null,
+      "organisation": null,
+      "sector": "public",
+      "location": "Santorini, Greece",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of Greece",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Responsible for local planning, infrastructure and coordination with cruise and ferry operators."
+      }
+    },
+    {
+      "actor_id": "ACT_0073",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Santorini residents and small business owners",
+      "actor_type": "community_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Santorini, Greece",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Locals experiencing congestion, rising prices and housing shortages while depending heavily on tourism."
+      }
+    },
+    {
+      "actor_id": "ACT_0074",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Cruise lines and port agents serving Santorini",
+      "actor_type": "tourism_business_association",
+      "role_title": null,
+      "organisation": null,
+      "sector": "private",
+      "location": "Aegean Sea region",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Companies coordinating daily cruise calls and tendering operations at Santorini."
+      }
+    },
+    {
+      "actor_id": "ACT_0075",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Peruvian Ministry of Culture (Mincul) – Machu Picchu management",
+      "actor_type": "national_ministry",
+      "role_title": null,
+      "organisation": "Ministerio de Cultura del Perú",
+      "sector": "public",
+      "location": "Lima / Cusco, Peru",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of Peru",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Responsible for ticketing rules, visitor caps and conservation measures at Machu Picchu."
+      }
+    },
+    {
+      "actor_id": "ACT_0076",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Local authorities and residents of Aguas Calientes (Machu Picchu Pueblo)",
+      "actor_type": "community_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Aguas Calientes, Peru",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Local community and businesses dependent on Machu Picchu tourism and affected by congestion and pricing."
+      }
+    },
+    {
+      "actor_id": "ACT_0077",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Tour operators and guides focused on Machu Picchu",
+      "actor_type": "tourism_business_association",
+      "role_title": null,
+      "organisation": null,
+      "sector": "private",
+      "location": "Cusco region, Peru",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Operators that mediate access to the site and adapt to evolving visitation rules."
+      }
+    },
+    {
+      "actor_id": "ACT_0078",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "UNESCO and heritage experts on Machu Picchu",
+      "actor_type": "international_heritage_body",
+      "role_title": null,
+      "organisation": "UNESCO and advisory bodies",
+      "sector": "intergovernmental",
+      "location": "International",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Assess the state of conservation and advise on balancing tourism with heritage protection."
+      }
+    },
+    {
+      "actor_id": "ACT_0079",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Indonesian national government – tourism and environment ministries",
+      "actor_type": "national_ministry",
+      "role_title": null,
+      "organisation": "Government of Indonesia",
+      "sector": "public",
+      "location": "Jakarta and East Nusa Tenggara, Indonesia",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of Indonesia",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Leads the ‘super-priority’ tourism strategy and regulations affecting Komodo National Park."
+      }
+    },
+    {
+      "actor_id": "ACT_0080",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Indigenous communities living in and around Komodo National Park",
+      "actor_type": "community_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Komodo, Rinca and surrounding islands, Indonesia",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Communities with longstanding relationships to land and sea, concerned about displacement and access restrictions."
+      }
+    },
+    {
+      "actor_id": "ACT_0081",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Environmental NGOs and scientific projects in Komodo National Park",
+      "actor_type": "ngo",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Indonesia and international",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Monitor Komodo dragon populations, marine ecosystems and socio-environmental impacts of tourism projects."
+      }
+    },
+    {
+      "actor_id": "ACT_0082",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Tour operators and boat-based tourism businesses in Komodo",
+      "actor_type": "tourism_business_association",
+      "role_title": null,
+      "organisation": null,
+      "sector": "private",
+      "location": "Labuan Bajo and Komodo National Park, Indonesia",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Companies organising wildlife-viewing tours and liveaboard trips within the park."
       }
     }
   ],
@@ -5615,6 +6288,928 @@
           "ritual_respect_storytelling"
         ],
         "notes": "Immersive pre-visit experiences could teach visitors how to participate respectfully."
+      }
+    },
+    {
+      "statement_id": "STM_0063",
+      "case_id": "OTC_022",
+      "actor_id": "ACT_0063",
+      "source": {
+        "source_id": "SRC_VEN_S1",
+        "source_type": "policy_overview",
+        "title": "Venice implements day-tripper fee and other restrictions to combat overtourism",
+        "url": "https://etias.com/articles/venice-implements-fees-restrictions-overtourism",
+        "publisher": "ETIAS",
+        "publication_date": "2024-04-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Venice authorities introduced a €5 access fee for day-trippers on selected days and emphasised that the measure is intended to manage visitor flows and protect the city’s heritage rather than to raise revenue.",
+      "content_coding": {
+        "primary_issues": [
+          "day_tripper_pressure",
+          "heritage_risk"
+        ],
+        "secondary_issues": [
+          "governance"
+        ],
+        "problem_framing": "pricing_as_management_tool",
+        "attributed_causes": [
+          "high volume of short-stay visitors in peak periods",
+          "strain on public services and fragile urban fabric"
+        ],
+        "proposed_solutions": [
+          "access fees for day-trippers",
+          "better monitoring of visitor flows by day and season"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_critical",
+        "tone": "pragmatic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "scenario_visualisation"
+        ],
+        "notes": "Immersive tools could help simulate different pricing and flow scenarios for political debate."
+      }
+    },
+    {
+      "statement_id": "STM_0064",
+      "case_id": "OTC_022",
+      "actor_id": "ACT_0064",
+      "source": {
+        "source_id": "SRC_VEN_S2",
+        "source_type": "heritage_monitoring",
+        "title": "UNESCO scrutiny of Venice over mass tourism and cruise traffic",
+        "url": null,
+        "publisher": "UNESCO World Heritage Committee",
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "UNESCO has repeatedly signalled that mass tourism, cruise traffic and lagoon modifications could jeopardise the Outstanding Universal Value of Venice and its lagoon, pushing Italy towards stronger management measures.",
+      "content_coding": {
+        "primary_issues": [
+          "heritage_conservation",
+          "cruise_ship_pressure"
+        ],
+        "secondary_issues": [
+          "policy_pressure"
+        ],
+        "problem_framing": "heritage_at_risk_from_mass_tourism",
+        "attributed_causes": [
+          "concentrated visitor flows in the historic centre",
+          "large cruise vessels navigating sensitive waterways"
+        ],
+        "proposed_solutions": [
+          "re-routing or restricting cruise ships",
+          "comprehensive carrying-capacity strategies"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "neutral",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "heritage_visualisation"
+        ],
+        "notes": "Immersive heritage scenarios could visualise long-term impacts on Venice’s lagoon and fabric."
+      }
+    },
+    {
+      "statement_id": "STM_0065",
+      "case_id": "OTC_022",
+      "actor_id": "ACT_0065",
+      "source": {
+        "source_id": "SRC_VEN_S3",
+        "source_type": "local_testimony",
+        "title": "Resident protests over overtourism in Venice",
+        "url": null,
+        "publisher": "Local collectives and media reports",
+        "publication_date": null,
+        "language": "it/en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Resident and activist groups argue that policies have focused too much on visitor controls and not enough on housing affordability and basic services, as long-term Venetians continue to leave the historic centre.",
+      "content_coding": {
+        "primary_issues": [
+          "housing_pressure",
+          "equity"
+        ],
+        "secondary_issues": [
+          "cultural_change"
+        ],
+        "problem_framing": "loss_of_resident_city",
+        "attributed_causes": [
+          "growth of short-term rentals and tourist-oriented businesses",
+          "insufficient protection for long-term tenants and families"
+        ],
+        "proposed_solutions": [
+          "stronger housing regulations and incentives for resident use",
+          "limits on tourist accommodation in core neighbourhoods"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "critical",
+        "tone": "frustrated",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "community_voice"
+        ],
+        "notes": "Immersive storytelling could foreground resident experiences and visualise housing displacement dynamics."
+      }
+    },
+    {
+      "statement_id": "STM_0066",
+      "case_id": "OTC_022",
+      "actor_id": "ACT_0066",
+      "source": {
+        "source_id": "SRC_VEN_S4",
+        "source_type": "industry_response",
+        "title": "Cruise industry reactions to Venice restrictions",
+        "url": null,
+        "publisher": "Cruise lines and sector associations",
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Cruise operators recognise environmental and social concerns but warn that strict bans and rerouting may push ships to alternative ports, shifting rather than solving regional tourism pressures.",
+      "content_coding": {
+        "primary_issues": [
+          "cruise_ship_pressure",
+          "regional_spillover"
+        ],
+        "secondary_issues": [
+          "tourism_dependency"
+        ],
+        "problem_framing": "displacement_of_pressure",
+        "attributed_causes": [
+          "port competition in the Adriatic and Mediterranean"
+        ],
+        "proposed_solutions": [
+          "coordinated regional cruise management strategies"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "defensive",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "regional_scenario_planning"
+        ],
+        "notes": "Could inform cross-port immersive simulations of cruise traffic redistribution."
+      }
+    },
+    {
+      "statement_id": "STM_0067",
+      "case_id": "OTC_023",
+      "actor_id": "ACT_0067",
+      "source": {
+        "source_id": "SRC_BAR_S1",
+        "source_type": "news_article",
+        "title": "Barcelona limits mass tourism to protect city life",
+        "url": "https://inspain.news/barcelona-declares-war-on-mass-tourism/",
+        "publisher": "InSpain.news",
+        "publication_date": "2025-07-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "City authorities describe new measures to curb mass tourism, including caps on cruise ship arrivals, tighter controls on short-term rentals and higher tourist taxes aimed at funding housing and local services.",
+      "content_coding": {
+        "primary_issues": [
+          "housing_pressure",
+          "cruise_ship_pressure"
+        ],
+        "secondary_issues": [
+          "governance"
+        ],
+        "problem_framing": "rebalancing_city_life_and_tourism",
+        "attributed_causes": [
+          "high visitor numbers relative to resident population",
+          "proliferation of tourist accommodation in residential areas"
+        ],
+        "proposed_solutions": [
+          "limiting cruise stops and visitor flows",
+          "directing tourism tax revenue to housing and public goods"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_critical",
+        "tone": "assertive",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "policy_communication"
+        ],
+        "notes": "Immersive formats could help explain trade-offs of new rules to both residents and visitors."
+      }
+    },
+    {
+      "statement_id": "STM_0068",
+      "case_id": "OTC_023",
+      "actor_id": "ACT_0069",
+      "source": {
+        "source_id": "SRC_BAR_S2",
+        "source_type": "local_testimony",
+        "title": "Resident protests and water-gun actions against mass tourism",
+        "url": null,
+        "publisher": "Local and international media reports",
+        "publication_date": null,
+        "language": "es/en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Neighbourhood and tenants’ groups have staged high-visibility protests, including symbolic actions where residents spray tourists with water guns to dramatise anger over high rents, loss of local shops and crowding.",
+      "content_coding": {
+        "primary_issues": [
+          "housing_pressure",
+          "protests"
+        ],
+        "secondary_issues": [
+          "cultural_change"
+        ],
+        "problem_framing": "contention_over_city_identity_and_housing",
+        "attributed_causes": [
+          "rapid expansion of tourist rentals in central districts",
+          "policy delays in addressing the housing crisis"
+        ],
+        "proposed_solutions": [
+          "tighter regulation and eventual phase-out of holiday rentals",
+          "expansion of social and affordable housing stock"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "critical",
+        "tone": "confrontational",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "community_voice"
+        ],
+        "notes": "Immersive storytelling could convey residents’ everyday experiences of touristification."
+      }
+    },
+    {
+      "statement_id": "STM_0069",
+      "case_id": "OTC_023",
+      "actor_id": "ACT_0068",
+      "source": {
+        "source_id": "SRC_BAR_S3",
+        "source_type": "policy_statement",
+        "title": "Catalonia doubles tourist tax to fund housing for locals",
+        "url": null,
+        "publisher": "Government of Catalonia",
+        "publication_date": null,
+        "language": "es",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Regional authorities plan to double the tourist tax by 2025, stating that a portion of the revenues will be earmarked for housing policies in high-pressure areas such as Barcelona.",
+      "content_coding": {
+        "primary_issues": [
+          "housing_pressure",
+          "tourism_tax"
+        ],
+        "secondary_issues": [
+          "equity"
+        ],
+        "problem_framing": "using_tourism_revenue_for_social_policy",
+        "attributed_causes": [
+          "tourism-driven rent increases and gentrification"
+        ],
+        "proposed_solutions": [
+          "higher tourism taxes with dedicated housing funds"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_critical",
+        "tone": "policy_oriented",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "budget_visualisation"
+        ],
+        "notes": "Immersive tools could show how tourism tax revenues translate into housing interventions."
+      }
+    },
+    {
+      "statement_id": "STM_0070",
+      "case_id": "OTC_023",
+      "actor_id": "ACT_0070",
+      "source": {
+        "source_id": "SRC_BAR_S4",
+        "source_type": "industry_response",
+        "title": "Tourism sector reactions to rental bans and protests",
+        "url": null,
+        "publisher": "Business associations and trade media",
+        "publication_date": null,
+        "language": "en/es",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Tourism and rental business associations argue that strict caps and bans on holiday apartments risk damaging Barcelona’s economy and may push rental activity into illegality rather than solving housing problems.",
+      "content_coding": {
+        "primary_issues": [
+          "tourism_dependency",
+          "regulation_backlash"
+        ],
+        "secondary_issues": [
+          "informal_economy"
+        ],
+        "problem_framing": "economic_trade_offs_and_unintended_consequences",
+        "attributed_causes": [
+          "heavy reliance on tourism revenues",
+          "perceived one-sided focus on restrictions rather than negotiation"
+        ],
+        "proposed_solutions": [
+          "gradual, negotiated reforms with compensation mechanisms"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "defensive",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "stakeholder_dialogue"
+        ],
+        "notes": "Immersive simulations could help stakeholders explore regulation scenarios together."
+      }
+    },
+    {
+      "statement_id": "STM_0071",
+      "case_id": "OTC_024",
+      "actor_id": "ACT_0071",
+      "source": {
+        "source_id": "SRC_SAN_S1",
+        "source_type": "news_article",
+        "title": "Overcrowded, overpriced, overheated: Santorini is done with overtourism",
+        "url": "https://worldcrunch.com/food-travel/santorini-greece-overtourism-cruise-ships/",
+        "publisher": "Worldcrunch",
+        "publication_date": "2024-08-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "The Greek Prime Minister announced a special levy for cruise passengers to Santorini and Mykonos and promised stricter regulation of cruise arrivals to curb overtourism and protect the islands’ environment.",
+      "content_coding": {
+        "primary_issues": [
+          "cruise_ship_pressure",
+          "infrastructure_strain"
+        ],
+        "secondary_issues": [
+          "tourism_tax"
+        ],
+        "problem_framing": "using_levies_and_caps_to_control_cruise_impacts",
+        "attributed_causes": [
+          "large daily inflows of cruise visitors",
+          "pressure on limited infrastructure and landscapes"
+        ],
+        "proposed_solutions": [
+          "per-passenger levies",
+          "caps on simultaneous cruise arrivals"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_critical",
+        "tone": "assertive",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "scenario_visualisation"
+        ],
+        "notes": "Immersive modelling could show how different cruise schedules affect congestion and local services."
+      }
+    },
+    {
+      "statement_id": "STM_0072",
+      "case_id": "OTC_024",
+      "actor_id": "ACT_0073",
+      "source": {
+        "source_id": "SRC_SAN_S2",
+        "source_type": "feature_article",
+        "title": "Santorini at breaking point: The impact of mass tourism on Greece’s iconic island",
+        "url": "https://www.ieidiseis.gr/english-edition/277274/santorini-at-breaking-point-the-impact-of-mass-tourism-on-greece-s-iconic-island/",
+        "publisher": "iEidiseis",
+        "publication_date": "2024-07-15",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Local voices describe traffic jams comparable to big cities, skyrocketing rents and a situation in which essential workers struggle to find housing, while daily cruise passenger numbers can exceed 8,000 people.",
+      "content_coding": {
+        "primary_issues": [
+          "housing_pressure",
+          "crowding"
+        ],
+        "secondary_issues": [
+          "livelihood_impacts"
+        ],
+        "problem_framing": "loss_of_liveability_for_residents",
+        "attributed_causes": [
+          "unrestricted cruise arrivals and visitor numbers",
+          "real-estate focus on tourism accommodation"
+        ],
+        "proposed_solutions": [
+          "limits on daily visitor numbers",
+          "programmes to secure housing for key workers"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "ambivalent",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "community_voice"
+        ],
+        "notes": "Immersive stories could help decision-makers experience daily life under peak tourism from residents’ perspective."
+      }
+    },
+    {
+      "statement_id": "STM_0073",
+      "case_id": "OTC_024",
+      "actor_id": "ACT_0072",
+      "source": {
+        "source_id": "SRC_SAN_S3",
+        "source_type": "local_governance_statement",
+        "title": "Municipal discussions on cruise caps and infrastructure in Santorini",
+        "url": null,
+        "publisher": "Municipality of Thera",
+        "publication_date": null,
+        "language": "el/en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Local authorities stress the need to synchronise cruise visitor caps with investments in waste management, water supply and transport to avoid simply shifting bottlenecks from one part of the island to another.",
+      "content_coding": {
+        "primary_issues": [
+          "infrastructure_strain",
+          "waste_management"
+        ],
+        "secondary_issues": [
+          "governance"
+        ],
+        "problem_framing": "systemic_capacity_constraints",
+        "attributed_causes": [
+          "historic underinvestment in core utilities",
+          "focus on growth rather than resilience"
+        ],
+        "proposed_solutions": [
+          "integrated infrastructure planning alongside visitor caps"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "pragmatic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "infrastructure_visualisation"
+        ],
+        "notes": "Immersive tools could show cumulative effects of visitor flows on water and waste systems."
+      }
+    },
+    {
+      "statement_id": "STM_0074",
+      "case_id": "OTC_024",
+      "actor_id": "ACT_0074",
+      "source": {
+        "source_id": "SRC_SAN_S4",
+        "source_type": "industry_response",
+        "title": "Cruise industry views on new levies and caps for Greek islands",
+        "url": null,
+        "publisher": "Cruise sector media and associations",
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Cruise operators highlight the economic importance of calls to Santorini but accept that more predictable rules on daily caps and levies are preferable to ad hoc restrictions or reputational damage from local backlash.",
+      "content_coding": {
+        "primary_issues": [
+          "tourism_dependency",
+          "cruise_ship_pressure"
+        ],
+        "secondary_issues": [
+          "governance"
+        ],
+        "problem_framing": "seeking_predictable_regulation",
+        "attributed_causes": [
+          "uncertainty over future caps and charges"
+        ],
+        "proposed_solutions": [
+          "structured dialogue on cruise management frameworks"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "pragmatic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "stakeholder_dialogue"
+        ],
+        "notes": "Immersive negotiation tools could help align island, national and cruise-industry expectations."
+      }
+    },
+    {
+      "statement_id": "STM_0075",
+      "case_id": "OTC_025",
+      "actor_id": "ACT_0075",
+      "source": {
+        "source_id": "SRC_MP_S1",
+        "source_type": "news_article",
+        "title": "Machu Picchu sets a visitor limit for 2025 high season",
+        "url": "https://www.voyagers.travel/news/machu-picchu-top-peruvian-tourist-destination-sets-a-visitor-limit",
+        "publisher": "Voyagers Travel",
+        "publication_date": "2024-11-13",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "A ministerial resolution caps daily entries at 5,600 visitors in high season, with lower limits in the low season, as part of a strategy to protect the site while maintaining tourism revenues.",
+      "content_coding": {
+        "primary_issues": [
+          "crowding",
+          "heritage_conservation"
+        ],
+        "secondary_issues": [
+          "tourism_dependency"
+        ],
+        "problem_framing": "balancing_cap_levels_and_revenue",
+        "attributed_causes": [
+          "high global demand to visit a single site"
+        ],
+        "proposed_solutions": [
+          "hard caps on daily visitors, differentiated by season"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_critical",
+        "tone": "pragmatic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "capacity_visualisation"
+        ],
+        "notes": "Immersive tools could help explore how different caps affect crowding, conservation and local income."
+      }
+    },
+    {
+      "statement_id": "STM_0076",
+      "case_id": "OTC_025",
+      "actor_id": "ACT_0077",
+      "source": {
+        "source_id": "SRC_MP_S2",
+        "source_type": "tour_operator_info",
+        "title": "Machu Picchu new rules for visiting",
+        "url": "https://www.incatrailmachu.com/en/travel-blog/machu-picchu-new-rules-2019",
+        "publisher": "Inca Trail Machu",
+        "publication_date": "2023-01-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Tour operators explain that visitors must now choose specific entry time slots and follow predefined circuits, with limits on how long they can stay, which reshapes how guides and agencies design trips.",
+      "content_coding": {
+        "primary_issues": [
+          "ticketing_restrictions",
+          "crowding"
+        ],
+        "secondary_issues": [
+          "visitor_experience"
+        ],
+        "problem_framing": "managing_flow_through_designated_routes",
+        "attributed_causes": [
+          "need to distribute visitors in space and time"
+        ],
+        "proposed_solutions": [
+          "time-slot tickets with circuit-based routes"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "informative",
+        "calls_for_action": false
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "visitor_education"
+        ],
+        "notes": "Pre-visit immersive briefings could explain circuits and rules to reduce confusion on-site."
+      }
+    },
+    {
+      "statement_id": "STM_0077",
+      "case_id": "OTC_025",
+      "actor_id": "ACT_0076",
+      "source": {
+        "source_id": "SRC_MP_S3",
+        "source_type": "international_media",
+        "title": "Avoid Machu Picchu? Peru worries about impact of mass tourism",
+        "url": null,
+        "publisher": "International media reports",
+        "publication_date": null,
+        "language": "en/es",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Reporting from Aguas Calientes highlights overcrowded streets, high prices and limited basic infrastructure, with some commentators suggesting the destination is becoming less attractive despite the site’s fame.",
+      "content_coding": {
+        "primary_issues": [
+          "infrastructure_strain",
+          "tourism_reputation_risk"
+        ],
+        "secondary_issues": [
+          "livelihood_impacts"
+        ],
+        "problem_framing": "tourism_success_creating_local_strain",
+        "attributed_causes": [
+          "concentration of visitor services in a small town",
+          "insufficient investment in basic services"
+        ],
+        "proposed_solutions": [
+          "stronger investment in local infrastructure",
+          "diversifying tourism circuits to other sites"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "ambivalent",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "destination_repositioning"
+        ],
+        "notes": "Immersive campaigns could highlight alternative routes and sites to relieve pressure on the core circuit."
+      }
+    },
+    {
+      "statement_id": "STM_0078",
+      "case_id": "OTC_025",
+      "actor_id": "ACT_0078",
+      "source": {
+        "source_id": "SRC_MP_S4",
+        "source_type": "heritage_monitoring",
+        "title": "UNESCO and experts on tourism management at Machu Picchu",
+        "url": null,
+        "publisher": "UNESCO and advisory reports",
+        "publication_date": null,
+        "language": "en/es",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Heritage experts underline that even with caps and circuits, long-term risks to structures, trails and surrounding ecosystems require continuous monitoring and adaptive management of tourism policies.",
+      "content_coding": {
+        "primary_issues": [
+          "heritage_conservation",
+          "governance"
+        ],
+        "secondary_issues": [
+          "monitoring"
+        ],
+        "problem_framing": "need_for_adaptive_management",
+        "attributed_causes": [
+          "uncertainty about climatic and tourism trends"
+        ],
+        "proposed_solutions": [
+          "regular review of caps and routes based on monitoring data"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "neutral",
+        "tone": "analytical",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "monitoring_visualisation"
+        ],
+        "notes": "Immersive dashboards could help align heritage monitoring with policy decisions."
+      }
+    },
+    {
+      "statement_id": "STM_0079",
+      "case_id": "OTC_026",
+      "actor_id": "ACT_0081",
+      "source": {
+        "source_id": "SRC_KOM_S1",
+        "source_type": "feature_article",
+        "title": "In the dragons’ lair: tourism faces a delicate balancing act",
+        "url": "https://www.downtoearth.org.in/wildlife-biodiversity/in-the-dragons-lair-tourism-faces-a-delicate-balancing-act",
+        "publisher": "Down to Earth",
+        "publication_date": "2024-08-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Conservation groups warn that growing numbers of visitors and boats, combined with new infrastructure projects, could disturb Komodo dragons and other wildlife and undermine the park’s conservation objectives.",
+      "content_coding": {
+        "primary_issues": [
+          "wildlife_disturbance",
+          "habitat_fragmentation"
+        ],
+        "secondary_issues": [
+          "governance"
+        ],
+        "problem_framing": "conservation_goals_vs_growth_ambitions",
+        "attributed_causes": [
+          "tourism growth without strong ecological limits",
+          "plans for large-scale resorts and new piers inside protected areas"
+        ],
+        "proposed_solutions": [
+          "strict ecological carrying-capacity assessments",
+          "limits on visitor numbers and infrastructure footprints"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "cautiously_supportive",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "ecosystem_visualisation"
+        ],
+        "notes": "Immersive models could show how different development options affect Komodo dragon habitats."
+      }
+    },
+    {
+      "statement_id": "STM_0080",
+      "case_id": "OTC_026",
+      "actor_id": "ACT_0080",
+      "source": {
+        "source_id": "SRC_KOM_S2",
+        "source_type": "news_article",
+        "title": "Indonesia risks destroying protected wildlife habitat with massive tourism projects",
+        "url": "https://www.travelandtourworld.com/news/article/indonesia-risks-destroying-protected-wildlife-habitat-and-undermining-indigenous-rights-with-massive-tourism-projects-in-the-heart-of-komodo-national-park/",
+        "publisher": "Travel and Tour World",
+        "publication_date": "2025-08-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Indigenous residents express concern that luxury tourism projects and higher park fees will restrict traditional access and could lead to displacement, while decisions are made with limited consultation.",
+      "content_coding": {
+        "primary_issues": [
+          "indigenous_rights_pressure",
+          "livelihood_impacts"
+        ],
+        "secondary_issues": [
+          "equity"
+        ],
+        "problem_framing": "rights_and_access_conflicts",
+        "attributed_causes": [
+          "top-down ‘super-priority’ tourism policies",
+          "insufficient participation of local communities in planning"
+        ],
+        "proposed_solutions": [
+          "free, prior and informed consent for new projects",
+          "co-management arrangements that secure community access"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "ambivalent",
+        "tone": "critical",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "community_voice"
+        ],
+        "notes": "Immersive storytelling could make Indigenous perspectives more visible in national and investor debates."
+      }
+    },
+    {
+      "statement_id": "STM_0081",
+      "case_id": "OTC_026",
+      "actor_id": "ACT_0079",
+      "source": {
+        "source_id": "SRC_KOM_S3",
+        "source_type": "policy_statement",
+        "title": "Indonesia’s ‘super-priority’ tourism strategy for Komodo",
+        "url": null,
+        "publisher": "Government of Indonesia",
+        "publication_date": null,
+        "language": "id/en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "National officials present Komodo as a flagship destination in a broader ‘super-priority’ tourism plan, arguing that carefully planned investments will increase revenue for conservation and local development.",
+      "content_coding": {
+        "primary_issues": [
+          "tourism_dependency",
+          "growth_strategy"
+        ],
+        "secondary_issues": [
+          "governance"
+        ],
+        "problem_framing": "growth_for_conservation_and_development",
+        "attributed_causes": [
+          "need to diversify Indonesia’s tourism portfolio"
+        ],
+        "proposed_solutions": [
+          "linking tourism investments to conservation financing"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "optimistic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "policy_communication"
+        ],
+        "notes": "Immersive tools could help test whether proposed visitor volumes align with conservation thresholds."
+      }
+    },
+    {
+      "statement_id": "STM_0082",
+      "case_id": "OTC_026",
+      "actor_id": "ACT_0082",
+      "source": {
+        "source_id": "SRC_KOM_S4",
+        "source_type": "news_article",
+        "title": "Home of the Komodo dragon under strain from increased tourism",
+        "url": "https://www.planetattractions.com/news/Home-of-the-Komodo-Dragon-under-strain-from-increased-tourism-as-government-considers-closures/3674",
+        "publisher": "Planet Attractions",
+        "publication_date": "2024-10-16",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Tourism operators fear that drastic fee hikes or park closures could damage livelihoods in Labuan Bajo, but acknowledge that unmanaged growth and environmental problems would also harm the destination’s appeal.",
+      "content_coding": {
+        "primary_issues": [
+          "tourism_dependency",
+          "wildlife_disturbance"
+        ],
+        "secondary_issues": [
+          "tourism_reputation_risk"
+        ],
+        "problem_framing": "search_for_balanced_management",
+        "attributed_causes": [
+          "lack of clear, predictable visitor management framework"
+        ],
+        "proposed_solutions": [
+          "transparent, gradual adjustments to fees and access rules"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_critical",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "stakeholder_dialogue"
+        ],
+        "notes": "Immersive participatory tools could explore fee and access scenarios with operators and communities."
       }
     }
   ]
