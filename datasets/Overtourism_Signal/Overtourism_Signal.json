@@ -1,0 +1,783 @@
+{
+  "dataset_meta": {
+    "dataset_id": "MARTIN_SAMBAUER_OVERTOURISM_NPLUS1_V1",
+    "version": "0.1.0",
+    "created_utc": "2025-11-18T00:00:00Z",
+    "last_updated_utc": "2025-11-18T00:00:00Z",
+    "version_notes": "Initial skeleton: 16 cases linked from Immersive_Destination_Analysis (n) plus 5 external enrichment destinations. Actors and statements to be added in later iterations."
+  },
+  "cases": [
+    {
+      "case_id": "OTC_001",
+      "destination_ref": {
+        "destination_id": "DEST_04",
+        "destination_name": "Athens Metropolitan Area",
+        "in_main_dataset": true,
+        "provenance": "from_main_dataset",
+        "candidate_for_main_dataset": null
+      },
+      "research_window": {
+        "from_year": null,
+        "to_year": null
+      },
+      "issues": {
+        "tags": [],
+        "comment": null
+      },
+      "awareness_assessment": {
+        "awareness_level": null,
+        "conflict_intensity": null,
+        "policy_response_level": null,
+        "assessment_basis": null,
+        "notes": null
+      },
+      "media_pressure_level": null,
+      "ngo_pressure_level": null,
+      "tourism_dependency_level": null,
+      "ngos_involved_count": null,
+      "statement_ids": [],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Skeleton case generated from Immersive_Destination_Analysis (n) overtourism signal. Detailed discourse coding to be added in later iterations.",
+        "sources_overview": []
+      }
+    },
+    {
+      "case_id": "OTC_002",
+      "destination_ref": {
+        "destination_id": "DEST_05",
+        "destination_name": "Bali",
+        "in_main_dataset": true,
+        "provenance": "from_main_dataset",
+        "candidate_for_main_dataset": null
+      },
+      "research_window": {
+        "from_year": null,
+        "to_year": null
+      },
+      "issues": {
+        "tags": [],
+        "comment": null
+      },
+      "awareness_assessment": {
+        "awareness_level": null,
+        "conflict_intensity": null,
+        "policy_response_level": null,
+        "assessment_basis": null,
+        "notes": null
+      },
+      "media_pressure_level": null,
+      "ngo_pressure_level": null,
+      "tourism_dependency_level": null,
+      "ngos_involved_count": null,
+      "statement_ids": [],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Skeleton case generated from Immersive_Destination_Analysis (n) overtourism signal. Detailed discourse coding to be added in later iterations.",
+        "sources_overview": []
+      }
+    },
+    {
+      "case_id": "OTC_003",
+      "destination_ref": {
+        "destination_id": "DEST_06",
+        "destination_name": "Andaman Coast Thailand (Phuket – Krabi – Phi Phi – Phang Nga)",
+        "in_main_dataset": true,
+        "provenance": "from_main_dataset",
+        "candidate_for_main_dataset": null
+      },
+      "research_window": {
+        "from_year": null,
+        "to_year": null
+      },
+      "issues": {
+        "tags": [],
+        "comment": null
+      },
+      "awareness_assessment": {
+        "awareness_level": null,
+        "conflict_intensity": null,
+        "policy_response_level": null,
+        "assessment_basis": null,
+        "notes": null
+      },
+      "media_pressure_level": null,
+      "ngo_pressure_level": null,
+      "tourism_dependency_level": null,
+      "ngos_involved_count": null,
+      "statement_ids": [],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Skeleton case generated from Immersive_Destination_Analysis (n) overtourism signal. Detailed discourse coding to be added in later iterations.",
+        "sources_overview": []
+      }
+    },
+    {
+      "case_id": "OTC_004",
+      "destination_ref": {
+        "destination_id": "DEST_07",
+        "destination_name": "Palawan Archipelago",
+        "in_main_dataset": true,
+        "provenance": "from_main_dataset",
+        "candidate_for_main_dataset": null
+      },
+      "research_window": {
+        "from_year": null,
+        "to_year": null
+      },
+      "issues": {
+        "tags": [],
+        "comment": null
+      },
+      "awareness_assessment": {
+        "awareness_level": null,
+        "conflict_intensity": null,
+        "policy_response_level": null,
+        "assessment_basis": null,
+        "notes": null
+      },
+      "media_pressure_level": null,
+      "ngo_pressure_level": null,
+      "tourism_dependency_level": null,
+      "ngos_involved_count": null,
+      "statement_ids": [],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Skeleton case generated from Immersive_Destination_Analysis (n) overtourism signal. Detailed discourse coding to be added in later iterations.",
+        "sources_overview": []
+      }
+    },
+    {
+      "case_id": "OTC_005",
+      "destination_ref": {
+        "destination_id": "DEST_08",
+        "destination_name": "Luang Prabang",
+        "in_main_dataset": true,
+        "provenance": "from_main_dataset",
+        "candidate_for_main_dataset": null
+      },
+      "research_window": {
+        "from_year": null,
+        "to_year": null
+      },
+      "issues": {
+        "tags": [],
+        "comment": null
+      },
+      "awareness_assessment": {
+        "awareness_level": null,
+        "conflict_intensity": null,
+        "policy_response_level": null,
+        "assessment_basis": null,
+        "notes": null
+      },
+      "media_pressure_level": null,
+      "ngo_pressure_level": null,
+      "tourism_dependency_level": null,
+      "ngos_involved_count": null,
+      "statement_ids": [],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Skeleton case generated from Immersive_Destination_Analysis (n) overtourism signal. Detailed discourse coding to be added in later iterations.",
+        "sources_overview": []
+      }
+    },
+    {
+      "case_id": "OTC_006",
+      "destination_ref": {
+        "destination_id": "DEST_09",
+        "destination_name": "Yellowstone National Park",
+        "in_main_dataset": true,
+        "provenance": "from_main_dataset",
+        "candidate_for_main_dataset": null
+      },
+      "research_window": {
+        "from_year": null,
+        "to_year": null
+      },
+      "issues": {
+        "tags": [],
+        "comment": null
+      },
+      "awareness_assessment": {
+        "awareness_level": null,
+        "conflict_intensity": null,
+        "policy_response_level": null,
+        "assessment_basis": null,
+        "notes": null
+      },
+      "media_pressure_level": null,
+      "ngo_pressure_level": null,
+      "tourism_dependency_level": null,
+      "ngos_involved_count": null,
+      "statement_ids": [],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Skeleton case generated from Immersive_Destination_Analysis (n) overtourism signal. Detailed discourse coding to be added in later iterations.",
+        "sources_overview": []
+      }
+    },
+    {
+      "case_id": "OTC_007",
+      "destination_ref": {
+        "destination_id": "DEST_10",
+        "destination_name": "Cartagena de Indias",
+        "in_main_dataset": true,
+        "provenance": "from_main_dataset",
+        "candidate_for_main_dataset": null
+      },
+      "research_window": {
+        "from_year": null,
+        "to_year": null
+      },
+      "issues": {
+        "tags": [],
+        "comment": null
+      },
+      "awareness_assessment": {
+        "awareness_level": null,
+        "conflict_intensity": null,
+        "policy_response_level": null,
+        "assessment_basis": null,
+        "notes": null
+      },
+      "media_pressure_level": null,
+      "ngo_pressure_level": null,
+      "tourism_dependency_level": null,
+      "ngos_involved_count": null,
+      "statement_ids": [],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Skeleton case generated from Immersive_Destination_Analysis (n) overtourism signal. Detailed discourse coding to be added in later iterations.",
+        "sources_overview": []
+      }
+    },
+    {
+      "case_id": "OTC_008",
+      "destination_ref": {
+        "destination_id": "DEST_11",
+        "destination_name": "Okavango Delta",
+        "in_main_dataset": true,
+        "provenance": "from_main_dataset",
+        "candidate_for_main_dataset": null
+      },
+      "research_window": {
+        "from_year": null,
+        "to_year": null
+      },
+      "issues": {
+        "tags": [],
+        "comment": null
+      },
+      "awareness_assessment": {
+        "awareness_level": null,
+        "conflict_intensity": null,
+        "policy_response_level": null,
+        "assessment_basis": null,
+        "notes": null
+      },
+      "media_pressure_level": null,
+      "ngo_pressure_level": null,
+      "tourism_dependency_level": null,
+      "ngos_involved_count": null,
+      "statement_ids": [],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Skeleton case generated from Immersive_Destination_Analysis (n) overtourism signal. Detailed discourse coding to be added in later iterations.",
+        "sources_overview": []
+      }
+    },
+    {
+      "case_id": "OTC_009",
+      "destination_ref": {
+        "destination_id": "DEST_12",
+        "destination_name": "Petra",
+        "in_main_dataset": true,
+        "provenance": "from_main_dataset",
+        "candidate_for_main_dataset": null
+      },
+      "research_window": {
+        "from_year": null,
+        "to_year": null
+      },
+      "issues": {
+        "tags": [],
+        "comment": null
+      },
+      "awareness_assessment": {
+        "awareness_level": null,
+        "conflict_intensity": null,
+        "policy_response_level": null,
+        "assessment_basis": null,
+        "notes": null
+      },
+      "media_pressure_level": null,
+      "ngo_pressure_level": null,
+      "tourism_dependency_level": null,
+      "ngos_involved_count": null,
+      "statement_ids": [],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Skeleton case generated from Immersive_Destination_Analysis (n) overtourism signal. Detailed discourse coding to be added in later iterations.",
+        "sources_overview": []
+      }
+    },
+    {
+      "case_id": "OTC_010",
+      "destination_ref": {
+        "destination_id": "DEST_13",
+        "destination_name": "Pantanal",
+        "in_main_dataset": true,
+        "provenance": "from_main_dataset",
+        "candidate_for_main_dataset": null
+      },
+      "research_window": {
+        "from_year": null,
+        "to_year": null
+      },
+      "issues": {
+        "tags": [],
+        "comment": null
+      },
+      "awareness_assessment": {
+        "awareness_level": null,
+        "conflict_intensity": null,
+        "policy_response_level": null,
+        "assessment_basis": null,
+        "notes": null
+      },
+      "media_pressure_level": null,
+      "ngo_pressure_level": null,
+      "tourism_dependency_level": null,
+      "ngos_involved_count": null,
+      "statement_ids": [],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Skeleton case generated from Immersive_Destination_Analysis (n) overtourism signal. Detailed discourse coding to be added in later iterations.",
+        "sources_overview": []
+      }
+    },
+    {
+      "case_id": "OTC_011",
+      "destination_ref": {
+        "destination_id": "DEST_14",
+        "destination_name": "Halong Bay",
+        "in_main_dataset": true,
+        "provenance": "from_main_dataset",
+        "candidate_for_main_dataset": null
+      },
+      "research_window": {
+        "from_year": null,
+        "to_year": null
+      },
+      "issues": {
+        "tags": [],
+        "comment": null
+      },
+      "awareness_assessment": {
+        "awareness_level": null,
+        "conflict_intensity": null,
+        "policy_response_level": null,
+        "assessment_basis": null,
+        "notes": null
+      },
+      "media_pressure_level": null,
+      "ngo_pressure_level": null,
+      "tourism_dependency_level": null,
+      "ngos_involved_count": null,
+      "statement_ids": [],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Skeleton case generated from Immersive_Destination_Analysis (n) overtourism signal. Detailed discourse coding to be added in later iterations.",
+        "sources_overview": []
+      }
+    },
+    {
+      "case_id": "OTC_012",
+      "destination_ref": {
+        "destination_id": "DEST_15",
+        "destination_name": "Madagascar",
+        "in_main_dataset": true,
+        "provenance": "from_main_dataset",
+        "candidate_for_main_dataset": null
+      },
+      "research_window": {
+        "from_year": null,
+        "to_year": null
+      },
+      "issues": {
+        "tags": [],
+        "comment": null
+      },
+      "awareness_assessment": {
+        "awareness_level": null,
+        "conflict_intensity": null,
+        "policy_response_level": null,
+        "assessment_basis": null,
+        "notes": null
+      },
+      "media_pressure_level": null,
+      "ngo_pressure_level": null,
+      "tourism_dependency_level": null,
+      "ngos_involved_count": null,
+      "statement_ids": [],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Skeleton case generated from Immersive_Destination_Analysis (n) overtourism signal. Detailed discourse coding to be added in later iterations.",
+        "sources_overview": []
+      }
+    },
+    {
+      "case_id": "OTC_013",
+      "destination_ref": {
+        "destination_id": "DEST_16",
+        "destination_name": "Punta Cana",
+        "in_main_dataset": true,
+        "provenance": "from_main_dataset",
+        "candidate_for_main_dataset": null
+      },
+      "research_window": {
+        "from_year": null,
+        "to_year": null
+      },
+      "issues": {
+        "tags": [],
+        "comment": null
+      },
+      "awareness_assessment": {
+        "awareness_level": null,
+        "conflict_intensity": null,
+        "policy_response_level": null,
+        "assessment_basis": null,
+        "notes": null
+      },
+      "media_pressure_level": null,
+      "ngo_pressure_level": null,
+      "tourism_dependency_level": null,
+      "ngos_involved_count": null,
+      "statement_ids": [],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Skeleton case generated from Immersive_Destination_Analysis (n) overtourism signal. Detailed discourse coding to be added in later iterations.",
+        "sources_overview": []
+      }
+    },
+    {
+      "case_id": "OTC_014",
+      "destination_ref": {
+        "destination_id": "DEST_17",
+        "destination_name": "Dubai",
+        "in_main_dataset": true,
+        "provenance": "from_main_dataset",
+        "candidate_for_main_dataset": null
+      },
+      "research_window": {
+        "from_year": null,
+        "to_year": null
+      },
+      "issues": {
+        "tags": [],
+        "comment": null
+      },
+      "awareness_assessment": {
+        "awareness_level": null,
+        "conflict_intensity": null,
+        "policy_response_level": null,
+        "assessment_basis": null,
+        "notes": null
+      },
+      "media_pressure_level": null,
+      "ngo_pressure_level": null,
+      "tourism_dependency_level": null,
+      "ngos_involved_count": null,
+      "statement_ids": [],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Skeleton case generated from Immersive_Destination_Analysis (n) overtourism signal. Detailed discourse coding to be added in later iterations.",
+        "sources_overview": []
+      }
+    },
+    {
+      "case_id": "OTC_015",
+      "destination_ref": {
+        "destination_id": "DEST_18",
+        "destination_name": "Abu Dhabi",
+        "in_main_dataset": true,
+        "provenance": "from_main_dataset",
+        "candidate_for_main_dataset": null
+      },
+      "research_window": {
+        "from_year": null,
+        "to_year": null
+      },
+      "issues": {
+        "tags": [],
+        "comment": null
+      },
+      "awareness_assessment": {
+        "awareness_level": null,
+        "conflict_intensity": null,
+        "policy_response_level": null,
+        "assessment_basis": null,
+        "notes": null
+      },
+      "media_pressure_level": null,
+      "ngo_pressure_level": null,
+      "tourism_dependency_level": null,
+      "ngos_involved_count": null,
+      "statement_ids": [],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Skeleton case generated from Immersive_Destination_Analysis (n) overtourism signal. Detailed discourse coding to be added in later iterations.",
+        "sources_overview": []
+      }
+    },
+    {
+      "case_id": "OTC_016",
+      "destination_ref": {
+        "destination_id": "DEST_19",
+        "destination_name": "Cancún & Riviera Maya",
+        "in_main_dataset": true,
+        "provenance": "from_main_dataset",
+        "candidate_for_main_dataset": null
+      },
+      "research_window": {
+        "from_year": null,
+        "to_year": null
+      },
+      "issues": {
+        "tags": [],
+        "comment": null
+      },
+      "awareness_assessment": {
+        "awareness_level": null,
+        "conflict_intensity": null,
+        "policy_response_level": null,
+        "assessment_basis": null,
+        "notes": null
+      },
+      "media_pressure_level": null,
+      "ngo_pressure_level": null,
+      "tourism_dependency_level": null,
+      "ngos_involved_count": null,
+      "statement_ids": [],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Skeleton case generated from Immersive_Destination_Analysis (n) overtourism signal. Detailed discourse coding to be added in later iterations.",
+        "sources_overview": []
+      }
+    },
+    {
+      "case_id": "OTC_017",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Hallstatt",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": null,
+        "to_year": null
+      },
+      "issues": {
+        "tags": [],
+        "comment": null
+      },
+      "awareness_assessment": {
+        "awareness_level": null,
+        "conflict_intensity": null,
+        "policy_response_level": null,
+        "assessment_basis": null,
+        "notes": null
+      },
+      "media_pressure_level": null,
+      "ngo_pressure_level": null,
+      "tourism_dependency_level": null,
+      "ngos_involved_count": null,
+      "statement_ids": [],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Alpine village with documented protests against overtourism.",
+        "sources_overview": [
+          {
+            "id": "SRC_HALLSTATT_01",
+            "title": "Hallstatt residents protest against overtourism",
+            "url": "https://traveltomorrow.com/hallstatt-residents-protest-against-overtourism/",
+            "source_type": "online_media"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "OTC_018",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Boracay Island",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": null,
+        "to_year": null
+      },
+      "issues": {
+        "tags": [],
+        "comment": null
+      },
+      "awareness_assessment": {
+        "awareness_level": null,
+        "conflict_intensity": null,
+        "policy_response_level": null,
+        "assessment_basis": null,
+        "notes": null
+      },
+      "media_pressure_level": null,
+      "ngo_pressure_level": null,
+      "tourism_dependency_level": null,
+      "ngos_involved_count": null,
+      "statement_ids": [],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Island temporarily closed for environmental rehabilitation following overtourism.",
+        "sources_overview": [
+          {
+            "id": "SRC_BORACAY_01",
+            "title": "2018 Boracay closure and redevelopment",
+            "url": "https://en.wikipedia.org/wiki/2018_Boracay_closure_and_redevelopment",
+            "source_type": "reference"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "OTC_019",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Mallorca",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": null,
+        "to_year": null
+      },
+      "issues": {
+        "tags": [],
+        "comment": null
+      },
+      "awareness_assessment": {
+        "awareness_level": null,
+        "conflict_intensity": null,
+        "policy_response_level": null,
+        "assessment_basis": null,
+        "notes": null
+      },
+      "media_pressure_level": null,
+      "ngo_pressure_level": null,
+      "tourism_dependency_level": null,
+      "ngos_involved_count": null,
+      "statement_ids": [],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Balearic island with mass protests and policy debates around overtourism.",
+        "sources_overview": [
+          {
+            "id": "SRC_MALLORCA_01",
+            "title": "Balearics hit back at 'selfie tourism' as sites become overwhelmed",
+            "url": "https://www.theguardian.com/world/2025/may/19/balearics-hit-back-at-selfie-tourism-as-sites-become-overwhelmed",
+            "source_type": "online_media"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "OTC_020",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Hoi An",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": null,
+        "to_year": null
+      },
+      "issues": {
+        "tags": [],
+        "comment": null
+      },
+      "awareness_assessment": {
+        "awareness_level": null,
+        "conflict_intensity": null,
+        "policy_response_level": null,
+        "assessment_basis": null,
+        "notes": null
+      },
+      "media_pressure_level": null,
+      "ngo_pressure_level": null,
+      "tourism_dependency_level": null,
+      "ngos_involved_count": null,
+      "statement_ids": [],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "UNESCO town facing mounting pressure from visitor numbers and mass tourism.",
+        "sources_overview": [
+          {
+            "id": "SRC_HOIAN_01",
+            "title": "Overtourism in Vietnam: What are the solutions?",
+            "url": "https://adventure.com/hoi-an-cat-ba-island-vietnam-overtourism/",
+            "source_type": "online_media"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "OTC_021",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Tulum",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": null,
+        "to_year": null
+      },
+      "issues": {
+        "tags": [],
+        "comment": null
+      },
+      "awareness_assessment": {
+        "awareness_level": null,
+        "conflict_intensity": null,
+        "policy_response_level": null,
+        "assessment_basis": null,
+        "notes": null
+      },
+      "media_pressure_level": null,
+      "ngo_pressure_level": null,
+      "tourism_dependency_level": null,
+      "ngos_involved_count": null,
+      "statement_ids": [],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Caribbean destination with strong discourse on overdevelopment and environmental strain.",
+        "sources_overview": [
+          {
+            "id": "SRC_TULUM_01",
+            "title": "From San Miguel to Tulum, Mexican Towns Are Being Crushed by Overtourism",
+            "url": "https://www.vallartadaily.com/mexico-news/from-san-miguel-to-tulum-mexican-towns-are-being-crushed-by-overtourism/",
+            "source_type": "online_media"
+          }
+        ]
+      }
+    }
+  ],
+  "actors": [],
+  "statements": []
+}
