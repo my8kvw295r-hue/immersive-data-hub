@@ -341,6 +341,16 @@ Issues tags are used consistently across Cases and Statements. Typical tags incl
 * `price_pressure`
 * `safety_and_security`
 * `climate_impact`
+* `infrastructure_overload`
+* `plastic_pollution`
+* `ecosystem_stress`
+* `biodiversity_loss`
+* `social_conflict_protests`
+* `ngo_pressure`
+* `governance_lag`
+* `cultural_erosion`
+
+These tags can be read as "problem-type" codes: each Case is characterised by a combination of these problem axes.
 
 New tags may be introduced when necessary but should be documented and used consistently.
 
