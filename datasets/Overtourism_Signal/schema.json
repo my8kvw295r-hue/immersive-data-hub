@@ -7,11 +7,23 @@
       "type": "object",
       "description": "Metadata about the dataset as a whole.",
       "properties": {
-        "dataset_id": {"type": "string"},
-        "version": {"type": "string"},
-        "created_utc": {"type": "string", "format": "date-time"},
-        "last_updated_utc": {"type": "string", "format": "date-time"},
-        "version_notes": {"type": "string"}
+        "dataset_id": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        },
+        "created_utc": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "last_updated_utc": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "version_notes": {
+          "type": "string"
+        }
       },
       "additionalProperties": true
     },
@@ -21,24 +33,56 @@
       "items": {
         "type": "object",
         "properties": {
-          "case_id": {"type": "string"},
+          "case_id": {
+            "type": "string"
+          },
           "destination_ref": {
             "type": "object",
             "properties": {
-              "destination_id": {"type": ["string", "null"]},
-              "destination_name": {"type": "string"},
-              "in_main_dataset": {"type": "boolean"},
-              "provenance": {"type": "string"},
-              "candidate_for_main_dataset": {"type": ["boolean", "null"]}
+              "destination_id": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "destination_name": {
+                "type": "string"
+              },
+              "in_main_dataset": {
+                "type": "boolean"
+              },
+              "provenance": {
+                "type": "string"
+              },
+              "candidate_for_main_dataset": {
+                "type": [
+                  "boolean",
+                  "null"
+                ]
+              }
             },
-            "required": ["destination_name", "in_main_dataset", "provenance"],
+            "required": [
+              "destination_name",
+              "in_main_dataset",
+              "provenance"
+            ],
             "additionalProperties": false
           },
           "research_window": {
             "type": "object",
             "properties": {
-              "from_year": {"type": ["integer", "null"]},
-              "to_year": {"type": ["integer", "null"]}
+              "from_year": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "to_year": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              }
             },
             "additionalProperties": false
           },
@@ -47,9 +91,17 @@
             "properties": {
               "tags": {
                 "type": "array",
-                "items": {"type": "string"}
+                "items": {
+                  "type": "string"
+                },
+                "description": "Issue tags used as problem-type codes at Case level. Typical values include: crowding, heritage_damage, housing_pressure, cruise_tourism, water_stress, waste_management, traffic_congestion, noise, price_pressure, safety_and_security, climate_impact, infrastructure_overload, plastic_pollution, ecosystem_stress, biodiversity_loss, social_conflict_protests, ngo_pressure, governance_lag, cultural_erosion."
               },
-              "comment": {"type": ["string", "null"]}
+              "comment": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
             },
             "additionalProperties": false
           },
@@ -57,55 +109,148 @@
             "type": "object",
             "properties": {
               "awareness_level": {
-                "type": ["string", "null"],
-                "enum": ["low", "medium", "high", null]
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "enum": [
+                  "low",
+                  "medium",
+                  "high",
+                  null
+                ]
               },
               "conflict_intensity": {
-                "type": ["string", "null"],
-                "enum": ["low", "medium", "high", null]
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "enum": [
+                  "low",
+                  "medium",
+                  "high",
+                  null
+                ]
               },
               "policy_response_level": {
-                "type": ["string", "null"],
-                "enum": ["low", "medium", "high", null]
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "enum": [
+                  "low",
+                  "medium",
+                  "high",
+                  null
+                ]
               },
-              "assessment_basis": {"type": ["string", "null"]},
-              "notes": {"type": ["string", "null"]}
+              "assessment_basis": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "notes": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
             },
             "additionalProperties": false
           },
           "media_pressure_level": {
-            "type": ["string", "null"],
-            "enum": ["None", "Low", "Mid", "High", "Extreme", null]
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "None",
+              "Low",
+              "Mid",
+              "High",
+              "Extreme",
+              null
+            ]
           },
           "ngo_pressure_level": {
-            "type": ["string", "null"],
-            "enum": ["None", "Low", "Mid", "High", "Extreme", null]
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "None",
+              "Low",
+              "Mid",
+              "High",
+              "Extreme",
+              null
+            ]
           },
           "tourism_dependency_level": {
-            "type": ["string", "null"],
-            "enum": ["Low", "Mid", "High", "Very High", "Extreme", null]
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "Low",
+              "Mid",
+              "High",
+              "Very High",
+              "Extreme",
+              null
+            ]
           },
-          "ngos_involved_count": {"type": ["integer", "null"]},
+          "ngos_involved_count": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
           "statement_ids": {
             "type": "array",
-            "items": {"type": "string"}
+            "items": {
+              "type": "string"
+            }
           },
           "meta": {
             "type": "object",
             "properties": {
-              "last_researched_utc": {"type": ["string", "null"], "format": "date-time"},
-              "researcher_notes": {"type": ["string", "null"]},
+              "last_researched_utc": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "format": "date-time"
+              },
+              "researcher_notes": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
               "sources_overview": {
                 "type": "array",
                 "items": {
                   "type": "object",
                   "properties": {
-                    "id": {"type": "string"},
-                    "title": {"type": "string"},
-                    "url": {"type": "string"},
-                    "source_type": {"type": "string"}
+                    "id": {
+                      "type": "string"
+                    },
+                    "title": {
+                      "type": "string"
+                    },
+                    "url": {
+                      "type": "string"
+                    },
+                    "source_type": {
+                      "type": "string"
+                    }
                   },
-                  "required": ["title", "url"],
+                  "required": [
+                    "title",
+                    "url"
+                  ],
                   "additionalProperties": false
                 }
               }
@@ -113,7 +258,10 @@
             "additionalProperties": true
           }
         },
-        "required": ["case_id", "destination_ref"],
+        "required": [
+          "case_id",
+          "destination_ref"
+        ],
         "additionalProperties": true
       }
     },
@@ -123,28 +271,94 @@
       "items": {
         "type": "object",
         "properties": {
-          "actor_id": {"type": "string"},
-          "name": {"type": "string"},
-          "actor_type": {"type": "string"},
-          "role_title": {"type": ["string", "null"]},
-          "organisation": {"type": ["string", "null"]},
-          "sector": {"type": ["string", "null"]},
-          "location": {"type": ["string", "null"]},
-          "is_collective_actor": {"type": ["boolean", "null"]},
-          "supervising_ministry": {"type": ["string", "null"]},
-          "budget_information": {"type": ["string", "null"]},
-          "institutional_timestamp_utc": {"type": ["string", "null"], "format": "date-time"},
+          "actor_id": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "actor_type": {
+            "type": "string"
+          },
+          "role_title": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "organisation": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "sector": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "location": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "is_collective_actor": {
+            "type": [
+              "boolean",
+              "null"
+            ]
+          },
+          "supervising_ministry": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "budget_information": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "institutional_timestamp_utc": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date-time"
+          },
           "contact_relevance": {
             "type": "object",
             "properties": {
-              "for_interviews": {"type": ["boolean", "null"]},
-              "for_partnerships": {"type": ["boolean", "null"]},
-              "comment": {"type": ["string", "null"]}
+              "for_interviews": {
+                "type": [
+                  "boolean",
+                  "null"
+                ]
+              },
+              "for_partnerships": {
+                "type": [
+                  "boolean",
+                  "null"
+                ]
+              },
+              "comment": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
             },
             "additionalProperties": false
           }
         },
-        "required": ["actor_id", "name", "actor_type"],
+        "required": [
+          "actor_id",
+          "name",
+          "actor_type"
+        ],
         "additionalProperties": true
       }
     },
@@ -154,45 +368,110 @@
       "items": {
         "type": "object",
         "properties": {
-          "statement_id": {"type": "string"},
-          "case_id": {"type": "string"},
-          "actor_id": {"type": "string"},
+          "statement_id": {
+            "type": "string"
+          },
+          "case_id": {
+            "type": "string"
+          },
+          "actor_id": {
+            "type": "string"
+          },
           "source": {
             "type": "object",
             "properties": {
-              "source_id": {"type": "string"},
-              "source_type": {"type": "string"},
-              "title": {"type": "string"},
-              "url": {"type": "string"},
-              "publisher": {"type": ["string", "null"]},
-              "publication_date": {"type": ["string", "null"]},
-              "language": {"type": ["string", "null"]},
-              "accessed_at_utc": {"type": ["string", "null"], "format": "date-time"}
+              "source_id": {
+                "type": "string"
+              },
+              "source_type": {
+                "type": "string"
+              },
+              "title": {
+                "type": "string"
+              },
+              "url": {
+                "type": "string"
+              },
+              "publisher": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "publication_date": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "language": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "accessed_at_utc": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "format": "date-time"
+              }
             },
-            "required": ["source_id", "source_type", "title", "url"],
+            "required": [
+              "source_id",
+              "source_type",
+              "title",
+              "url"
+            ],
             "additionalProperties": false
           },
-          "original_quote": {"type": ["string", "null"]},
-          "paraphrase_en": {"type": ["string", "null"]},
+          "original_quote": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "paraphrase_en": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
           "content_coding": {
             "type": "object",
             "properties": {
               "primary_issues": {
                 "type": "array",
-                "items": {"type": "string"}
+                "items": {
+                  "type": "string"
+                },
+                "description": "Primary issue tags for this statement, using the same problem-type vocabulary as cases. See methodology for recommended tags."
               },
               "secondary_issues": {
                 "type": "array",
-                "items": {"type": "string"}
+                "items": {
+                  "type": "string"
+                },
+                "description": "Secondary issue tags for this statement, using the same problem-type vocabulary as cases."
               },
-              "problem_framing": {"type": ["string", "null"]},
+              "problem_framing": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
               "attributed_causes": {
                 "type": "array",
-                "items": {"type": "string"}
+                "items": {
+                  "type": "string"
+                }
               },
               "proposed_solutions": {
                 "type": "array",
-                "items": {"type": "string"}
+                "items": {
+                  "type": "string"
+                }
               }
             },
             "additionalProperties": false
@@ -200,30 +479,66 @@
           "tone_and_stance": {
             "type": "object",
             "properties": {
-              "stance_towards_tourism": {"type": ["string", "null"]},
-              "tone": {"type": ["string", "null"]},
-              "calls_for_action": {"type": ["boolean", "null"]}
+              "stance_towards_tourism": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "tone": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "calls_for_action": {
+                "type": [
+                  "boolean",
+                  "null"
+                ]
+              }
             },
             "additionalProperties": false
           },
           "relevance_for_immersive_interventions": {
             "type": "object",
             "properties": {
-              "mentions_storytelling_or_communication": {"type": ["boolean", "null"]},
+              "mentions_storytelling_or_communication": {
+                "type": [
+                  "boolean",
+                  "null"
+                ]
+              },
               "potential_intervention_themes": {
                 "type": "array",
-                "items": {"type": "string"}
+                "items": {
+                  "type": "string"
+                }
               },
-              "notes": {"type": ["string", "null"]}
+              "notes": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
             },
             "additionalProperties": false
           }
         },
-        "required": ["statement_id", "case_id", "actor_id", "source"],
+        "required": [
+          "statement_id",
+          "case_id",
+          "actor_id",
+          "source"
+        ],
         "additionalProperties": true
       }
     }
   },
-  "required": ["cases", "actors", "statements"],
+  "required": [
+    "cases",
+    "actors",
+    "statements"
+  ],
   "additionalProperties": false
 }
