@@ -350,7 +350,7 @@
           "wildlife_disturbance",
           "trail_and_site_erosion"
         ],
-        "comment": "Record visitation drives long traffic jams, crowded boardwalks and risky wildlife encounters; gateway communities depend on tourism but ecosystems face cumulative pressure."
+        "comment": "Record visitation drives long traffic jams, crowded boardwalks and risky wildlife encounters; gateway communities depend on tourism but ecosystems face cumulative pressure. Recent reporting and National Park Service documents highlight a combination of record visitation, long entrance queues, overflowing parking lots at key geyser basins and wildlife jams that slow traffic for hours. Gateway communities benefit economically but also struggle with housing pressure and seasonal congestion. Rangers and planners are experimenting with timed-entry tests, shuttle systems and site-specific traffic management projects, yet staffing and funding remain limited relative to demand."
       },
       "awareness_assessment": {
         "awareness_level": "high",
@@ -362,11 +362,17 @@
       "media_pressure_level": "Mid",
       "ngo_pressure_level": "Mid",
       "tourism_dependency_level": "Low",
-      "ngos_involved_count": null,
-      "statement_ids": [],
+      "ngos_involved_count": 2,
+      "statement_ids": [
+        "STM_0033",
+        "STM_0034",
+        "STM_0035",
+        "STM_0036",
+        "STM_0037"
+      ],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained.",
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained. Deep-dive enrichment for OTC_006 (Yellowstone National Park): added sources, actors and statements on record visitation, traffic congestion, wildlife disturbance and visitor-use management experiments.",
         "sources_overview": [
           {
             "title": "Visitor Use Management – Yellowstone National Park",
@@ -382,6 +388,31 @@
             "title": "Tourists vs. Wildlife: The Dangers in the Greater Yellowstone Ecosystem",
             "url": "https://www.nationalparkstraveler.org/2024/12/tourists-vs-wildlife-dangers-greater-yellowstone-ecosystem",
             "source_type": "news_article"
+          },
+          {
+            "title": "Booming Tourism Becomes a Stress Test for Yellowstone",
+            "url": "https://www.nationalgeographic.com/magazine/article/yellowstone-national-parks-tourism",
+            "source_type": "feature_article"
+          },
+          {
+            "title": "Greater Yellowstone Tourism Soars With No Limits In Sight",
+            "url": "https://mountainjournal.org/yellowstone-deals-with-almost-limitless-tourism/",
+            "source_type": "regional_analysis"
+          },
+          {
+            "title": "Yellowstone National Park Visitor Shares The Grim Reality of Entrance Lines",
+            "url": "https://www.thetravel.com/reality-long-yellowstone-national-park-entrance-lines-amid-record-visitation/",
+            "source_type": "travel_media"
+          },
+          {
+            "title": "How Has Tourism Affected Yellowstone National Park",
+            "url": "https://www.touristsecrets.com/travel-tips/how-has-tourism-affected-yellowstone-national-park/",
+            "source_type": "explainer_article"
+          },
+          {
+            "title": "The Impact of Tourism on Yellowstone National Park",
+            "url": "https://nationalparksdata.com/the-impact-of-tourism-on-yellowstone-national-park/",
+            "source_type": "explainer_article"
           }
         ]
       }
@@ -464,7 +495,7 @@
           "boat_and_air_traffic_pressure",
           "luxury_lodge_footprint"
         ],
-        "comment": "High‑end safari model concentrates visitors along key channels; boat traffic, airstrips and lodge infrastructure raise concerns over wildlife disturbance and wetland integrity."
+        "comment": "High‑end safari model concentrates visitors along key channels; boat traffic, airstrips and lodge infrastructure raise concerns over wildlife disturbance and wetland integrity. Additional literature describes the Okavango Delta as a flagship example of high-end, low-volume safari tourism combined with community-based natural resource management. At the same time, climate variability, upstream water-use debates and periodic mass wildlife die-offs underline the system’s vulnerability. Community trusts benefit from tourism revenues but face internal tensions and uneven benefit sharing. Conservation reports highlight implementation gaps in the Okavango Delta Management Plan due to limited funding, weak enforcement and complex stakeholder interests."
       },
       "awareness_assessment": {
         "awareness_level": "medium",
@@ -476,11 +507,17 @@
       "media_pressure_level": "Low",
       "ngo_pressure_level": "Mid",
       "tourism_dependency_level": "High",
-      "ngos_involved_count": null,
-      "statement_ids": [],
+      "ngos_involved_count": 3,
+      "statement_ids": [
+        "STM_0038",
+        "STM_0039",
+        "STM_0040",
+        "STM_0041",
+        "STM_0042"
+      ],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained.",
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained. Deep-dive enrichment for OTC_008 (Okavango Delta, Botswana): added community-based natural resource management (CBNRM), climate and conservation sources, plus actors and statements on water stress, elephant pressure, tourism dependency and governance.",
         "sources_overview": [
           {
             "title": "The socio‑economic and environmental impacts of tourism development on the Okavango Delta",
@@ -496,6 +533,46 @@
             "title": "Sustainable Tourism – Okavango Research Institute",
             "url": "https://ori.ub.bw/ori-research/sustainable-tourism",
             "source_type": "research_institute"
+          },
+          {
+            "title": "Okavango Delta - UNESCO World Heritage Centre (State of Conservation)",
+            "url": "https://whc.unesco.org/en/soc/4322/",
+            "source_type": "unesco_state_of_conservation"
+          },
+          {
+            "title": "How community conservation works in Botswana’s Okavango Delta",
+            "url": "https://www.communityleadersnetwork.org/community-conservation-in-okavango-delta/",
+            "source_type": "community_conservation_profile"
+          },
+          {
+            "title": "Changes on traditional livelihood activities and lifestyles caused by CBNRM in the Okavango Delta",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0261517710001925",
+            "source_type": "academic_article"
+          },
+          {
+            "title": "Mainstreaming climate change in policy frameworks for community-based tourism and CBNRM initiatives in Botswana",
+            "url": "https://www.frontiersin.org/journals/sustainable-tourism/articles/10.3389/frsut.2023.1296959/full",
+            "source_type": "academic_article"
+          },
+          {
+            "title": "Climate Change research at Okavango Research Institute",
+            "url": "https://ori.ub.bw/ori-research/climate-change",
+            "source_type": "research_programme_overview"
+          },
+          {
+            "title": "Conserving The Okavango Delta",
+            "url": "https://www.ngamitimes.co.bw/conserving-the-okavango-delta/",
+            "source_type": "regional_analysis"
+          },
+          {
+            "title": "Exploring Sustainable Tourism in the Okavango Delta: Challenges and Opportunities",
+            "url": "https://www.summitwild.com/post/exploring-sustainable-tourism-in-the-okavango-delta-challenges-opportunities-and-conservation-eff",
+            "source_type": "feature_article"
+          },
+          {
+            "title": "Climate-induced poisoning: 350 elephants probably killed by toxic water",
+            "url": "https://www.theguardian.com/environment/2024/nov/29/mystery-mass-die-off-deaths-elephants-toxic-water-botswana",
+            "source_type": "international_news"
           }
         ]
       }
@@ -521,7 +598,7 @@
           "informal_economy_pressure",
           "visitor_management_challenges"
         ],
-        "comment": "Intense visitor flows through the Siq and central monuments accelerate erosion and structural stress; informal horse, camel and souvenir economies complicate regulation."
+        "comment": "Intense visitor flows through the Siq and central monuments accelerate erosion and structural stress; informal horse, camel and souvenir economies complicate regulation. Additional reporting links overtourism in Petra not only to crowding at the Siq and key monuments, but also to heavy reliance on working animals that carry visitors in extreme heat, contributing to animal-welfare concerns and reputational risks. Animal-protection groups document over 1,000 horses, donkeys and camels working long days on steep, eroding stairways and sandy tracks, often with limited access to shade, water and veterinary care. Local residents depend strongly on tourist spending in the site and in nearby Wadi Musa, which makes it politically difficult to sharply restrict flows without offering alternative livelihoods or mobility systems."
       },
       "awareness_assessment": {
         "awareness_level": "high",
@@ -533,11 +610,17 @@
       "media_pressure_level": "Mid",
       "ngo_pressure_level": "Mid",
       "tourism_dependency_level": "High",
-      "ngos_involved_count": null,
-      "statement_ids": [],
+      "ngos_involved_count": 2,
+      "statement_ids": [
+        "STM_0028",
+        "STM_0029",
+        "STM_0030",
+        "STM_0031",
+        "STM_0032"
+      ],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained.",
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained. Deep-dive enrichment for OTC_009 (Petra, Jordan): expanded sources, NGO and animal-welfare involvement, and issue commentary on crowding, trail erosion, working-animal welfare and local livelihood dependency.",
         "sources_overview": [
           {
             "title": "Over‑tourism in Petra Protected Areas",
@@ -553,6 +636,31 @@
             "title": "Petra – State of Conservation Reports",
             "url": "https://whc.unesco.org/en/soc/4715",
             "source_type": "unesco_report"
+          },
+          {
+            "title": "Donkeys Suffer From Extreme Thirst in Petra",
+            "url": "https://www.peta.org/news/working-donkeys-suffer-in-petra/",
+            "source_type": "animal_welfare_report"
+          },
+          {
+            "title": "Help Stop the Suffering of Petra’s Horses, Donkeys, Mules, and Camels",
+            "url": "https://secure.peta.org.uk/page/74859/action/1",
+            "source_type": "advocacy_campaign"
+          },
+          {
+            "title": "Visiting Petra? 4 Disturbing Reasons Why Animals Suffer in the ‘Lost City’",
+            "url": "https://www.middleeastvegansociety.org/blog/uncategorized/visiting-petra-4-disturbing-reasons-why-animals-suffer-in-the-lost-city",
+            "source_type": "feature_article"
+          },
+          {
+            "title": "How to Help Animals in Petra, Jordan",
+            "url": "https://www.peta.org/news/breaking-violence-in-petra-jordan/",
+            "source_type": "animal_welfare_report"
+          },
+          {
+            "title": "The Silent Agony of Petra's Working Animals",
+            "url": "https://www.theelephantsoul.com/s-v/agony-petra-working-animals",
+            "source_type": "testimony_article"
           }
         ]
       }
@@ -1842,6 +1950,276 @@
         "for_interviews": true,
         "for_partnerships": false,
         "comment": "Local communities who experience both the benefits of tourism and the negative impacts of pollution and coastal development."
+      }
+    },
+    {
+      "actor_id": "ACT_0028",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Petra Development and Tourism Region Authority (PDTRA)",
+      "actor_type": "site_management_authority",
+      "role_title": "Regional authority responsible for managing Petra and surrounding tourism region",
+      "organisation": "Government of Jordan",
+      "sector": "public",
+      "location": "Petra / Wadi Musa, Jordan",
+      "is_collective_actor": true,
+      "supervising_ministry": "Ministry of Tourism and Antiquities",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Leads on visitor regulation, infrastructure and investment in Petra region."
+      }
+    },
+    {
+      "actor_id": "ACT_0029",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Jordan Ministry of Tourism and Antiquities",
+      "actor_type": "national_ministry",
+      "role_title": "National ministry overseeing tourism policy and heritage sites",
+      "organisation": "Government of Jordan",
+      "sector": "public",
+      "location": "Amman, Jordan",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of Jordan",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Sets national policy for Petra and other heritage destinations."
+      }
+    },
+    {
+      "actor_id": "ACT_0030",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Working Animal Welfare NGOs in Petra",
+      "actor_type": "ngo",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Petra / Wadi Musa, Jordan",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Includes organisations documenting the conditions of horses, donkeys, mules and camels used for tourist transport."
+      }
+    },
+    {
+      "actor_id": "ACT_0031",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Licensed guides and animal handlers in Petra",
+      "actor_type": "tourism_operator_association",
+      "role_title": null,
+      "organisation": null,
+      "sector": "private",
+      "location": "Petra / Wadi Musa, Jordan",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Local workers depending on animal transport and guided tours for income."
+      }
+    },
+    {
+      "actor_id": "ACT_0032",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Residents and small business owners in Wadi Musa",
+      "actor_type": "community_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Wadi Musa, Jordan",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Community members whose livelihoods are closely tied to Petra visitation."
+      }
+    },
+    {
+      "actor_id": "ACT_0033",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Yellowstone National Park management (NPS)",
+      "actor_type": "park_management_unit",
+      "role_title": "Park superintendent and visitor-use management team",
+      "organisation": "U.S. National Park Service",
+      "sector": "public",
+      "location": "Yellowstone National Park, USA",
+      "is_collective_actor": true,
+      "supervising_ministry": "U.S. Department of the Interior",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Leads on visitor-use strategies, traffic management and resource protection."
+      }
+    },
+    {
+      "actor_id": "ACT_0034",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Gateway communities around Yellowstone",
+      "actor_type": "local_government_and_business",
+      "role_title": null,
+      "organisation": null,
+      "sector": "mixed",
+      "location": "Gardiner, West Yellowstone, Cody and neighbouring towns, USA",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Local councils and business associations affected by seasonal congestion and reliant on park tourism."
+      }
+    },
+    {
+      "actor_id": "ACT_0035",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Greater Yellowstone conservation NGOs",
+      "actor_type": "ngo",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Greater Yellowstone Ecosystem, USA",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Regional NGOs highlighting wildlife disturbance, roadkill and habitat fragmentation from tourism pressure."
+      }
+    },
+    {
+      "actor_id": "ACT_0036",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Yellowstone concessioners and tour operators",
+      "actor_type": "tourism_operator_association",
+      "role_title": null,
+      "organisation": null,
+      "sector": "private",
+      "location": "Yellowstone National Park and gateway towns, USA",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Lodges, transport providers and tour companies adapting to crowding and new rules."
+      }
+    },
+    {
+      "actor_id": "ACT_0037",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Yellowstone visitors",
+      "actor_type": "visitor_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "other",
+      "location": "USA / international",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": false,
+        "for_partnerships": false,
+        "comment": "Visitors experiencing both the appeal of Yellowstone and the downsides of crowding and delays."
+      }
+    },
+    {
+      "actor_id": "ACT_0038",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Department of Wildlife and National Parks (DWNP), Botswana",
+      "actor_type": "national_agency",
+      "role_title": "Government agency responsible for wildlife and protected areas",
+      "organisation": "Government of Botswana",
+      "sector": "public",
+      "location": "Gaborone / Maun, Botswana",
+      "is_collective_actor": true,
+      "supervising_ministry": "Ministry of Environment and Tourism",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Oversees wildlife management in the Okavango Delta, including tourism concessions."
+      }
+    },
+    {
+      "actor_id": "ACT_0039",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Okavango Delta Management Plan institutions",
+      "actor_type": "multi_stakeholder_body",
+      "role_title": null,
+      "organisation": "Okavango Delta Management structures",
+      "sector": "mixed",
+      "location": "Maun, Botswana",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of Botswana",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Stakeholder committees and technical teams charged with implementing the ODMP."
+      }
+    },
+    {
+      "actor_id": "ACT_0040",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Okavango Community Trust (OCT) and other community trusts",
+      "actor_type": "community_trust",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Okavango Panhandle villages, Botswana",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Community-based organisations that hold tourism concessions and share revenues with member villages."
+      }
+    },
+    {
+      "actor_id": "ACT_0041",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Okavango Research Institute (ORI)",
+      "actor_type": "research_institute",
+      "role_title": null,
+      "organisation": "University of Botswana",
+      "sector": "academic",
+      "location": "Maun, Botswana",
+      "is_collective_actor": true,
+      "supervising_ministry": "Ministry of Education",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Researches climate, hydrology, tourism and community resilience in the Okavango Delta."
+      }
+    },
+    {
+      "actor_id": "ACT_0042",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Okavango Delta safari operators",
+      "actor_type": "tourism_operator_association",
+      "role_title": null,
+      "organisation": null,
+      "sector": "private",
+      "location": "Okavango Delta, Botswana",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "High-end safari camps and operators marketing low-volume, high-value tourism in the Delta."
       }
     }
   ],
@@ -3175,6 +3553,715 @@
         "notes": "Could inform immersive policy labs where local decision-makers explore trade-offs between coastal development and heritage protection."
       },
       "statement_id": "STM_0027"
+    },
+    {
+      "statement_id": "STM_0028",
+      "case_id": "OTC_009",
+      "actor_id": "ACT_0028",
+      "source": {
+        "source_id": "SRC_PET_S1",
+        "source_type": "policy_statement",
+        "title": "PDTRA outlines sustainable tourism vision for Petra",
+        "url": null,
+        "publisher": "PDTRA",
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Representatives of the Petra Development and Tourism Region Authority state that they aim to balance rising visitor numbers with preservation of monuments and improved livelihoods for local communities, while acknowledging that congestion at popular viewpoints and the use of working animals remain sensitive issues.",
+      "content_coding": {
+        "primary_issues": [
+          "crowding",
+          "heritage_preservation"
+        ],
+        "secondary_issues": [
+          "livelihood_impacts"
+        ],
+        "problem_framing": "balancing_growth_and_preservation",
+        "attributed_causes": [
+          "rapid growth in international visitor arrivals",
+          "limited alternative mobility options inside the site"
+        ],
+        "proposed_solutions": [
+          "better visitor flow management in peak seasons",
+          "investment in infrastructure and mobility alternatives"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "strategic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "gateway_storytelling",
+          "visitor_flow_education"
+        ],
+        "notes": "Immersive content could prepare visitors before entering the Siq, reducing pressure on key chokepoints and shifting expectations."
+      }
+    },
+    {
+      "statement_id": "STM_0029",
+      "case_id": "OTC_009",
+      "actor_id": "ACT_0030",
+      "source": {
+        "source_id": "SRC_PET_S2",
+        "source_type": "animal_welfare_report",
+        "title": "Donkeys Suffer From Extreme Thirst, Dogs Struck Down With Rabies at Petra",
+        "url": "https://www.peta.org/news/working-donkeys-suffer-in-petra/",
+        "publisher": "PETA",
+        "publication_date": "2023-04-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Animal-welfare organisations describe donkeys, horses and camels in Petra working long hours in extreme heat, often without reliable access to water or rest, and argue that this model of visitor transport is incompatible with basic welfare standards.",
+      "content_coding": {
+        "primary_issues": [
+          "animal_welfare",
+          "tourism_reputation_risk"
+        ],
+        "secondary_issues": [
+          "heat_stress"
+        ],
+        "problem_framing": "ethical_concern",
+        "attributed_causes": [
+          "heavy reliance on animal transport for visitors",
+          "insufficient enforcement of welfare rules"
+        ],
+        "proposed_solutions": [
+          "phasing in motorised alternatives to animal transport",
+          "clear welfare standards and veterinary oversight"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "critical",
+        "tone": "alarming",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "ethical_storytelling",
+          "behaviour_change"
+        ],
+        "notes": "Immersive experiences at the gateway could explain welfare issues and encourage visitors to avoid using overworked animals."
+      }
+    },
+    {
+      "statement_id": "STM_0030",
+      "case_id": "OTC_009",
+      "actor_id": "ACT_0031",
+      "source": {
+        "source_id": "SRC_PET_S3",
+        "source_type": "feature_article",
+        "title": "Visiting Petra? 4 Disturbing Reasons Why Animals Suffer",
+        "url": "https://www.middleeastvegansociety.org/blog/uncategorized/visiting-petra-4-disturbing-reasons-why-animals-suffer-in-the-lost-city",
+        "publisher": "Middle East Vegan Society",
+        "publication_date": "2023-02-15",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Some local handlers and guides emphasise that transporting visitors up the long stairways to the monastery is one of the few available income sources, and worry that sudden bans on animal rides would leave families without livelihoods unless alternative jobs or support programmes are put in place.",
+      "content_coding": {
+        "primary_issues": [
+          "livelihood_impacts",
+          "animal_welfare"
+        ],
+        "secondary_issues": [
+          "equity"
+        ],
+        "problem_framing": "livelihood_vs_ethics_dilemma",
+        "attributed_causes": [
+          "lack of diversified employment opportunities",
+          "limited skills and capital to shift out of animal-based tourism"
+        ],
+        "proposed_solutions": [
+          "gradual transition plans for handlers",
+          "training and support for alternative visitor services"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "just_transition_dialogue"
+        ],
+        "notes": "Useful for immersive policy labs that explore fair transition away from animal-based transport."
+      }
+    },
+    {
+      "statement_id": "STM_0031",
+      "case_id": "OTC_009",
+      "actor_id": "ACT_0029",
+      "source": {
+        "source_id": "SRC_PET_S4",
+        "source_type": "policy_statement",
+        "title": "Jordan tourism strategy and Petra reforms",
+        "url": null,
+        "publisher": "Jordan Ministry of Tourism and Antiquities",
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "National-level officials frame Petra as a flagship attraction in Jordan’s tourism strategy and underline ongoing efforts to improve visitor infrastructure, but publicly available documents say little about concrete timelines for phasing out animal-based transport or addressing crowding on narrow paths.",
+      "content_coding": {
+        "primary_issues": [
+          "governance",
+          "crowding"
+        ],
+        "secondary_issues": [
+          "animal_welfare"
+        ],
+        "problem_framing": "incomplete_response",
+        "attributed_causes": [
+          "priority given to growth and branding over regulation"
+        ],
+        "proposed_solutions": [
+          "clearer integration of welfare and congestion measures into national plans"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "defensive",
+        "calls_for_action": false
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "policy_alignment"
+        ],
+        "notes": "Highlights a gap where immersive communication could be part of a broader reform package."
+      }
+    },
+    {
+      "statement_id": "STM_0032",
+      "case_id": "OTC_009",
+      "actor_id": "ACT_0032",
+      "source": {
+        "source_id": "SRC_PET_S5",
+        "source_type": "testimony_article",
+        "title": "The Silent Agony of Petra's Working Animals",
+        "url": "https://www.theelephantsoul.com/s-v/agony-petra-working-animals",
+        "publisher": "The Elephant Soul",
+        "publication_date": "2021-06-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Witness accounts from visitors and some residents describe seeing animals whipped or overloaded on steep routes, leaving them conflicted about recommending Petra to others and raising concerns that unresolved welfare issues may damage the site’s reputation over time.",
+      "content_coding": {
+        "primary_issues": [
+          "animal_welfare",
+          "tourism_reputation_risk"
+        ],
+        "secondary_issues": [
+          "visitor_experience"
+        ],
+        "problem_framing": "reputation_risk_from_welfare_abuse",
+        "attributed_causes": [
+          "weak enforcement against abusive practices",
+          "continued marketing of animal rides as a normal part of the experience"
+        ],
+        "proposed_solutions": [
+          "strict enforcement of welfare rules",
+          "promotion of non-animal mobility and walking options"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "ambivalent",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "expectation_management",
+          "alternative_experience_design"
+        ],
+        "notes": "Immersive gateway experiences could normalise the idea of visiting Petra without using animals and showcase alternative ways to experience the site."
+      }
+    },
+    {
+      "statement_id": "STM_0033",
+      "case_id": "OTC_006",
+      "actor_id": "ACT_0033",
+      "source": {
+        "source_id": "SRC_YELL_S1",
+        "source_type": "official_management_page",
+        "title": "Visitor Use Management - Yellowstone",
+        "url": "https://www.nps.gov/yell/learn/management/visitor-use.htm",
+        "publisher": "U.S. National Park Service",
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Yellowstone’s visitor-use team explains that they monitor crowding at key sites, test localized shuttle and traffic-management pilots and rely on visitor surveys to understand acceptable conditions, emphasising that no park-wide reservation system has yet been adopted.",
+      "content_coding": {
+        "primary_issues": [
+          "crowding",
+          "traffic_congestion"
+        ],
+        "secondary_issues": [
+          "staffing_constraints"
+        ],
+        "problem_framing": "adaptive_management_under_pressure",
+        "attributed_causes": [
+          "steady long-term growth in visitation",
+          "limited road network and parking near popular features"
+        ],
+        "proposed_solutions": [
+          "site-specific pilots for shuttles and traffic control",
+          "ongoing monitoring and visitor surveys"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "pragmatic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "data_visualisation_for_managers"
+        ],
+        "notes": "Immersive dashboards could help staff and partners explore traffic and crowding scenarios."
+      }
+    },
+    {
+      "statement_id": "STM_0034",
+      "case_id": "OTC_006",
+      "actor_id": "ACT_0035",
+      "source": {
+        "source_id": "SRC_YELL_S2",
+        "source_type": "feature_article",
+        "title": "Booming Tourism Becomes a Stress Test for Yellowstone",
+        "url": "https://www.nationalgeographic.com/magazine/article/yellowstone-national-parks-tourism",
+        "publisher": "National Geographic",
+        "publication_date": "2016-05-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Conservation voices argue that record crowds and ever-longer seasons are turning Yellowstone into a stress test for wildlife and habitats, with animals increasingly forced to navigate dense traffic corridors and human presence along valley floors.",
+      "content_coding": {
+        "primary_issues": [
+          "wildlife_disturbance",
+          "habitat_fragmentation"
+        ],
+        "secondary_issues": [
+          "crowding"
+        ],
+        "problem_framing": "ecological_stress_from_crowding",
+        "attributed_causes": [
+          "high volumes of vehicles and roadside viewing",
+          "limited restrictions on when and where visitors can stop"
+        ],
+        "proposed_solutions": [
+          "tighter management of roadside wildlife viewing",
+          "expanded no-go zones and speed enforcement"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "cautiously_supportive",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "wildlife_perspective_storytelling"
+        ],
+        "notes": "Immersive media could put visitors into the position of wildlife trying to move through traffic-heavy landscapes."
+      }
+    },
+    {
+      "statement_id": "STM_0035",
+      "case_id": "OTC_006",
+      "actor_id": "ACT_0034",
+      "source": {
+        "source_id": "SRC_YELL_S3",
+        "source_type": "regional_analysis",
+        "title": "Greater Yellowstone Tourism Soars With No Limits In Sight",
+        "url": "https://mountainjournal.org/yellowstone-deals-with-almost-limitless-tourism/",
+        "publisher": "Mountain Journal",
+        "publication_date": "2021-03-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Commentators from the Greater Yellowstone region describe tourism as an economic lifeline for gateway towns but warn that housing pressures, seasonal congestion and infrastructure strain are eroding quality of life for permanent residents.",
+      "content_coding": {
+        "primary_issues": [
+          "tourism_dependency",
+          "infrastructure_strain"
+        ],
+        "secondary_issues": [
+          "housing_pressure"
+        ],
+        "problem_framing": "local_quality_of_life_tradeoffs",
+        "attributed_causes": [
+          "strong reliance on seasonal tourism",
+          "limited long-term planning for housing and services"
+        ],
+        "proposed_solutions": [
+          "better coordination between park and gateway communities",
+          "local planning for housing and transport"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "ambivalent",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "stakeholder_dialogue"
+        ],
+        "notes": "Immersive workshops could visualise trade-offs between visitor volumes and local quality of life."
+      }
+    },
+    {
+      "statement_id": "STM_0036",
+      "case_id": "OTC_006",
+      "actor_id": "ACT_0037",
+      "source": {
+        "source_id": "SRC_YELL_S4",
+        "source_type": "travel_media",
+        "title": "Yellowstone Visitor Shares The Grim Reality Of Entrance Lines",
+        "url": "https://www.thetravel.com/reality-long-yellowstone-national-park-entrance-lines-amid-record-visitation/",
+        "publisher": "The Travel",
+        "publication_date": "2025-07-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Visitor testimonials describe spending hours in entrance queues and circling full parking lots, raising questions about whether Yellowstone can still provide the sense of escape many people expect.",
+      "content_coding": {
+        "primary_issues": [
+          "visitor_experience",
+          "crowding"
+        ],
+        "secondary_issues": [
+          "traffic_congestion"
+        ],
+        "problem_framing": "diminishing_experience",
+        "attributed_causes": [
+          "peak-season surges without timed-entry limits",
+          "high dependence on private cars"
+        ],
+        "proposed_solutions": [
+          "more proactive communication about expected delays",
+          "considering timed entry or shuttle-only models at specific gates"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "frustrated",
+        "calls_for_action": false
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "expectation_management"
+        ],
+        "notes": "Pre-visit immersive briefings could set realistic expectations and promote alternative times or less crowded areas."
+      }
+    },
+    {
+      "statement_id": "STM_0037",
+      "case_id": "OTC_006",
+      "actor_id": "ACT_0036",
+      "source": {
+        "source_id": "SRC_YELL_S5",
+        "source_type": "explainer_article",
+        "title": "The Impact of Tourism on Yellowstone National Park",
+        "url": "https://nationalparksdata.com/the-impact-of-tourism-on-yellowstone-national-park/",
+        "publisher": "National Parks Data",
+        "publication_date": "2023-05-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Tourism-focused analyses note that businesses in and around the park benefit from high visitation but recognise that overcrowding, wear on infrastructure and negative visitor reviews could undermine long-term demand if not managed carefully.",
+      "content_coding": {
+        "primary_issues": [
+          "tourism_dependency",
+          "infrastructure_strain"
+        ],
+        "secondary_issues": [
+          "tourism_reputation_risk"
+        ],
+        "problem_framing": "need_for_sustainable_visitation",
+        "attributed_causes": [
+          "strong marketing and global interest in Yellowstone",
+          "lagging investment in infrastructure relative to use"
+        ],
+        "proposed_solutions": [
+          "coordinated investments in infrastructure and visitor education",
+          "partnerships between NPS and concessioners on sustainable practices"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "strategic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "joint_business_park_planning"
+        ],
+        "notes": "Immersive scenario tools could support joint planning between park and concessioners."
+      }
+    },
+    {
+      "statement_id": "STM_0038",
+      "case_id": "OTC_008",
+      "actor_id": "ACT_0038",
+      "source": {
+        "source_id": "SRC_OKA_S1",
+        "source_type": "unesco_state_of_conservation",
+        "title": "Okavango Delta - State of Conservation Reports",
+        "url": "https://whc.unesco.org/en/soc/4322/",
+        "publisher": "UNESCO World Heritage Centre",
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Government submissions to UNESCO describe ongoing efforts to monitor water quality, control pollution and manage tourism in the Okavango Delta, while acknowledging challenges related to funding, enforcement and external pressures such as upstream water use and climate change.",
+      "content_coding": {
+        "primary_issues": [
+          "governance",
+          "water_management"
+        ],
+        "secondary_issues": [
+          "climate_risk"
+        ],
+        "problem_framing": "implementation_gap",
+        "attributed_causes": [
+          "limited financial and human resources for enforcement",
+          "multiple competing interests within the Delta and upstream"
+        ],
+        "proposed_solutions": [
+          "strengthening ODMP implementation capacity",
+          "closer coordination across ministries and with neighbours"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "cautious",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "scenario_planning",
+          "policy_dialogue_support"
+        ],
+        "notes": "Immersive decision-support tools could help officials explore long-term water and tourism scenarios."
+      }
+    },
+    {
+      "statement_id": "STM_0039",
+      "case_id": "OTC_008",
+      "actor_id": "ACT_0040",
+      "source": {
+        "source_id": "SRC_OKA_S2",
+        "source_type": "community_conservation_profile",
+        "title": "How community conservation works in Botswana’s Okavango Delta",
+        "url": "https://www.communityleadersnetwork.org/community-conservation-in-okavango-delta/",
+        "publisher": "Community Leaders Network of Southern Africa",
+        "publication_date": "2023-02-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Community trust representatives describe how leasing concessions to safari operators brings revenues for villages but note ongoing challenges in ensuring transparent governance, equitable benefit sharing and meaningful participation in tourism decisions.",
+      "content_coding": {
+        "primary_issues": [
+          "tourism_dependency",
+          "equity"
+        ],
+        "secondary_issues": [
+          "community_governance"
+        ],
+        "problem_framing": "benefit_sharing_challenge",
+        "attributed_causes": [
+          "complex governance arrangements within community trusts",
+          "power imbalances between communities and private operators"
+        ],
+        "proposed_solutions": [
+          "capacity building for community trust governance",
+          "stronger contractual safeguards in concession agreements"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "cautiously_supportive",
+        "tone": "reflective",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "community_voice",
+          "benefit_sharing_visualisation"
+        ],
+        "notes": "Immersive storytelling could amplify community perspectives and illustrate revenue flows."
+      }
+    },
+    {
+      "statement_id": "STM_0040",
+      "case_id": "OTC_008",
+      "actor_id": "ACT_0041",
+      "source": {
+        "source_id": "SRC_OKA_S3",
+        "source_type": "academic_article",
+        "title": "Mainstreaming climate change in policy frameworks for CBNRM in Botswana",
+        "url": "https://www.frontiersin.org/journals/sustainable-tourism/articles/10.3389/frsut.2023.1296959/full",
+        "publisher": "Frontiers in Sustainable Tourism",
+        "publication_date": "2023-08-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Researchers working on the Okavango Delta argue that climate change is already affecting hydrological patterns and tourism seasons, and that CBNRM and tourism policies need to integrate climate adaptation more systematically to protect both livelihoods and ecosystems.",
+      "content_coding": {
+        "primary_issues": [
+          "climate_risk",
+          "tourism_dependency"
+        ],
+        "secondary_issues": [
+          "policy_alignment"
+        ],
+        "problem_framing": "need_for_climate_mainstreaming",
+        "attributed_causes": [
+          "rising temperatures and rainfall variability",
+          "slow policy uptake of climate projections"
+        ],
+        "proposed_solutions": [
+          "integrating climate scenarios into ODMP and tourism planning",
+          "supporting community-level adaptation strategies"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "neutral",
+        "tone": "analytical",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "climate_scenario_visualisation"
+        ],
+        "notes": "Immersive simulations could show stakeholders how different climate futures change flood patterns and tourism suitability."
+      }
+    },
+    {
+      "statement_id": "STM_0041",
+      "case_id": "OTC_008",
+      "actor_id": "ACT_0042",
+      "source": {
+        "source_id": "SRC_OKA_S4",
+        "source_type": "feature_article",
+        "title": "Exploring Sustainable Tourism in the Okavango Delta",
+        "url": "https://www.summitwild.com/post/exploring-sustainable-tourism-in-the-okavango-delta-challenges-opportunities-and-conservation-eff",
+        "publisher": "Summit Wild",
+        "publication_date": "2023-03-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Safari operators present the Delta as a model for low-volume, high-value tourism but concede that pressure to expand capacity, combined with climate and wildlife-management challenges, could undermine the \"wilderness\" experience if not carefully managed.",
+      "content_coding": {
+        "primary_issues": [
+          "tourism_dependency",
+          "wildlife_management"
+        ],
+        "secondary_issues": [
+          "tourism_reputation_risk"
+        ],
+        "problem_framing": "maintaining_wilderness_brand",
+        "attributed_causes": [
+          "economic incentives to add more beds and flights",
+          "uncertainty about future water levels and wildlife movements"
+        ],
+        "proposed_solutions": [
+          "maintaining strict limits on bed numbers and aircraft movements",
+          "coordinated wildlife and tourism planning"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "cautiously_optimistic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "brand_protection",
+          "scenario_planning"
+        ],
+        "notes": "Immersive tools could help operators and regulators co-design acceptable growth paths."
+      }
+    },
+    {
+      "statement_id": "STM_0042",
+      "case_id": "OTC_008",
+      "actor_id": "ACT_0039",
+      "source": {
+        "source_id": "SRC_OKA_S5",
+        "source_type": "regional_analysis",
+        "title": "Conserving The Okavango Delta",
+        "url": "https://www.ngamitimes.co.bw/conserving-the-okavango-delta/",
+        "publisher": "The Ngami Times",
+        "publication_date": "2024-04-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Regional commentary notes that the Okavango Delta Management Plan provides a solid framework but that weak enforcement, funding constraints and climate threats limit its effectiveness.",
+      "content_coding": {
+        "primary_issues": [
+          "governance",
+          "implementation_gap"
+        ],
+        "secondary_issues": [
+          "climate_risk"
+        ],
+        "problem_framing": "under_resourced_management",
+        "attributed_causes": [
+          "insufficient dedicated budget for ODMP implementation",
+          "overlapping mandates among institutions"
+        ],
+        "proposed_solutions": [
+          "more stable funding for ODMP structures",
+          "clearer institutional roles and accountability"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "neutral",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "institutional_mapping"
+        ],
+        "notes": "Immersive mapping of institutions and responsibilities could support coordination."
+      }
     }
   ]
 }
