@@ -516,5 +516,622 @@
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
     "source_last_checked": "https://www.nps.gov/jeff/learn/news/jefferson-national-parks-association-offers-new-virtual-reality-experience-in-gateway-arch-lobby.htm"
+  },
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0010",
+    "project_name": "Uluru–Kata Tjuta Cultural Centre",
+    "short_description": "Cultural and visitor centre at Uluru–Kata Tjuta National Park offering exhibitions, art, stories and interpretation from Anangu traditional owners, positioned as the essential starting point for visiting the park.",
+    "country": "Australia",
+    "region": "Northern Territory",
+    "location_notes": "Inside Uluru–Kata Tjuta National Park, near the park entrance; main cultural and visitor gateway.",
+    "gateway_type": "ecological_gateway",
+    "project_goal": [
+      "educational_priming",
+      "behaviour_change",
+      "conservation_support",
+      "arrival_expectation_setting"
+    ],
+    "methods_used": [
+      "spatial_storytelling_navigation",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "interactive_installation"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "commissioning_authority": "Parks Australia / Uluru–Kata Tjuta National Park Board of Management",
+    "commissioning_authority_manager": "",
+    "producer_operating_entity": "Parks Australia",
+    "director_lead_creator": "",
+    "creative_studio": "",
+    "technical_partners": [],
+    "budget_currency": "",
+    "budget_amount_estimate": null,
+    "visitor_capacity_per_hour": null,
+    "annual_visitors_estimate": null,
+    "duration_min": null,
+    "sustainability_context": {
+      "biodiversity_goal": "Support the protection of the Uluru–Kata Tjuta landscape by sharing Anangu culture and explaining rules and appropriate behaviour before visitors explore the park.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "Frequently described as the place where visitors should begin their trip to learn about culture, environment and how to visit respectfully."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://uluru.gov.au/things-do/cultural-centre/",
+      "https://ulurutoursaustralia.com.au/attractions/uluru-kata-tjuta-cultural-centre/"
+    ],
+    "notes": "",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://uluru.gov.au/things-do/cultural-centre/"
+  },
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0011",
+    "project_name": "Zion National Park Visitor Center",
+    "short_description": "Primary visitor centre and logistics hub for Zion National Park, providing information, orientation, permits and access to the park's shuttle system that manages visitor flows into Zion Canyon.",
+    "country": "United States",
+    "region": "Utah",
+    "location_notes": "Near the south entrance of Zion National Park in Springdale; main hub for park information and shuttle system.",
+    "gateway_type": "ecological_gateway",
+    "project_goal": [
+      "flow_redirection",
+      "timeslot_shift",
+      "educational_priming",
+      "behaviour_change"
+    ],
+    "methods_used": [
+      "content_driven_routing",
+      "gateway_sequencing",
+      "spatial_storytelling_navigation"
+    ],
+    "media_format": [
+      "interactive_installation"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "commissioning_authority": "U.S. National Park Service",
+    "commissioning_authority_manager": "",
+    "producer_operating_entity": "Zion National Park, U.S. National Park Service",
+    "director_lead_creator": "",
+    "creative_studio": "",
+    "technical_partners": [],
+    "budget_currency": "",
+    "budget_amount_estimate": null,
+    "visitor_capacity_per_hour": null,
+    "annual_visitors_estimate": null,
+    "duration_min": null,
+    "sustainability_context": {
+      "biodiversity_goal": "Reduce private vehicle traffic in Zion Canyon and protect sensitive canyon environments through shuttle-based access and visitor orientation.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "The visitor centre is described as the main gateway to Zion and the starting point for using the park's essential shuttle system."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.nps.gov/zion/planyourvisit/zion-canyon-shuttle-system.htm",
+      "https://www.usanationalparks.info/zion-visitor-center-information/"
+    ],
+    "notes": "",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://www.nps.gov/zion/planyourvisit/zion-canyon-shuttle-system.htm"
+  },
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0012",
+    "project_name": "Mendenhall Glacier Visitor Center",
+    "short_description": "Visitor centre in Tongass National Forest featuring state-of-the-art exhibits and a film about the glacier and forest ecosystems, serving as an informational hub and starting point for trails around Mendenhall Glacier.",
+    "country": "United States",
+    "region": "Alaska",
+    "location_notes": "Near Juneau in the Tongass National Forest; overlooks Mendenhall Glacier and lake.",
+    "gateway_type": "ecological_gateway",
+    "project_goal": [
+      "educational_priming",
+      "behaviour_change",
+      "conservation_support"
+    ],
+    "methods_used": [
+      "spatial_storytelling_navigation",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "interactive_installation",
+      "360_degree_projection"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "commissioning_authority": "U.S. Forest Service, Tongass National Forest",
+    "commissioning_authority_manager": "",
+    "producer_operating_entity": "U.S. Forest Service",
+    "director_lead_creator": "",
+    "creative_studio": "",
+    "technical_partners": [],
+    "budget_currency": "",
+    "budget_amount_estimate": null,
+    "visitor_capacity_per_hour": null,
+    "annual_visitors_estimate": null,
+    "duration_min": null,
+    "sustainability_context": {
+      "biodiversity_goal": "Help visitors understand glacier dynamics, wildlife and forest ecology to support responsible behaviour in the Mendenhall Glacier Recreation Area.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "The centre combines exhibits, ranger talks and a film, and is promoted as the best starting point for experiencing the glacier area."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.fs.usda.gov/r10/tongass/offices/mendenhall-glacier-visitor-center",
+      "https://thetouristchecklist.com/mendenhall-glacier/"
+    ],
+    "notes": "",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://www.fs.usda.gov/r10/tongass/offices/mendenhall-glacier-visitor-center"
+  },
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0013",
+    "project_name": "Giant's Causeway Visitor Centre",
+    "short_description": "Award-winning visitor centre for the Giant's Causeway World Heritage Site, with interpretive exhibitions, storytelling, audio guides and facilities designed to manage high visitor numbers and traffic to the stones.",
+    "country": "United Kingdom",
+    "region": "Northern Ireland",
+    "location_notes": "At the Giant's Causeway and Causeway Coast World Heritage Site, County Antrim.",
+    "gateway_type": "ecological_gateway",
+    "project_goal": [
+      "flow_redirection",
+      "educational_priming",
+      "conservation_support",
+      "arrival_expectation_setting"
+    ],
+    "methods_used": [
+      "spatial_storytelling_navigation",
+      "content_driven_routing",
+      "gateway_sequencing"
+    ],
+    "media_format": [
+      "interactive_installation"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "commissioning_authority": "National Trust",
+    "commissioning_authority_manager": "",
+    "producer_operating_entity": "National Trust",
+    "director_lead_creator": "",
+    "creative_studio": "",
+    "technical_partners": [],
+    "budget_currency": "",
+    "budget_amount_estimate": null,
+    "visitor_capacity_per_hour": null,
+    "annual_visitors_estimate": null,
+    "duration_min": null,
+    "sustainability_context": {
+      "biodiversity_goal": "Protect the Giant's Causeway landscape and coastal path while accommodating large visitor numbers through managed access and interpretation.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "Designed to manage around 800,000 annual visitors and associated traffic while blending into the landscape."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway/booking-your-visit-to-the-giants-causeway",
+      "https://eumiesawards.com/heritageobject/giants-causeway-visitors-centre/",
+      "https://www.causewaycoastalroute.com/visitor-centre"
+    ],
+    "notes": "",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://eumiesawards.com/heritageobject/giants-causeway-visitors-centre/"
+  },
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0014",
+    "project_name": "Perlan – Wonders of Iceland",
+    "short_description": "Large nature museum and exhibition complex in Reykjavík where visitors experience Icelandic glaciers, ice caves, volcanoes, seabirds and the aurora through interactive exhibitions, a real indoor ice cave and a planetarium show.",
+    "country": "Iceland",
+    "region": "Capital Region",
+    "location_notes": "Perlan building on Öskjuhlid hill in Reykjavík; major nature exhibition and museum.",
+    "gateway_type": "ecological_gateway",
+    "project_goal": [
+      "educational_priming",
+      "behaviour_change",
+      "conservation_support",
+      "physical_impact_replacement"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "emotional_peak_relocation",
+      "spatial_storytelling_navigation"
+    ],
+    "media_format": [
+      "interactive_installation",
+      "digital_twin_simulation",
+      "fulldome"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "commissioning_authority": "",
+    "commissioning_authority_manager": "",
+    "producer_operating_entity": "Perlan – Wonders of Iceland",
+    "director_lead_creator": "",
+    "creative_studio": "",
+    "technical_partners": [],
+    "budget_currency": "",
+    "budget_amount_estimate": null,
+    "visitor_capacity_per_hour": null,
+    "annual_visitors_estimate": null,
+    "duration_min": null,
+    "sustainability_context": {
+      "biodiversity_goal": "Increase understanding of Icelandic natural systems such as glaciers, oceans and bird cliffs, and highlight climate-related change.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "Promoted as the biggest nature museum in Iceland, where visitors can see, feel and live Iceland’s natural wonders in one place without travelling to multiple fragile sites."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://perlan.is/exhibitions/icecave",
+      "https://www.visiticeland.com/service-provider/5ec7d096a90548233654e0dd",
+      "https://guidetoiceland.is/book-holiday-trips/perlan-wonders-of-iceland"
+    ],
+    "notes": "",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://www.visiticeland.com/service-provider/5ec7d096a90548233654e0dd"
+  },
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0015",
+    "project_name": "Old Faithful Visitor Education Center",
+    "short_description": "Visitor education centre at Old Faithful featuring interactive exhibits, a multimedia theatre and large windows overlooking geyser eruptions, explaining hydrothermal features, geology and life in extreme environments.",
+    "country": "United States",
+    "region": "Wyoming",
+    "location_notes": "Upper Geyser Basin area, Yellowstone National Park, near Old Faithful geyser.",
+    "gateway_type": "ecological_gateway",
+    "project_goal": [
+      "educational_priming",
+      "behaviour_change",
+      "conservation_support",
+      "arrival_expectation_setting"
+    ],
+    "methods_used": [
+      "spatial_storytelling_navigation",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "interactive_installation",
+      "360_degree_projection"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "commissioning_authority": "U.S. National Park Service",
+    "commissioning_authority_manager": "",
+    "producer_operating_entity": "Yellowstone National Park, U.S. National Park Service",
+    "director_lead_creator": "",
+    "creative_studio": "",
+    "technical_partners": [],
+    "budget_currency": "",
+    "budget_amount_estimate": null,
+    "visitor_capacity_per_hour": null,
+    "annual_visitors_estimate": null,
+    "duration_min": null,
+    "sustainability_context": {
+      "biodiversity_goal": "Help visitors understand fragile hydrothermal features and appropriate behaviour around geysers and hot springs.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "The centre is a major hub for learning about Yellowstone’s geothermal systems, with exhibits, young scientist program and theatre."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.nps.gov/yell/planyourvisit/oldfaithfulvec.htm",
+      "https://travelwyoming.com/listing/the-new-old-faithful-visitor-education-center/1285/",
+      "https://www.tripadvisor.com/Attraction_Review-g60999-d2311498-Reviews-Old_Faithful_Visitor_Education_Center-Yellowstone_National_Park_Wyoming.html"
+    ],
+    "notes": "",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://www.nps.gov/yell/planyourvisit/oldfaithfulvec.htm"
+  },
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0016",
+    "project_name": "Great Barrier Reef Aquarium (National Education Centre for the Great Barrier Reef)",
+    "short_description": "Large aquarium and national education centre for the Great Barrier Reef, providing access to a living coral reef exhibit and interactive displays so visitors can experience the reef without entering the marine park.",
+    "country": "Australia",
+    "region": "Queensland",
+    "location_notes": "Townsville, North Queensland; national education centre for the Great Barrier Reef.",
+    "gateway_type": "ecological_gateway",
+    "project_goal": [
+      "educational_priming",
+      "physical_impact_replacement",
+      "conservation_support"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "spatial_storytelling_navigation"
+    ],
+    "media_format": [
+      "interactive_installation",
+      "digital_twin_simulation"
+    ],
+    "implementation_stage": "under_construction",
+    "year_opened_or_announced": 1987,
+    "commissioning_authority": "Great Barrier Reef Marine Park Authority",
+    "commissioning_authority_manager": "",
+    "producer_operating_entity": "Great Barrier Reef Marine Park Authority",
+    "director_lead_creator": "",
+    "creative_studio": "",
+    "technical_partners": [],
+    "budget_currency": "",
+    "budget_amount_estimate": null,
+    "visitor_capacity_per_hour": null,
+    "annual_visitors_estimate": null,
+    "duration_min": null,
+    "sustainability_context": {
+      "biodiversity_goal": "Open hearts and minds to the biodiversity of the Great Barrier Reef and provide access to its ecosystems without visiting the reef itself.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "Described as Australia’s National Education Centre for the Great Barrier Reef and the world’s largest living coral reef aquarium; currently being redeveloped."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.greatbarrierreefaquarium.au/about/",
+      "https://www.townsvilleenterprise.com.au/world-leader-on-climate-backs-calls-to-rebuild-national-reef-education-centre/"
+    ],
+    "notes": "",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://www.greatbarrierreefaquarium.au/about/"
+  },
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0017",
+    "project_name": "Karijini Interpretive Centre",
+    "short_description": "Visitor and interpretive centre in Karijini National Park that explains the park’s geology, flora, fauna, Aboriginal culture and history through exhibitions integrated into an iconic building inspired by local culture.",
+    "country": "Australia",
+    "region": "Western Australia",
+    "location_notes": "Karijini National Park, Pilbara region; main visitor and interpretive centre.",
+    "gateway_type": "ecological_gateway",
+    "project_goal": [
+      "educational_priming",
+      "behaviour_change",
+      "conservation_support"
+    ],
+    "methods_used": [
+      "spatial_storytelling_navigation",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "interactive_installation"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "commissioning_authority": "Conservation and Land Management and Karijini Aboriginal Corporation",
+    "commissioning_authority_manager": "",
+    "producer_operating_entity": "Karijini National Park / Government of Western Australia",
+    "director_lead_creator": "",
+    "creative_studio": "",
+    "technical_partners": [],
+    "budget_currency": "",
+    "budget_amount_estimate": null,
+    "visitor_capacity_per_hour": null,
+    "annual_visitors_estimate": null,
+    "duration_min": null,
+    "sustainability_context": {
+      "biodiversity_goal": "Introduce visitors to the geology and ecosystems of Karijini and underline the need to protect its gorges and arid landscapes.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "The building is designed as a cultural symbol (Kurrumanthu) and as a focal point for understanding landscape, people and culture."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.ghd.com/en-au/projects/karijini-interpretive-centre"
+    ],
+    "notes": "",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://www.ghd.com/en-au/projects/karijini-interpretive-centre"
+  },
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0018",
+    "project_name": "Caldera de Taburiente Visitor Center",
+    "short_description": "Modern visitor centre for Caldera de Taburiente National Park offering an immersive visual and educational experience about the park’s geology, biodiversity and hiking opportunities before visitors enter the caldera.",
+    "country": "Spain",
+    "region": "Canary Islands",
+    "location_notes": "El Paso, La Palma; main visitor centre for Caldera de Taburiente National Park.",
+    "gateway_type": "ecological_gateway",
+    "project_goal": [
+      "educational_priming",
+      "behaviour_change",
+      "conservation_support",
+      "arrival_expectation_setting"
+    ],
+    "methods_used": [
+      "spatial_storytelling_navigation",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "interactive_installation"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "commissioning_authority": "",
+    "commissioning_authority_manager": "",
+    "producer_operating_entity": "Caldera de Taburiente National Park",
+    "director_lead_creator": "",
+    "creative_studio": "",
+    "technical_partners": [],
+    "budget_currency": "",
+    "budget_amount_estimate": null,
+    "visitor_capacity_per_hour": null,
+    "annual_visitors_estimate": null,
+    "duration_min": null,
+    "sustainability_context": {
+      "biodiversity_goal": "Explain the scale and ecological value of the caldera landscape to encourage responsible exploration and trail use.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "Promoted as the best place to start exploring the national park and to understand its geology and biodiversity."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://lapalmaisland.com/en/caldera-de-taburiente-visitor-center/"
+    ],
+    "notes": "",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://lapalmaisland.com/en/caldera-de-taburiente-visitor-center/"
+  },
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0019",
+    "project_name": "OM Dark Sky Park and Observatory",
+    "short_description": "Dark sky park and observatory with a high-tech visitor centre offering holographic installations, virtual reality headsets and audio-visual shows to introduce visitors to astronomy and the surrounding dark sky landscape.",
+    "country": "United Kingdom",
+    "region": "Northern Ireland",
+    "location_notes": "Davagh Forest near Cookstown; high-tech dark sky park visitor centre and observatory.",
+    "gateway_type": "ecological_gateway",
+    "project_goal": [
+      "educational_priming",
+      "behaviour_change",
+      "conservation_support"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "spatial_storytelling_navigation",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "virtual_reality",
+      "interactive_installation",
+      "spatial_audio_environment"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "commissioning_authority": "",
+    "commissioning_authority_manager": "",
+    "producer_operating_entity": "OM Dark Sky Park and Observatory",
+    "director_lead_creator": "",
+    "creative_studio": "",
+    "technical_partners": [],
+    "budget_currency": "",
+    "budget_amount_estimate": null,
+    "visitor_capacity_per_hour": null,
+    "annual_visitors_estimate": null,
+    "duration_min": null,
+    "sustainability_context": {
+      "biodiversity_goal": "Promote low-impact night-time tourism linked to protected dark skies and raise awareness of light pollution.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "Referenced as a flagship dark sky attraction in Britain with holograms, VR and AV shows."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.visitbritain.org/news-and-media/destination-news-and-inspiration/exploring-dark-skies-astrotourism-britain"
+    ],
+    "notes": "",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://www.visitbritain.org/news-and-media/destination-news-and-inspiration/exploring-dark-skies-astrotourism-britain"
   }
 ]
