@@ -92,7 +92,7 @@ These ensure transparency about the dataset’s freshness.
 
 For each project, the dataset records:
 
-* project_id (ascending numeric identifier, starting at 1 and never reused; stored as a string, typically zero-padded such as 0001, 0002),
+* project_id (ascending internal identifier in the form ITFG_0001, ITFG_0002, …, stored as a string and never reused),
 * project_name,
 * country,
 * region,
@@ -101,6 +101,8 @@ For each project, the dataset records:
 * methods_used,
 * media_format,
 * implementation_stage (concept, planned, under construction, operating, discontinued, unknown),
+* commissioning_authority (name of the commissioning public body or client institution),
+* commissioning_authority_manager (responsible manager or contact person at the commissioning authority, if documented),
 * producer / operating_entity,
 * director / lead_creator,
 * creative studio and technical partners (if documented),
@@ -124,8 +126,9 @@ project_id is a purely internal identifier used for stable referencing of projec
 
 Core rules:
 
-* Ascending numeric: IDs follow a simple increasing sequence (1, 2, 3, …).
-* Stored as strings: in JSON and CSV files, IDs are stored as strings (e.g. "0001", "0002") to keep sorting stable and allow leading zeros.
+* Prefix + number: every ID starts with ITFG_ followed by a four-digit number (e.g. ITFG_0001, ITFG_0002).
+* Ascending: IDs follow a simple increasing sequence (ITFG_0001, ITFG_0002, ITFG_0003, …).
+* Stored as strings: in JSON and CSV files, IDs are stored as strings to keep sorting stable and preserve leading zeros.
 * Never reused: when a project is deprecated or removed, its ID is retired and never assigned to a different project.
 * No semantic content: IDs do not encode location, media format, or year; all meaning stays in the other fields (project_name, country, gateway_type, etc.).
 
