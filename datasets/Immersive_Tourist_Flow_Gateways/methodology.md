@@ -1,6 +1,6 @@
 ## Methodology for the Dataset
 
-This methodology defines how projects are researched, validated, classified, and recorded for the dataset **Immersive_Tourist_Flow_Gateways**. The goal is to document immersive gateway systems that guide, redirect, modulate, or replace tourist flows using spatial storytelling, behavioural cues, and technological interventions. The approach is directly aligned with the framework described in the article on martin-sambauer.com about Origins of Wonder.
+This methodology defines how projects are researched, validated, classified, and recorded for the dataset Immersive_Tourist_Flow_Gateways. The goal is to document immersive gateway systems that guide, redirect, modulate, or replace tourist flows using spatial storytelling, behavioural cues, and technological interventions. The approach is directly aligned with the framework described in the article on martin-sambauer.com about Origins of Wonder.
 
 ## 1. Scope
 
@@ -92,32 +92,50 @@ These ensure transparency about the dataset’s freshness.
 
 For each project, the dataset records:
 
-* project_name
-* country
-* region
-* gateway_type
-* project_goal
-* methods_used
-* media_format
-* implementation_stage (concept, planned, under construction, operating)
-* producer / operating_entity
-* director / lead_creator
-* budget (if documented)
-* visitor_capacity_per_hour
-* annual_visitors (if available)
-* duration_min
-* sustainability_context (biodiversity, conservation, emissions)
-* measurable_effects (if documented)
-* measurement_methods_used
-* effectiveness_studies_available (yes/no)
-* reference_urls
-* timestamp fields
+* project_id (ascending numeric identifier, starting at 1 and never reused; stored as a string, typically zero-padded such as 0001, 0002),
+* project_name,
+* country,
+* region,
+* gateway_type,
+* project_goal,
+* methods_used,
+* media_format,
+* implementation_stage (concept, planned, under construction, operating, discontinued, unknown),
+* producer / operating_entity,
+* director / lead_creator,
+* creative studio and technical partners (if documented),
+* budget (if documented),
+* visitor_capacity_per_hour,
+* annual_visitors (if available),
+* duration_min,
+* sustainability_context (biodiversity, conservation, emissions),
+* measurable_effects (if documented),
+* measurement_methods_used,
+* effectiveness_studies_available (yes/no),
+* reference_urls,
+* timestamp fields (date_added, date_last_verified, source_last_checked),
+* notes where needed for contextual explanations.
 
-## 5. Effectiveness Studies & Measurement
+Unknown fields remain empty when no reliable, non-AI sources are available.
 
-A core objective of the dataset is to understand the **real influence of immersive gateways on visitor behaviour**. Therefore the dataset documents:
+## 5. ID Convention
 
-### 5.1 Types of Measured Impact
+project_id is a purely internal identifier used for stable referencing of projects in the dataset, on martin-sambauer.com, and in derivative analyses.
+
+Core rules:
+
+* Ascending numeric: IDs follow a simple increasing sequence (1, 2, 3, …).
+* Stored as strings: in JSON and CSV files, IDs are stored as strings (e.g. "0001", "0002") to keep sorting stable and allow leading zeros.
+* Never reused: when a project is deprecated or removed, its ID is retired and never assigned to a different project.
+* No semantic content: IDs do not encode location, media format, or year; all meaning stays in the other fields (project_name, country, gateway_type, etc.).
+
+This keeps the dataset easy to merge, version, and reference while avoiding fragile naming schemes.
+
+## 6. Effectiveness Studies and Measurement
+
+A core objective of the dataset is to understand the real influence of immersive gateways on visitor behaviour. Therefore the dataset documents:
+
+### 6.1 Types of Measured Impact
 
 * reduction of traffic to sensitive zones,
 * increase in usage of alternative attractions,
@@ -126,16 +144,17 @@ A core objective of the dataset is to understand the **real influence of immersi
 * visitor awareness uplift scores,
 * percentage of visitors choosing immersive substitution instead of physical presence.
 
-### 5.2 Measurement Methods
+### 6.2 Measurement Methods
 
 * controlled studies with control groups,
 * post-experience surveys,
 * tracking of visitor routing changes,
 * ecological impact monitoring,
 * ticketing and timeslot data analysis,
-* behavioural audits in protected zones.
+* behavioural audits in protected zones,
+* qualitative interviews where available.
 
-### 5.3 Scientific Literature
+### 6.3 Scientific Literature
 
 The dataset includes references to:
 
@@ -144,9 +163,9 @@ The dataset includes references to:
 * overtourism mitigation literature,
 * gateway-based flow engineering case studies.
 
-## 6. Alignment with the Origins of Wonder Framework
+## 7. Alignment with the Origins of Wonder Framework
 
-The methodology follows the principles outlined in the article [“Origins of Wonder – An Immersive Impact Investment”](https://martin-sambauer.com/origins-of-wonder-an-immersive-impact-investment/):
+The methodology follows the principles outlined in the article [Origins of Wonder – An Immersive Impact Investment](https://martin-sambauer.com/origins-of-wonder-an-immersive-impact-investment/):
 
 * emotional peaks can be separated from fragile physical sites,
 * immersive story environments can prime behaviour before arrival,
