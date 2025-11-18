@@ -635,7 +635,7 @@
           "coastal_urban_development",
           "water_quality_decline"
         ],
-        "comment": "Ha Long Bay hosts dense cruise and boat traffic plus coastal construction; plastic waste, wastewater and over‑development threaten scenic and ecological values."
+        "comment": "Ha Long Bay hosts dense cruise and boat traffic plus coastal construction; plastic waste, wastewater and over‑development threaten scenic and ecological values. Additional reporting highlights a chronic mix of plastic waste, untreated or partly treated wastewater from tourist boats and nearby urban areas, heavy cruise and tour-boat traffic and rapid coastal real-estate development around Ha Long City. UNESCO and IUCN have repeatedly flagged that, without stricter planning and enforcement, these pressures could undermine the World Heritage values of the Ha Long Bay–Cat Ba property, even if it has not been formally placed on the List of World Heritage in Danger. Local residents and guides report growing dissatisfaction among visitors who encounter floating trash and murky water instead of the clear, iconic seascape promoted in tourism marketing."
       },
       "awareness_assessment": {
         "awareness_level": "high",
@@ -647,11 +647,17 @@
       "media_pressure_level": "High",
       "ngo_pressure_level": "High",
       "tourism_dependency_level": "High",
-      "ngos_involved_count": null,
-      "statement_ids": [],
+      "ngos_involved_count": 2,
+      "statement_ids": [
+        "STM_0023",
+        "STM_0024",
+        "STM_0025",
+        "STM_0026",
+        "STM_0027"
+      ],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained.",
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained. Deep-dive enrichment for OTC_011 (Ha Long Bay / Cat Ba Archipelago): expanded sources, NGOs_involved_count, issues.comment and linked actors/statements to reflect plastic and wastewater pollution, over-tourism, boat traffic, coastal real-estate development and UNESCO/IUCN concerns about long-term conservation.",
         "sources_overview": [
           {
             "title": "UNESCO to study development risks to Vietnam’s Ha Long Bay",
@@ -667,6 +673,31 @@
             "title": "‘It makes you sad’: Tourists and fishermen leave Vietnam’s Ha Long Bay covered in trash",
             "url": "https://www.euronews.com/travel/2023/05/29/it-makes-you-sad-tourists-and-fishermen-leave-vietnams-ha-long-bay-covered-in-trash",
             "source_type": "news_article"
+          },
+          {
+            "title": "Ha Long Bay - Cat Ba Archipelago - UNESCO World Heritage Centre (State of Conservation)",
+            "url": "https://whc.unesco.org/en/soc/1144",
+            "source_type": "unesco_state_of_conservation"
+          },
+          {
+            "title": "Vietnam’s Ha Long Bay is under threat from a plastic pollution crisis",
+            "url": "https://www.scmp.com/lifestyle/travel-leisure/article/3222669/why-vietnams-ha-long-bay-under-threat-plastic-pollution-crisis-and-whats-being-done-stop-tourists",
+            "source_type": "feature_article"
+          },
+          {
+            "title": "UNESCO warns of development risks to Vietnam's tourist jewel Ha Long Bay",
+            "url": "https://www.bairdmaritime.com/passenger/maritime-tourism/unesco-warns-of-development-risks-to-vietnams-tourist-jewel-ha-long-bay",
+            "source_type": "trade_press"
+          },
+          {
+            "title": "What Are The Environmental Challenges Facing Ha Long Bay? Pollution & Over-Tourism",
+            "url": "https://sixt.vn/quangninh/what-are-the-environmental-challenges-facing-ha-long-bay-pollution-over-tourism/",
+            "source_type": "explainer_article"
+          },
+          {
+            "title": "Ha Long Bay Pollution: Protecting Vietnam’s Natural Treasure",
+            "url": "https://ecoasiaexplorer.com/ha-long-bay-pollution-protecting-vietnam/",
+            "source_type": "explainer_article"
           }
         ]
       }
@@ -1721,6 +1752,96 @@
         "for_interviews": true,
         "for_partnerships": true,
         "comment": "Coordinates marketing and development plans for Phuket, Krabi and Phang Nga, balancing growth and sustainability narratives."
+      }
+    },
+    {
+      "actor_id": "ACT_0023",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Ha Long Bay Management Board",
+      "actor_type": "site_management_authority",
+      "role_title": "Management authority for Ha Long Bay World Heritage site",
+      "organisation": "Quang Ninh Provincial People’s Committee",
+      "sector": "public",
+      "location": "Ha Long City, Quang Ninh, Vietnam",
+      "is_collective_actor": true,
+      "supervising_ministry": "Ministry of Culture, Sports and Tourism",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Coordinates day-to-day management of Ha Long Bay, including waste collection schemes, boat regulations and conservation measures."
+      }
+    },
+    {
+      "actor_id": "ACT_0024",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Quang Ninh Provincial People’s Committee",
+      "actor_type": "provincial_government",
+      "role_title": "Provincial authority overseeing development and tourism in Ha Long Bay region",
+      "organisation": "Quang Ninh Province",
+      "sector": "public",
+      "location": "Ha Long City, Quang Ninh, Vietnam",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of Vietnam",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Approves major tourism and urban development projects along the Ha Long coastline."
+      }
+    },
+    {
+      "actor_id": "ACT_0025",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "UNESCO World Heritage Centre – Ha Long Bay / Cat Ba desk",
+      "actor_type": "international_organisation",
+      "role_title": "UNESCO unit responsible for monitoring Ha Long Bay–Cat Ba World Heritage property",
+      "organisation": "UNESCO World Heritage Centre",
+      "sector": "international",
+      "location": "Paris, France / Hanoi, Vietnam",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Issues State of Conservation reports and coordinates advisory and monitoring missions for the site."
+      }
+    },
+    {
+      "actor_id": "ACT_0026",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Ha Long cruise and tour-boat operators",
+      "actor_type": "tourism_operator_association",
+      "role_title": null,
+      "organisation": null,
+      "sector": "private",
+      "location": "Ha Long Bay, Vietnam",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Businesses running bay cruises and day trips, affected by stricter environmental regulations and reputational risks from pollution."
+      }
+    },
+    {
+      "actor_id": "ACT_0027",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Residents and small-scale fishers of Ha Long Bay",
+      "actor_type": "community_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Ha Long Bay, Vietnam",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Local communities who experience both the benefits of tourism and the negative impacts of pollution and coastal development."
       }
     }
   ],
@@ -2814,6 +2935,246 @@
         "notes": "Immersive scenarios could support corridor-level planning, showing how visitor flows shift between Phuket, Krabi, Phi Phi and Phang Nga."
       },
       "statement_id": "STM_0022"
+    },
+    {
+      "case_id": "OTC_011",
+      "actor_id": "ACT_0025",
+      "source": {
+        "source_id": "SRC_HLB_S1",
+        "source_type": "international_news",
+        "title": "UNESCO to study development risks to Vietnam's Ha Long Bay",
+        "url": "https://www.reuters.com/world/asia-pacific/unesco-study-development-risks-vietnams-ha-long-bay-2024-12-20/",
+        "publisher": "Reuters",
+        "publication_date": "2024-12-20",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "UNESCO’s World Heritage Centre states that multiple new tourism and coastal residential projects in Ha Long City have been approved and implemented without adequate assessment of their impacts on the bay’s Outstanding Universal Value, prompting a monitoring mission that could lead to corrective measures if threats are confirmed.",
+      "content_coding": {
+        "primary_issues": [
+          "governance",
+          "coastal_development_pressure"
+        ],
+        "secondary_issues": [
+          "heritage_risk"
+        ],
+        "problem_framing": "development_risks_to_heritage",
+        "attributed_causes": [
+          "rapid coastal real-estate and tourism development around Ha Long City",
+          "insufficient environmental impact assessment and enforcement"
+        ],
+        "proposed_solutions": [
+          "independent expert mission and State of Conservation reporting",
+          "corrective measures and stricter development control if needed"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "balanced",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "heritage_risk_visualisation",
+          "scenario_planning"
+        ],
+        "notes": "Immersive tools could visualise different development scenarios and their long-term effects on landscape, water quality and tourism value."
+      },
+      "statement_id": "STM_0023"
+    },
+    {
+      "case_id": "OTC_011",
+      "actor_id": "ACT_0023",
+      "source": {
+        "source_id": "SRC_HLB_S2",
+        "source_type": "feature_article",
+        "title": "Vietnam battles plastic blight in idyllic Ha Long Bay",
+        "url": "https://www.euronews.com/travel/2023/05/29/it-makes-you-sad-tourists-and-fishermen-leave-vietnams-ha-long-bay-covered-in-trash",
+        "publisher": "Euronews",
+        "publication_date": "2023-05-29",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Officials from the Ha Long Bay management board acknowledge serious plastic pollution in parts of the bay and describe measures such as banning single-use plastics on tourist boats and organising regular waste-collection operations, while conceding that urban runoff and household waste from nearby residential areas remain difficult to control.",
+      "content_coding": {
+        "primary_issues": [
+          "plastic_pollution",
+          "waste_management"
+        ],
+        "secondary_issues": [
+          "urban_runoff"
+        ],
+        "problem_framing": "partial_response_to_systemic_pollution",
+        "attributed_causes": [
+          "tourist boat waste and single-use plastics",
+          "domestic waste and runoff from growing urban areas near the bay"
+        ],
+        "proposed_solutions": [
+          "bans on single-use plastics on tourist boats",
+          "coordinated waste-collection schemes around the bay",
+          "stronger integration of urban waste management with bay protection"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "defensive",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "pollution_flows_visualisation",
+          "behaviour_change"
+        ],
+        "notes": "Immersive content could trace how plastic from cities and boats moves through the bay and affects wildlife and tourism experiences."
+      },
+      "statement_id": "STM_0024"
+    },
+    {
+      "case_id": "OTC_011",
+      "actor_id": "ACT_0027",
+      "source": {
+        "source_id": "SRC_HLB_S3",
+        "source_type": "feature_article",
+        "title": "Why Vietnam’s Ha Long Bay is under threat from a plastic pollution crisis",
+        "url": "https://www.scmp.com/lifestyle/travel-leisure/article/3222669/why-vietnams-ha-long-bay-under-threat-plastic-pollution-crisis-and-whats-being-done-stop-tourists",
+        "publisher": "South China Morning Post",
+        "publication_date": "2023-06-05",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Local residents and guides report that visitors increasingly complain about floating trash and decline to swim or recommend the bay to friends, while small-scale fishers point to declining catches and damaged marine habitats linked to pollution and intensive boat traffic.",
+      "content_coding": {
+        "primary_issues": [
+          "plastic_pollution",
+          "tourism_reputation_risk"
+        ],
+        "secondary_issues": [
+          "livelihood_impacts"
+        ],
+        "problem_framing": "quality_of_experience_and_livelihood_loss",
+        "attributed_causes": [
+          "insufficient waste management for tourism and nearby towns",
+          "boat traffic and careless visitor behaviour"
+        ],
+        "proposed_solutions": [
+          "tighter enforcement against littering and illegal dumping",
+          "investments in waste and wastewater infrastructure"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "ambivalent",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "community_voice",
+          "experience_gap"
+        ],
+        "notes": "Immersive narratives could juxtapose marketing imagery with the reality experienced by residents, fishers and visitors encountering pollution."
+      },
+      "statement_id": "STM_0025"
+    },
+    {
+      "case_id": "OTC_011",
+      "actor_id": "ACT_0026",
+      "source": {
+        "source_id": "SRC_HLB_S4",
+        "source_type": "explainer_article",
+        "title": "What Are The Environmental Challenges Facing Ha Long Bay? Pollution & Over-Tourism",
+        "url": "https://sixt.vn/quangninh/what-are-the-environmental-challenges-facing-ha-long-bay-pollution-over-tourism/",
+        "publisher": "SIXT Vietnam (blog)",
+        "publication_date": "2025-03-15",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Industry voices highlight that Ha Long Bay tourism is a major source of jobs and income for Quang Ninh Province, but acknowledge that over-tourism, boat emissions and weak waste controls are damaging the bay’s ecosystem and risking its long-term attractiveness.",
+      "content_coding": {
+        "primary_issues": [
+          "tourism_dependency",
+          "environmental_degradation"
+        ],
+        "secondary_issues": [
+          "economic_vulnerability"
+        ],
+        "problem_framing": "growth_vs_sustainability",
+        "attributed_causes": [
+          "high visitor numbers and dense boat traffic",
+          "slow adoption of cleaner technologies and practices"
+        ],
+        "proposed_solutions": [
+          "stricter environmental regulations for boats",
+          "promotion of lower-impact cruise options and itineraries"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "stakeholder_dialogue",
+          "transition_strategies"
+        ],
+        "notes": "Useful for immersive workshops that explore pathways from mass tourism to more sustainable, higher-value models."
+      },
+      "statement_id": "STM_0026"
+    },
+    {
+      "case_id": "OTC_011",
+      "actor_id": "ACT_0024",
+      "source": {
+        "source_id": "SRC_HLB_S5",
+        "source_type": "trade_press",
+        "title": "UNESCO warns of development risks to Vietnam's tourist jewel Ha Long Bay",
+        "url": "https://www.bairdmaritime.com/passenger/maritime-tourism/unesco-warns-of-development-risks-to-vietnams-tourist-jewel-ha-long-bay",
+        "publisher": "Baird Maritime",
+        "publication_date": "2024-12-21",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Provincial representatives stress that Ha Long Bay is central to the region’s economic strategy and pledge to cooperate with UNESCO’s review, while insisting that ongoing development projects can be made compatible with conservation through improved planning and mitigation.",
+      "content_coding": {
+        "primary_issues": [
+          "governance",
+          "coastal_development_pressure"
+        ],
+        "secondary_issues": [
+          "tourism_dependency"
+        ],
+        "problem_framing": "reconciling_growth_and_conservation",
+        "attributed_causes": [
+          "strong economic reliance on tourism and coastal real estate",
+          "lagging integration of conservation priorities into development decisions"
+        ],
+        "proposed_solutions": [
+          "cooperation with UNESCO and IUCN missions",
+          "integration of stricter environmental safeguards into project approvals"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "defensive",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "policy_dialogue_support"
+        ],
+        "notes": "Could inform immersive policy labs where local decision-makers explore trade-offs between coastal development and heritage protection."
+      },
+      "statement_id": "STM_0027"
     }
   ]
 }
