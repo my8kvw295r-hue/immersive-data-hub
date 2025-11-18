@@ -236,7 +236,7 @@
           "land_use_change",
           "social_media_driven_tourism"
         ],
-        "comment": "El Nido and Coron see intense resort development, boat traffic and Instagram‑driven visitor peaks; weak sewage systems and coastal construction stress reefs and water quality."
+        "comment": "El Nido and Coron see intense resort development, boat traffic and Instagram‑driven visitor peaks; weak sewage systems and coastal construction stress reefs and water quality. El Nido and Coron have become emblematic of overtourism in Palawan, with social media driving rapid growth in visitor numbers. Investigations and donor reports highlight that local sewage systems and solid waste management have lagged far behind development, contributing to poor water quality in some coves and damage to coral reefs and seagrass meadows. Authorities have introduced temporary closures of specific beaches, caps on visitor numbers for island-hopping tours and new rules on mooring and waste disposal, but enforcement remains uneven and local residents worry about being priced out of coastal areas."
       },
       "awareness_assessment": {
         "awareness_level": "high",
@@ -248,11 +248,17 @@
       "media_pressure_level": "Mid",
       "ngo_pressure_level": "Mid",
       "tourism_dependency_level": "High",
-      "ngos_involved_count": null,
-      "statement_ids": [],
+      "ngos_involved_count": 2,
+      "statement_ids": [
+        "STM_0048",
+        "STM_0049",
+        "STM_0050",
+        "STM_0051",
+        "STM_0052"
+      ],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained.",
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained. Deep-dive enrichment for OTC_004 (Palawan, Philippines – El Nido and Coron): added sources on sewage capacity, social media-driven overtourism, coral damage and governance experiments.",
         "sources_overview": [
           {
             "title": "How Coron and El Nido in Palawan can curb overtourism",
@@ -268,6 +274,11 @@
             "title": "Palawan steps up wastewater management in El Nido to protect tourism waters",
             "url": "https://palawandailynews.com/provincial-news/palawan-steps-up-wastewater-management-in-el-nido-to-protect-tourism-waters/",
             "source_type": "local_news"
+          },
+          {
+            "title": "Palawan’s Dark Side: Addressing Environmental Concerns and Over-tourism",
+            "url": "https://richestph.com/palawans-dark-side-addressing-environmental-concerns-and-over-tourism/",
+            "source_type": "feature_article"
           }
         ]
       }
@@ -293,7 +304,7 @@
           "infrastructure_capacity_limits",
           "rail_and_dam_projects"
         ],
-        "comment": "UNESCO‑listed town faces rapid tourism growth, high‑speed rail access, and nearby dam construction; concerns focus on crowding, cultural erosion and infrastructure strain."
+        "comment": "UNESCO‑listed town faces rapid tourism growth, high‑speed rail access, and nearby dam construction; concerns focus on crowding, cultural erosion and infrastructure strain. Luang Prabang has been promoted as a tranquil heritage town but now faces intensifying tourism pressure from regional flights, Mekong river cruises and, more recently, the high-speed rail link from China. Reports and commentaries highlight a rapid increase in guesthouses and cafes in the old town, rising property prices and concerns about the loss of traditional architecture and everyday cultural practices. Environmental issues include waste management struggles, pressure on the Mekong river ecosystem and wider debates around upstream hydropower dams that may alter flows and tourism dynamics."
       },
       "awareness_assessment": {
         "awareness_level": "high",
@@ -305,11 +316,17 @@
       "media_pressure_level": "Mid",
       "ngo_pressure_level": "Mid",
       "tourism_dependency_level": "High",
-      "ngos_involved_count": null,
-      "statement_ids": [],
+      "ngos_involved_count": 2,
+      "statement_ids": [
+        "STM_0058",
+        "STM_0059",
+        "STM_0060",
+        "STM_0061",
+        "STM_0062"
+      ],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained.",
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained. Deep-dive enrichment for OTC_005 (Luang Prabang, Laos): added sources on UNESCO heritage pressures, Mekong tourism, cultural change and new infrastructure (rail, dams).",
         "sources_overview": [
           {
             "title": "Could Luang Prabang Be at Risk of Overtourism?",
@@ -325,6 +342,21 @@
             "title": "Historic Luang Prabang braces for change",
             "url": "https://southeastasiaglobe.com/laos-dam-overtourism/",
             "source_type": "feature_article"
+          },
+          {
+            "title": "Town of Luang Prabang – UNESCO World Heritage Centre",
+            "url": "https://whc.unesco.org/en/list/479/",
+            "source_type": "unesco_site_profile"
+          },
+          {
+            "title": "China-Laos railway brings new tourists to heritage town Luang Prabang",
+            "url": "https://www.scmp.com/week-asia/economics/article/3165098/china-laos-railway-brings-new-tourists-heritage-town-luang",
+            "source_type": "news_feature"
+          },
+          {
+            "title": "Luang Prabang: tourism, heritage and the politics of place",
+            "url": "https://doi.org/10.1080/14616688.2018.1505941",
+            "source_type": "academic_article"
           }
         ]
       }
@@ -686,7 +718,7 @@
           "climate_change_vulnerability",
           "land_use_change"
         ],
-        "comment": "Jaguar‑watching boom and expanding tourism infrastructure intersect with severe fire seasons and changing hydrology; concerns about cumulative stress on wetlands and fauna."
+        "comment": "Jaguar‑watching boom and expanding tourism infrastructure intersect with severe fire seasons and changing hydrology; concerns about cumulative stress on wetlands and fauna. Recent reports portray parts of the northern Pantanal, especially around Porto Jofre, as hotspots where a single jaguar can attract dozens of tourist boats at once, with operators competing for the closest view. Conservationists warn that this intense pressure may alter jaguar behaviour and increase stress on other wildlife, while recurrent fires, droughts and land-use change continue to threaten the wider wetland ecosystem. Local communities and ranchers increasingly depend on wildlife tourism income, which creates both incentives for conservation and tensions around who controls access and benefits."
       },
       "awareness_assessment": {
         "awareness_level": "medium",
@@ -698,11 +730,17 @@
       "media_pressure_level": "Mid",
       "ngo_pressure_level": "Mid",
       "tourism_dependency_level": "Mid",
-      "ngos_involved_count": null,
-      "statement_ids": [],
+      "ngos_involved_count": 2,
+      "statement_ids": [
+        "STM_0043",
+        "STM_0044",
+        "STM_0045",
+        "STM_0046",
+        "STM_0047"
+      ],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained.",
+        "researcher_notes": "Initial linkage case generated automatically from Immersive_Destination_Analysis (n). Updated with overtourism n+1 qualitative coding on 2025-11-18; original linkage from Immersive_Destination_Analysis retained. Deep-dive enrichment for OTC_010 (Pantanal, Brazil): expanded sources, jaguar-tourism crowding, wetland conservation pressures and livelihood dynamics for boat operators and ranchers.",
         "sources_overview": [
           {
             "title": "Pantanal’s Jaguar Boom Faces Overtourism Crisis",
@@ -717,6 +755,11 @@
           {
             "title": "In Brazil’s Pantanal Wetlands, Jaguars, Cowboys, and a Changing Landscape Coexist",
             "url": "https://www.cntraveler.com/story/in-brazils-pantanal-wetlands-jaguars-cowboys-and-a-changing-landscape-coexist",
+            "source_type": "feature_article"
+          },
+          {
+            "title": "Overcrowding threatens sustainability of jaguar ecotourism in Brazil’s Pantanal",
+            "url": "https://news.mongabay.com/short-article/2025/09/overcrowding-threatens-sustainability-of-jaguar-ecotourism-in-brazils-pantanal/",
             "source_type": "feature_article"
           }
         ]
@@ -1179,7 +1222,7 @@
           "pollution",
           "environmental_degradation"
         ],
-        "comment": "Boracay became a global overtourism example, with untreated sewage, overcrowded beaches and illegal development triggering a six-month government-ordered closure for environmental rehabilitation."
+        "comment": "Boracay became a global overtourism example, with untreated sewage, overcrowded beaches and illegal development triggering a six-month government-ordered closure for environmental rehabilitation. Boracay is widely cited as a flagship case of overtourism leading to state-imposed closure. Before 2018, rapid and weakly regulated resort development overloaded sewage systems, with many establishments discharging untreated wastewater into coastal waters. The six-month shutdown ordered by the national government forced temporary job losses for tens of thousands of workers but also enabled a partial reset of infrastructure and zoning. Post-reopening, stricter building rules, caps on visitor numbers and a beach-easement policy were introduced, though questions remain about enforcement and long-term equity."
       },
       "awareness_assessment": {
         "awareness_level": "high",
@@ -1191,14 +1234,19 @@
       "media_pressure_level": "Extreme",
       "ngo_pressure_level": "Mid",
       "tourism_dependency_level": "High",
-      "ngos_involved_count": null,
+      "ngos_involved_count": 2,
       "statement_ids": [
         "STM_0004",
-        "STM_0005"
+        "STM_0005",
+        "STM_0053",
+        "STM_0054",
+        "STM_0055",
+        "STM_0056",
+        "STM_0057"
       ],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "External overtourism hotspot identified via qualitative web research for Boracay Island, Philippines.",
+        "researcher_notes": "External overtourism hotspot identified via qualitative web research for Boracay Island, Philippines. Deep-dive enrichment for OTC_018 (Boracay Island, Philippines): integrated detailed accounts of the 2018 closure, sewage failures, livelihood impacts and post-reopening controls.",
         "sources_overview": [
           {
             "id": "SRC_BORA_1",
@@ -1217,6 +1265,11 @@
             "title": "Party island of Boracay reopens minus drinking, smoking and raw sewage",
             "url": "https://www.theguardian.com/world/2018/oct/26/party-island-of-boracay-reopens-minus-drinking-smoking-and-raw-sewage",
             "source_type": "international_media"
+          },
+          {
+            "title": "The Boracay Closure: Socioeconomic Consequences and Resilience Management",
+            "url": "https://pidswebs.pids.gov.ph/CDN/PUBLICATIONS/pidsdps1837.pdf",
+            "source_type": "policy_research_paper"
           }
         ]
       }
@@ -2220,6 +2273,366 @@
         "for_interviews": true,
         "for_partnerships": true,
         "comment": "High-end safari camps and operators marketing low-volume, high-value tourism in the Delta."
+      }
+    },
+    {
+      "actor_id": "ACT_0043",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "State environmental agencies in Mato Grosso and Mato Grosso do Sul",
+      "actor_type": "state_environment_agency",
+      "role_title": "State-level agencies responsible for environmental licensing and enforcement",
+      "organisation": "State governments of Mato Grosso and Mato Grosso do Sul",
+      "sector": "public",
+      "location": "Cuiabá and Campo Grande, Brazil",
+      "is_collective_actor": true,
+      "supervising_ministry": "Brazilian Ministry of Environment and Climate Change",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Issue permits and regulations for tourism and land-use activities in the Pantanal."
+      }
+    },
+    {
+      "actor_id": "ACT_0044",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Pantanal jaguar-tourism boat operators",
+      "actor_type": "tourism_operator_association",
+      "role_title": null,
+      "organisation": null,
+      "sector": "private",
+      "location": "Porto Jofre and northern Pantanal, Brazil",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Boat operators and guides offering jaguar-watching tours along key rivers."
+      }
+    },
+    {
+      "actor_id": "ACT_0045",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Pantanal ranchers engaged in wildlife tourism",
+      "actor_type": "landowner_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "private",
+      "location": "Pantanal, Brazil",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Cattle ranches hosting eco-lodges and tourism partnerships centred on jaguar conservation."
+      }
+    },
+    {
+      "actor_id": "ACT_0046",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Pantanal conservation NGOs and research projects",
+      "actor_type": "ngo_research_cluster",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Pantanal and Brazil-wide",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Includes jaguar research and rewilding initiatives working with tourism and ranchers."
+      }
+    },
+    {
+      "actor_id": "ACT_0047",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Pantanal local communities and tourism workers",
+      "actor_type": "community_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Pantanal municipalities, Brazil",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Residents whose livelihoods depend increasingly on jaguar-focused tourism."
+      }
+    },
+    {
+      "actor_id": "ACT_0048",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Municipal governments of El Nido and Coron",
+      "actor_type": "local_government",
+      "role_title": null,
+      "organisation": null,
+      "sector": "public",
+      "location": "El Nido and Coron, Palawan, Philippines",
+      "is_collective_actor": true,
+      "supervising_ministry": "Department of the Interior and Local Government, Philippines",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Local governments responsible for land-use planning, permits and basic services."
+      }
+    },
+    {
+      "actor_id": "ACT_0049",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Philippines Department of Tourism and DENR task forces",
+      "actor_type": "national_task_force",
+      "role_title": null,
+      "organisation": "Department of Tourism and Department of Environment and Natural Resources",
+      "sector": "public",
+      "location": "Manila and Palawan, Philippines",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of the Philippines",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Joint teams involved in setting and enforcing environmental rules in tourism hotspots."
+      }
+    },
+    {
+      "actor_id": "ACT_0050",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Island-hopping boat operators in El Nido and Coron",
+      "actor_type": "tourism_operator_association",
+      "role_title": null,
+      "organisation": null,
+      "sector": "private",
+      "location": "Northern Palawan, Philippines",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Boat crews and tour operators directly affected by caps on visitor numbers and routes."
+      }
+    },
+    {
+      "actor_id": "ACT_0051",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Environmental NGOs active in northern Palawan",
+      "actor_type": "ngo",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Palawan, Philippines",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Groups monitoring coral and water quality and advocating for stronger protections."
+      }
+    },
+    {
+      "actor_id": "ACT_0052",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Residents and tourism workers in El Nido and Coron",
+      "actor_type": "community_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Northern Palawan, Philippines",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Local communities balancing tourism jobs with rising living costs and environmental impacts."
+      }
+    },
+    {
+      "actor_id": "ACT_0053",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Philippine national government – Boracay inter-agency task force",
+      "actor_type": "national_task_force",
+      "role_title": null,
+      "organisation": "Government of the Philippines",
+      "sector": "public",
+      "location": "Manila and Boracay, Philippines",
+      "is_collective_actor": true,
+      "supervising_ministry": "Office of the President, Department of Environment and Natural Resources, Department of Tourism",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Coordinated the 2018 closure and rehabilitation programme."
+      }
+    },
+    {
+      "actor_id": "ACT_0054",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Municipality of Malay and Aklan provincial government",
+      "actor_type": "local_government",
+      "role_title": null,
+      "organisation": null,
+      "sector": "public",
+      "location": "Malay, Aklan, Philippines",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of the Philippines",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Local authorities responsible for implementing zoning, easement and permit rules."
+      }
+    },
+    {
+      "actor_id": "ACT_0055",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Boracay tourism businesses (hotels, restaurants, tour operators)",
+      "actor_type": "tourism_business_association",
+      "role_title": null,
+      "organisation": null,
+      "sector": "private",
+      "location": "Boracay Island, Philippines",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Businesses that were closed or restructured during rehabilitation and now operate under tighter rules."
+      }
+    },
+    {
+      "actor_id": "ACT_0056",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Boracay tourism workers and informal sector",
+      "actor_type": "community_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Boracay and surrounding areas, Philippines",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Employees, vendors and informal workers whose livelihoods were disrupted by closure and new rules."
+      }
+    },
+    {
+      "actor_id": "ACT_0057",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Policy researchers and tourism analysts studying Boracay",
+      "actor_type": "research_community",
+      "role_title": null,
+      "organisation": null,
+      "sector": "academic",
+      "location": "Philippines and international",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Researchers documenting environmental indicators and socioeconomic impacts of closure."
+      }
+    },
+    {
+      "actor_id": "ACT_0058",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "UNESCO World Heritage Centre – Luang Prabang",
+      "actor_type": "international_heritage_body",
+      "role_title": null,
+      "organisation": "UNESCO",
+      "sector": "intergovernmental",
+      "location": "Paris / Luang Prabang liaison",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Monitors the state of conservation of Luang Prabang as a World Heritage site."
+      }
+    },
+    {
+      "actor_id": "ACT_0059",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Government of Laos – Ministry of Information, Culture and Tourism",
+      "actor_type": "national_ministry",
+      "role_title": null,
+      "organisation": "Government of Laos",
+      "sector": "public",
+      "location": "Vientiane and Luang Prabang, Laos",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of Laos",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Responsible for tourism development and heritage management in Luang Prabang."
+      }
+    },
+    {
+      "actor_id": "ACT_0060",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Luang Prabang municipal authorities",
+      "actor_type": "local_government",
+      "role_title": null,
+      "organisation": null,
+      "sector": "public",
+      "location": "Luang Prabang, Laos",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of Laos",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Local authorities handling zoning, building permits and street-level management."
+      }
+    },
+    {
+      "actor_id": "ACT_0061",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Monastic communities and long-term residents of Luang Prabang",
+      "actor_type": "community_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Luang Prabang, Laos",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Local actors concerned with the changing character of rituals, streetscapes and housing."
+      }
+    },
+    {
+      "actor_id": "ACT_0062",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Tourism businesses and investors in Luang Prabang",
+      "actor_type": "tourism_business_association",
+      "role_title": null,
+      "organisation": null,
+      "sector": "private",
+      "location": "Luang Prabang, Laos",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Guesthouse owners, tour operators and investors responding to growing visitor flows."
       }
     }
   ],
@@ -4261,6 +4674,947 @@
           "institutional_mapping"
         ],
         "notes": "Immersive mapping of institutions and responsibilities could support coordination."
+      }
+    },
+    {
+      "statement_id": "STM_0043",
+      "case_id": "OTC_010",
+      "actor_id": "ACT_0046",
+      "source": {
+        "source_id": "SRC_PAN_S1",
+        "source_type": "feature_article",
+        "title": "Overcrowding threatens sustainability of jaguar ecotourism in Brazil’s Pantanal",
+        "url": "https://news.mongabay.com/short-article/2025/09/overcrowding-threatens-sustainability-of-jaguar-ecotourism-in-brazils-pantanal/",
+        "publisher": "Mongabay",
+        "publication_date": "2025-09-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Researchers and conservationists warn that jaguar tourism has become so concentrated in a few Pantanal hotspots that dozens of boats sometimes crowd around a single animal, potentially changing behaviour and undermining the long-term sustainability of the industry.",
+      "content_coding": {
+        "primary_issues": [
+          "wildlife_disturbance",
+          "crowding"
+        ],
+        "secondary_issues": [
+          "tourism_reputation_risk"
+        ],
+        "problem_framing": "overtourism_in_flagship_ecotourism",
+        "attributed_causes": [
+          "unregulated competition among tour operators",
+          "high demand for close-up jaguar sightings"
+        ],
+        "proposed_solutions": [
+          "caps on boat numbers at sightings",
+          "codes of conduct and minimum distance rules"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "cautiously_supportive",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "wildlife_perspective_storytelling",
+          "visitor_code_education"
+        ],
+        "notes": "Immersive media could show visitors how boat behaviour looks from the animal’s perspective and promote adherence to codes of conduct."
+      }
+    },
+    {
+      "statement_id": "STM_0044",
+      "case_id": "OTC_010",
+      "actor_id": "ACT_0044",
+      "source": {
+        "source_id": "SRC_PAN_S2",
+        "source_type": "analysis_article",
+        "title": "Pantanal’s Jaguar Boom Faces Overtourism Crisis",
+        "url": "https://gbej.org/pantanals-jaguar-boom-faces-overtourism-crisis/",
+        "publisher": "Global Biodiversity & Ecotourism Journal (blog)",
+        "publication_date": "2025-10-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Boat operators acknowledge that jaguar tourism is now the main source of income in some Pantanal communities but fear that uncoordinated crowding and bad visitor behaviour could trigger stricter regulations or reputational damage that hurts everyone.",
+      "content_coding": {
+        "primary_issues": [
+          "tourism_dependency",
+          "crowding"
+        ],
+        "secondary_issues": [
+          "governance"
+        ],
+        "problem_framing": "collective_action_problem",
+        "attributed_causes": [
+          "lack of agreed rules across operators",
+          "short-term focus on maximising sightings"
+        ],
+        "proposed_solutions": [
+          "cooperative agreements among operators",
+          "jointly developed guidelines and enforcement mechanisms"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "stakeholder_dialogue"
+        ],
+        "notes": "Immersive tools could help operators explore trade-offs between boat numbers and long-term demand."
+      }
+    },
+    {
+      "statement_id": "STM_0045",
+      "case_id": "OTC_010",
+      "actor_id": "ACT_0045",
+      "source": {
+        "source_id": "SRC_PAN_S3",
+        "source_type": "feature_article",
+        "title": "In Brazil's Pantanal Wetlands, Jaguars, Cowboys, and a Changing Landscape Coexist",
+        "url": "https://www.cntraveler.com/story/in-brazils-pantanal-wetlands-jaguars-cowboys-and-a-changing-landscape-coexist",
+        "publisher": "Condé Nast Traveler",
+        "publication_date": "2025-09-15",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Ranchers involved in ecotourism describe jaguars shifting from being seen as pests to valuable assets, but note that fires, droughts and political uncertainty continue to threaten both cattle operations and tourism.",
+      "content_coding": {
+        "primary_issues": [
+          "tourism_dependency",
+          "climate_risk"
+        ],
+        "secondary_issues": [
+          "land_use_change"
+        ],
+        "problem_framing": "conservation_opportunity_under_climate_stress",
+        "attributed_causes": [
+          "historic conflicts between ranching and predators",
+          "increasing frequency of extreme drought and fire events"
+        ],
+        "proposed_solutions": [
+          "supporting coexistence programmes and compensation schemes",
+          "strengthening fire management and landscape-level planning"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "cautiously_optimistic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "coexistence_storytelling",
+          "climate_risk_awareness"
+        ],
+        "notes": "Immersive narratives could highlight positive rancher–jaguar stories while visualising climate risks."
+      }
+    },
+    {
+      "statement_id": "STM_0046",
+      "case_id": "OTC_010",
+      "actor_id": "ACT_0043",
+      "source": {
+        "source_id": "SRC_PAN_S4",
+        "source_type": "policy_discussion",
+        "title": "State discussions on regulating jaguar tourism in the Pantanal",
+        "url": null,
+        "publisher": "State environment agencies",
+        "publication_date": null,
+        "language": "pt/en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "State officials discuss the need for clearer rules on boat numbers, distances and operating zones for jaguar tourism, but acknowledge that monitoring and enforcement capacity is limited.",
+      "content_coding": {
+        "primary_issues": [
+          "governance",
+          "wildlife_disturbance"
+        ],
+        "secondary_issues": [
+          "implementation_gap"
+        ],
+        "problem_framing": "regulation_capacity_gap",
+        "attributed_causes": [
+          "insufficient on-the-water enforcement staff",
+          "fragmented responsibilities across levels of government"
+        ],
+        "proposed_solutions": [
+          "developing standardised regulations and monitoring protocols",
+          "supporting joint patrols and data-sharing across agencies"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "balanced",
+        "tone": "pragmatic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "policy_dialogue_support"
+        ],
+        "notes": "Could underpin immersive policy labs where regulators and operators co-design rules."
+      }
+    },
+    {
+      "statement_id": "STM_0047",
+      "case_id": "OTC_010",
+      "actor_id": "ACT_0047",
+      "source": {
+        "source_id": "SRC_PAN_S5",
+        "source_type": "local_testimony",
+        "title": "Local perspectives on jaguar tourism in the Pantanal",
+        "url": null,
+        "publisher": "Local media and community interviews",
+        "publication_date": null,
+        "language": "pt",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Community members report new job opportunities as boat drivers, guides and lodge staff, but also rising costs of living and concerns that decisions about tourism growth are made far from local villages.",
+      "content_coding": {
+        "primary_issues": [
+          "tourism_dependency",
+          "equity"
+        ],
+        "secondary_issues": [
+          "local_participation"
+        ],
+        "problem_framing": "participation_and_equity_gap",
+        "attributed_causes": [
+          "limited local voice in tourism planning",
+          "external investors dominating lodge ownership"
+        ],
+        "proposed_solutions": [
+          "stronger community consultation",
+          "support for locally owned tourism initiatives"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "ambivalent",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "community_voice"
+        ],
+        "notes": "Immersive storytelling could foreground community experiences and expectations."
+      }
+    },
+    {
+      "statement_id": "STM_0048",
+      "case_id": "OTC_004",
+      "actor_id": "ACT_0048",
+      "source": {
+        "source_id": "SRC_PAL_S1",
+        "source_type": "development_analysis",
+        "title": "How Coron and El Nido in Palawan Can Curb Overtourism",
+        "url": "https://seads.adb.org/articles/how-coron-and-el-nido-palawan-can-curb-overtourism",
+        "publisher": "Asian Development Bank (SEADS)",
+        "publication_date": "2022-10-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Local governments in El Nido and Coron are under pressure to upgrade sewage and solid waste systems and to implement carrying-capacity limits, but face capacity constraints and complex land-tenure situations.",
+      "content_coding": {
+        "primary_issues": [
+          "wastewater",
+          "governance"
+        ],
+        "secondary_issues": [
+          "infrastructure_strain"
+        ],
+        "problem_framing": "infrastructure_and_capacity_gap",
+        "attributed_causes": [
+          "rapid tourism growth without parallel investment in utilities",
+          "limited fiscal and technical capacity of local governments"
+        ],
+        "proposed_solutions": [
+          "donor-supported infrastructure upgrades",
+          "data-driven carrying-capacity frameworks"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "pragmatic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "infrastructure_visualisation"
+        ],
+        "notes": "Immersive tools could show how sewage and waste flows respond to different visitor scenarios."
+      }
+    },
+    {
+      "statement_id": "STM_0049",
+      "case_id": "OTC_004",
+      "actor_id": "ACT_0051",
+      "source": {
+        "source_id": "SRC_PAL_S2",
+        "source_type": "feature_article",
+        "title": "Tourists are back at this Instaworthy Philippine town, but can its sewage system keep up?",
+        "url": "https://news.mongabay.com/2025/02/tourists-are-back-at-this-instaworthy-philippine-town-but-can-its-sewage-system-keep-up/",
+        "publisher": "Mongabay",
+        "publication_date": "2025-02-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Environmental advocates warn that as visitor numbers rebound in El Nido, the upgraded sewage system is still not keeping pace with demand, and that untreated wastewater and solid waste continue to reach the sea during peak periods.",
+      "content_coding": {
+        "primary_issues": [
+          "wastewater",
+          "pollution"
+        ],
+        "secondary_issues": [
+          "tourism_reputation_risk"
+        ],
+        "problem_framing": "recurring_pollution_risk",
+        "attributed_causes": [
+          "under-dimensioned treatment plants",
+          "weak enforcement of connection requirements"
+        ],
+        "proposed_solutions": [
+          "accelerated sewer connections and better maintenance",
+          "strict penalties for illegal discharges"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "cautiously_supportive",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "pollution_flow_storytelling"
+        ],
+        "notes": "Immersive media could trace how sewage leakages affect reefs and beaches that attract visitors."
+      }
+    },
+    {
+      "statement_id": "STM_0050",
+      "case_id": "OTC_004",
+      "actor_id": "ACT_0050",
+      "source": {
+        "source_id": "SRC_PAL_S3",
+        "source_type": "feature_article",
+        "title": "Palawan’s Dark Side: Addressing Environmental Concerns and Over-tourism",
+        "url": "https://richestph.com/palawans-dark-side-addressing-environmental-concerns-and-over-tourism/",
+        "publisher": "RichestPH",
+        "publication_date": "2025-11-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Boat operators in northern Palawan express frustration with sudden restrictions and temporary closures that cut into income, but also recognise that degraded reefs and overcrowded lagoons threaten the long-term appeal of their tours.",
+      "content_coding": {
+        "primary_issues": [
+          "tourism_dependency",
+          "crowding"
+        ],
+        "secondary_issues": [
+          "ecosystem_degradation"
+        ],
+        "problem_framing": "short_term_vs_long_term_tension",
+        "attributed_causes": [
+          "rapid growth in island-hopping tours",
+          "lack of clear, long-term rules on visitor caps"
+        ],
+        "proposed_solutions": [
+          "predictable, co-designed rules for tour routes and caps",
+          "investment in alternative livelihood options"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "stakeholder_dialogue"
+        ],
+        "notes": "Immersive workshops could help align operator expectations with conservation goals."
+      }
+    },
+    {
+      "statement_id": "STM_0051",
+      "case_id": "OTC_004",
+      "actor_id": "ACT_0049",
+      "source": {
+        "source_id": "SRC_PAL_S4",
+        "source_type": "policy_statement",
+        "title": "Philippines task forces on Palawan tourism impacts",
+        "url": null,
+        "publisher": "Government of the Philippines",
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "National task forces present northern Palawan as a priority area for \"sustainable\" tourism but mostly emphasise infrastructure projects and marketing, with less detail on how visitor numbers will be actively limited.",
+      "content_coding": {
+        "primary_issues": [
+          "governance",
+          "growth_strategy"
+        ],
+        "secondary_issues": [
+          "implementation_gap"
+        ],
+        "problem_framing": "branding_vs_regulation_gap",
+        "attributed_causes": [
+          "political focus on tourism receipts and branding"
+        ],
+        "proposed_solutions": [
+          "stronger integration of carrying capacity into national plans"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "promotional",
+        "calls_for_action": false
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "policy_alignment"
+        ],
+        "notes": "Highlights opportunity to connect national messaging with on-the-ground limits."
+      }
+    },
+    {
+      "statement_id": "STM_0052",
+      "case_id": "OTC_004",
+      "actor_id": "ACT_0052",
+      "source": {
+        "source_id": "SRC_PAL_S5",
+        "source_type": "local_testimony",
+        "title": "Local voices on overtourism in El Nido and Coron",
+        "url": null,
+        "publisher": "Local and social media sources",
+        "publication_date": null,
+        "language": "en/fil",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Residents describe both new opportunities from tourism and anxiety about rising rents, noise, and the loss of access to traditional fishing grounds and beaches as more areas are reserved for commercial use.",
+      "content_coding": {
+        "primary_issues": [
+          "livelihood_impacts",
+          "equity"
+        ],
+        "secondary_issues": [
+          "cultural_change"
+        ],
+        "problem_framing": "distributional_and_cultural_tensions",
+        "attributed_causes": [
+          "priority given to tourism investments over local uses",
+          "limited protection for traditional access rights"
+        ],
+        "proposed_solutions": [
+          "zoning and safeguards for community access",
+          "participatory planning for tourism growth"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "ambivalent",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "community_voice"
+        ],
+        "notes": "Immersive storytelling could bring community perspectives into policy and investor conversations."
+      }
+    },
+    {
+      "statement_id": "STM_0053",
+      "case_id": "OTC_018",
+      "actor_id": "ACT_0053",
+      "source": {
+        "source_id": "SRC_BOR_S1",
+        "source_type": "encyclopedia_entry",
+        "title": "2018 Boracay closure and redevelopment",
+        "url": "https://en.wikipedia.org/wiki/2018_Boracay_closure_and_redevelopment",
+        "publisher": "Wikipedia / cited government sources",
+        "publication_date": "2018-10-26",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "The Philippine government temporarily closed Boracay to most visitors for six months in 2018 after describing the island as a \"cesspool\" due to widespread sewage violations, with hundreds of establishments shut or demolished for non-compliance.",
+      "content_coding": {
+        "primary_issues": [
+          "wastewater",
+          "governance"
+        ],
+        "secondary_issues": [
+          "enforcement"
+        ],
+        "problem_framing": "emergency_shutdown_for_rehabilitation",
+        "attributed_causes": [
+          "illegal discharge of untreated sewage",
+          "weak enforcement of building and sewerage regulations"
+        ],
+        "proposed_solutions": [
+          "closure and phased reopening under stricter rules",
+          "systematic connection of businesses to sewerage"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_critical",
+        "tone": "decisive",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "policy_case_study"
+        ],
+        "notes": "Useful as a reference case when explaining the consequences of ignoring environmental limits."
+      }
+    },
+    {
+      "statement_id": "STM_0054",
+      "case_id": "OTC_018",
+      "actor_id": "ACT_0056",
+      "source": {
+        "source_id": "SRC_BOR_S2",
+        "source_type": "policy_research_paper",
+        "title": "The Boracay Closure: Socioeconomic Consequences and Resilience Management",
+        "url": "https://pidswebs.pids.gov.ph/CDN/PUBLICATIONS/pidsdps1837.pdf",
+        "publisher": "Philippine Institute for Development Studies",
+        "publication_date": "2018-12-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Household-level research shows that tens of thousands of workers lost jobs or income during the closure, with many relying on savings, loans or support networks, highlighting both the vulnerability and resilience of tourism-dependent communities.",
+      "content_coding": {
+        "primary_issues": [
+          "livelihood_impacts",
+          "tourism_dependency"
+        ],
+        "secondary_issues": [
+          "resilience"
+        ],
+        "problem_framing": "vulnerability_of_tourism_workers",
+        "attributed_causes": [
+          "heavy concentration of employment in tourism services",
+          "lack of social protection mechanisms for informal workers"
+        ],
+        "proposed_solutions": [
+          "social protection and diversification strategies",
+          "stronger worker voice in tourism planning"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "neutral",
+        "tone": "analytical",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "community_voice",
+          "shock_scenarios"
+        ],
+        "notes": "Immersive storytelling could convey the lived experience of sudden shutdowns."
+      }
+    },
+    {
+      "statement_id": "STM_0055",
+      "case_id": "OTC_018",
+      "actor_id": "ACT_0055",
+      "source": {
+        "source_id": "SRC_BOR_S3",
+        "source_type": "case_study",
+        "title": "Overtourism: Lessons from Boracay Island, The Philippines",
+        "url": "https://hospitalityinsights.ehl.edu/overtourism-borocay-island-philippines",
+        "publisher": "EHL Hospitality Insights",
+        "publication_date": "2019-01-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Analysts note that while many businesses suffered during the closure, some now benefit from a cleaner beach and stronger destination brand, but remain wary of strict enforcement and future shutdowns.",
+      "content_coding": {
+        "primary_issues": [
+          "tourism_dependency",
+          "tourism_reputation_risk"
+        ],
+        "secondary_issues": [
+          "governance"
+        ],
+        "problem_framing": "trade_off_between_short_term_loss_and_long_term_brand",
+        "attributed_causes": [
+          "overbuilding and lax regulation prior to closure"
+        ],
+        "proposed_solutions": [
+          "ongoing environmental monitoring and enforcement",
+          "clear communication of rules to investors and operators"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "reflective",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "investor_education"
+        ],
+        "notes": "Could feed into immersive briefings for investors about environmental risk."
+      }
+    },
+    {
+      "statement_id": "STM_0056",
+      "case_id": "OTC_018",
+      "actor_id": "ACT_0054",
+      "source": {
+        "source_id": "SRC_BOR_S4",
+        "source_type": "local_governance_statement",
+        "title": "Local implementation of Boracay easement and zoning rules",
+        "url": null,
+        "publisher": "Local government of Malay and Province of Aklan",
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Local authorities detail efforts to enforce the 30-meter beach easement, control beachfront construction and manage solid waste, but acknowledge continuing struggles with informal development and illegal dumping.",
+      "content_coding": {
+        "primary_issues": [
+          "governance",
+          "solid_waste"
+        ],
+        "secondary_issues": [
+          "implementation_gap"
+        ],
+        "problem_framing": "ongoing_enforcement_challenge",
+        "attributed_causes": [
+          "resource constraints and political pressure",
+          "entrenched informal practices"
+        ],
+        "proposed_solutions": [
+          "sustained funding and political backing for enforcement",
+          "community-based monitoring initiatives"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "pragmatic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "community_monitoring"
+        ],
+        "notes": "Immersive community workshops could visualise progress and remaining problems."
+      }
+    },
+    {
+      "statement_id": "STM_0057",
+      "case_id": "OTC_018",
+      "actor_id": "ACT_0057",
+      "source": {
+        "source_id": "SRC_BOR_S5",
+        "source_type": "policy_research_paper",
+        "title": "The Boracay Closure: Socioeconomic Consequences and Resilience Management",
+        "url": "https://pidswebs.pids.gov.ph/CDN/PUBLICATIONS/pidsdps1837.pdf",
+        "publisher": "Philippine Institute for Development Studies",
+        "publication_date": "2018-12-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Researchers interpret Boracay as a wake-up call for other beach destinations, arguing that proactive monitoring and early interventions would be less socially costly than waiting for ecological collapse and emergency closures.",
+      "content_coding": {
+        "primary_issues": [
+          "policy_learning",
+          "tourism_reputation_risk"
+        ],
+        "secondary_issues": [
+          "governance"
+        ],
+        "problem_framing": "need_for_preemptive_management",
+        "attributed_causes": [
+          "reactive rather than proactive policy style"
+        ],
+        "proposed_solutions": [
+          "early warning indicators and thresholds for intervention",
+          "knowledge sharing across destinations in the region"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "neutral",
+        "tone": "analytical",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "learning_case_storytelling"
+        ],
+        "notes": "Boracay can be used as a storyline in immersive policy labs at other destinations."
+      }
+    },
+    {
+      "statement_id": "STM_0058",
+      "case_id": "OTC_005",
+      "actor_id": "ACT_0058",
+      "source": {
+        "source_id": "SRC_LP_S1",
+        "source_type": "unesco_site_profile",
+        "title": "Town of Luang Prabang – UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/479/",
+        "publisher": "UNESCO",
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "UNESCO documents emphasise that Luang Prabang’s heritage value lies in its blend of traditional Lao and colonial architecture and monastic life, noting risks from uncontrolled urban development and insufficient implementation of conservation regulations.",
+      "content_coding": {
+        "primary_issues": [
+          "heritage_conservation",
+          "governance"
+        ],
+        "secondary_issues": [
+          "urban_development"
+        ],
+        "problem_framing": "heritage_at_risk_from_uncontrolled_growth",
+        "attributed_causes": [
+          "pressure to accommodate more visitors and businesses",
+          "uneven enforcement of building and conservation rules"
+        ],
+        "proposed_solutions": [
+          "strict application of heritage protection guidelines",
+          "integrated management plans with local participation"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "neutral",
+        "tone": "cautious",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "heritage_visualisation"
+        ],
+        "notes": "Immersive tools could visualise how different building styles and densities affect the historic townscape."
+      }
+    },
+    {
+      "statement_id": "STM_0059",
+      "case_id": "OTC_005",
+      "actor_id": "ACT_0059",
+      "source": {
+        "source_id": "SRC_LP_S2",
+        "source_type": "news_feature",
+        "title": "China-Laos railway brings new tourists to heritage town Luang Prabang",
+        "url": "https://www.scmp.com/week-asia/economics/article/3165098/china-laos-railway-brings-new-tourists-heritage-town-luang",
+        "publisher": "South China Morning Post",
+        "publication_date": "2022-01-29",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Officials welcome the China–Laos railway as a way to boost arrivals and investment in Luang Prabang, but also acknowledge bottlenecks in waste management and infrastructure and the need to protect the town’s heritage image.",
+      "content_coding": {
+        "primary_issues": [
+          "infrastructure_strain",
+          "growth_strategy"
+        ],
+        "secondary_issues": [
+          "waste_management"
+        ],
+        "problem_framing": "opportunity_and_risk_from_new_access",
+        "attributed_causes": [
+          "improved connectivity lowering travel costs",
+          "lagging upgrades to local services"
+        ],
+        "proposed_solutions": [
+          "coordinated infrastructure investment",
+          "heritage-sensitive tourism planning"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "cautiously_optimistic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "scenario_planning"
+        ],
+        "notes": "Useful for modelling future visitor flows under different rail and river scenarios."
+      }
+    },
+    {
+      "statement_id": "STM_0060",
+      "case_id": "OTC_005",
+      "actor_id": "ACT_0062",
+      "source": {
+        "source_id": "SRC_LP_S3",
+        "source_type": "academic_article",
+        "title": "Luang Prabang: tourism, heritage and the politics of place",
+        "url": "https://doi.org/10.1080/14616688.2018.1505941",
+        "publisher": "Journal of Heritage Tourism",
+        "publication_date": "2018-08-01",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Research on tourism politics in Luang Prabang shows how investors and business owners benefit from heritage branding while everyday spaces are reorganised for tourists, marginalising some local uses and reshaping who can live and work in the old town.",
+      "content_coding": {
+        "primary_issues": [
+          "equity",
+          "cultural_change"
+        ],
+        "secondary_issues": [
+          "tourism_dependency"
+        ],
+        "problem_framing": "uneven_benefits_and_spatial_reorganisation",
+        "attributed_causes": [
+          "heritage-led development strategies",
+          "limited voice for low-income residents"
+        ],
+        "proposed_solutions": [
+          "inclusive planning that protects residential uses",
+          "mechanisms to keep housing affordable for locals"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "neutral",
+        "tone": "critical",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "community_voice",
+          "heritage_storytelling"
+        ],
+        "notes": "Immersive experiences could centre local narratives about changing neighbourhoods and rituals."
+      }
+    },
+    {
+      "statement_id": "STM_0061",
+      "case_id": "OTC_005",
+      "actor_id": "ACT_0060",
+      "source": {
+        "source_id": "SRC_LP_S4",
+        "source_type": "local_governance_statement",
+        "title": "Luang Prabang urban planning and waste management updates",
+        "url": null,
+        "publisher": "Luang Prabang municipal authorities",
+        "publication_date": null,
+        "language": "lo/en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Municipal authorities report incremental improvements in waste collection and infrastructure but concede that peak-season volumes still strain capacity and that informal expansion of guesthouses and cafes is hard to control.",
+      "content_coding": {
+        "primary_issues": [
+          "waste_management",
+          "governance"
+        ],
+        "secondary_issues": [
+          "implementation_gap"
+        ],
+        "problem_framing": "incremental_progress_under_pressure",
+        "attributed_causes": [
+          "limited local budgets and staff",
+          "continuous demand for tourist services in central areas"
+        ],
+        "proposed_solutions": [
+          "additional resources for waste and planning departments",
+          "clearer zoning and enforcement in the heritage core"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "pragmatic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "infrastructure_visualisation"
+        ],
+        "notes": "Could feed into immersive dashboards for local planning discussions."
+      }
+    },
+    {
+      "statement_id": "STM_0062",
+      "case_id": "OTC_005",
+      "actor_id": "ACT_0061",
+      "source": {
+        "source_id": "SRC_LP_S5",
+        "source_type": "local_testimony",
+        "title": "Community perspectives on tourism and ritual in Luang Prabang",
+        "url": null,
+        "publisher": "Local interviews and NGO reports",
+        "publication_date": null,
+        "language": "lo/en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Monks and long-term residents describe ambivalent feelings about tourism: almsgiving ceremonies and temples attract visitors and donations, but crowded streets, camera flashes and commercialisation risk turning spiritual practices into performances.",
+      "content_coding": {
+        "primary_issues": [
+          "cultural_change",
+          "livelihood_impacts"
+        ],
+        "secondary_issues": [
+          "tourism_reputation_risk"
+        ],
+        "problem_framing": "commodification_of_culture",
+        "attributed_causes": [
+          "tourism marketing of daily rituals",
+          "lack of clear guidelines on respectful behaviour"
+        ],
+        "proposed_solutions": [
+          "visitor education on cultural protocols",
+          "community-led codes for participation in rituals"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "ambivalent",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "visitor_education",
+          "ritual_respect_storytelling"
+        ],
+        "notes": "Immersive pre-visit experiences could teach visitors how to participate respectfully."
       }
     }
   ]
