@@ -87,7 +87,28 @@ The dataset uses controlled vocabulary for:
 * media pressure (None, Low, Mid, High, Extreme)
 * NGO pressure (None, Low, Mid, High, Extreme)
 * tourism dependency (Low to Extreme)
-* issue tags (crowding, housing_pressure, cruise_tourism, etc.)
+* issue tags, used as problem‑type codes at Case and Statement level. Recommended tags include:
+
+  * `crowding`
+  * `heritage_damage`
+  * `housing_pressure`
+  * `cruise_tourism`
+  * `water_stress`
+  * `waste_management`
+  * `traffic_congestion`
+  * `noise`
+  * `price_pressure`
+  * `safety_and_security`
+  * `climate_impact`
+  * `infrastructure_overload`
+  * `plastic_pollution`
+  * `ecosystem_stress`
+  * `biodiversity_loss`
+  * `social_conflict_protests`
+  * `ngo_pressure`
+  * `governance_lag`
+  * `cultural_erosion`
+
 
 ---
 
