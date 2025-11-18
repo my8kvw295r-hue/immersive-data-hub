@@ -1,0 +1,558 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Global Overtourism Discourse and Stakeholder Dataset (n+1)",
+  "type": "object",
+  "required": [
+    "dataset_meta",
+    "cases",
+    "actors",
+    "statements"
+  ],
+  "properties": {
+    "dataset_meta": {
+      "type": "object",
+      "required": [
+        "dataset_id",
+        "title",
+        "description",
+        "license",
+        "created_at_utc",
+        "updated_at_utc",
+        "parent_dataset_reference"
+      ],
+      "properties": {
+        "dataset_id": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "license": {
+          "type": "string"
+        },
+        "created_at_utc": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "updated_at_utc": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "parent_dataset_reference": {
+          "type": "object",
+          "required": [
+            "id",
+            "file",
+            "repository_folder"
+          ],
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "file": {
+              "type": "string"
+            },
+            "repository_folder": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": false
+        },
+        "version_notes": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": true,
+      "description": "Metadata for the overtourism n+1 dataset, including a reference to the core Immersive_Destination_Analysis dataset."
+    },
+    "cases": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/case"
+      }
+    },
+    "actors": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/actor"
+      }
+    },
+    "statements": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/statement"
+      }
+    }
+  },
+  "$defs": {
+    "destinationRef": {
+      "type": "object",
+      "required": [
+        "destination_name",
+        "in_main_dataset",
+        "provenance"
+      ],
+      "properties": {
+        "destination_id": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "ID of the destination in the core dataset, for example DEST_05. Null if the destination is not yet present in the core dataset."
+        },
+        "destination_name": {
+          "type": "string"
+        },
+        "in_main_dataset": {
+          "type": "boolean",
+          "description": "True if this destination exists in the core Immersive_Destination_Analysis dataset and is referenced by destination_id."
+        },
+        "provenance": {
+          "type": "string",
+          "description": "Source of this destination reference within the n+1 dataset, for example 'from_main_dataset' or 'external_enrichment'."
+        },
+        "candidate_for_main_dataset": {
+          "type": [
+            "boolean",
+            "null"
+          ],
+          "description": "Optional flag indicating that this destination should be considered for future inclusion in the core dataset."
+        }
+      },
+      "additionalProperties": false
+    },
+    "issues": {
+      "type": "object",
+      "required": [
+        "tags"
+      ],
+      "properties": {
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Controlled issue tags such as 'crowding', 'heritage_damage', 'housing_pressure', 'cruise_tourism'."
+        },
+        "comment": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "additionalProperties": false
+    },
+    "awarenessAssessment": {
+      "type": "object",
+      "required": [
+        "awareness_level",
+        "conflict_intensity",
+        "policy_response_level",
+        "assessment_basis"
+      ],
+      "properties": {
+        "awareness_level": {
+          "type": "string",
+          "description": "Overall awareness of overtourism in this destination: typically 'low', 'medium' or 'high'."
+        },
+        "conflict_intensity": {
+          "type": "string",
+          "description": "Overall conflict intensity between stakeholders: typically 'low', 'medium' or 'high'."
+        },
+        "policy_response_level": {
+          "type": "string",
+          "description": "Extent to which authorities have responded with policies or measures: typically 'low', 'medium' or 'high'."
+        },
+        "assessment_basis": {
+          "type": "string",
+          "description": "Short note on how the assessment was derived, for example 'interpretative' or 'mixed'."
+        },
+        "notes": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "additionalProperties": false
+    },
+    "caseMeta": {
+      "type": "object",
+      "required": [
+        "last_researched_utc"
+      ],
+      "properties": {
+        "last_researched_utc": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "researcher_notes": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "sources_overview": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/sourceOverviewItem"
+          }
+        }
+      },
+      "additionalProperties": true
+    },
+    "sourceOverviewItem": {
+      "type": "object",
+      "required": [
+        "source_id",
+        "title",
+        "url",
+        "source_type"
+      ],
+      "properties": {
+        "source_id": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "source_type": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false,
+      "description": "High level summary of a key source used for this case. Must correspond to a real, verifiable document."
+    },
+    "case": {
+      "type": "object",
+      "required": [
+        "case_id",
+        "destination_ref",
+        "issues",
+        "awareness_assessment",
+        "statement_ids",
+        "meta"
+      ],
+      "properties": {
+        "case_id": {
+          "type": "string",
+          "description": "Unique identifier for the overtourism case, for example 'OTC_01'. IDs must be unique and never reused."
+        },
+        "destination_ref": {
+          "$ref": "#/$defs/destinationRef"
+        },
+        "research_window": {
+          "type": "object",
+          "properties": {
+            "from_year": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "to_year": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            }
+          },
+          "additionalProperties": false
+        },
+        "issues": {
+          "$ref": "#/$defs/issues"
+        },
+        "awareness_assessment": {
+          "$ref": "#/$defs/awarenessAssessment"
+        },
+        "statement_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "List of statement_id values that belong to this case."
+        },
+        "meta": {
+          "$ref": "#/$defs/caseMeta"
+        }
+      },
+      "additionalProperties": false,
+      "description": "Representation of an overtourism situation in a specific destination. Cases must be based on real, documented discourse and may not be fabricated."
+    },
+    "actor": {
+      "type": "object",
+      "required": [
+        "actor_id",
+        "name",
+        "actor_type",
+        "sector",
+        "is_collective_actor"
+      ],
+      "properties": {
+        "actor_id": {
+          "type": "string",
+          "description": "Unique identifier for the actor, such as 'ACT_0001'."
+        },
+        "name": {
+          "type": "string"
+        },
+        "actor_type": {
+          "type": "string",
+          "description": "Controlled type such as 'local_government', 'ngo', 'resident', 'academic_researcher', 'tourism_business_owner'."
+        },
+        "role_title": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "organisation": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "sector": {
+          "type": "string",
+          "description": "Sector classification, for example 'public', 'private', 'civil_society', 'research'."
+        },
+        "location": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "is_collective_actor": {
+          "type": "boolean",
+          "description": "True if the actor is a collective entity, such as an association or group."
+        },
+        "contact_relevance": {
+          "type": "object",
+          "properties": {
+            "for_interviews": {
+              "type": [
+                "boolean",
+                "null"
+              ]
+            },
+            "for_partnerships": {
+              "type": [
+                "boolean",
+                "null"
+              ]
+            },
+            "comment": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false,
+      "description": "Representation of a stakeholder in the overtourism discourse. Actors must correspond to real persons or organisations and may not be fabricated."
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "source_id",
+        "source_type",
+        "title",
+        "url",
+        "publisher",
+        "publication_date",
+        "language",
+        "accessed_at_utc"
+      ],
+      "properties": {
+        "source_id": {
+          "type": "string"
+        },
+        "source_type": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "publisher": {
+          "type": "string"
+        },
+        "publication_date": {
+          "type": "string",
+          "format": "date"
+        },
+        "language": {
+          "type": "string"
+        },
+        "accessed_at_utc": {
+          "type": "string",
+          "format": "date-time"
+        }
+      },
+      "additionalProperties": false,
+      "description": "Source of a statement. Must refer to a real, verifiable document or resource. Sources must not be fabricated."
+    },
+    "contentCoding": {
+      "type": "object",
+      "required": [
+        "primary_issues",
+        "secondary_issues",
+        "problem_framing",
+        "attributed_causes",
+        "proposed_solutions"
+      ],
+      "properties": {
+        "primary_issues": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "secondary_issues": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "problem_framing": {
+          "type": "string"
+        },
+        "attributed_causes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "proposed_solutions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "toneAndStance": {
+      "type": "object",
+      "required": [
+        "stance_towards_tourism",
+        "tone",
+        "calls_for_action"
+      ],
+      "properties": {
+        "stance_towards_tourism": {
+          "type": "string",
+          "description": "Overall stance towards tourism in the statement, for example 'supportive', 'balanced', 'critical', 'anti_tourism'."
+        },
+        "tone": {
+          "type": "string",
+          "description": "Tone of the statement, for example 'neutral', 'concerned', 'urgent', 'outraged', 'optimistic'."
+        },
+        "calls_for_action": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    },
+    "relevanceForImmersiveInterventions": {
+      "type": "object",
+      "required": [
+        "mentions_storytelling_or_communication",
+        "potential_intervention_themes"
+      ],
+      "properties": {
+        "mentions_storytelling_or_communication": {
+          "type": "boolean",
+          "description": "True if the statement explicitly mentions communication, storytelling or awareness raising."
+        },
+        "potential_intervention_themes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Themes where immersive interventions could support the concerns in the statement."
+        },
+        "notes": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "additionalProperties": false
+    },
+    "statement": {
+      "type": "object",
+      "required": [
+        "statement_id",
+        "case_id",
+        "actor_id",
+        "source",
+        "paraphrase_en",
+        "content_coding",
+        "tone_and_stance",
+        "relevance_for_immersive_interventions"
+      ],
+      "properties": {
+        "statement_id": {
+          "type": "string",
+          "description": "Unique identifier for the statement, such as 'STM_0001'."
+        },
+        "case_id": {
+          "type": "string",
+          "description": "ID of the case this statement belongs to."
+        },
+        "actor_id": {
+          "type": "string",
+          "description": "ID of the actor who made this statement."
+        },
+        "source": {
+          "$ref": "#/$defs/source"
+        },
+        "original_quote": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Original quote if legally and ethically permissible. Null otherwise."
+        },
+        "paraphrase_en": {
+          "type": "string",
+          "description": "Faithful paraphrase of the statement in English. Must not add meaning that is not supported by the source."
+        },
+        "paraphrase_de": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Faithful paraphrase of the statement in German. Optional but recommended."
+        },
+        "content_coding": {
+          "$ref": "#/$defs/contentCoding"
+        },
+        "tone_and_stance": {
+          "$ref": "#/$defs/toneAndStance"
+        },
+        "relevance_for_immersive_interventions": {
+          "$ref": "#/$defs/relevanceForImmersiveInterventions"
+        }
+      },
+      "additionalProperties": false,
+      "description": "Representation of a single statement about overtourism. Statements, their content and their sources must be real and verifiable; no fabricated or hallucinated content is allowed."
+    }
+  }
+}
