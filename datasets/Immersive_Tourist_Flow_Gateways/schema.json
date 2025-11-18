@@ -12,7 +12,7 @@
     },
     "project_id": {
       "type": "string",
-      "description": "Ascending internal identifier in the form ITFG_0001, ITFG_0002, … (prefix ITFG_ plus four digits).",
+      "description": "Ascending internal identifier in the form ITFG_0001, ITFG_0002, \u2026 (prefix ITFG_ plus four digits).",
       "pattern": "^ITFG_[0-9]{4}$"
     },
     "project_name": {
@@ -21,7 +21,7 @@
     },
     "short_description": {
       "type": "string",
-      "description": "1–3 sentence description of the project’s purpose and character."
+      "description": "1\u20133 sentence description of the project\u2019s purpose and character."
     },
     "country": {
       "type": "string",
@@ -309,6 +309,29 @@
     "commissioning_authority_manager": {
       "type": "string",
       "description": "Name or title of the responsible manager/contact person at the commissioning authority, if documented."
+    },
+    "intervention_archetype": {
+      "type": "array",
+      "description": "High-level intervention archetypes describing how the gateway primarily influences flows and behaviour (e.g. behaviour_priming_gateway, immersive_substitution_hub, logistics_flow_hub, emotional_peak_gateway, intro_context_gateway).",
+      "items": {
+        "type": "string",
+        "enum": [
+          "behaviour_priming_gateway",
+          "immersive_substitution_hub",
+          "logistics_flow_hub",
+          "emotional_peak_gateway",
+          "intro_context_gateway"
+        ]
+      },
+      "uniqueItems": true
+    },
+    "problem_fit": {
+      "type": "array",
+      "description": "List of overtourism problem-types for which this project is a plausible intervention. Recommended values mirror the Overtourism N+1 issue-tag taxonomy (e.g. water_stress, infrastructure_overload, plastic_pollution, ecosystem_stress, biodiversity_loss, housing_pressure, social_conflict_protests, ngo_pressure, governance_lag, cultural_erosion).",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
     }
   },
   "required": [
