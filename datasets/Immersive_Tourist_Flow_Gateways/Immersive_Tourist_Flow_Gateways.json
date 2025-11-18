@@ -50,7 +50,17 @@
     "notes": "Gateway visitor centre for Cabrera Archipelago National Park; classification of gateway type and methods is interpretive based on public descriptions.",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://www.illesbalears.travel/en/mallorca/interpretation-center-ses-salines"
+    "source_last_checked": "https://www.illesbalears.travel/en/mallorca/interpretation-center-ses-salines",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "plastic_pollution",
+      "water_stress"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -105,7 +115,17 @@
     "notes": "Gateway classification emphasises its role as a regional hub and signposting node for circular projects throughout the Bega Valley.",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://architectureau.com/articles/centre-for-circularity/"
+    "source_last_checked": "https://architectureau.com/articles/centre-for-circularity/",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "plastic_pollution",
+      "infrastructure_overload"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -157,7 +177,17 @@
     "notes": "Media format is set to 'other' because the project primarily consists of architectural, landscape and interpretive gateway infrastructure rather than a dedicated immersive theatre.",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://getinvolved.livingstone.qld.gov.au/gki-arrivals-plaza-and-amenities"
+    "source_last_checked": "https://getinvolved.livingstone.qld.gov.au/gki-arrivals-plaza-and-amenities",
+    "intervention_archetype": [
+      "logistics_flow_hub",
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "infrastructure_overload",
+      "water_stress"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -214,7 +244,15 @@
     "notes": "Classified as an ecological gateway because it links immersive space/environment storytelling with a protected landscape (Gantrisch Nature Park).",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://www.myswitzerland.com/en-ch/experiences/space-eye/"
+    "source_last_checked": "https://www.myswitzerland.com/en-ch/experiences/space-eye/",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -273,7 +311,15 @@
     "notes": "Gateway classification focuses on its role as an introductory hub for the volcanic south coast.",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://lavacentre.is/"
+    "source_last_checked": "https://lavacentre.is/",
+    "intervention_archetype": [
+      "intro_context_gateway",
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -333,7 +379,19 @@
     "notes": "Classification emphasises the centre\u2019s role as a conservation-focused gateway before visitors move on to trails and wildlife areas.",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://www.visitgalapagos.travel/visitor-sites/san-cristobal-intepretation-center-galapagos-islands.html"
+    "source_last_checked": "https://www.visitgalapagos.travel/visitor-sites/san-cristobal-intepretation-center-galapagos-islands.html",
+    "intervention_archetype": [
+      "behaviour_priming_gateway",
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "plastic_pollution",
+      "water_stress",
+      "ngo_pressure",
+      "governance_lag"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -395,7 +453,18 @@
     "notes": "Positioned as the main visitor and communication hub for the Geirangerfjord World Heritage Area.",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://www.fjordsenter.com/en/world-heritage-visitor-centre/"
+    "source_last_checked": "https://www.fjordsenter.com/en/world-heritage-visitor-centre/",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "emotional_peak_gateway",
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "infrastructure_overload",
+      "plastic_pollution"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -457,7 +526,18 @@
     "notes": "Exhibition and theatre are central to the reconfigured visitor journey introduced with the 2013 visitor centre.",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://stonehengevisit.co.uk/visitor-centre"
+    "source_last_checked": "https://stonehengevisit.co.uk/visitor-centre",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "emotional_peak_gateway",
+      "logistics_flow_hub"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "infrastructure_overload",
+      "cultural_erosion"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -515,7 +595,13 @@
     "notes": "Included as an urban gateway example where immersive media are integrated into a national park visitor centre.",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://www.nps.gov/jeff/learn/news/jefferson-national-parks-association-offers-new-virtual-reality-experience-in-gateway-arch-lobby.htm"
+    "source_last_checked": "https://www.nps.gov/jeff/learn/news/jefferson-national-parks-association-offers-new-virtual-reality-experience-in-gateway-arch-lobby.htm",
+    "intervention_archetype": [
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "cultural_erosion"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -576,7 +662,17 @@
     "notes": "",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://uluru.gov.au/things-do/cultural-centre/"
+    "source_last_checked": "https://uluru.gov.au/things-do/cultural-centre/",
+    "intervention_archetype": [
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "infrastructure_overload",
+      "cultural_erosion",
+      "social_conflict_protests"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -638,7 +734,17 @@
     "notes": "",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://www.nps.gov/zion/planyourvisit/zion-canyon-shuttle-system.htm"
+    "source_last_checked": "https://www.nps.gov/zion/planyourvisit/zion-canyon-shuttle-system.htm",
+    "intervention_archetype": [
+      "logistics_flow_hub",
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "infrastructure_overload",
+      "infrastructure_overload"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -699,7 +805,17 @@
     "notes": "",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://www.fs.usda.gov/r10/tongass/offices/mendenhall-glacier-visitor-center"
+    "source_last_checked": "https://www.fs.usda.gov/r10/tongass/offices/mendenhall-glacier-visitor-center",
+    "intervention_archetype": [
+      "intro_context_gateway",
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "infrastructure_overload",
+      "plastic_pollution"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -762,7 +878,17 @@
     "notes": "",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://eumiesawards.com/heritageobject/giants-causeway-visitors-centre/"
+    "source_last_checked": "https://eumiesawards.com/heritageobject/giants-causeway-visitors-centre/",
+    "intervention_archetype": [
+      "logistics_flow_hub",
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "infrastructure_overload",
+      "plastic_pollution"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -827,7 +953,18 @@
     "notes": "",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://www.visiticeland.com/service-provider/5ec7d096a90548233654e0dd"
+    "source_last_checked": "https://www.visiticeland.com/service-provider/5ec7d096a90548233654e0dd",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "emotional_peak_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "plastic_pollution",
+      "water_stress",
+      "infrastructure_overload"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -890,7 +1027,16 @@
     "notes": "",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://www.nps.gov/yell/planyourvisit/oldfaithfulvec.htm"
+    "source_last_checked": "https://www.nps.gov/yell/planyourvisit/oldfaithfulvec.htm",
+    "intervention_archetype": [
+      "intro_context_gateway",
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "infrastructure_overload"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -951,7 +1097,17 @@
     "notes": "",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://www.greatbarrierreefaquarium.au/about/"
+    "source_last_checked": "https://www.greatbarrierreefaquarium.au/about/",
+    "intervention_archetype": [
+      "immersive_substitution_hub"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "plastic_pollution",
+      "water_stress",
+      "ngo_pressure"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -1010,7 +1166,15 @@
     "notes": "",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://www.ghd.com/en-au/projects/karijini-interpretive-centre"
+    "source_last_checked": "https://www.ghd.com/en-au/projects/karijini-interpretive-centre",
+    "intervention_archetype": [
+      "intro_context_gateway",
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -1070,7 +1234,15 @@
     "notes": "",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://lapalmaisland.com/en/caldera-de-taburiente-visitor-center/"
+    "source_last_checked": "https://lapalmaisland.com/en/caldera-de-taburiente-visitor-center/",
+    "intervention_archetype": [
+      "intro_context_gateway",
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -1132,7 +1304,15 @@
     "notes": "",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://www.visitbritain.org/news-and-media/destination-news-and-inspiration/exploring-dark-skies-astrotourism-britain"
+    "source_last_checked": "https://www.visitbritain.org/news-and-media/destination-news-and-inspiration/exploring-dark-skies-astrotourism-britain",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -1212,7 +1392,18 @@
     "notes": "",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://heritageireland.ie/places-to-visit/bru-na-boinne-visitor-centre-newgrange-knowth-and-dowth/"
+    "source_last_checked": "https://heritageireland.ie/places-to-visit/bru-na-boinne-visitor-centre-newgrange-knowth-and-dowth/",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "logistics_flow_hub",
+      "emotional_peak_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "infrastructure_overload",
+      "cultural_erosion"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -1289,7 +1480,15 @@
     "notes": "",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://halastulecia.pl/en/sightseeing/visitor-centre/"
+    "source_last_checked": "https://halastulecia.pl/en/sightseeing/visitor-centre/",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "infrastructure_overload",
+      "cultural_erosion"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -1366,7 +1565,17 @@
     "notes": "",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://www.wwf.org.uk/get-involved/living-planet-centre"
+    "source_last_checked": "https://www.wwf.org.uk/get-involved/living-planet-centre",
+    "intervention_archetype": [
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "plastic_pollution",
+      "housing_pressure",
+      "cultural_erosion"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -1444,7 +1653,15 @@
     "notes": "",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://www.nts.org.uk/visit/places/culloden/"
+    "source_last_checked": "https://www.nts.org.uk/visit/places/culloden/",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "emotional_peak_gateway"
+    ],
+    "problem_fit": [
+      "infrastructure_overload",
+      "cultural_erosion"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -1523,7 +1740,15 @@
     "notes": "",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://www.nps.gov/thingstodo/visit-lodgepole-visitor-center.htm"
+    "source_last_checked": "https://www.nps.gov/thingstodo/visit-lodgepole-visitor-center.htm",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -1600,7 +1825,14 @@
     "notes": "",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://www.englishrivierageopark.org.uk/section_main.cfm?section=14"
+    "source_last_checked": "https://www.englishrivierageopark.org.uk/section_main.cfm?section=14",
+    "intervention_archetype": [
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "infrastructure_overload",
+      "cultural_erosion"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -1678,7 +1910,16 @@
     "notes": "",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://wnf.ch/en/home-en/"
+    "source_last_checked": "https://wnf.ch/en/home-en/",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "infrastructure_overload"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -1754,7 +1995,18 @@
     "notes": "",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://www.experienceuk.org/blog/malaga-set-to-open-a-futuristic-oceanographic-visitor-centre"
+    "source_last_checked": "https://www.experienceuk.org/blog/malaga-set-to-open-a-futuristic-oceanographic-visitor-centre",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "plastic_pollution",
+      "water_stress",
+      "infrastructure_overload"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -1832,7 +2084,16 @@
     "notes": "",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://newlanark.org/"
+    "source_last_checked": "https://newlanark.org/",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "infrastructure_overload",
+      "cultural_erosion",
+      "housing_pressure"
+    ]
   },
   {
     "schema_version": "1.0.0",
@@ -1910,6 +2171,14 @@
     "notes": "",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://royalliverbuilding.co.uk/rlb-360/"
+    "source_last_checked": "https://royalliverbuilding.co.uk/rlb-360/",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "emotional_peak_gateway"
+    ],
+    "problem_fit": [
+      "infrastructure_overload",
+      "cultural_erosion"
+    ]
   }
 ]
