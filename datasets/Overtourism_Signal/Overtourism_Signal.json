@@ -1169,8 +1169,8 @@
         "candidate_for_main_dataset": true
       },
       "research_window": {
-        "from_year": null,
-        "to_year": null
+        "from_year": 2015,
+        "to_year": 2025
       },
       "issues": {
         "tags": [
@@ -1181,7 +1181,7 @@
           "climate_impact",
           "housing_pressure"
         ],
-        "comment": "Rapid tourism growth has increased pressure on cenotes, mangroves and groundwater, while locals raise concerns about pollution, infrastructure strain and rising living costs."
+        "comment": "Rapid tourism growth has increased pressure on cenotes, mangroves and groundwater, while locals raise concerns about pollution, infrastructure strain and rising living costs. Additional reporting links overtourism in Tulum to deforestation and road building connected to the Tren Maya project, wastewater leaking into cenotes and the aquifer, chronic sargassum influx, and the displacement of lower-income and Indigenous residents by luxury tourism and real-estate development."
       },
       "awareness_assessment": {
         "awareness_level": "high",
@@ -1193,14 +1193,20 @@
       "media_pressure_level": "High",
       "ngo_pressure_level": "Mid",
       "tourism_dependency_level": "High",
-      "ngos_involved_count": null,
+      "ngos_involved_count": 2,
       "statement_ids": [
         "STM_0010",
-        "STM_0011"
+        "STM_0011",
+        "STM_0012",
+        "STM_0013",
+        "STM_0014",
+        "STM_0015",
+        "STM_0016",
+        "STM_0017"
       ],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": "External overtourism hotspot identified via qualitative web research for Tulum, Mexico.",
+        "researcher_notes": "External overtourism hotspot identified via qualitative web research for Tulum, Mexico. Deep-dive enrichment for OTC_021 (Tulum) added multiple actors, NGOs, statements and sources to capture wastewater, Tren Maya, sargassum, housing pressure and beach-access conflicts up to late 2025.",
         "sources_overview": [
           {
             "id": "SRC_TUL_1",
@@ -1219,6 +1225,66 @@
             "title": "Tulum's tourism crisis: The unraveling of a once-thriving paradise",
             "url": "https://www.travelweekly.com/Mexico-Travel/Insights/What-happened-to-Tulum-tourism",
             "source_type": "industry_media"
+          },
+          {
+            "id": "SRC_TUL_4",
+            "title": "Tulum’s Perfect Storm, How Greed And Nature Are Driving Tourists Away",
+            "url": "https://tulumtimes.com/tulums-perfect-storm-how-greed-and-nature-are-driving-tourists-away/",
+            "source_type": "local_media"
+          },
+          {
+            "id": "SRC_TUL_5",
+            "title": "Experts Warn of Wastewater Impact on Tulum's Ecosystems",
+            "url": "https://www.rivieramayanews.mx/experts-warn-of-wastewater-impact-on-tulums-ecosystems/",
+            "source_type": "local_media"
+          },
+          {
+            "id": "SRC_TUL_6",
+            "title": "Mexican tourism boom: Tulum’s locals fight evictions as developers move in",
+            "url": "https://travindy.com/news/2022/10/mexican-tourism-boom-tulums-locals-fight-evictions-as-developers-move-in/",
+            "source_type": "ngo_or_advocacy_media"
+          },
+          {
+            "id": "SRC_TUL_7",
+            "title": "Tulum's Dilemma: Striking a Balance Between Eco-Chic Tourism and Local Preservation",
+            "url": "https://tulumtimes.com/tulums-dilemma-striking-a-balance-between-eco-chic-tourism-and-local-preservation/",
+            "source_type": "local_media"
+          },
+          {
+            "id": "SRC_TUL_8",
+            "title": "Environmental Group Sélvame del Tren Calls for Expanded Protection of Underground Rivers",
+            "url": "https://www.rivieramayanews.mx/environmental-group-selvame-del-tren-calls-for-expanded-protection-of-underground-rivers/",
+            "source_type": "local_media"
+          },
+          {
+            "id": "SRC_TUL_9",
+            "title": "Denuncian tala ilegal en Tulum para abrir camino sin permisos",
+            "url": "https://webtulumnoticias.com/2025/02/04/denuncian-tala-ilegal-en-tulum-para-abrir-camino-sin-permisos/",
+            "source_type": "local_media"
+          },
+          {
+            "id": "SRC_TUL_10",
+            "title": "Tulum Ramps Up Sargassum Cleanup and Launches Festivals to Revive Local Economy",
+            "url": "https://www.vallartadaily.com/mexico-news/southeast/quintana-roo/tulum/tulum-sargassum-cleanup-festivals-economy/",
+            "source_type": "local_media"
+          },
+          {
+            "id": "SRC_TUL_11",
+            "title": "Tulum se enfría: el turismo decae en la joya de la Riviera Maya",
+            "url": "https://elpais.com/mexico/2025-10-18/tulum-se-enfria-el-turismo-decae-en-la-joya-de-la-riviera-maya.html",
+            "source_type": "international_media"
+          },
+          {
+            "id": "SRC_TUL_12",
+            "title": "Qué está pasando en Tulum: baja de turistas y polémica por el acceso a las playas",
+            "url": "https://elpais.com/mexico/2025-10-18/que-esta-pasando-en-tulum-lo-que-hay-que-saber-de-la-baja-de-turistas-y-la-polemica-por-el-acceso-a-las-playas.html",
+            "source_type": "international_media"
+          },
+          {
+            "id": "SRC_TUL_13",
+            "title": "Alcalde de Tulum anuncia acceso libre a playas, pero sin agua, sombrillas ni comida",
+            "url": "https://www.proceso.com.mx/nacional/estados/2025/10/11/alcalde-de-tulum-anuncia-acceso-libre-playas-pero-sin-agua-sombrillas-ni-comida-360559.html",
+            "source_type": "national_media"
           }
         ]
       }
@@ -1421,6 +1487,114 @@
         "for_interviews": true,
         "for_partnerships": true,
         "comment": "Responsible for local planning, infrastructure and tourism policies."
+      }
+    },
+    {
+      "actor_id": "ACT_0012",
+      "name": "Sélvame del Tren",
+      "actor_type": "ngo",
+      "role_title": null,
+      "organisation": "Sélvame del Tren collective",
+      "sector": "civil_society",
+      "location": "Quintana Roo, Mexico",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Environmental collective opposing Tren Maya alignment and associated deforestation between Playa del Carmen and Tulum."
+      }
+    },
+    {
+      "actor_id": "ACT_0013",
+      "name": "José Urbina Bravo",
+      "actor_type": "ngo",
+      "role_title": "Environmental activist and diver",
+      "organisation": "Sélvame del Tren",
+      "sector": "civil_society",
+      "location": "Quintana Roo, Mexico",
+      "is_collective_actor": false,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Prominent voice highlighting risks Tren Maya and associated roads pose to jungle, cenotes and underground river systems."
+      }
+    },
+    {
+      "actor_id": "ACT_0014",
+      "name": "Guillermo D. Christy",
+      "actor_type": "academic_researcher",
+      "role_title": "Water consultant",
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Quintana Roo, Mexico",
+      "is_collective_actor": false,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Technical expert quoted on the need to protect underground rivers and karst systems between Cancún and Tulum."
+      }
+    },
+    {
+      "actor_id": "ACT_0015",
+      "name": "Asociación de Hoteles de Tulum (AHT)",
+      "actor_type": "community_group",
+      "role_title": null,
+      "organisation": "Tulum Hotel Association A.C.",
+      "sector": "private",
+      "location": "Tulum, Quintana Roo, Mexico",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Industry association representing hotels in Tulum, promoting the destination and advocating for sustainable tourism narratives."
+      }
+    },
+    {
+      "actor_id": "ACT_0016",
+      "name": "Diego Castañón Trejo",
+      "actor_type": "local_government",
+      "role_title": "President Municipal of Tulum",
+      "organisation": "Municipality of Tulum",
+      "sector": "public",
+      "location": "Tulum, Quintana Roo, Mexico",
+      "is_collective_actor": false,
+      "supervising_ministry": "Government of Quintana Roo / Government of Mexico",
+      "budget_information": null,
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Key decision-maker on tourism policy, beach access programmes and responses to the current tourism slowdown in Tulum."
+      }
+    },
+    {
+      "actor_id": "ACT_0017",
+      "name": "Indigenous and low-income residents of Tulum barrios",
+      "actor_type": "community_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Tulum, Quintana Roo, Mexico",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Residents affected by evictions and housing pressure as land is converted to luxury tourism and real-estate projects."
       }
     }
   ],
@@ -1982,6 +2156,298 @@
           "community voices in destination storytelling"
         ],
         "notes": "Shows potential for immersive narratives that integrate residents’ perspectives into the visitor experience."
+      }
+    },
+    {
+      "statement_id": "STM_0012",
+      "case_id": "OTC_021",
+      "actor_id": "ACT_0012",
+      "source": {
+        "source_id": "SRC_TUL_S4",
+        "source_type": "local_media",
+        "title": "Denuncian tala ilegal en Tulum para abrir camino sin permisos",
+        "url": "https://webtulumnoticias.com/2025/02/04/denuncian-tala-ilegal-en-tulum-para-abrir-camino-sin-permisos/",
+        "publisher": "Web Tulum Noticias",
+        "publication_date": "2025-02-04",
+        "language": "es",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Sélvame del Tren denounces new road works near Bahía Solimán, arguing that trees are being cleared without proper environmental permits and that the project threatens protected forest, wildlife and coastal ecosystems around Tulum.",
+      "content_coding": {
+        "primary_issues": [
+          "environmental_degradation",
+          "deforestation",
+          "governance"
+        ],
+        "secondary_issues": [
+          "climate_impact"
+        ],
+        "problem_framing": "governance",
+        "attributed_causes": [
+          "construction related to the Tren Maya project",
+          "weak enforcement of environmental regulation"
+        ],
+        "proposed_solutions": [
+          "suspension of works lacking environmental permits",
+          "full environmental impact assessments",
+          "legal protection of forested areas near Tulum"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "critical",
+        "tone": "alarming",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "environmental_risk_visualisation",
+          "legal_framework_explanation"
+        ],
+        "notes": "Immersive content could show how new infrastructure fragments jungle corridors and affects biodiversity near tourist zones."
+      }
+    },
+    {
+      "statement_id": "STM_0013",
+      "case_id": "OTC_021",
+      "actor_id": "ACT_0013",
+      "source": {
+        "source_id": "SRC_TUL_S5",
+        "source_type": "local_media",
+        "title": "Environmental Group Sélvame del Tren Calls for Expanded Protection of Underground Rivers",
+        "url": "https://www.rivieramayanews.mx/environmental-group-selvame-del-tren-calls-for-expanded-protection-of-underground-rivers/",
+        "publisher": "Riviera Maya News",
+        "publication_date": "2025-07-10",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Environmental activist José Urbina Bravo warns that the jungle and underground river systems between Playa del Carmen and Tulum are already under heavy pressure from tourism and infrastructure and must be legally protected before damage becomes irreversible.",
+      "content_coding": {
+        "primary_issues": [
+          "environmental_degradation",
+          "water_stress"
+        ],
+        "secondary_issues": [
+          "climate_impact"
+        ],
+        "problem_framing": "environmental_limits",
+        "attributed_causes": [
+          "rapid expansion of tourism infrastructure along the corridor",
+          "lack of strict protection for caves, cenotes and underground rivers"
+        ],
+        "proposed_solutions": [
+          "creation of protected areas for underground rivers",
+          "stricter controls on new construction near cenotes"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "balanced",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "aquifer_visualisation",
+          "carrying_capacity_explanation"
+        ],
+        "notes": "Immersive maps could translate the invisible underground river network into intuitive visuals for residents, authorities and visitors."
+      }
+    },
+    {
+      "statement_id": "STM_0014",
+      "case_id": "OTC_021",
+      "actor_id": "ACT_0014",
+      "source": {
+        "source_id": "SRC_TUL_S6",
+        "source_type": "local_media",
+        "title": "Experts Warn of Wastewater Impact on Tulum's Ecosystems",
+        "url": "https://www.rivieramayanews.mx/experts-warn-of-wastewater-impact-on-tulums-ecosystems/",
+        "publisher": "Riviera Maya News",
+        "publication_date": "2025-10-25",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Water experts argue that the current patchwork of small treatment plants and septic systems in Tulum allows untreated or partially treated wastewater to seep into the aquifer and coastal ecosystems, calling for a single well-designed and supervised plant instead.",
+      "content_coding": {
+        "primary_issues": [
+          "water_stress",
+          "waste_management",
+          "environmental_degradation"
+        ],
+        "secondary_issues": [
+          "public_health"
+        ],
+        "problem_framing": "infrastructure_gap",
+        "attributed_causes": [
+          "fragmented wastewater infrastructure",
+          "rapid hotel and housing growth without adequate utilities"
+        ],
+        "proposed_solutions": [
+          "centralised wastewater treatment with strong oversight",
+          "stricter monitoring of hotel and rental discharges"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "balanced",
+        "tone": "warning",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "infrastructure_explanation",
+          "risk_communication"
+        ],
+        "notes": "Immersive storytelling could show how invisible wastewater flows connect hotels, neighbourhoods, cenotes and reefs."
+      }
+    },
+    {
+      "statement_id": "STM_0015",
+      "case_id": "OTC_021",
+      "actor_id": "ACT_0017",
+      "source": {
+        "source_id": "SRC_TUL_S7",
+        "source_type": "ngo_or_advocacy_media",
+        "title": "Mexican tourism boom: Tulum’s locals fight evictions as developers move in",
+        "url": "https://travindy.com/news/2022/10/mexican-tourism-boom-tulums-locals-fight-evictions-as-developers-move-in/",
+        "publisher": "Travindy",
+        "publication_date": "2022-10-03",
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Indigenous and low-income residents report growing pressure to leave their neighbourhoods as land is sold to developers for luxury condominiums and tourism projects, framing overtourism as a driver of evictions and loss of community space.",
+      "content_coding": {
+        "primary_issues": [
+          "housing_pressure",
+          "social_conflict"
+        ],
+        "secondary_issues": [
+          "inequality"
+        ],
+        "problem_framing": "social_justice",
+        "attributed_causes": [
+          "speculative real-estate development linked to tourism demand",
+          "insufficient protection for tenants and informal settlements"
+        ],
+        "proposed_solutions": [
+          "stronger tenure security and anti-eviction measures",
+          "urban planning that reserves land for local housing needs"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "critical",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "community_voice",
+          "equity_and_right_to_city"
+        ],
+        "notes": "Immersive narratives could centre residents’ stories and show how tourism-led urban change reshapes everyday life in Tulum."
+      }
+    },
+    {
+      "statement_id": "STM_0016",
+      "case_id": "OTC_021",
+      "actor_id": "ACT_0015",
+      "source": {
+        "source_id": "SRC_TUL_S8",
+        "source_type": "industry_media",
+        "title": "Tulum se enfría: el turismo decae en la joya de la Riviera Maya",
+        "url": "https://elpais.com/mexico/2025-10-18/tulum-se-enfria-el-turismo-decae-en-la-joya-de-la-riviera-maya.html",
+        "publisher": "El País",
+        "publication_date": "2025-10-18",
+        "language": "es",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Representatives of the Tulum Hotel Association describe the current drop in occupancy as a temporary adjustment and argue that the destination should continue positioning itself as a premium, higher-spending market while improving coordination on issues like sargassum and access to beaches.",
+      "content_coding": {
+        "primary_issues": [
+          "tourism_dependency",
+          "governance"
+        ],
+        "secondary_issues": [
+          "crowding",
+          "housing_pressure"
+        ],
+        "problem_framing": "economic_model",
+        "attributed_causes": [
+          "global economic uncertainty",
+          "competition from short-term rentals",
+          "environmental shocks such as sargassum"
+        ],
+        "proposed_solutions": [
+          "strengthening destination marketing towards higher-value segments",
+          "better coordination on environmental management and access rules"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "defensive",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "stakeholder_dialogue"
+        ],
+        "notes": "Useful for contrasting industry narratives with resident and NGO perspectives in an immersive debate or scenario-based format."
+      }
+    },
+    {
+      "statement_id": "STM_0017",
+      "case_id": "OTC_021",
+      "actor_id": "ACT_0016",
+      "source": {
+        "source_id": "SRC_TUL_S9",
+        "source_type": "national_media",
+        "title": "Alcalde de Tulum anuncia acceso libre a playas, pero sin agua, sombrillas ni comida",
+        "url": "https://www.proceso.com.mx/nacional/estados/2025/10/11/alcalde-de-tulum-anuncia-acceso-libre-playas-pero-sin-agua-sombrillas-ni-comida-360559.html",
+        "publisher": "Proceso",
+        "publication_date": "2025-10-11",
+        "language": "es",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Mayor Diego Castañón presents a programme of free access to Tulum’s beaches while at the same time prohibiting visitors from bringing their own food, drinks or umbrellas, arguing that they should consume at local establishments. Critics see this as restrictive and favouring certain tourism businesses.",
+      "content_coding": {
+        "primary_issues": [
+          "governance",
+          "social_conflict"
+        ],
+        "secondary_issues": [
+          "housing_pressure"
+        ],
+        "problem_framing": "distributional_conflict",
+        "attributed_causes": [
+          "attempts to reconcile free access with business interests",
+          "lack of clear national guidance on implementation of beach-access law"
+        ],
+        "proposed_solutions": [
+          "transparent dialogue with residents and visitors about rules",
+          "access schemes that do not depend on on-site consumption"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "justifying",
+        "calls_for_action": false
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "rights_and_access",
+          "policy_scenarios"
+        ],
+        "notes": "Can be turned into interactive scenarios where audiences explore different rules for beach access and their distributional impacts."
       }
     }
   ]
