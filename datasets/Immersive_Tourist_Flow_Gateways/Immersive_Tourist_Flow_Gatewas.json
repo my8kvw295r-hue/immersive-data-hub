@@ -215,5 +215,306 @@
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
     "source_last_checked": "https://www.myswitzerland.com/en-ch/experiences/space-eye/"
+  },
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0005",
+    "project_name": "LAVA Centre – Iceland Volcano and Earthquake Exhibition",
+    "short_description": "Interactive, high-tech exhibition centre in Hvolsvöllur on Iceland’s south coast, dedicated to volcanic activity, earthquakes and the formation of Iceland. Functions as an immersive gateway to the South Coast’s volcanic landscape, often recommended as a starting point for exploring the region.",
+    "country": "Iceland",
+    "region": "South Iceland",
+    "location_notes": "Hvolsvöllur, along the Ring Road on Iceland’s south coast; near several major volcanoes.",
+    "gateway_type": "ecological_gateway",
+    "project_goal": [
+      "educational_priming",
+      "arrival_expectation_setting"
+    ],
+    "methods_used": [
+      "spatial_storytelling_navigation",
+      "content_driven_routing"
+    ],
+    "media_format": [
+      "interactive_installation",
+      "360_degree_projection"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": 2017,
+    "producer_operating_entity": "LAVA Centre",
+    "director_lead_creator": "",
+    "creative_studio": "",
+    "technical_partners": [],
+    "budget_currency": "",
+    "budget_amount_estimate": null,
+    "visitor_capacity_per_hour": null,
+    "annual_visitors_estimate": null,
+    "duration_min": null,
+    "sustainability_context": {
+      "biodiversity_goal": "",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "Acts as a controlled hub where visitors can learn about Iceland’s volcanic systems before travelling into sensitive natural areas along the south coast."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://lavacentre.is/",
+      "https://www.icelandtravel.is/attractions/the-lava-centre/",
+      "https://guidetoiceland.is/travel-iceland/drive/lava-centre"
+    ],
+    "notes": "Gateway classification focuses on its role as an introductory hub for the volcanic south coast.",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://lavacentre.is/"
+  },
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0006",
+    "project_name": "Gianni Arismendy Interpretation Center – San Cristóbal, Galápagos",
+    "short_description": "Interpretation centre on San Cristóbal Island that presents the natural and human history of the Galápagos through exhibitions and audiovisual material, highlighting conservation issues and the need to control population and tourist pressure on the islands.",
+    "country": "Ecuador",
+    "region": "Galápagos Islands",
+    "location_notes": "Puerto Baquerizo Moreno, San Cristóbal Island; gateway centre linked to trails such as Tijeretas Hill.",
+    "gateway_type": "ecological_gateway",
+    "project_goal": [
+      "educational_priming",
+      "behaviour_change",
+      "conservation_support"
+    ],
+    "methods_used": [
+      "spatial_storytelling_navigation",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "interactive_installation",
+      "projection_mapping"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": 1998,
+    "producer_operating_entity": "Galápagos National Park Directorate",
+    "director_lead_creator": "",
+    "creative_studio": "",
+    "technical_partners": [],
+    "budget_currency": "",
+    "budget_amount_estimate": null,
+    "visitor_capacity_per_hour": null,
+    "annual_visitors_estimate": null,
+    "duration_min": null,
+    "sustainability_context": {
+      "biodiversity_goal": "Raise awareness of the unique habitats and species of the Galápagos and support long-term conservation of the archipelago.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "Public information emphasises conservation issues and the role of population and tourist control in preserving the islands."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.visitgalapagos.travel/visitor-sites/san-cristobal-intepretation-center-galapagos-islands.html",
+      "https://gogalapagos.com/visitor-sites/interpretation-center-tijeretas-hill/",
+      "https://www.royalgalapagos.com/visitor-sites/sancristobal-gic2.html"
+    ],
+    "notes": "Classification emphasises the centre’s role as a conservation-focused gateway before visitors move on to trails and wildlife areas.",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://www.visitgalapagos.travel/visitor-sites/san-cristobal-intepretation-center-galapagos-islands.html"
+  },
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0007",
+    "project_name": "Norwegian Fjord Centre – World Heritage Visitor Centre Geirangerfjord",
+    "short_description": "World Heritage visitor and communication centre for the Geirangerfjord area, featuring films, exhibitions and interactive stations that let visitors experience the fjord landscape, nature and culture indoors before heading out into the World Heritage site.",
+    "country": "Norway",
+    "region": "Møre og Romsdal",
+    "location_notes": "Geiranger, gateway hub for the West Norwegian Fjords – Geirangerfjord World Heritage Site.",
+    "gateway_type": "ecological_gateway",
+    "project_goal": [
+      "educational_priming",
+      "behaviour_change",
+      "conservation_support",
+      "flow_redirection"
+    ],
+    "methods_used": [
+      "spatial_storytelling_navigation",
+      "emotional_peak_relocation",
+      "content_driven_routing"
+    ],
+    "media_format": [
+      "interactive_installation",
+      "360_degree_projection"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "Norwegian Fjord Centre",
+    "director_lead_creator": "",
+    "creative_studio": "",
+    "technical_partners": [],
+    "budget_currency": "",
+    "budget_amount_estimate": null,
+    "visitor_capacity_per_hour": null,
+    "annual_visitors_estimate": null,
+    "duration_min": null,
+    "sustainability_context": {
+      "biodiversity_goal": "Explain the natural processes that formed the fjord landscape and raise awareness of the vulnerable World Heritage environment.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "Indoor experiences allow visitors to ‘experience the entire World Heritage area from the cinema seat’, reducing the need for every visitor to access all parts of the fjord physically."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.fjordsenter.com/en/world-heritage-visitor-centre/",
+      "https://www.fjordnorway.com/en/see-and-do/norwegian-fjord-centre---world-heritage-visitor-centre-geirangerfjorden",
+      "https://www.visitgeiranger.com/norwegian-fjord-center"
+    ],
+    "notes": "Positioned as the main visitor and communication hub for the Geirangerfjord World Heritage Area.",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://www.fjordsenter.com/en/world-heritage-visitor-centre/"
+  },
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0008",
+    "project_name": "Stonehenge Visitor Centre – Exhibition and 360° Stone Circle Theatre",
+    "short_description": "Visitor centre for Stonehenge with an exhibition and a 360-degree audiovisual theatre that allows visitors to stand virtually in the centre of the stone circle, providing an immersive alternative to physical access which is restricted to protect the monument and landscape.",
+    "country": "United Kingdom",
+    "region": "Wiltshire",
+    "location_notes": "Near Amesbury, Wiltshire; gateway complex serving visitors to the Stonehenge World Heritage Site.",
+    "gateway_type": "ecological_gateway",
+    "project_goal": [
+      "educational_priming",
+      "physical_impact_replacement",
+      "arrival_expectation_setting",
+      "conservation_support"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "emotional_peak_relocation",
+      "spatial_storytelling_navigation"
+    ],
+    "media_format": [
+      "360_degree_projection",
+      "interactive_installation"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": 2013,
+    "producer_operating_entity": "English Heritage",
+    "director_lead_creator": "",
+    "creative_studio": "",
+    "technical_partners": [],
+    "budget_currency": "",
+    "budget_amount_estimate": null,
+    "visitor_capacity_per_hour": null,
+    "annual_visitors_estimate": null,
+    "duration_min": null,
+    "sustainability_context": {
+      "biodiversity_goal": "Help protect the Stonehenge landscape from erosion and damage by concentrating visitors in a managed gateway and reducing direct physical interaction with the stones.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "The 360° theatre was designed after visitor focus groups expressed a desire to stand inside the stones; the immersive AV experience provides this sensation without physical access."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://stonehengevisit.co.uk/visitor-centre",
+      "https://www.english-heritage.org.uk/visit/places/stonehenge/things-to-do/visitor-centre/",
+      "https://museumsandheritage.com/advisor/posts/stonehenge-returning-the-stones-to-a-natural-landscape/"
+    ],
+    "notes": "Exhibition and theatre are central to the reconfigured visitor journey introduced with the 2013 visitor centre.",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://stonehengevisit.co.uk/visitor-centre"
+  },
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0009",
+    "project_name": "Virtual Reality Theater – Gateway Arch National Park",
+    "short_description": "Virtual reality theatre in the Gateway Arch National Park visitor centre offering a 3D immersive experience of the 1850s St. Louis riverfront, allowing visitors to explore the historic levee and hear stories from people who lived and worked there.",
+    "country": "United States",
+    "region": "Missouri",
+    "location_notes": "Gateway Arch National Park, St. Louis; located on the lower level of the Arch visitor centre.",
+    "gateway_type": "urban_gateway",
+    "project_goal": [
+      "educational_priming",
+      "behaviour_change"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "virtual_reality"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": 2023,
+    "producer_operating_entity": "Jefferson National Parks Association (in partnership with Gateway Arch National Park)",
+    "director_lead_creator": "",
+    "creative_studio": "",
+    "technical_partners": [],
+    "budget_currency": "",
+    "budget_amount_estimate": null,
+    "visitor_capacity_per_hour": null,
+    "annual_visitors_estimate": null,
+    "duration_min": 10,
+    "sustainability_context": {
+      "biodiversity_goal": "",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "While primarily a cultural-heritage experience rather than an ecological project, it demonstrates how immersive media can be used at an urban national park gateway to deepen understanding of place."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.gatewayarch.com/gateway-arch-national-park/virtual-reality-theater/",
+      "https://www.nps.gov/jeff/learn/news/jefferson-national-parks-association-offers-new-virtual-reality-experience-in-gateway-arch-lobby.htm",
+      "https://jnpa.blog/2023/06/06/the-metaverse-has-come-to-the-arch/"
+    ],
+    "notes": "Included as an urban gateway example where immersive media are integrated into a national park visitor centre.",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://www.nps.gov/jeff/learn/news/jefferson-national-parks-association-offers-new-virtual-reality-experience-in-gateway-arch-lobby.htm"
   }
 ]
