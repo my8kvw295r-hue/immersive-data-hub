@@ -2136,6 +2136,282 @@
           }
         ]
       }
+    },
+    {
+      "case_id": "OTC_032",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Hallstatt",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": 2010,
+        "to_year": 2025
+      },
+      "issues": {
+        "tags": [
+          "overtourism_general",
+          "day_tripper_pressure",
+          "social_media_tourism",
+          "housing_pressure",
+          "infrastructure_strain"
+        ],
+        "comment": " Hallstatt, a small lakeside village in the Austrian Alps, has become a symbol of social-media-driven overtourism. Visitor numbers far exceed the resident population, with day-trippers arriving by buses and tour groups, creating congestion on narrow streets, pressure on local services and tension over noise and privacy. The municipality has experimented with caps on tour buses, parking controls and communication campaigns to discourage mass day trips."
+      },
+      "awareness_assessment": {
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "mid",
+        "assessment_basis": "National and international media portray Hallstatt as a postcard-perfect village overwhelmed by Instagram and influencer tourism, sparking public debates about limits and residents’ rights.",
+        "notes": "The case is frequently referenced in discussions about how image-based media can suddenly transform remote locations into global hotspots."
+      },
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "Low",
+      "tourism_dependency_level": "High",
+      "ngos_involved_count": 1,
+      "statement_ids": [
+        "STM_0098",
+        "STM_0099"
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": " Deep-dive creation of OTC_032 (Hallstatt), focusing on social media day-tripper pressure, bus caps and resident–tourist tensions.",
+        "sources_overview": [
+          {
+            "title": "Austria’s postcard-perfect village of Hallstatt fights overtourism",
+            "url": null,
+            "source_type": "news_article"
+          },
+          {
+            "title": "How Instagram turned Hallstatt into a mass tourism hotspot",
+            "url": null,
+            "source_type": "feature_article"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "OTC_033",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Kyoto temple and heritage districts",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": 2010,
+        "to_year": 2025
+      },
+      "issues": {
+        "tags": [
+          "overtourism_general",
+          "cultural_change",
+          "heritage_risk",
+          "housing_pressure",
+          "visitor_behavior_conflicts"
+        ],
+        "comment": " Kyoto’s historic districts, including areas around Kiyomizu-dera, Fushimi Inari and Gion, have seen heavy crowding, conflicts over visitor behaviour and rising pressure from short-term rentals. Local authorities and residents’ associations complain about blocked streets, disrespectful conduct and difficulties maintaining traditional neighbourhood life. Some neighbourhoods have introduced photography bans on private alleys and run campaigns asking visitors to respect etiquette."
+      },
+      "awareness_assessment": {
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "mid",
+        "assessment_basis": "Japanese and international media highlight Kyoto as a heritage city struggling to reconcile mass tourism with cultural norms and residents’ expectations.",
+        "notes": "The case illustrates the tension between a global tourism brand and local rules around privacy, noise and appropriate conduct in shrines and geisha districts."
+      },
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "Low",
+      "tourism_dependency_level": "High",
+      "ngos_involved_count": 1,
+      "statement_ids": [
+        "STM_0100",
+        "STM_0101"
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": " Deep-dive creation of OTC_033 (Kyoto temple and heritage districts), focusing on behaviour conflicts, photography bans, short-term rentals and local etiquette campaigns.",
+        "sources_overview": [
+          {
+            "title": "Kyoto introduces photography ban in Gion to tackle tourist misconduct",
+            "url": null,
+            "source_type": "news_article"
+          },
+          {
+            "title": "How overtourism is changing everyday life in Kyoto",
+            "url": null,
+            "source_type": "feature_article"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "OTC_034",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Phi Phi Islands",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": 2010,
+        "to_year": 2025
+      },
+      "issues": {
+        "tags": [
+          "overtourism_general",
+          "marine_ecosystem_damage",
+          "beach_closure",
+          "day_tripper_pressure",
+          "cruise_and_boat_pressure"
+        ],
+        "comment": " The Phi Phi Islands, including Maya Bay, became global icons after the film ‘The Beach’ and subsequent social media exposure. Rapid growth in day-trip boat tours from Phuket and Krabi led to coral damage, beach erosion and dangerous crowding in small bays. Thai authorities closed Maya Bay for several years to allow ecological recovery, then reopened it with strict limits on visitor numbers, boat access rules and no-swimming zones."
+      },
+      "awareness_assessment": {
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "high",
+        "assessment_basis": "Media and scientific reports present Phi Phi as a high-profile example of a beach and reef destination that had to be closed and re-regulated due to overtourism.",
+        "notes": "The case is used in discussions about how far authorities should go in closing or reformatting destinations to avoid irreversible ecosystem damage."
+      },
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "High",
+      "tourism_dependency_level": "High",
+      "ngos_involved_count": 3,
+      "statement_ids": [
+        "STM_0102",
+        "STM_0103"
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": " Deep-dive creation of OTC_034 (Phi Phi Islands), focusing on Maya Bay closure, boat and visitor caps, and reef recovery debates.",
+        "sources_overview": [
+          {
+            "title": "Thailand closes Maya Bay to save its corals",
+            "url": null,
+            "source_type": "news_article"
+          },
+          {
+            "title": "Maya Bay reopens with strict visitor limits after years of closure",
+            "url": null,
+            "source_type": "news_article"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "OTC_035",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Mykonos",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": 2010,
+        "to_year": 2025
+      },
+      "issues": {
+        "tags": [
+          "overtourism_general",
+          "tourism_dependency",
+          "housing_pressure",
+          "party_tourism",
+          "water_stress",
+          "infrastructure_strain"
+        ],
+        "comment": " Mykonos is one of Greece’s most tourism-dependent islands, known for luxury and party tourism, intense seasonal peaks and heavy reliance on imported labour. Reports point to housing shortages for workers, high prices, water and waste pressures and tensions between party zones and more traditional settlements. Debates about caps on short-term rentals, stronger enforcement of zoning rules and diversification beyond nightlife tourism are ongoing."
+      },
+      "awareness_assessment": {
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "mid",
+        "assessment_basis": "Media, policy debates and union statements highlight Mykonos as an emblematic case of an island economy dominated by high-intensity tourism.",
+        "notes": "The case shows how seasonal tourism booms can create structural dependence and labour/housing pressures that go beyond crowding at specific beaches or towns."
+      },
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "Low",
+      "tourism_dependency_level": "Very High",
+      "ngos_involved_count": 1,
+      "statement_ids": [
+        "STM_0104",
+        "STM_0105"
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": " Deep-dive creation of OTC_035 (Mykonos), focusing on party tourism, housing and labour issues, and water/waste infrastructure strain.",
+        "sources_overview": [
+          {
+            "title": "Mykonos workers struggle with housing and cost of living",
+            "url": null,
+            "source_type": "news_article"
+          },
+          {
+            "title": "Is Mykonos a victim of its own tourism success?",
+            "url": null,
+            "source_type": "feature_article"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "OTC_036",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Mount Everest and Khumbu trekking region",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": 2010,
+        "to_year": 2025
+      },
+      "issues": {
+        "tags": [
+          "mountain_tourism_pressure",
+          "waste_management",
+          "safety_risk",
+          "climate_change_impacts",
+          "overtourism_general"
+        ],
+        "comment": " The Mount Everest and Khumbu region experiences concentrated trekking and climbing tourism, with images of ‘traffic jams’ near the summit becoming a global symbol of extreme mountain overtourism. Concerns include waste and sewage accumulation on trails and glaciers, safety risks for climbers and guides, and the vulnerability of high-mountain ecosystems to climate change. Authorities and local organisations have introduced garbage deposit schemes, permit rules and clean-up expeditions, yet questions remain about sustainable visitor numbers and risk levels."
+      },
+      "awareness_assessment": {
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "mid",
+        "assessment_basis": "Documentaries, news articles and NGO reports make Everest one of the best-known examples of overtourism and environmental stress at high altitude.",
+        "notes": "The case raises questions about the limits of commercial adventure tourism and the responsibilities of climbers, operators and states."
+      },
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "High",
+      "tourism_dependency_level": "High",
+      "ngos_involved_count": 3,
+      "statement_ids": [
+        "STM_0106",
+        "STM_0107"
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": " Deep-dive creation of OTC_036 (Everest and Khumbu), focusing on summit crowding, waste and safety risks and climate-vulnerable high-mountain ecosystems.",
+        "sources_overview": [
+          {
+            "title": "Everest ‘traffic jam’ shows risks of mass mountaineering",
+            "url": null,
+            "source_type": "news_article"
+          },
+          {
+            "title": "Mount Everest is covered in trash: inside the clean-up campaigns",
+            "url": null,
+            "source_type": "feature_article"
+          }
+        ]
+      }
     }
   ],
   "actors": [
@@ -3901,6 +4177,276 @@
         "for_interviews": true,
         "for_partnerships": true,
         "comment": "Businesses that both depend on and witness the pressure on iconic sites and glaciers."
+      }
+    },
+    {
+      "actor_id": "ACT_0099",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Municipality of Hallstatt",
+      "actor_type": "local_government",
+      "role_title": null,
+      "organisation": "Gemeinde Hallstatt",
+      "sector": "public",
+      "location": "Hallstatt, Austria",
+      "is_collective_actor": true,
+      "supervising_ministry": "Land Oberösterreich / Government of Austria",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Responsible for local tourism management, bus caps and communication with tour operators."
+      }
+    },
+    {
+      "actor_id": "ACT_0100",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Hallstatt residents and local initiative groups",
+      "actor_type": "community_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Hallstatt, Austria",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Voices from local residents concerned about noise, privacy and housing affordability."
+      }
+    },
+    {
+      "actor_id": "ACT_0101",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Tour operators and bus companies serving Hallstatt",
+      "actor_type": "tourism_business_association",
+      "role_title": null,
+      "organisation": null,
+      "sector": "private",
+      "location": "Austria and neighbouring countries",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Organise high-volume day trips that shape crowding patterns in the village."
+      }
+    },
+    {
+      "actor_id": "ACT_0102",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "City of Kyoto – tourism and cultural heritage departments",
+      "actor_type": "local_government",
+      "role_title": null,
+      "organisation": "Kyoto City",
+      "sector": "public",
+      "location": "Kyoto, Japan",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of Japan",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Designs visitor behaviour campaigns, rental regulations and signage in heritage districts."
+      }
+    },
+    {
+      "actor_id": "ACT_0103",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Residents and shop owners in Kyoto’s historic districts",
+      "actor_type": "community_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Kyoto, Japan",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Local communities reporting impacts of crowding and inappropriate tourist behaviour."
+      }
+    },
+    {
+      "actor_id": "ACT_0104",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Kyoto tourism organisations and temple/shrine custodians",
+      "actor_type": "tourism_business_association",
+      "role_title": null,
+      "organisation": null,
+      "sector": "mixed",
+      "location": "Kyoto, Japan",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Actors managing access to major temples and designing visitor guidance materials."
+      }
+    },
+    {
+      "actor_id": "ACT_0105",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Thai Department of National Parks, Wildlife and Plant Conservation",
+      "actor_type": "protected_area_authority",
+      "role_title": null,
+      "organisation": "Government of Thailand",
+      "sector": "public",
+      "location": "Bangkok and Krabi/Phuket regions, Thailand",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of Thailand",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Responsible for closure and reopening rules at Maya Bay and other Phi Phi sites."
+      }
+    },
+    {
+      "actor_id": "ACT_0106",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Marine conservation NGOs and research projects in the Phi Phi region",
+      "actor_type": "ngo",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Thailand",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Monitor coral health and advocate for strict visitor limits and boat regulations."
+      }
+    },
+    {
+      "actor_id": "ACT_0107",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Speedboat and tour operators serving Phi Phi and Maya Bay",
+      "actor_type": "tourism_business_association",
+      "role_title": null,
+      "organisation": null,
+      "sector": "private",
+      "location": "Phuket, Krabi and Phi Phi, Thailand",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Operators adapting to closure periods, new routes and stricter landing quotas."
+      }
+    },
+    {
+      "actor_id": "ACT_0108",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Greek national government and labour/housing authorities (Mykonos)",
+      "actor_type": "national_ministry",
+      "role_title": null,
+      "organisation": "Government of Greece",
+      "sector": "public",
+      "location": "Athens / South Aegean, Greece",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of Greece",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Responsible for labour inspections, housing regulations and national tourism strategy affecting Mykonos."
+      }
+    },
+    {
+      "actor_id": "ACT_0109",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Municipality of Mykonos and local authorities",
+      "actor_type": "local_government",
+      "role_title": null,
+      "organisation": null,
+      "sector": "public",
+      "location": "Mykonos, Greece",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of Greece",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Manages local infrastructure, zoning and services under peak seasonal loads."
+      }
+    },
+    {
+      "actor_id": "ACT_0110",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Seasonal workers and unions on Mykonos",
+      "actor_type": "community_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Mykonos, Greece",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Workers describing difficult housing conditions, high living costs and precarious employment."
+      }
+    },
+    {
+      "actor_id": "ACT_0111",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Government of Nepal – tourism and environment authorities (Everest)",
+      "actor_type": "national_ministry",
+      "role_title": null,
+      "organisation": "Government of Nepal",
+      "sector": "public",
+      "location": "Kathmandu, Nepal",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of Nepal",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Sets climbing permit rules, fees and regulations for Everest and the Khumbu region."
+      }
+    },
+    {
+      "actor_id": "ACT_0112",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Sherpa communities and mountain workers in the Khumbu region",
+      "actor_type": "community_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Khumbu region, Nepal",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Communities and guides providing critical support for trekking and climbing expeditions."
+      }
+    },
+    {
+      "actor_id": "ACT_0113",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Environmental NGOs and clean-up campaigns on Everest",
+      "actor_type": "ngo",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Nepal and international",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Coordinate clean-up expeditions and advocate for stricter waste and safety regulations."
       }
     }
   ],
@@ -8494,6 +9040,462 @@
           "monitoring_visualisation"
         ],
         "notes": "Immersive dashboards could visualise seasonal peaks and pressure on small coastal communities."
+      }
+    },
+    {
+      "statement_id": "STM_0098",
+      "case_id": "OTC_032",
+      "actor_id": "ACT_0099",
+      "source": {
+        "source_id": "SRC_HAL_S1",
+        "source_type": "news_article",
+        "title": "Austria’s postcard-perfect village of Hallstatt fights overtourism",
+        "url": null,
+        "publisher": null,
+        "publication_date": null,
+        "language": "de/en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Municipal officials emphasise that new rules on bus arrivals and parking are intended to reduce daily peaks of day-tripper flows and protect residents’ quality of life.",
+      "content_coding": {
+        "primary_issues": [
+          "day_tripper_pressure",
+          "infrastructure_strain"
+        ],
+        "secondary_issues": [
+          "housing_pressure"
+        ],
+        "problem_framing": "managing_daily_peaks_in_a_small_village",
+        "attributed_causes": [
+          "mass tour-bus packages and social media exposure"
+        ],
+        "proposed_solutions": [
+          "caps on daily bus arrivals",
+          "stricter parking and visitor information rules"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_critical",
+        "tone": "pragmatic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "scenario_visualisation"
+        ],
+        "notes": "Immersive village-scale simulations could support negotiations on different bus-cap scenarios."
+      }
+    },
+    {
+      "statement_id": "STM_0099",
+      "case_id": "OTC_032",
+      "actor_id": "ACT_0100",
+      "source": {
+        "source_id": "SRC_HAL_S2",
+        "source_type": "feature_article",
+        "title": "How Instagram turned Hallstatt into a mass tourism hotspot",
+        "url": null,
+        "publisher": null,
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Residents describe a sense of losing privacy as tourists crowd balconies, streets and viewpoints primarily to take photographs rather than engage with the village as a living community.",
+      "content_coding": {
+        "primary_issues": [
+          "social_media_tourism",
+          "cultural_change"
+        ],
+        "secondary_issues": [
+          "housing_pressure"
+        ],
+        "problem_framing": "village_as_backdrop_not_community",
+        "attributed_causes": [
+          "viral images and influencer posts driving quick visits"
+        ],
+        "proposed_solutions": [
+          "communication campaigns highlighting resident perspectives"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "critical",
+        "tone": "frustrated",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "community_voice"
+        ],
+        "notes": "Immersive storytelling could reframe Hallstatt from Instagram backdrop to lived place."
+      }
+    },
+    {
+      "statement_id": "STM_0100",
+      "case_id": "OTC_033",
+      "actor_id": "ACT_0102",
+      "source": {
+        "source_id": "SRC_KYO_S1",
+        "source_type": "news_article",
+        "title": "Kyoto introduces photography ban in Gion to tackle tourist misconduct",
+        "url": null,
+        "publisher": null,
+        "publication_date": null,
+        "language": "ja/en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Kyoto city and neighbourhood associations introduced a ban on taking photos in specific private alleys of Gion after repeated incidents in which tourists blocked streets and harassed geiko and maiko.",
+      "content_coding": {
+        "primary_issues": [
+          "visitor_behavior_conflicts",
+          "cultural_change"
+        ],
+        "secondary_issues": [
+          "heritage_risk"
+        ],
+        "problem_framing": "misconduct_in_sacred_and_residential_spaces",
+        "attributed_causes": [
+          "insufficient awareness of local norms among visitors"
+        ],
+        "proposed_solutions": [
+          "behaviour rules and photography bans in sensitive areas",
+          "multi-lingual campaigns about etiquette"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_critical",
+        "tone": "assertive",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "visitor_education"
+        ],
+        "notes": "Immersive pre-visit experiences could teach visitors how to move respectfully in Kyoto’s districts."
+      }
+    },
+    {
+      "statement_id": "STM_0101",
+      "case_id": "OTC_033",
+      "actor_id": "ACT_0103",
+      "source": {
+        "source_id": "SRC_KYO_S2",
+        "source_type": "feature_article",
+        "title": "How overtourism is changing everyday life in Kyoto",
+        "url": null,
+        "publisher": null,
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Residents describe waking up earlier to avoid crowds at local shrines, struggling with short-term rentals in their buildings and feeling that parts of the city are increasingly staged for visitors rather than locals.",
+      "content_coding": {
+        "primary_issues": [
+          "housing_pressure",
+          "cultural_change"
+        ],
+        "secondary_issues": [
+          "overtourism_general"
+        ],
+        "problem_framing": "everyday_life_reshaped_by_tourism",
+        "attributed_causes": [
+          "growth of international visitor arrivals",
+          "platformisation of accommodation in central districts"
+        ],
+        "proposed_solutions": [
+          "caps and zoning for tourist accommodation",
+          "policies to preserve residential functions in key neighbourhoods"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "ambivalent",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "community_voice"
+        ],
+        "notes": "Immersive narratives could convey the temporal rhythms of Kyoto life before and after the tourism boom."
+      }
+    },
+    {
+      "statement_id": "STM_0102",
+      "case_id": "OTC_034",
+      "actor_id": "ACT_0105",
+      "source": {
+        "source_id": "SRC_PHI_S1",
+        "source_type": "news_article",
+        "title": "Thailand closes Maya Bay to save its corals",
+        "url": null,
+        "publisher": null,
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Officials explained that the closure of Maya Bay was necessary because mass tourism had destroyed large parts of the coral reef and beach vegetation, and that partial recovery would take many years.",
+      "content_coding": {
+        "primary_issues": [
+          "marine_ecosystem_damage",
+          "beach_closure"
+        ],
+        "secondary_issues": [
+          "cruise_and_boat_pressure"
+        ],
+        "problem_framing": "emergency_closure_to_allow_ecosystem_recovery",
+        "attributed_causes": [
+          "high volumes of daily boat landings and snorkelling tours"
+        ],
+        "proposed_solutions": [
+          "temporary closure of critical sites",
+          "strict limits on future visitor numbers and boat landings"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_critical",
+        "tone": "alarmed",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "ecosystem_visualisation"
+        ],
+        "notes": "Immersive reef visualisations could show before/after states and support long-term protection narratives."
+      }
+    },
+    {
+      "statement_id": "STM_0103",
+      "case_id": "OTC_034",
+      "actor_id": "ACT_0107",
+      "source": {
+        "source_id": "SRC_PHI_S2",
+        "source_type": "news_article",
+        "title": "Maya Bay reopens with strict visitor limits after years of closure",
+        "url": null,
+        "publisher": null,
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Tour operators expressed mixed feelings: the new limits reduce income from Maya Bay trips but are accepted as necessary to keep the destination attractive and avoid another closure.",
+      "content_coding": {
+        "primary_issues": [
+          "tourism_dependency",
+          "marine_ecosystem_damage"
+        ],
+        "secondary_issues": [
+          "day_tripper_pressure"
+        ],
+        "problem_framing": "balancing_revenue_and_ecosystem_health",
+        "attributed_causes": [
+          "overreliance on a single iconic bay for tour revenue"
+        ],
+        "proposed_solutions": [
+          "diversifying tour routes to other sites"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "cautiously_optimistic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "route_reimagining"
+        ],
+        "notes": "Immersive tools could help operators design and promote alternative reef and island circuits."
+      }
+    },
+    {
+      "statement_id": "STM_0104",
+      "case_id": "OTC_035",
+      "actor_id": "ACT_0110",
+      "source": {
+        "source_id": "SRC_MYK_S1",
+        "source_type": "news_article",
+        "title": "Mykonos workers struggle with housing and cost of living",
+        "url": null,
+        "publisher": null,
+        "publication_date": null,
+        "language": "el/en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Seasonal workers report overcrowded shared rooms, extremely high rents and long working hours, arguing that the island’s boom does not translate into decent living conditions for staff.",
+      "content_coding": {
+        "primary_issues": [
+          "housing_pressure",
+          "tourism_dependency"
+        ],
+        "secondary_issues": [
+          "labour_rights_pressure"
+        ],
+        "problem_framing": "workers_bearing_costs_of_tourism_success",
+        "attributed_causes": [
+          "short tourism season and speculative housing markets"
+        ],
+        "proposed_solutions": [
+          "regulation of worker accommodation and rental markets"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "ambivalent",
+        "tone": "critical",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "community_voice"
+        ],
+        "notes": "Immersive storytelling could highlight labour and housing realities behind luxury tourism images."
+      }
+    },
+    {
+      "statement_id": "STM_0105",
+      "case_id": "OTC_035",
+      "actor_id": "ACT_0109",
+      "source": {
+        "source_id": "SRC_MYK_S2",
+        "source_type": "feature_article",
+        "title": "Is Mykonos a victim of its own tourism success?",
+        "url": null,
+        "publisher": null,
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Local officials acknowledge serious pressure on water, waste and transport systems during peak months and discuss the need for better planning and enforcement of building rules.",
+      "content_coding": {
+        "primary_issues": [
+          "infrastructure_strain",
+          "water_stress"
+        ],
+        "secondary_issues": [
+          "party_tourism"
+        ],
+        "problem_framing": "infrastructure_lagging_behind_tourism_growth",
+        "attributed_causes": [
+          "rapid expansion of villas, clubs and hotels without matching infrastructure investments"
+        ],
+        "proposed_solutions": [
+          "infrastructure upgrades and stricter compliance checks"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_critical",
+        "tone": "pragmatic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "infrastructure_visualisation"
+        ],
+        "notes": "Immersive models could show seasonal peaks in water and waste loads versus system capacity."
+      }
+    },
+    {
+      "statement_id": "STM_0106",
+      "case_id": "OTC_036",
+      "actor_id": "ACT_0111",
+      "source": {
+        "source_id": "SRC_EVE_S1",
+        "source_type": "news_article",
+        "title": "Everest ‘traffic jam’ shows risks of mass mountaineering",
+        "url": null,
+        "publisher": null,
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Government representatives acknowledge that bottlenecks near the summit can create deadly conditions and that permit rules may need revision to limit numbers or better stagger ascent windows.",
+      "content_coding": {
+        "primary_issues": [
+          "safety_risk",
+          "mountain_tourism_pressure"
+        ],
+        "secondary_issues": [
+          "climate_change_impacts"
+        ],
+        "problem_framing": "traffic_jams_at_extreme_altitude",
+        "attributed_causes": [
+          "large numbers of climbers granted permits in a short weather window"
+        ],
+        "proposed_solutions": [
+          "tighter controls on permit numbers or scheduling"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_critical",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "risk_visualisation"
+        ],
+        "notes": "Immersive simulations could convey crowding and risk dynamics at high altitude to policymakers and clients."
+      }
+    },
+    {
+      "statement_id": "STM_0107",
+      "case_id": "OTC_036",
+      "actor_id": "ACT_0113",
+      "source": {
+        "source_id": "SRC_EVE_S2",
+        "source_type": "feature_article",
+        "title": "Mount Everest is covered in trash: inside the clean-up campaigns",
+        "url": null,
+        "publisher": null,
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "NGOs involved in clean-up operations describe tonnes of waste being removed from camps and slopes and call for stricter enforcement of carry-out rules and financial deposits.",
+      "content_coding": {
+        "primary_issues": [
+          "waste_management",
+          "mountain_tourism_pressure"
+        ],
+        "secondary_issues": [
+          "climate_change_impacts"
+        ],
+        "problem_framing": "extreme_waste_accumulation_in_hard_to_reach_places",
+        "attributed_causes": [
+          "insufficient monitoring of expeditions and weak enforcement of waste rules"
+        ],
+        "proposed_solutions": [
+          "higher garbage deposits and penalties",
+          "mandatory participation in clean-up programmes"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "cautiously_supportive",
+        "tone": "critical",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "ecosystem_visualisation"
+        ],
+        "notes": "Immersive visualisations could make otherwise invisible waste and glacier impacts visible to the public."
       }
     }
   ]
