@@ -22,10 +22,13 @@
       },
       "issues": {
         "tags": [
+          "climate_impact",
           "crowding",
-          "heritage_site_pressure",
-          "infrastructure_strain",
           "heatwave_closures",
+          "heritage_damage",
+          "heritage_site_pressure",
+          "infrastructure_overload",
+          "infrastructure_strain",
           "urban_liveability_concerns"
         ],
         "comment": "Acropolis and central Athens experience intense crowding, long queues, and heat-related closures; debates link mass tourism, climate extremes and quality of life."
@@ -79,12 +82,17 @@
       },
       "issues": {
         "tags": [
-          "overtourism_general",
+          "crowding",
+          "cultural_conflict_protests",
+          "cultural_conflicts",
           "environmental_degradation",
-          "water_stress",
-          "waste_management_crisis",
+          "governance_lag",
+          "ngo_pressure",
+          "overtourism_general",
           "traffic_congestion",
-          "cultural_conflicts"
+          "waste_management",
+          "waste_management_crisis",
+          "water_stress"
         ],
         "comment": "South Bali in particular faces severe crowding, traffic, waste accumulation, water shortages and cultural tensions linked to rapid tourism growth."
       },
@@ -137,11 +145,16 @@
       },
       "issues": {
         "tags": [
-          "marine_ecosystem_damage",
-          "coral_degradation",
           "beach_carrying_capacity",
           "boat_traffic_pressure",
-          "iconic_site_closures"
+          "coral_degradation",
+          "crowding",
+          "ecosystem_damage",
+          "iconic_site_closures",
+          "infrastructure_overload",
+          "marine_ecosystem_damage",
+          "ngo_pressure",
+          "traffic_congestion"
         ],
         "comment": "Mass tourism to Phi Phi and Maya Bay led to coral damage, shark disturbance and overcrowding, prompting multi‑year closure and strict new limits. Additional reporting describes daily visitor peaks of several thousand people and hundreds of boats entering Maya Bay before 2018, causing severe coral damage and prompting a four-year closure for ecological rehabilitation. Since reopening, authorities enforce strict caps on visitor numbers, ban boats from entering the bay directly and schedule seasonal closures each year, yet pressure persists at other Phi Phi and Andaman sites as demand is displaced along the coast."
       },
@@ -230,11 +243,19 @@
       },
       "issues": {
         "tags": [
-          "marine_ecosystem_damage",
-          "sewage_and_water_infrastructure",
-          "overcrowding",
+          "crowding",
+          "ecosystem_damage",
+          "governance_lag",
+          "infrastructure_overload",
           "land_use_change",
-          "social_media_driven_tourism"
+          "marine_ecosystem_damage",
+          "ngo_pressure",
+          "overcrowding",
+          "sewage_and_water_infrastructure",
+          "social_media_driven_tourism",
+          "traffic_congestion",
+          "waste_management",
+          "water_stress"
         ],
         "comment": "El Nido and Coron see intense resort development, boat traffic and Instagram‑driven visitor peaks; weak sewage systems and coastal construction stress reefs and water quality. El Nido and Coron have become emblematic of overtourism in Palawan, with social media driving rapid growth in visitor numbers. Investigations and donor reports highlight that local sewage systems and solid waste management have lagged far behind development, contributing to poor water quality in some coves and damage to coral reefs and seagrass meadows. Authorities have introduced temporary closures of specific beaches, caps on visitor numbers for island-hopping tours and new rules on mooring and waste disposal, but enforcement remains uneven and local residents worry about being priced out of coastal areas."
       },
@@ -298,11 +319,19 @@
       },
       "issues": {
         "tags": [
-          "heritage_site_pressure",
-          "urban_development_pressure",
           "ceremony_commodification",
+          "crowding",
+          "cultural_erosion",
+          "ecosystem_damage",
+          "governance_lag",
+          "heritage_damage",
+          "heritage_site_pressure",
           "infrastructure_capacity_limits",
-          "rail_and_dam_projects"
+          "infrastructure_overload",
+          "ngo_pressure",
+          "rail_and_dam_projects",
+          "urban_development_pressure",
+          "waste_management"
         ],
         "comment": "UNESCO‑listed town faces rapid tourism growth, high‑speed rail access, and nearby dam construction; concerns focus on crowding, cultural erosion and infrastructure strain. Luang Prabang has been promoted as a tranquil heritage town but now faces intensifying tourism pressure from regional flights, Mekong river cruises and, more recently, the high-speed rail link from China. Reports and commentaries highlight a rapid increase in guesthouses and cafes in the old town, rising property prices and concerns about the loss of traditional architecture and everyday cultural practices. Environmental issues include waste management struggles, pressure on the Mekong river ecosystem and wider debates around upstream hydropower dams that may alter flows and tourism dynamics."
       },
@@ -377,10 +406,15 @@
       "issues": {
         "tags": [
           "crowding",
-          "traffic_congestion",
+          "ecosystem_damage",
+          "governance_lag",
+          "housing_pressure",
+          "ngo_pressure",
           "parking_pressure",
-          "wildlife_disturbance",
-          "trail_and_site_erosion"
+          "price_pressure",
+          "traffic_congestion",
+          "trail_and_site_erosion",
+          "wildlife_disturbance"
         ],
         "comment": "Record visitation drives long traffic jams, crowded boardwalks and risky wildlife encounters; gateway communities depend on tourism but ecosystems face cumulative pressure. Recent reporting and National Park Service documents highlight a combination of record visitation, long entrance queues, overflowing parking lots at key geyser basins and wildlife jams that slow traffic for hours. Gateway communities benefit economically but also struggle with housing pressure and seasonal congestion. Rangers and planners are experimenting with timed-entry tests, shuttle systems and site-specific traffic management projects, yet staffing and funding remain limited relative to demand."
       },
@@ -464,11 +498,17 @@
       },
       "issues": {
         "tags": [
-          "cruise_tourism_pressure",
-          "heritage_site_pressure",
+          "air_and_noise_pollution_from_ships",
+          "crowding",
           "crowding_in_historic_center",
-          "resident_livability_concerns",
-          "air_and_noise_pollution_from_ships"
+          "cruise_tourism_pressure",
+          "governance_lag",
+          "heritage_damage",
+          "heritage_site_pressure",
+          "infrastructure_overload",
+          "ngo_pressure",
+          "noise",
+          "resident_livability_concerns"
         ],
         "comment": "Historic walled city receives large cruise flows and short‑stay visitors; crowding and commercialization strain local life and heritage management."
       },
@@ -521,11 +561,17 @@
       },
       "issues": {
         "tags": [
-          "wildlife_disturbance",
-          "habitat_fragmentation",
-          "water_use_conflicts",
           "boat_and_air_traffic_pressure",
-          "luxury_lodge_footprint"
+          "climate_impact",
+          "cultural_conflict_protests",
+          "ecosystem_damage",
+          "habitat_fragmentation",
+          "infrastructure_overload",
+          "luxury_lodge_footprint",
+          "ngo_pressure",
+          "traffic_congestion",
+          "water_use_conflicts",
+          "wildlife_disturbance"
         ],
         "comment": "High‑end safari model concentrates visitors along key channels; boat traffic, airstrips and lodge infrastructure raise concerns over wildlife disturbance and wetland integrity. Additional literature describes the Okavango Delta as a flagship example of high-end, low-volume safari tourism combined with community-based natural resource management. At the same time, climate variability, upstream water-use debates and periodic mass wildlife die-offs underline the system’s vulnerability. Community trusts benefit from tourism revenues but face internal tensions and uneven benefit sharing. Conservation reports highlight implementation gaps in the Okavango Delta Management Plan due to limited funding, weak enforcement and complex stakeholder interests."
       },
@@ -624,10 +670,13 @@
       },
       "issues": {
         "tags": [
-          "heritage_site_pressure",
-          "erosion_of_sandstone_structures",
           "crowding",
+          "ecosystem_damage",
+          "erosion_of_sandstone_structures",
+          "heritage_damage",
+          "heritage_site_pressure",
           "informal_economy_pressure",
+          "ngo_pressure",
           "visitor_management_challenges"
         ],
         "comment": "Intense visitor flows through the Siq and central monuments accelerate erosion and structural stress; informal horse, camel and souvenir economies complicate regulation. Additional reporting links overtourism in Petra not only to crowding at the Siq and key monuments, but also to heavy reliance on working animals that carry visitors in extreme heat, contributing to animal-welfare concerns and reputational risks. Animal-protection groups document over 1,000 horses, donkeys and camels working long days on steep, eroding stairways and sandy tracks, often with limited access to shade, water and veterinary care. Local residents depend strongly on tourist spending in the site and in nearby Wadi Musa, which makes it politically difficult to sharply restrict flows without offering alternative livelihoods or mobility systems."
@@ -712,11 +761,19 @@
       },
       "issues": {
         "tags": [
-          "wildlife_disturbance",
           "boat_traffic_pressure",
-          "fire_risk_and_drought",
           "climate_change_vulnerability",
-          "land_use_change"
+          "climate_impact",
+          "ecosystem_damage",
+          "fire_risk_and_drought",
+          "housing_pressure",
+          "infrastructure_overload",
+          "land_use_change",
+          "ngo_pressure",
+          "price_pressure",
+          "traffic_congestion",
+          "water_stress",
+          "wildlife_disturbance"
         ],
         "comment": "Jaguar‑watching boom and expanding tourism infrastructure intersect with severe fire seasons and changing hydrology; concerns about cumulative stress on wetlands and fauna. Recent reports portray parts of the northern Pantanal, especially around Porto Jofre, as hotspots where a single jaguar can attract dozens of tourist boats at once, with operators competing for the closest view. Conservationists warn that this intense pressure may alter jaguar behaviour and increase stress on other wildlife, while recurrent fires, droughts and land-use change continue to threaten the wider wetland ecosystem. Local communities and ranchers increasingly depend on wildlife tourism income, which creates both incentives for conservation and tensions around who controls access and benefits."
       },
@@ -780,11 +837,18 @@
       },
       "issues": {
         "tags": [
-          "marine_pollution",
-          "plastic_waste",
-          "cruise_tourism_pressure",
           "coastal_urban_development",
-          "water_quality_decline"
+          "cruise_tourism_pressure",
+          "governance_lag",
+          "heritage_damage",
+          "marine_pollution",
+          "ngo_pressure",
+          "plastic_pollution",
+          "plastic_waste",
+          "traffic_congestion",
+          "waste_management",
+          "water_quality_decline",
+          "water_stress"
         ],
         "comment": "Ha Long Bay hosts dense cruise and boat traffic plus coastal construction; plastic waste, wastewater and over‑development threaten scenic and ecological values. Additional reporting highlights a chronic mix of plastic waste, untreated or partly treated wastewater from tourist boats and nearby urban areas, heavy cruise and tour-boat traffic and rapid coastal real-estate development around Ha Long City. UNESCO and IUCN have repeatedly flagged that, without stricter planning and enforcement, these pressures could undermine the World Heritage values of the Ha Long Bay–Cat Ba property, even if it has not been formally placed on the List of World Heritage in Danger. Local residents and guides report growing dissatisfaction among visitors who encounter floating trash and murky water instead of the clear, iconic seascape promoted in tourism marketing."
       },
@@ -869,10 +933,13 @@
       "issues": {
         "tags": [
           "biodiversity_loss",
+          "community_benefit_challenges",
           "deforestation_pressure",
-          "protected_area_funding_gap",
+          "ecosystem_damage",
           "infrastructure_limitations",
-          "community_benefit_challenges"
+          "infrastructure_overload",
+          "ngo_pressure",
+          "protected_area_funding_gap"
         ],
         "comment": "Nature‑based tourism is promoted as a conservation and development pathway, but weak infrastructure, poverty and deforestation threaten ecosystems that attract visitors."
       },
@@ -925,11 +992,14 @@
       },
       "issues": {
         "tags": [
-          "mass_tourism_all_inclusive_resorts",
-          "water_and_energy_use",
           "coral_and_mangrove_degradation",
+          "crowding",
+          "ecosystem_damage",
+          "mass_tourism_all_inclusive_resorts",
+          "ngo_pressure",
+          "sargassum_influx",
           "waste_management",
-          "sargassum_influx"
+          "water_and_energy_use"
         ],
         "comment": "Punta Cana’s all‑inclusive resort corridor has transformed coastline and ecosystems; intensive resort operations, waste and sargassum management shape environmental risk."
       },
@@ -982,11 +1052,12 @@
       },
       "issues": {
         "tags": [
+          "coastal_and_desert_ecosystem_pressure",
+          "ecosystem_damage",
           "high_carbon_footprint",
-          "water_and_energy_intensity",
           "mega_project_resource_use",
           "urban_heat_island",
-          "coastal_and_desert_ecosystem_pressure"
+          "water_and_energy_intensity"
         ],
         "comment": "Dubai’s tourism growth is anchored in aviation and large‑scale real‑estate and entertainment projects, raising questions about carbon emissions and resource use in an arid environment."
       },
@@ -1040,8 +1111,9 @@
       "issues": {
         "tags": [
           "coastal_urban_development",
-          "mangrove_ecosystem_pressure",
           "cultural_district_tourism_growth",
+          "ecosystem_damage",
+          "mangrove_ecosystem_pressure",
           "water_and_energy_use"
         ],
         "comment": "Saadiyat Island’s museums and beach resorts are turning Abu Dhabi into a major cultural‑coastal destination; conservation efforts for mangroves coexist with intensive real‑estate and tourism projects."
@@ -1095,10 +1167,15 @@
       },
       "issues": {
         "tags": [
-          "mass_tourism_all_inclusive_resorts",
           "coastal_urbanisation",
-          "sargassum_crisis",
           "coral_and_seagrass_impacts",
+          "crowding",
+          "ecosystem_damage",
+          "governance_lag",
+          "infrastructure_overload",
+          "mass_tourism_all_inclusive_resorts",
+          "ngo_pressure",
+          "sargassum_crisis",
           "water_and_energy_use"
         ],
         "comment": "Cancún and the Riviera Maya are emblematic mass‑tourism coastlines; hotel corridors, cruise arrivals and record sargassum blooms stress beaches, reefs and local infrastructure."
@@ -1153,10 +1230,12 @@
       "issues": {
         "tags": [
           "crowding",
-          "traffic_congestion",
-          "noise",
+          "ecosystem_damage",
+          "governance_lag",
           "heritage_damage",
-          "quality_of_life"
+          "noise",
+          "quality_of_life",
+          "traffic_congestion"
         ],
         "comment": "Residents complain about large numbers of day-trippers arriving by bus, congestion around viewpoints, noise and pressure on everyday life and fragile heritage."
       },
@@ -1217,10 +1296,12 @@
       "issues": {
         "tags": [
           "crowding",
-          "water_stress",
-          "waste_management",
+          "environmental_degradation",
+          "infrastructure_overload",
+          "ngo_pressure",
           "pollution",
-          "environmental_degradation"
+          "waste_management",
+          "water_stress"
         ],
         "comment": "Boracay became a global overtourism example, with untreated sewage, overcrowded beaches and illegal development triggering a six-month government-ordered closure for environmental rehabilitation. Boracay is widely cited as a flagship case of overtourism leading to state-imposed closure. Before 2018, rapid and weakly regulated resort development overloaded sewage systems, with many establishments discharging untreated wastewater into coastal waters. The six-month shutdown ordered by the national government forced temporary job losses for tens of thousands of workers but also enabled a partial reset of infrastructure and zoning. Post-reopening, stricter building rules, caps on visitor numbers and a beach-easement policy were introduced, though questions remain about enforcement and long-term equity."
       },
@@ -1290,10 +1371,15 @@
       "issues": {
         "tags": [
           "crowding",
+          "cultural_conflict_protests",
+          "governance_lag",
           "housing_pressure",
-          "water_stress",
+          "infrastructure_overload",
+          "ngo_pressure",
+          "price_pressure",
+          "quality_of_life",
           "waste_management",
-          "quality_of_life"
+          "water_stress"
         ],
         "comment": "Protests and public debate highlight housing shortages, pressure on local infrastructure and water, and a perceived loss of everyday life quality in Palma and other parts of Mallorca due to mass tourism."
       },
@@ -1347,9 +1433,9 @@
       "issues": {
         "tags": [
           "crowding",
+          "environmental_degradation",
           "heritage_damage",
-          "traffic_congestion",
-          "environmental_degradation"
+          "traffic_congestion"
         ],
         "comment": "UNESCO-listed old town faces congestion in narrow streets, pressure on historic buildings and ecological stress from mass tourism and nearby coastal developments."
       },
@@ -1402,12 +1488,17 @@
       },
       "issues": {
         "tags": [
-          "environmental_degradation",
-          "water_stress",
-          "waste_management",
-          "crowding",
           "climate_impact",
-          "housing_pressure"
+          "crowding",
+          "ecosystem_damage",
+          "environmental_degradation",
+          "governance_lag",
+          "housing_pressure",
+          "infrastructure_overload",
+          "ngo_pressure",
+          "price_pressure",
+          "waste_management",
+          "water_stress"
         ],
         "comment": "Rapid tourism growth has increased pressure on cenotes, mangroves and groundwater, while locals raise concerns about pollution, infrastructure strain and rising living costs. Additional reporting links overtourism in Tulum to deforestation and road building connected to the Tren Maya project, wastewater leaking into cenotes and the aquifer, chronic sargassum influx, and the displacement of lower-income and Indigenous residents by luxury tourism and real-estate development."
       },
@@ -1532,12 +1623,18 @@
       },
       "issues": {
         "tags": [
-          "overtourism_general",
-          "heritage_risk",
+          "crowding",
           "cruise_ship_pressure",
           "day_tripper_pressure",
+          "ecosystem_damage",
+          "environmental_degradation",
+          "heritage_damage",
+          "heritage_risk",
           "housing_pressure",
-          "environmental_degradation"
+          "infrastructure_overload",
+          "ngo_pressure",
+          "overtourism_general",
+          "price_pressure"
         ],
         "comment": " Venice has become a flagship European example of overtourism: high volumes of day-trippers and cruise visitors, a shrinking resident population in the historic centre, and mounting concerns about the city’s UNESCO World Heritage status. Authorities have introduced a €5 day-tripper fee on selected days, restricted large cruise ships from sailing past St Mark’s Square and through the Giudecca canal, and experimented with access controls, yet media and local groups argue these measures only partially address deeper structural pressures on housing, infrastructure and lagoon ecosystems."
       },
@@ -1595,12 +1692,16 @@
       },
       "issues": {
         "tags": [
-          "overtourism_general",
-          "housing_pressure",
-          "short_term_rentals",
+          "crowding",
           "cruise_ship_pressure",
+          "cultural_conflict_protests",
+          "cultural_conflicts",
+          "housing_pressure",
+          "ngo_pressure",
+          "overtourism_general",
+          "price_pressure",
           "protests",
-          "cultural_conflicts"
+          "short_term_rentals"
         ],
         "comment": " Barcelona is widely referenced as a city struggling with mass tourism’s impact on housing, neighbourhood life and public space. Visitor numbers, cruise arrivals and the proliferation of short-term rentals have fuelled rent increases, resident protests and a political backlash against the current tourism model. The city now plans to revoke all short-term holiday rental licences by 2028, tighten cruise regulation and increase tourist taxes to fund housing and public services."
       },
@@ -1658,12 +1759,17 @@
       },
       "issues": {
         "tags": [
-          "overtourism_general",
+          "crowding",
           "cruise_ship_pressure",
-          "infrastructure_strain",
           "housing_pressure",
-          "water_stress",
-          "waste_management"
+          "infrastructure_overload",
+          "infrastructure_strain",
+          "ngo_pressure",
+          "overtourism_general",
+          "price_pressure",
+          "traffic_congestion",
+          "waste_management",
+          "water_stress"
         ],
         "comment": " Santorini’s small land area and limited infrastructure are under intense pressure from millions of annual visitors, particularly cruise passengers. Reports describe severe congestion in Oia and Thera, housing shortages for essential workers, rising prices, waste and water stress, and concerns that the island is becoming inaccessible to most Greeks. National authorities have announced a levy on cruise visitors and are preparing caps on daily cruise arrivals to reduce crowding and environmental impacts."
       },
@@ -1721,11 +1827,15 @@
       },
       "issues": {
         "tags": [
-          "overtourism_general",
-          "heritage_conservation",
           "crowding",
+          "heritage_conservation",
+          "heritage_damage",
+          "infrastructure_overload",
           "infrastructure_strain",
-          "ticketing_restrictions"
+          "ngo_pressure",
+          "overtourism_general",
+          "ticketing_restrictions",
+          "traffic_congestion"
         ],
         "comment": " Machu Picchu and the gateway town of Aguas Calientes illustrate how a single iconic site can dominate a national tourism model. Visitor caps, time-slot ticketing and circuit-based routes aim to reduce crowding and protect the archaeological complex, yet criticism persists over congestion, high prices, environmental strain and limited benefits for nearby communities. The planned Chinchero airport is expected to increase arrivals further, prompting debates about diversifying tourism to other sites and regions."
       },
@@ -1783,11 +1893,15 @@
       },
       "issues": {
         "tags": [
-          "overtourism_general",
-          "wildlife_disturbance",
+          "crowding",
+          "cruise_ship_pressure",
+          "ecosystem_damage",
           "habitat_fragmentation",
           "indigenous_rights_pressure",
-          "cruise_ship_pressure"
+          "ngo_pressure",
+          "overtourism_general",
+          "traffic_congestion",
+          "wildlife_disturbance"
         ],
         "comment": " Komodo National Park has seen rapid growth in tourism focused on encounters with Komodo dragons and marine attractions. Conservationists warn that poorly managed visitor numbers, boat traffic and large-scale tourism projects could fragment habitats, disturb wildlife and threaten Indigenous communities’ rights. Debates over a proposed ‘Jurassic Park’-style development, increased entrance fees and potential partial closures have turned the park into a high-profile example of tensions between flagship tourism and conservation."
       },
@@ -1845,12 +1959,17 @@
       },
       "issues": {
         "tags": [
-          "overtourism_general",
-          "infrastructure_strain",
-          "waste_management",
-          "water_stress",
+          "crowding",
+          "cultural_change",
           "housing_pressure",
-          "cultural_change"
+          "infrastructure_overload",
+          "infrastructure_strain",
+          "ngo_pressure",
+          "overtourism_general",
+          "price_pressure",
+          "traffic_congestion",
+          "waste_management",
+          "water_stress"
         ],
         "comment": " South Bali – particularly the corridor linking Canggu, Seminyak, Kuta and parts of Denpasar, as well as the inland hub Ubud – has become emblematic of concentrated overtourism. Chronic traffic congestion, overloaded waste and wastewater systems, land conversion from rice paddies to villas, and rapidly rising housing costs are documented alongside water shortages and beach pollution. National and provincial authorities have discussed tourist behaviour rules, new taxes and a strategic shift towards distributing visitors to less-saturated regions, but implementation remains partial."
       },
@@ -1907,12 +2026,17 @@
       },
       "issues": {
         "tags": [
-          "overtourism_general",
-          "housing_pressure",
-          "party_tourism",
+          "crowding",
           "cruise_ship_pressure",
+          "housing_pressure",
+          "ngo_pressure",
+          "noise",
+          "nuisance_tourism",
+          "overtourism_general",
+          "party_tourism",
+          "price_pressure",
           "short_term_rentals",
-          "nuisance_tourism"
+          "traffic_congestion"
         ],
         "comment": " Amsterdam faces a combination of party tourism, high visitor numbers in the historic centre, short-term rental growth and cruise traffic on top of an acute housing shortage. Policies such as the ‘Stay Away’ campaign targeting nuisance tourists, higher tourist taxes, limits on short-term rentals and a phased ban on sea cruise ships stopping at the city centre are part of a broader attempt to rebalance liveability and tourism revenues."
       },
@@ -1969,11 +2093,15 @@
       },
       "issues": {
         "tags": [
-          "overtourism_general",
+          "crowding",
           "cruise_ship_pressure",
-          "heritage_risk",
+          "day_tripper_pressure",
           "game_of_thrones_tourism",
-          "day_tripper_pressure"
+          "heritage_damage",
+          "heritage_risk",
+          "ngo_pressure",
+          "overtourism_general",
+          "traffic_congestion"
         ],
         "comment": " Dubrovnik’s walled Old Town has become a classic example of cruise-driven overtourism, amplified by its role as a filming location for Game of Thrones. Crowding from day-trippers, pressure on the city walls and limited economic benefits from cruise passengers have triggered management responses such as daily caps on visitors to the walls, a ‘special traffic regime’ and coordination with cruise lines to stagger arrivals."
       },
@@ -2030,11 +2158,17 @@
       },
       "issues": {
         "tags": [
-          "overtourism_general",
-          "wildlife_disturbance",
+          "crowding",
+          "cultural_conflict_protests",
+          "ecosystem_damage",
           "fragile_ecosystems",
+          "housing_pressure",
+          "ngo_pressure",
+          "overtourism_general",
+          "price_pressure",
+          "tourism_tax",
           "visitor_quota_systems",
-          "tourism_tax"
+          "wildlife_disturbance"
         ],
         "comment": " The Galápagos Islands are a flagship case of conservation-oriented tourism. Visitor numbers, while modest in absolute terms, exert strong pressure on fragile ecosystems and local communities. Strict park rules, guided-only visits and designated routes are in place, and in 2024 the entry fee for most foreign visitors was doubled to US$200 to support conservation and deter some demand. Debates continue over whether current controls are sufficient to prevent long-term ecological damage and social conflicts."
       },
@@ -2091,10 +2225,14 @@
       },
       "issues": {
         "tags": [
-          "overtourism_general",
-          "infrastructure_strain",
+          "climate_impact",
+          "crowding",
           "environmental_degradation",
+          "infrastructure_overload",
+          "infrastructure_strain",
           "last_chance_tourism",
+          "ngo_pressure",
+          "overtourism_general",
           "seasonality"
         ],
         "comment": " Iceland’s tourism boom has been heavily concentrated along the South Coast and Golden Circle, where waterfalls, glaciers and geothermal sites attract the majority of visitors. Research and media reports highlight overuse of popular stops, pressure on small-town infrastructure, environmental damage to trails and ‘last-chance tourism’ dynamics around shrinking glaciers. Policy discussions focus on reintroducing tourist taxes, redistributing travel beyond the southwest and investing in facilities and nature protection."
@@ -2152,11 +2290,18 @@
       },
       "issues": {
         "tags": [
-          "overtourism_general",
+          "crowding",
           "day_tripper_pressure",
+          "ecosystem_damage",
+          "housing_pressure",
+          "infrastructure_overload",
           "infrastructure_strain",
+          "ngo_pressure",
+          "overtourism_general",
+          "price_pressure",
+          "traffic_congestion",
           "trail_erosion",
-          "housing_pressure"
+          "waste_management"
         ],
         "comment": " The Cinque Terre villages along the Ligurian coast have seen strong growth in day visitors arriving by cruise excursions and regional trains. Narrow streets, steep paths and limited services make the area highly sensitive to daily peaks. Reports highlight congestion on coastal trails, strain on water and waste systems, and rising housing costs for residents as apartments shift towards short-term rentals."
       },
@@ -2207,10 +2352,15 @@
       },
       "issues": {
         "tags": [
-          "overtourism_general",
+          "crowding",
           "cultural_change",
+          "cultural_conflict_protests",
+          "heritage_damage",
           "heritage_risk",
           "housing_pressure",
+          "ngo_pressure",
+          "overtourism_general",
+          "price_pressure",
           "visitor_behavior_conflicts"
         ],
         "comment": " Kyoto’s historic districts, including areas around Kiyomizu-dera, Fushimi Inari and Gion, have seen heavy crowding, conflicts over visitor behaviour and rising pressure from short-term rentals. Local authorities and residents’ associations complain about blocked streets, disrespectful conduct and difficulties maintaining traditional neighbourhood life. Some neighbourhoods have introduced photography bans on private alleys and run campaigns asking visitors to respect etiquette."
@@ -2262,11 +2412,14 @@
       },
       "issues": {
         "tags": [
-          "overtourism_general",
-          "marine_ecosystem_damage",
           "beach_closure",
+          "crowding",
+          "cruise_and_boat_pressure",
           "day_tripper_pressure",
-          "cruise_and_boat_pressure"
+          "ecosystem_damage",
+          "marine_ecosystem_damage",
+          "ngo_pressure",
+          "overtourism_general"
         ],
         "comment": " The Phi Phi Islands, including Maya Bay, became global icons after the film ‘The Beach’ and subsequent social media exposure. Rapid growth in day-trip boat tours from Phuket and Krabi led to coral damage, beach erosion and dangerous crowding in small bays. Thai authorities closed Maya Bay for several years to allow ecological recovery, then reopened it with strict limits on visitor numbers, boat access rules and no-swimming zones."
       },
@@ -2317,12 +2470,18 @@
       },
       "issues": {
         "tags": [
-          "overtourism_general",
-          "tourism_dependency",
+          "crowding",
           "housing_pressure",
+          "infrastructure_overload",
+          "infrastructure_strain",
+          "ngo_pressure",
+          "noise",
+          "overtourism_general",
           "party_tourism",
-          "water_stress",
-          "infrastructure_strain"
+          "price_pressure",
+          "tourism_dependency",
+          "waste_management",
+          "water_stress"
         ],
         "comment": " Mykonos is one of Greece’s most tourism-dependent islands, known for luxury and party tourism, intense seasonal peaks and heavy reliance on imported labour. Reports point to housing shortages for workers, high prices, water and waste pressures and tensions between party zones and more traditional settlements. Debates about caps on short-term rentals, stronger enforcement of zoning rules and diversification beyond nightlife tourism are ongoing."
       },
@@ -2373,11 +2532,18 @@
       },
       "issues": {
         "tags": [
-          "mountain_tourism_pressure",
-          "waste_management",
-          "safety_risk",
           "climate_change_impacts",
-          "overtourism_general"
+          "climate_impact",
+          "crowding",
+          "ecosystem_damage",
+          "mountain_tourism_pressure",
+          "ngo_pressure",
+          "overtourism_general",
+          "safety_and_security",
+          "safety_risk",
+          "traffic_congestion",
+          "waste_management",
+          "water_stress"
         ],
         "comment": " The Mount Everest and Khumbu region experiences concentrated trekking and climbing tourism, with images of ‘traffic jams’ near the summit becoming a global symbol of extreme mountain overtourism. Concerns include waste and sewage accumulation on trails and glaciers, safety risks for climbers and guides, and the vulnerability of high-mountain ecosystems to climate change. Authorities and local organisations have introduced garbage deposit schemes, permit rules and clean-up expeditions, yet questions remain about sustainable visitor numbers and risk levels."
       },
@@ -2428,10 +2594,16 @@
       },
       "issues": {
         "tags": [
-          "overtourism_general",
+          "crowding",
+          "earthquake_risk_recovery",
+          "ecosystem_damage",
           "fragile_ecosystems",
+          "heritage_damage",
+          "infrastructure_overload",
           "infrastructure_strain",
-          "earthquake_risk_recovery"
+          "ngo_pressure",
+          "overtourism_general",
+          "safety_and_security"
         ],
         "comment": " Jiuzhaigou Valley in Sichuan, China, is a UNESCO World Heritage-listed scenic area known for its coloured lakes and waterfalls. Before a major earthquake in 2017, rapid tourism growth brought crowding on walkways and pressure on fragile karst and wetland ecosystems. Post-earthquake recovery and reopening involved tighter controls on visitor numbers and access routes."
       },
@@ -2482,11 +2654,16 @@
       },
       "issues": {
         "tags": [
-          "overtourism_general",
-          "housing_pressure",
+          "crowding",
           "cruise_ship_pressure",
+          "housing_pressure",
+          "ngo_pressure",
+          "noise",
+          "overtourism_general",
+          "party_tourism",
+          "price_pressure",
           "short_term_rentals",
-          "party_tourism"
+          "traffic_congestion"
         ],
         "comment": " Lisbon’s historic neighbourhoods such as Alfama, Bairro Alto and Baixa-Chiado have experienced a boom in visitors, driven by low-cost flights, cruise arrivals and digital-platform rentals. Residents report noise, nightlife nuisance and difficulties finding housing as apartments shift to short-term rentals. Authorities have introduced ‘containment zones’ for new tourist accommodation and debated limits on cruise traffic and party boats on the Tagus."
       },
@@ -2537,11 +2714,16 @@
       },
       "issues": {
         "tags": [
-          "overtourism_general",
-          "traffic_congestion",
-          "wildlife_disturbance",
+          "crowding",
+          "ecosystem_damage",
+          "infrastructure_overload",
           "infrastructure_strain",
-          "last_chance_tourism"
+          "last_chance_tourism",
+          "ngo_pressure",
+          "overtourism_general",
+          "safety_and_security",
+          "traffic_congestion",
+          "wildlife_disturbance"
         ],
         "comment": " Banff National Park and the Lake Louise/Moraine Lake area in the Canadian Rockies have seen surging visitor numbers, particularly in summer and shoulder seasons. Car parks fill early, roads become congested and popular lakeside trails are heavily used. Concerns centre on wildlife disturbance, road safety and the strain on park facilities. Parks Canada has responded with shuttle systems, parking reservations and restrictions on private vehicle access to some lakes."
       },
@@ -2592,10 +2774,15 @@
       },
       "issues": {
         "tags": [
+          "crowding",
+          "cultural_conflict_protests",
           "cultural_heritage_respect",
-          "visitor_behavior_conflicts",
+          "ecosystem_damage",
+          "heritage_damage",
+          "ngo_pressure",
           "overtourism_general",
-          "sacred_sites_management"
+          "sacred_sites_management",
+          "visitor_behavior_conflicts"
         ],
         "comment": " Uluru-Kata Tjuta National Park is co-managed by Anangu Traditional Owners and the Australian government. For decades, visitor behaviour around climbing Uluru, photography and off-track access generated conflict between tourism interests and cultural protocols. The permanent ban on climbing Uluru, introduced in 2019, was preceded by intense media debates and changes to interpretive materials and visitor flows."
       },
@@ -2646,10 +2833,14 @@
       },
       "issues": {
         "tags": [
-          "overtourism_general",
-          "traffic_congestion",
+          "crowding",
+          "ecosystem_damage",
+          "infrastructure_overload",
           "infrastructure_strain",
-          "landscape_pressure"
+          "landscape_pressure",
+          "ngo_pressure",
+          "overtourism_general",
+          "traffic_congestion"
         ],
         "comment": "Skye suffers from seasonal tourist surges causing traffic jams, trail erosion, pressure on small villages and emergency services."
       },
@@ -2700,9 +2891,12 @@
       },
       "issues": {
         "tags": [
-          "overtourism_general",
+          "crowding",
+          "environmental_pressure",
+          "infrastructure_overload",
           "infrastructure_strain",
-          "environmental_pressure"
+          "ngo_pressure",
+          "overtourism_general"
         ],
         "comment": "Golden Circle hotspots experience extreme peaks driven by short Iceland stopovers and cruise tourism."
       },
@@ -2747,10 +2941,14 @@
       },
       "issues": {
         "tags": [
-          "overtourism_general",
-          "cultural_pressure",
           "behavior_conflicts",
-          "infrastructure_strain"
+          "crowding",
+          "cultural_conflict_protests",
+          "cultural_pressure",
+          "infrastructure_overload",
+          "infrastructure_strain",
+          "ngo_pressure",
+          "overtourism_general"
         ],
         "comment": "Kyoto suffers from photography intrusions, geiko harassment, crowding in Gion and bamboo forest."
       },
@@ -2795,7 +2993,11 @@
       },
       "issues": {
         "tags": [
+          "crowding",
+          "cultural_conflict_protests",
+          "heritage_damage",
           "heritage_pressure",
+          "ngo_pressure",
           "overtourism_general",
           "vendor_conflicts"
         ],
@@ -2842,10 +3044,14 @@
       },
       "issues": {
         "tags": [
+          "crowding",
+          "ecosystem_damage",
           "mountain_overtourism",
+          "ngo_pressure",
+          "safety_and_security",
+          "safety_pressure",
           "trail_erosion",
-          "waste_management",
-          "safety_pressure"
+          "waste_management"
         ],
         "comment": "The Annapurna Base Camp route faces crowding, waste issues and trail erosion during peak season."
       },
