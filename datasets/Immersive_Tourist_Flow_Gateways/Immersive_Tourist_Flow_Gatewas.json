@@ -1,0 +1,219 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0001",
+    "project_name": "Interpretation center Ses Salines (Cabrera National Park Visitor Centre)",
+    "short_description": "Visitor centre in Colònia de Sant Jordi, Mallorca, offering a ~30-minute immersive itinerary through the sea, land and history of the Cabrera Archipelago National Park as an alternative to travelling to the islands themselves.",
+    "country": "Spain",
+    "region": "Balearic Islands",
+    "location_notes": "Colònia de Sant Jordi, municipality of Ses Salines, gateway visitor centre for Cabrera Archipelago National Park.",
+    "gateway_type": "ecological_gateway",
+    "project_goal": [
+      "physical_impact_replacement",
+      "flow_redirection",
+      "educational_priming",
+      "conservation_support",
+      "arrival_expectation_setting"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "behavioural_narrative_priming",
+      "spatial_storytelling_navigation"
+    ],
+    "media_format": [
+      "interactive_installation"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": 2008,
+    "producer_operating_entity": "Ses Salines Visitor Centre, Cabrera Archipelago National Park",
+    "sustainability_context": {
+      "biodiversity_goal": "Introduce visitors to the marine and terrestrial ecosystems of the Cabrera Archipelago National Park in a controlled setting, helping to reduce pressure on the islands themselves.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "The visitor centre is promoted as one of the best ways to get to know the Cabrera archipelago without travelling there, positioning it as an immersive substitute and ecological gateway."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.illesbalears.travel/en/mallorca/interpretation-center-ses-salines",
+      "https://www.illesbalears.travel/en/illes-balears/visitor-centres-the-gateway-to-the-balearic-islands-natural-areas"
+    ],
+    "notes": "Gateway visitor centre for Cabrera Archipelago National Park; classification of gateway type and methods is interpretive based on public descriptions.",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://www.illesbalears.travel/en/mallorca/interpretation-center-ses-salines"
+  },
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0002",
+    "project_name": "Centre for Circularity, Bega Valley",
+    "short_description": "Planned visitor centre and hub for a ‘world leading fully circular destination’ in the Bega Valley, combining immersive digital and physical displays, a digital twin and a 360-degree immersion room to explain circular economy systems and direct visitors to related projects in the region.",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location_notes": "Bega Valley, New South Wales; centrepiece of a regional circular economy tourism and education strategy.",
+    "gateway_type": "urban_gateway",
+    "project_goal": [
+      "educational_priming",
+      "behaviour_change",
+      "conservation_support",
+      "flow_redirection"
+    ],
+    "methods_used": [
+      "content_driven_routing",
+      "behavioural_narrative_priming",
+      "gateway_sequencing",
+      "immersive_substitution"
+    ],
+    "media_format": [
+      "360_degree_projection",
+      "digital_twin_simulation",
+      "interactive_installation"
+    ],
+    "implementation_stage": "planned",
+    "year_opened_or_announced": 2023,
+    "producer_operating_entity": "Regional Circularity Cooperative",
+    "sustainability_context": {
+      "biodiversity_goal": "Support regenerative land use and biodiversity outcomes in the Bega Valley by highlighting projects that restore ecosystems and reduce waste.",
+      "emissions_goal": "Demonstrate circular solutions that reduce emissions by keeping materials and resources in circulation and inspiring lower-carbon behaviours.",
+      "standards_certifications": [],
+      "notes": "Positioned as a flagship circularity hub combining tourism, education and regional development, with a strong focus on sustainability storytelling."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://architectureau.com/articles/centre-for-circularity/",
+      "https://circulareconomyaustralia.com.au/news/bega-valley-to-host-australias-first-centre-for-circularity/"
+    ],
+    "notes": "Gateway classification emphasises its role as a regional hub and signposting node for circular projects throughout the Bega Valley.",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://architectureau.com/articles/centre-for-circularity/"
+  },
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0003",
+    "project_name": "Great Keppel Island (Woppa) Arrivals Plaza and Amenities",
+    "short_description": "New arrivals plaza and visitor gateway on Great Keppel Island (Woppa), designed as a vibrant, culturally-informed gathering place with amenities, shaded seating, beach access and visitor information that channels visitors into boardwalks, trails and other infrastructure in line with the island’s long-term tourism and sustainability vision.",
+    "country": "Australia",
+    "region": "Queensland",
+    "location_notes": "Fisherman’s Beach area, Great Keppel Island (Woppa), Capricorn Coast; arrival node for ferry passengers and day visitors.",
+    "gateway_type": "marina_gateway",
+    "project_goal": [
+      "flow_redirection",
+      "arrival_expectation_setting",
+      "behaviour_change",
+      "conservation_support"
+    ],
+    "methods_used": [
+      "spatial_storytelling_navigation",
+      "gateway_sequencing",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "other"
+    ],
+    "implementation_stage": "under_construction",
+    "year_opened_or_announced": 2024,
+    "producer_operating_entity": "Livingstone Shire Council (delivery) with funding from the Queensland Government",
+    "sustainability_context": {
+      "biodiversity_goal": "Support the protection of Great Keppel Island’s coastal and marine environments by focusing visitor flows through defined paths, amenities and wayfinding.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "Part of a broader concept master plan that includes wastewater treatment, walking tracks and wayfinding to support a sustainable, accessible future for the island."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://getinvolved.livingstone.qld.gov.au/gki-arrivals-plaza-and-amenities",
+      "https://www.statedevelopment.qld.gov.au/industry/tourism/great-keppel-island-woppa-concept-master-plan"
+    ],
+    "notes": "Media format is set to 'other' because the project primarily consists of architectural, landscape and interpretive gateway infrastructure rather than a dedicated immersive theatre.",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://getinvolved.livingstone.qld.gov.au/gki-arrivals-plaza-and-amenities"
+  },
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0004",
+    "project_name": "Space Eye – Observatorium für Weltraum und Umwelt (Gantrisch Nature Park)",
+    "short_description": "Observatory and visitor centre in the Gantrisch Nature Park with an 8K high-end planetarium, the largest public telescope in Switzerland, interactive exhibitions and a themed access trail. It functions as an immersive gateway to space, earth observation and environmental topics linked to the surrounding park.",
+    "country": "Switzerland",
+    "region": "Canton of Bern",
+    "location_notes": "Uecht, Niedermuhlern in the Gantrisch Nature Park; arrival gateway for visitors exploring space and environmental topics linked to the region.",
+    "gateway_type": "ecological_gateway",
+    "project_goal": [
+      "educational_priming",
+      "behaviour_change",
+      "conservation_support",
+      "flow_redirection"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "behavioural_narrative_priming",
+      "spatial_storytelling_navigation",
+      "gateway_sequencing"
+    ],
+    "media_format": [
+      "fulldome",
+      "interactive_installation",
+      "spatial_audio_environment"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": 2023,
+    "producer_operating_entity": "Space Eye – Observatorium für Weltraum und Umwelt",
+    "sustainability_context": {
+      "biodiversity_goal": "Raise awareness of earth observation, space debris and the Gantrisch Nature Park’s environments, linking astronomical themes with local landscape protection.",
+      "emissions_goal": "",
+      "standards_certifications": [
+        "Swisstainable (engaged level)"
+      ],
+      "notes": "Explicitly framed around space and environmental topics, with strong educational content about earth observation and environmental change."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.myswitzerland.com/en-ch/experiences/space-eye/",
+      "https://www.space-eye.ch/"
+    ],
+    "notes": "Classified as an ecological gateway because it links immersive space/environment storytelling with a protected landscape (Gantrisch Nature Park).",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://www.myswitzerland.com/en-ch/experiences/space-eye/"
+  }
+]
