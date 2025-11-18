@@ -2141,9 +2141,9 @@
       "case_id": "OTC_032",
       "destination_ref": {
         "destination_id": null,
-        "destination_name": "Hallstatt",
+        "destination_name": "Cinque Terre villages (Monterosso–Vernazza–Corniglia–Manarola–Riomaggiore)",
         "in_main_dataset": false,
-        "provenance": "external_enrichment",
+        "provenance": "external_enrichment_replacement_for_duplicate",
         "candidate_for_main_dataset": true
       },
       "research_window": {
@@ -2154,18 +2154,18 @@
         "tags": [
           "overtourism_general",
           "day_tripper_pressure",
-          "social_media_tourism",
-          "housing_pressure",
-          "infrastructure_strain"
+          "infrastructure_strain",
+          "trail_erosion",
+          "housing_pressure"
         ],
-        "comment": " Hallstatt, a small lakeside village in the Austrian Alps, has become a symbol of social-media-driven overtourism. Visitor numbers far exceed the resident population, with day-trippers arriving by buses and tour groups, creating congestion on narrow streets, pressure on local services and tension over noise and privacy. The municipality has experimented with caps on tour buses, parking controls and communication campaigns to discourage mass day trips."
+        "comment": " The Cinque Terre villages along the Ligurian coast have seen strong growth in day visitors arriving by cruise excursions and regional trains. Narrow streets, steep paths and limited services make the area highly sensitive to daily peaks. Reports highlight congestion on coastal trails, strain on water and waste systems, and rising housing costs for residents as apartments shift towards short-term rentals."
       },
       "awareness_assessment": {
         "awareness_level": "high",
         "conflict_intensity": "medium",
         "policy_response_level": "mid",
-        "assessment_basis": "National and international media portray Hallstatt as a postcard-perfect village overwhelmed by Instagram and influencer tourism, sparking public debates about limits and residents’ rights.",
-        "notes": "The case is frequently referenced in discussions about how image-based media can suddenly transform remote locations into global hotspots."
+        "assessment_basis": "Italian and international media discuss Cinque Terre as a coastal overtourism hotspot, citing trail closures, visitor caps and debates over cruise and rail traffic.",
+        "notes": "The case illustrates the vulnerabilities of small cliffside settlements with limited space, seasonal peaks and high dependence on tourism revenue."
       },
       "media_pressure_level": "High",
       "ngo_pressure_level": "Low",
@@ -2177,17 +2177,17 @@
       ],
       "meta": {
         "last_researched_utc": "2025-11-18T00:00:00Z",
-        "researcher_notes": " Deep-dive creation of OTC_032 (Hallstatt), focusing on social media day-tripper pressure, bus caps and resident–tourist tensions.",
+        "researcher_notes": " Deep-dive creation of OTC_032 (Cinque Terre villages), focusing on day-trip pressure, trail erosion and housing/infrastructure stress.",
         "sources_overview": [
           {
-            "title": "Austria’s postcard-perfect village of Hallstatt fights overtourism",
+            "title": "Cinque Terre struggles with tourist crowds on its coastal trails",
             "url": null,
             "source_type": "news_article"
           },
           {
-            "title": "How Instagram turned Hallstatt into a mass tourism hotspot",
+            "title": "Managing overtourism in the Cinque Terre National Park",
             "url": null,
-            "source_type": "feature_article"
+            "source_type": "analysis_article"
           }
         ]
       }
@@ -2407,6 +2407,224 @@
           },
           {
             "title": "Mount Everest is covered in trash: inside the clean-up campaigns",
+            "url": null,
+            "source_type": "feature_article"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "OTC_037",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Jiuzhaigou Valley Scenic Area",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment_replacement_for_duplicate",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": 2010,
+        "to_year": 2025
+      },
+      "issues": {
+        "tags": [
+          "overtourism_general",
+          "fragile_ecosystems",
+          "infrastructure_strain",
+          "earthquake_risk_recovery"
+        ],
+        "comment": " Jiuzhaigou Valley in Sichuan, China, is a UNESCO World Heritage-listed scenic area known for its coloured lakes and waterfalls. Before a major earthquake in 2017, rapid tourism growth brought crowding on walkways and pressure on fragile karst and wetland ecosystems. Post-earthquake recovery and reopening involved tighter controls on visitor numbers and access routes."
+      },
+      "awareness_assessment": {
+        "awareness_level": "high",
+        "conflict_intensity": "low",
+        "policy_response_level": "high",
+        "assessment_basis": "Chinese media, tourism research and UNESCO documentation highlight Jiuzhaigou as both an overtourism hotspot and a site where disaster recovery required reconsidering visitor management.",
+        "notes": "The case illustrates how natural disasters intersect with overtourism dynamics in highly marketed scenic areas."
+      },
+      "media_pressure_level": "Medium",
+      "ngo_pressure_level": "Low",
+      "tourism_dependency_level": "High",
+      "ngos_involved_count": 1,
+      "statement_ids": [
+        "STM_0108",
+        "STM_0109"
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Deep-dive creation of OTC_037 (Jiuzhaigou Valley Scenic Area), focusing on pre-earthquake crowding, ecosystem sensitivity and post-disaster visitor controls.",
+        "sources_overview": [
+          {
+            "title": "Tourism pressures and ecosystem protection in Jiuzhaigou Valley",
+            "url": null,
+            "source_type": "academic_article"
+          },
+          {
+            "title": "Jiuzhaigou reopens with visitor limits after earthquake",
+            "url": null,
+            "source_type": "news_article"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "OTC_038",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Lisbon historic centre and riverfront",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": 2010,
+        "to_year": 2025
+      },
+      "issues": {
+        "tags": [
+          "overtourism_general",
+          "housing_pressure",
+          "cruise_ship_pressure",
+          "short_term_rentals",
+          "party_tourism"
+        ],
+        "comment": " Lisbon’s historic neighbourhoods such as Alfama, Bairro Alto and Baixa-Chiado have experienced a boom in visitors, driven by low-cost flights, cruise arrivals and digital-platform rentals. Residents report noise, nightlife nuisance and difficulties finding housing as apartments shift to short-term rentals. Authorities have introduced ‘containment zones’ for new tourist accommodation and debated limits on cruise traffic and party boats on the Tagus."
+      },
+      "awareness_assessment": {
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "mid",
+        "assessment_basis": "Media, academic work and city policy documents discuss Lisbon as a prominent example of Southern European cities reshaped by platform tourism and urban regeneration.",
+        "notes": "The case sits at the intersection of overtourism, housing affordability debates and efforts to reorient tourism towards more sustainable and local-benefit models."
+      },
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "Low",
+      "tourism_dependency_level": "High",
+      "ngos_involved_count": 1,
+      "statement_ids": [
+        "STM_0110",
+        "STM_0111"
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Deep-dive creation of OTC_038 (Lisbon historic centre and riverfront), focusing on housing/short-term rentals, cruise and nightlife-related pressures.",
+        "sources_overview": [
+          {
+            "title": "Lisbon struggles with the impact of Airbnb and rising tourist numbers",
+            "url": null,
+            "source_type": "news_article"
+          },
+          {
+            "title": "Containment zones for local accommodation in Lisbon",
+            "url": null,
+            "source_type": "policy_document"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "OTC_039",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Banff and Lake Louise (Canadian Rockies)",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": 2010,
+        "to_year": 2025
+      },
+      "issues": {
+        "tags": [
+          "overtourism_general",
+          "traffic_congestion",
+          "wildlife_disturbance",
+          "infrastructure_strain",
+          "last_chance_tourism"
+        ],
+        "comment": " Banff National Park and the Lake Louise/Moraine Lake area in the Canadian Rockies have seen surging visitor numbers, particularly in summer and shoulder seasons. Car parks fill early, roads become congested and popular lakeside trails are heavily used. Concerns centre on wildlife disturbance, road safety and the strain on park facilities. Parks Canada has responded with shuttle systems, parking reservations and restrictions on private vehicle access to some lakes."
+      },
+      "awareness_assessment": {
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "mid",
+        "assessment_basis": "Media coverage, park reports and visitor communications frame Banff and Lake Louise as key examples of North American national parks adjusting to mass tourism.",
+        "notes": "The case links overtourism to car-based access models and to climate-related changes that lengthen the high season and intensify ‘last-chance’ glacier tourism."
+      },
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "Mid",
+      "tourism_dependency_level": "High",
+      "ngos_involved_count": 2,
+      "statement_ids": [
+        "STM_0112",
+        "STM_0113"
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Deep-dive creation of OTC_039 (Banff and Lake Louise), focusing on traffic congestion, shuttle systems and wildlife disturbance risks.",
+        "sources_overview": [
+          {
+            "title": "Overcrowding and traffic in Banff National Park",
+            "url": null,
+            "source_type": "news_article"
+          },
+          {
+            "title": "Parks Canada implements shuttle system to manage tourism at Moraine Lake",
+            "url": null,
+            "source_type": "agency_communication"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "OTC_040",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Uluru-Kata Tjuta National Park",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": 2010,
+        "to_year": 2025
+      },
+      "issues": {
+        "tags": [
+          "cultural_heritage_respect",
+          "visitor_behavior_conflicts",
+          "overtourism_general",
+          "sacred_sites_management"
+        ],
+        "comment": " Uluru-Kata Tjuta National Park is co-managed by Anangu Traditional Owners and the Australian government. For decades, visitor behaviour around climbing Uluru, photography and off-track access generated conflict between tourism interests and cultural protocols. The permanent ban on climbing Uluru, introduced in 2019, was preceded by intense media debates and changes to interpretive materials and visitor flows."
+      },
+      "awareness_assessment": {
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "high",
+        "assessment_basis": "Australian and international media widely covered the climb ban and the underlying cultural and environmental motivations, making Uluru a reference case for managing tourism at sacred Indigenous sites.",
+        "notes": "The case demonstrates how Indigenous governance and cultural values can reshape tourism practices, with implications for other sacred or contested landscapes."
+      },
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "Mid",
+      "tourism_dependency_level": "High",
+      "ngos_involved_count": 2,
+      "statement_ids": [
+        "STM_0114",
+        "STM_0115"
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Deep-dive creation of OTC_040 (Uluru-Kata Tjuta National Park), focusing on visitor behaviour conflicts, the climb ban and co-management arrangements.",
+        "sources_overview": [
+          {
+            "title": "Uluru climb ban comes into effect amid large crowds",
+            "url": null,
+            "source_type": "news_article"
+          },
+          {
+            "title": "Anangu Traditional Owners on why the Uluru climb had to end",
             "url": null,
             "source_type": "feature_article"
           }
@@ -4182,37 +4400,37 @@
     {
       "actor_id": "ACT_0099",
       "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
-      "name": "Municipality of Hallstatt",
+      "name": "Cinque Terre municipalities and park authority",
       "actor_type": "local_government",
       "role_title": null,
-      "organisation": "Gemeinde Hallstatt",
+      "organisation": "Cinque Terre National Park and local municipalities",
       "sector": "public",
-      "location": "Hallstatt, Austria",
+      "location": "Liguria, Italy",
       "is_collective_actor": true,
       "supervising_ministry": "Land Oberösterreich / Government of Austria",
       "budget_information": null,
       "contact_relevance": {
         "for_interviews": true,
         "for_partnerships": true,
-        "comment": "Responsible for local tourism management, bus caps and communication with tour operators."
+        "comment": "Local authorities and park management responsible for visitor caps, trail closures and transport coordination."
       }
     },
     {
       "actor_id": "ACT_0100",
       "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
-      "name": "Hallstatt residents and local initiative groups",
+      "name": "Residents and local initiative groups in Cinque Terre villages",
       "actor_type": "community_group",
       "role_title": null,
       "organisation": null,
       "sector": "civil_society",
-      "location": "Hallstatt, Austria",
+      "location": "Cinque Terre, Liguria, Italy",
       "is_collective_actor": true,
       "supervising_ministry": null,
       "budget_information": null,
       "contact_relevance": {
         "for_interviews": true,
         "for_partnerships": false,
-        "comment": "Voices from local residents concerned about noise, privacy and housing affordability."
+        "comment": "Residents concerned about trail crowding, short-term rentals and loss of local services."
       }
     },
     {
@@ -4447,6 +4665,168 @@
         "for_interviews": true,
         "for_partnerships": true,
         "comment": "Coordinate clean-up expeditions and advocate for stricter waste and safety regulations."
+      }
+    },
+    {
+      "actor_id": "ACT_0114",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Jiuzhaigou administration and Sichuan provincial authorities",
+      "actor_type": "national_ministry",
+      "role_title": null,
+      "organisation": "Jiuzhaigou Administration / Sichuan Province",
+      "sector": "public",
+      "location": "Sichuan, China",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of the Philippines",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Authorities responsible for park management, post-earthquake recovery and visitor quotas."
+      }
+    },
+    {
+      "actor_id": "ACT_0115",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Environmental NGOs and academic researchers monitoring Boracay",
+      "actor_type": "ngo",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Philippines",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Document water quality, reef health and social impacts of the closure and reopening."
+      }
+    },
+    {
+      "actor_id": "ACT_0116",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Tourism businesses and local communities in Jiuzhaigou area",
+      "actor_type": "tourism_business_association",
+      "role_title": null,
+      "organisation": null,
+      "sector": "private",
+      "location": "Jiuzhaigou region, Sichuan, China",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Businesses and residents affected by both tourism booms and earthquake-related closures."
+      }
+    },
+    {
+      "actor_id": "ACT_0117",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "City of Lisbon – urban planning and tourism departments",
+      "actor_type": "local_government",
+      "role_title": null,
+      "organisation": "Lisbon City Council",
+      "sector": "public",
+      "location": "Lisbon, Portugal",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of Portugal",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Implements local accommodation containment zones and tourism management measures."
+      }
+    },
+    {
+      "actor_id": "ACT_0118",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Residents and housing movements in Lisbon’s historic districts",
+      "actor_type": "community_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Lisbon, Portugal",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Movements highlighting evictions, rent increases and loss of local commerce."
+      }
+    },
+    {
+      "actor_id": "ACT_0119",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Parks Canada – Banff National Park management",
+      "actor_type": "protected_area_authority",
+      "role_title": null,
+      "organisation": "Parks Canada",
+      "sector": "public",
+      "location": "Banff, Alberta, Canada",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of Canada",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Designs access, shuttle and visitor management policies for Banff and Lake Louise."
+      }
+    },
+    {
+      "actor_id": "ACT_0120",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Local communities and tourism businesses in Banff and Lake Louise",
+      "actor_type": "tourism_business_association",
+      "role_title": null,
+      "organisation": null,
+      "sector": "mixed",
+      "location": "Banff and Lake Louise, Alberta, Canada",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Depend on visitor spending but also seek to reduce congestion and environmental impacts."
+      }
+    },
+    {
+      "actor_id": "ACT_0121",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Uluru-Kata Tjuta National Park Board of Management and Parks Australia",
+      "actor_type": "protected_area_authority",
+      "role_title": null,
+      "organisation": "Parks Australia",
+      "sector": "public",
+      "location": "Northern Territory, Australia",
+      "is_collective_actor": true,
+      "supervising_ministry": "Australian Government",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Co-manages Uluru-Kata Tjuta with Traditional Owners and implements visitor rules."
+      }
+    },
+    {
+      "actor_id": "ACT_0122",
+      "institutional_timestamp_utc": "2025-11-18T00:00:00Z",
+      "name": "Anangu Traditional Owners of Uluru-Kata Tjuta",
+      "actor_type": "indigenous_community",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Central Australia",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Custodians of Uluru and Kata Tjuta whose cultural protocols shaped the climb ban."
       }
     }
   ],
@@ -9049,30 +9429,29 @@
       "source": {
         "source_id": "SRC_HAL_S1",
         "source_type": "news_article",
-        "title": "Austria’s postcard-perfect village of Hallstatt fights overtourism",
+        "title": "Cinque Terre authorities tighten control of day visitors",
         "url": null,
         "publisher": null,
         "publication_date": null,
-        "language": "de/en",
+        "language": "it/en",
         "accessed_at_utc": "2025-11-18T00:00:00Z"
       },
       "original_quote": null,
-      "paraphrase_en": "Municipal officials emphasise that new rules on bus arrivals and parking are intended to reduce daily peaks of day-tripper flows and protect residents’ quality of life.",
+      "paraphrase_en": "Local authorities explain that limits on group sizes, trail access and peak-time arrivals are intended to reduce daily pressure on the villages and paths while preserving tourism as a key income source.",
       "content_coding": {
         "primary_issues": [
           "day_tripper_pressure",
           "infrastructure_strain"
         ],
         "secondary_issues": [
-          "housing_pressure"
+          "trail_erosion"
         ],
-        "problem_framing": "managing_daily_peaks_in_a_small_village",
+        "problem_framing": "managing_peak_loads_in_small_coastal_villages",
         "attributed_causes": [
-          "mass tour-bus packages and social media exposure"
+          "concentration of cruise and train day-trips into a few hours"
         ],
         "proposed_solutions": [
-          "caps on daily bus arrivals",
-          "stricter parking and visitor information rules"
+          "caps on tour group sizes and timed access to key trails"
         ]
       },
       "tone_and_stance": {
@@ -9085,7 +9464,7 @@
         "potential_intervention_themes": [
           "scenario_visualisation"
         ],
-        "notes": "Immersive village-scale simulations could support negotiations on different bus-cap scenarios."
+        "notes": "Immersive trail and village simulations could help test different timed-entry and capacity scenarios."
       }
     },
     {
@@ -9095,7 +9474,7 @@
       "source": {
         "source_id": "SRC_HAL_S2",
         "source_type": "feature_article",
-        "title": "How Instagram turned Hallstatt into a mass tourism hotspot",
+        "title": "Residents in Cinque Terre speak out about tourism pressures",
         "url": null,
         "publisher": null,
         "publication_date": null,
@@ -9103,21 +9482,21 @@
         "accessed_at_utc": "2025-11-18T00:00:00Z"
       },
       "original_quote": null,
-      "paraphrase_en": "Residents describe a sense of losing privacy as tourists crowd balconies, streets and viewpoints primarily to take photographs rather than engage with the village as a living community.",
+      "paraphrase_en": "Residents describe crowded alleys, full trains and a shift from long-stay guests to quick photo-stop visits, along with growing difficulties finding affordable housing in their own villages.",
       "content_coding": {
         "primary_issues": [
-          "social_media_tourism",
-          "cultural_change"
+          "housing_pressure",
+          "day_tripper_pressure"
         ],
         "secondary_issues": [
-          "housing_pressure"
+          "cultural_change"
         ],
-        "problem_framing": "village_as_backdrop_not_community",
+        "problem_framing": "villages_feeling_like_corridors_for_tourists",
         "attributed_causes": [
-          "viral images and influencer posts driving quick visits"
+          "short-term rentals and excursion-focused tourism products"
         ],
         "proposed_solutions": [
-          "communication campaigns highlighting resident perspectives"
+          "regulating tourist rentals and encouraging longer stays"
         ]
       },
       "tone_and_stance": {
@@ -9130,7 +9509,7 @@
         "potential_intervention_themes": [
           "community_voice"
         ],
-        "notes": "Immersive storytelling could reframe Hallstatt from Instagram backdrop to lived place."
+        "notes": "Immersive storytelling could bring residents’ perspectives into debates on rail and cruise excursion policies."
       }
     },
     {
@@ -9496,6 +9875,366 @@
           "ecosystem_visualisation"
         ],
         "notes": "Immersive visualisations could make otherwise invisible waste and glacier impacts visible to the public."
+      }
+    },
+    {
+      "statement_id": "STM_0108",
+      "case_id": "OTC_037",
+      "actor_id": "ACT_0114",
+      "source": {
+        "source_id": "SRC_BOR_S1",
+        "source_type": "news_article",
+        "title": "Tourism pressures and ecosystem protection in Jiuzhaigou Valley",
+        "url": null,
+        "publisher": null,
+        "publication_date": null,
+        "language": "zh/en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Officials and researchers note that high visitor densities on wooden walkways and near lakes put stress on fragile karst formations and wetlands, requiring stricter route design and limits.",
+      "content_coding": {
+        "primary_issues": [
+          "fragile_ecosystems",
+          "overtourism_general"
+        ],
+        "secondary_issues": [
+          "infrastructure_strain"
+        ],
+        "problem_framing": "protecting_fragile_scenic_systems_from_mass_visitation",
+        "attributed_causes": [
+          "concentrated sightseeing along narrow infrastructure in sensitive zones"
+        ],
+        "proposed_solutions": [
+          "stronger limits on visitor numbers and improved boardwalk design"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_critical",
+        "tone": "alarmed",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "ecosystem_visualisation"
+        ],
+        "notes": "Immersive visualisations could show ecological thresholds and impacts of different visitor loads."
+      }
+    },
+    {
+      "statement_id": "STM_0109",
+      "case_id": "OTC_037",
+      "actor_id": "ACT_0116",
+      "source": {
+        "source_id": "SRC_BOR_S2",
+        "source_type": "news_article",
+        "title": "Jiuzhaigou reopens with visitor limits after earthquake",
+        "url": null,
+        "publisher": null,
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Local tourism operators describe economic hardship during closure but also support stricter capacity limits and phased reopening to avoid further damage to the landscape.",
+      "content_coding": {
+        "primary_issues": [
+          "overtourism_general",
+          "fragile_ecosystems"
+        ],
+        "secondary_issues": [
+          "earthquake_risk_recovery"
+        ],
+        "problem_framing": "balancing_recovery_of_tourism_and_landscape_protection",
+        "attributed_causes": [
+          "combination of disaster impacts and past overuse of scenic spots"
+        ],
+        "proposed_solutions": [
+          "gradual reopening with monitored visitor limits"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "cautiously_optimistic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "route_reimagining"
+        ],
+        "notes": "Immersive tools could document the recovery process and support communication with visitors."
+      }
+    },
+    {
+      "statement_id": "STM_0110",
+      "case_id": "OTC_038",
+      "actor_id": "ACT_0117",
+      "source": {
+        "source_id": "SRC_LIS_S1",
+        "source_type": "policy_document",
+        "title": "Containment zones for local accommodation in Lisbon",
+        "url": null,
+        "publisher": null,
+        "publication_date": null,
+        "language": "pt/en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "City plans describe containment zones in central neighbourhoods where new tourist rentals are heavily restricted to protect housing stock for residents.",
+      "content_coding": {
+        "primary_issues": [
+          "housing_pressure",
+          "short_term_rentals"
+        ],
+        "secondary_issues": [
+          "overtourism_general"
+        ],
+        "problem_framing": "protecting_residential_function_in_tourist_city",
+        "attributed_causes": [
+          "rapid expansion of platform-based tourist accommodation"
+        ],
+        "proposed_solutions": [
+          "zoning restrictions and licensing caps for tourist rentals"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_critical",
+        "tone": "policy_oriented",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "housing_and_land_use_visualisation"
+        ],
+        "notes": "Immersive maps could show shifts from residential to tourist accommodation over time."
+      }
+    },
+    {
+      "statement_id": "STM_0111",
+      "case_id": "OTC_038",
+      "actor_id": "ACT_0118",
+      "source": {
+        "source_id": "SRC_LIS_S2",
+        "source_type": "news_article",
+        "title": "Lisbon struggles with the impact of Airbnb and rising tourist numbers",
+        "url": null,
+        "publisher": null,
+        "publication_date": null,
+        "language": "pt/en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Residents in Alfama and Bairro Alto report sleepless nights from bars and party tourism, alongside anxiety about long-term neighbours being priced out by tourist rentals.",
+      "content_coding": {
+        "primary_issues": [
+          "party_tourism",
+          "housing_pressure"
+        ],
+        "secondary_issues": [
+          "cultural_change"
+        ],
+        "problem_framing": "neighbourhoods_shifting_to_tourist_playgrounds",
+        "attributed_causes": [
+          "nightlife-focused tourism offers and weak noise enforcement"
+        ],
+        "proposed_solutions": [
+          "stricter noise controls and better support for resident-oriented services"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "ambivalent",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "community_voice"
+        ],
+        "notes": "Immersive storytelling could communicate the lived experience of residents to city and national decision-makers."
+      }
+    },
+    {
+      "statement_id": "STM_0112",
+      "case_id": "OTC_039",
+      "actor_id": "ACT_0119",
+      "source": {
+        "source_id": "SRC_BAN_S1",
+        "source_type": "agency_communication",
+        "title": "Parks Canada implements shuttle system to manage tourism at Moraine Lake",
+        "url": null,
+        "publisher": null,
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Park managers explain that limiting private cars and requiring shuttle reservations for Moraine Lake is necessary to reduce traffic, improve safety and protect wildlife habitats near the road.",
+      "content_coding": {
+        "primary_issues": [
+          "traffic_congestion",
+          "wildlife_disturbance"
+        ],
+        "secondary_issues": [
+          "infrastructure_strain"
+        ],
+        "problem_framing": "controlling_vehicle_access_to_protect_park_values",
+        "attributed_causes": [
+          "high dependence on private cars for park access"
+        ],
+        "proposed_solutions": [
+          "shuttle systems and reservation-based access"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_critical",
+        "tone": "pragmatic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "access_scenario_visualisation"
+        ],
+        "notes": "Immersive transport models could illustrate different access configurations and their impacts."
+      }
+    },
+    {
+      "statement_id": "STM_0113",
+      "case_id": "OTC_039",
+      "actor_id": "ACT_0120",
+      "source": {
+        "source_id": "SRC_BAN_S2",
+        "source_type": "news_article",
+        "title": "Overcrowding and traffic in Banff National Park",
+        "url": null,
+        "publisher": null,
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Local businesses and residents describe mixed feelings about new access rules: fewer parking problems and conflicts with visitors, but also fear of losing spontaneous road-trip tourists.",
+      "content_coding": {
+        "primary_issues": [
+          "overtourism_general",
+          "traffic_congestion"
+        ],
+        "secondary_issues": [
+          "livelihood_impacts"
+        ],
+        "problem_framing": "managing_tradeoffs_between_volume_and_quality",
+        "attributed_causes": [
+          "rapid growth in international visitation and social-media exposure"
+        ],
+        "proposed_solutions": [
+          "better communication about access changes and off-peak opportunities"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "ambivalent",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "community_voice"
+        ],
+        "notes": "Immersive storytelling could help visitors understand why new access rules are in place."
+      }
+    },
+    {
+      "statement_id": "STM_0114",
+      "case_id": "OTC_040",
+      "actor_id": "ACT_0122",
+      "source": {
+        "source_id": "SRC_ULU_S1",
+        "source_type": "feature_article",
+        "title": "Anangu Traditional Owners on why the Uluru climb had to end",
+        "url": null,
+        "publisher": null,
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Traditional Owners explain that climbing Uluru goes against their law and culture, and that they have asked visitors for many years to respect the site as a living sacred place rather than a challenge to conquer.",
+      "content_coding": {
+        "primary_issues": [
+          "cultural_heritage_respect",
+          "visitor_behavior_conflicts"
+        ],
+        "secondary_issues": [
+          "overtourism_general"
+        ],
+        "problem_framing": "sacred_site_not_theme_park",
+        "attributed_causes": [
+          "tourism marketing that framed the climb as a must-do experience"
+        ],
+        "proposed_solutions": [
+          "ending the climb and deepening cultural interpretation"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_conditional",
+        "tone": "firm",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": true,
+        "potential_intervention_themes": [
+          "cultural_storytelling"
+        ],
+        "notes": "Immersive experiences could centre Anangu narratives and guide visitors towards respectful engagement."
+      }
+    },
+    {
+      "statement_id": "STM_0115",
+      "case_id": "OTC_040",
+      "actor_id": "ACT_0121",
+      "source": {
+        "source_id": "SRC_ULU_S2",
+        "source_type": "news_article",
+        "title": "Uluru climb ban comes into effect amid large crowds",
+        "url": null,
+        "publisher": null,
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Park managers describe how years of public communication about the climb ban were needed to shift expectations and redesign visitor flows towards base walks, cultural centres and other experiences.",
+      "content_coding": {
+        "primary_issues": [
+          "visitor_behavior_conflicts",
+          "overtourism_general"
+        ],
+        "secondary_issues": [
+          "sacred_sites_management"
+        ],
+        "problem_framing": "transition_to_nonclimbing_tourism_model",
+        "attributed_causes": [
+          "long-standing global promotion of Uluru as a climbing destination"
+        ],
+        "proposed_solutions": [
+          "redesigning visitor offers and communications post-ban"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "pragmatic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions_storytelling_or_communication": false,
+        "potential_intervention_themes": [
+          "itinerary_redesign"
+        ],
+        "notes": "Immersive tools could help visitors plan alternative experiences that align with Anangu preferences."
       }
     }
   ]
