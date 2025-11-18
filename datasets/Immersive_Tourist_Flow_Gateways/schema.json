@@ -14,7 +14,8 @@
 
     "project_id": {
       "type": "string",
-      "description": "Internal unique identifier for the project (slug or UUID)."
+      "description": "Ascending numeric identifier for the project (stored as a string, typically zero-padded, e.g. \"0001\", \"0002\").",
+      "pattern": "^[0-9]{1,8}$"
     },
 
     "project_name": {
