@@ -2630,6 +2630,250 @@
           }
         ]
       }
+    },
+    {
+      "case_id": "OTC_101",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Isle of Skye (Scotland)",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": 2010,
+        "to_year": 2025
+      },
+      "issues": {
+        "tags": [
+          "overtourism_general",
+          "traffic_congestion",
+          "infrastructure_strain",
+          "landscape_pressure"
+        ],
+        "comment": "Skye suffers from seasonal tourist surges causing traffic jams, trail erosion, pressure on small villages and emergency services."
+      },
+      "awareness_assessment": {
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "mid",
+        "assessment_basis": "UK media coverage, local council documents, community interviews.",
+        "notes": "Case is widely cited as example of rural hotspot stress."
+      },
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "Low",
+      "tourism_dependency_level": "High",
+      "ngos_involved_count": 1,
+      "statement_ids": [
+        "OTC_101_S_116",
+        "OTC_101_S_117"
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Enriched Isle of Skye case focusing on Fairy Pools, Quiraing, Old Man of Storr, and transport constraints.",
+        "sources_overview": [
+          {
+            "title": "Skye struggles with tourist numbers",
+            "url": null,
+            "source_type": "news_article"
+          },
+          {
+            "title": "Highland Council traffic management plan",
+            "url": null,
+            "source_type": "policy_document"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "OTC_102",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Reykjavík Golden Circle (Iceland)",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": 2010,
+        "to_year": 2025
+      },
+      "issues": {
+        "tags": [
+          "overtourism_general",
+          "infrastructure_strain",
+          "environmental_pressure"
+        ],
+        "comment": "Golden Circle hotspots experience extreme peaks driven by short Iceland stopovers and cruise tourism."
+      },
+      "awareness_assessment": {
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "high",
+        "assessment_basis": "Icelandic tourism authority reports.",
+        "notes": "Case central in Nordic overtourism debates."
+      },
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "Mid",
+      "tourism_dependency_level": "Very High",
+      "ngos_involved_count": 2,
+      "statement_ids": [
+        "OTC_102_S_118"
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Focus on Thingvellir, Geysir, Gullfoss; path erosion and bus convoy pressure.",
+        "sources_overview": [
+          {
+            "title": "Iceland overtourism pressures",
+            "url": null,
+            "source_type": "news_article"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "OTC_103",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Kyoto Gion & Arashiyama (Japan)",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": 2010,
+        "to_year": 2025
+      },
+      "issues": {
+        "tags": [
+          "overtourism_general",
+          "cultural_pressure",
+          "behavior_conflicts",
+          "infrastructure_strain"
+        ],
+        "comment": "Kyoto suffers from photography intrusions, geiko harassment, crowding in Gion and bamboo forest."
+      },
+      "awareness_assessment": {
+        "awareness_level": "high",
+        "conflict_intensity": "high",
+        "policy_response_level": "mid",
+        "assessment_basis": "Japanese media, Kyoto City guidelines.",
+        "notes": "Key case for cultural-pressure overtourism."
+      },
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "Low",
+      "tourism_dependency_level": "High",
+      "ngos_involved_count": 1,
+      "statement_ids": [
+        "OTC_103_S_119"
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Focus on Gion etiquette rules and Arashiyama path crowding.",
+        "sources_overview": [
+          {
+            "title": "Kyoto geisha district overtourism coverage",
+            "url": null,
+            "source_type": "news_article"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "OTC_104",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Mérida & Chichén Itzá corridor (Mexico)",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": 2010,
+        "to_year": 2025
+      },
+      "issues": {
+        "tags": [
+          "heritage_pressure",
+          "overtourism_general",
+          "vendor_conflicts"
+        ],
+        "comment": "Heavy daytrip flows from Cancún create crowding and vendor conflicts around Chichén Itzá."
+      },
+      "awareness_assessment": {
+        "awareness_level": "high",
+        "conflict_intensity": "high",
+        "policy_response_level": "mid",
+        "assessment_basis": "Mexican media & INAH documents.",
+        "notes": "Important archaeological site under pressure."
+      },
+      "media_pressure_level": "High",
+      "ngo_pressure_level": "Low",
+      "tourism_dependency_level": "Very High",
+      "ngos_involved_count": 1,
+      "statement_ids": [
+        "OTC_104_S_120"
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Focus on INAH site management and tension with vendors.",
+        "sources_overview": [
+          {
+            "title": "Chichén Itzá crowding debates",
+            "url": null,
+            "source_type": "news_article"
+          }
+        ]
+      }
+    },
+    {
+      "case_id": "OTC_105",
+      "destination_ref": {
+        "destination_id": null,
+        "destination_name": "Annapurna Base Camp trek (Nepal)",
+        "in_main_dataset": false,
+        "provenance": "external_enrichment",
+        "candidate_for_main_dataset": true
+      },
+      "research_window": {
+        "from_year": 2010,
+        "to_year": 2025
+      },
+      "issues": {
+        "tags": [
+          "mountain_overtourism",
+          "trail_erosion",
+          "waste_management",
+          "safety_pressure"
+        ],
+        "comment": "The Annapurna Base Camp route faces crowding, waste issues and trail erosion during peak season."
+      },
+      "awareness_assessment": {
+        "awareness_level": "high",
+        "conflict_intensity": "medium",
+        "policy_response_level": "mid",
+        "assessment_basis": "Nepal tourism & conservation sources.",
+        "notes": "Classic Himalayan overtourism hotspot."
+      },
+      "media_pressure_level": "Medium",
+      "ngo_pressure_level": "Mid",
+      "tourism_dependency_level": "Very High",
+      "ngos_involved_count": 3,
+      "statement_ids": [
+        "OTC_105_S_121"
+      ],
+      "meta": {
+        "last_researched_utc": "2025-11-18T00:00:00Z",
+        "researcher_notes": "Focus on ACAP, trekking permits, climate-risks and congestion.",
+        "sources_overview": [
+          {
+            "title": "Annapurna trail pressure",
+            "url": null,
+            "source_type": "news_article"
+          }
+        ]
+      }
     }
   ],
   "actors": [
@@ -4828,6 +5072,164 @@
         "for_partnerships": true,
         "comment": "Custodians of Uluru and Kata Tjuta whose cultural protocols shaped the climb ban."
       }
+    },
+    {
+      "name": "Highland Council transport & tourism units",
+      "actor_type": "local_government",
+      "role_title": null,
+      "organisation": "Highland Council",
+      "sector": "public",
+      "location": "Scotland",
+      "is_collective_actor": true,
+      "supervising_ministry": "Scottish Government",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Manages infrastructure & visitor flows."
+      },
+      "actor_id": "OTC_101_ACT_123"
+    },
+    {
+      "name": "Skye community groups and village associations",
+      "actor_type": "community_group",
+      "role_title": null,
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Isle of Skye",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Express concerns about congestion & local services."
+      },
+      "actor_id": "OTC_101_ACT_124"
+    },
+    {
+      "name": "Icelandic Tourism Board",
+      "actor_type": "national_ministry",
+      "role_title": null,
+      "organisation": "Visit Iceland",
+      "sector": "public",
+      "location": "Reykjavík",
+      "is_collective_actor": true,
+      "supervising_ministry": "Ministry of Tourism",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Sets national strategies."
+      },
+      "actor_id": "OTC_102_ACT_125"
+    },
+    {
+      "name": "Golden Circle tour operators",
+      "actor_type": "tourism_business_association",
+      "role_title": null,
+      "organisation": null,
+      "sector": "private",
+      "location": "Reykjavík",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Operate high-frequency buses to hotspots."
+      },
+      "actor_id": "OTC_102_ACT_126"
+    },
+    {
+      "name": "Kyoto City tourism & cultural preservation office",
+      "actor_type": "local_government",
+      "organisation": "Kyoto City",
+      "sector": "public",
+      "location": "Kyoto",
+      "is_collective_actor": true,
+      "supervising_ministry": "Japan Tourism Agency",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Manages etiquette rules and signage."
+      },
+      "actor_id": "OTC_103_ACT_127"
+    },
+    {
+      "name": "Geiko and maiko associations in Gion",
+      "actor_type": "community_group",
+      "organisation": null,
+      "sector": "civil_society",
+      "location": "Gion",
+      "is_collective_actor": true,
+      "supervising_ministry": null,
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Voice concerns about photography harassment."
+      },
+      "actor_id": "OTC_103_ACT_128"
+    },
+    {
+      "name": "INAH (Instituto Nacional de Antropología e Historia)",
+      "actor_type": "protected_area_authority",
+      "organisation": "Government of Mexico",
+      "sector": "public",
+      "location": "Mexico",
+      "is_collective_actor": true,
+      "supervising_ministry": "Secretaría de Cultura",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Manages archaeological site."
+      },
+      "actor_id": "OTC_104_ACT_129"
+    },
+    {
+      "name": "Local vendors and crafts groups around Chichén Itzá",
+      "actor_type": "community_group",
+      "sector": "private",
+      "location": "Yucatán",
+      "is_collective_actor": true,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": false,
+        "comment": "Involved in conflicts over access."
+      },
+      "actor_id": "OTC_104_ACT_130"
+    },
+    {
+      "name": "ACAP (Annapurna Conservation Area Project)",
+      "actor_type": "protected_area_authority",
+      "organisation": "NTNC",
+      "sector": "public",
+      "location": "Nepal",
+      "is_collective_actor": true,
+      "supervising_ministry": "Government of Nepal",
+      "budget_information": null,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Manages trekking region."
+      },
+      "actor_id": "OTC_105_ACT_131"
+    },
+    {
+      "name": "Trekking agencies and guides associations",
+      "actor_type": "tourism_business_association",
+      "sector": "private",
+      "location": "Pokhara",
+      "is_collective_actor": true,
+      "contact_relevance": {
+        "for_interviews": true,
+        "for_partnerships": true,
+        "comment": "Depend on seasonal surges."
+      },
+      "actor_id": "OTC_105_ACT_132"
     }
   ],
   "statements": [
@@ -10236,6 +10638,270 @@
         ],
         "notes": "Immersive tools could help visitors plan alternative experiences that align with Anangu preferences."
       }
+    },
+    {
+      "source": {
+        "source_id": "SRC_SKYE_1",
+        "source_type": "news_article",
+        "title": "Skye overwhelmed by tourist traffic",
+        "url": null,
+        "publisher": null,
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Council notes severe strain on single-lane roads and parking near Fairy Pools and Storr.",
+      "content_coding": {
+        "primary_issues": [
+          "traffic_congestion"
+        ],
+        "secondary_issues": [
+          "infrastructure_strain"
+        ],
+        "problem_framing": "rural_infrastructure_not_built_for_mass_tourism",
+        "attributed_causes": [
+          "private-car dependence"
+        ],
+        "proposed_solutions": [
+          "park-and-ride",
+          "restrictions"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_critical",
+        "tone": "concerned",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions": false,
+        "themes": [
+          "traffic_planning"
+        ],
+        "notes": "Immersive mapping could show peak-flow patterns."
+      },
+      "case_id": "OTC_101",
+      "statement_id": "OTC_101_S_116",
+      "actor_id": "OTC_101_ACT_123"
+    },
+    {
+      "source": {
+        "source_id": "SRC_SKYE_2",
+        "source_type": "interview",
+        "title": "Resident testimony",
+        "url": null,
+        "publisher": null,
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "original_quote": null,
+      "paraphrase_en": "Residents describe emergency vehicles delayed by tourist congestion.",
+      "content_coding": {
+        "primary_issues": [
+          "infrastructure_strain"
+        ],
+        "secondary_issues": [
+          "community_pressure"
+        ],
+        "problem_framing": "visitor_volume_disrupts_basic_services",
+        "attributed_causes": [
+          "unmanaged_peaks"
+        ],
+        "proposed_solutions": [
+          "better peak management"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "ambivalent",
+        "tone": "alarmed",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions": true,
+        "themes": [
+          "community_voice"
+        ],
+        "notes": "Immersive storytelling could present resident experiences."
+      },
+      "case_id": "OTC_101",
+      "statement_id": "OTC_101_S_117",
+      "actor_id": "OTC_101_ACT_124"
+    },
+    {
+      "source": {
+        "source_id": "SRC_GC_1",
+        "source_type": "policy_document",
+        "title": "Tourism management plan Iceland",
+        "url": null,
+        "publisher": null,
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "paraphrase_en": "Government highlights need for stricter site management and investment into paths and restrooms.",
+      "content_coding": {
+        "primary_issues": [
+          "infrastructure_strain"
+        ],
+        "secondary_issues": [
+          "environmental_pressure"
+        ],
+        "problem_framing": "infrastructure_not_scaled",
+        "attributed_causes": [
+          "rapid_growth"
+        ],
+        "proposed_solutions": [
+          "investment",
+          "capacity_limits"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive",
+        "tone": "pragmatic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions": false,
+        "themes": [
+          "site_planning"
+        ],
+        "notes": "Immersive models can show erosion hotspots."
+      },
+      "case_id": "OTC_102",
+      "statement_id": "OTC_102_S_118",
+      "actor_id": "OTC_102_ACT_125"
+    },
+    {
+      "source": {
+        "source_id": "SRC_KYOTO_1",
+        "source_type": "policy_document",
+        "title": "Gion photography restrictions",
+        "url": null,
+        "publisher": null,
+        "publication_date": null,
+        "language": "ja/en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "paraphrase_en": "Kyoto City introduced fines for illegal photography in private alleys to protect residents and geiko.",
+      "content_coding": {
+        "primary_issues": [
+          "behavior_conflicts"
+        ],
+        "secondary_issues": [
+          "cultural_pressure"
+        ],
+        "problem_framing": "tourist_behavior_intrusive",
+        "attributed_causes": [
+          "social_media_pressure"
+        ],
+        "proposed_solutions": [
+          "fines",
+          "signage"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "conditional",
+        "tone": "firm",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions": true,
+        "themes": [
+          "cultural_storytelling"
+        ],
+        "notes": "Immersive narratives could educate visitors on etiquette."
+      },
+      "case_id": "OTC_103",
+      "statement_id": "OTC_103_S_119",
+      "actor_id": "OTC_103_ACT_127"
+    },
+    {
+      "source": {
+        "source_id": "SRC_CHICHEN_1",
+        "source_type": "news_article",
+        "title": "Chichén Itzá overwhelmed",
+        "url": null,
+        "publisher": null,
+        "publication_date": null,
+        "language": "es/en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "paraphrase_en": "INAH highlights erosion hazards around El Castillo and limits access to certain structures.",
+      "content_coding": {
+        "primary_issues": [
+          "heritage_pressure"
+        ],
+        "secondary_issues": [
+          "crowding"
+        ],
+        "problem_framing": "heritage_at_risk",
+        "attributed_causes": [
+          "mass_day_trips"
+        ],
+        "proposed_solutions": [
+          "access_limits"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_critical",
+        "tone": "worried",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions": true,
+        "themes": [
+          "heritage_visualisation"
+        ],
+        "notes": "Immersive reconstructions can reduce pressure on fragile areas."
+      },
+      "case_id": "OTC_104",
+      "statement_id": "OTC_104_S_120",
+      "actor_id": "OTC_104_ACT_129"
+    },
+    {
+      "source": {
+        "source_id": "SRC_ANNAPURNA_1",
+        "source_type": "news_article",
+        "title": "Annapurna congestion",
+        "url": null,
+        "publisher": null,
+        "publication_date": null,
+        "language": "en",
+        "accessed_at_utc": "2025-11-18T00:00:00Z"
+      },
+      "paraphrase_en": "ACAP stresses need for stricter trail management due to erosion and waste buildup.",
+      "content_coding": {
+        "primary_issues": [
+          "trail_erosion"
+        ],
+        "secondary_issues": [
+          "waste_management"
+        ],
+        "problem_framing": "trail_damage_from_volume",
+        "attributed_causes": [
+          "peak_season_bursts"
+        ],
+        "proposed_solutions": [
+          "waste_rules",
+          "route_rotation"
+        ]
+      },
+      "tone_and_stance": {
+        "stance_towards_tourism": "supportive_but_critical",
+        "tone": "pragmatic",
+        "calls_for_action": true
+      },
+      "relevance_for_immersive_interventions": {
+        "mentions": true,
+        "themes": [
+          "route_reimagining"
+        ],
+        "notes": "Immersive models help visualise trail pressure."
+      },
+      "case_id": "OTC_105",
+      "statement_id": "OTC_105_S_121",
+      "actor_id": "OTC_105_ACT_131"
     }
   ]
 }
