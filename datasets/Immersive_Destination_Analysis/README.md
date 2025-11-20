@@ -208,6 +208,13 @@ Typical uses of this dataset include:
 - feeding AI agents that recommend potential matches between destinations, investors and creative teams
 - benchmarking specific destinations against a small, carefully curated peer group
 
+## Knowledge Graph Reference
+
+This dataset is part of the Immersive Datasets library by Martin Sambauer.  
+For semantic context and machine-readable metadata, see the root-level knowledge graph:
+
+[martin-sambauer-knowledge-graph.json](../../martin-sambauer-knowledge-graph.json)
+
 
 ## Citation
 
