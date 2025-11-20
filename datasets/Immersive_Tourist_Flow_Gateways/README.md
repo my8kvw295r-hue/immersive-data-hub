@@ -19,21 +19,23 @@ The dataset enables systematic comparison of immersive flow-navigation strategie
 Each project entry includes:
 
 * project_id (ascending internal identifier in the form ITFG_0001, ITFG_0002, … stored as a string),
-* gateway type (airport, marina, urban, ecological, virtual),
-* project goals (flow redirection, behaviour change, substitution, etc.),
-* methods (routing, priming, temporal redistribution, narrative interventions),
-* media formats (fulldome, VR, AR, projection, digital twin),
-* intervention archetypes (high-level classification of the gateway’s primary intervention logic, e.g. behaviour_priming_gateway, immersive_substitution_hub),
-* problem-fit tags (list of overtourism problem-types the project is intended to address, aligned with the Overtourism N+1 issue-tag taxonomy),
-* commissioning authority and, where documented, the responsible manager/contact at the authority,
-* production entities (producers, operators, creators, directors),
-* capacity data, visitor metrics, duration, budget (when available),
-* sustainability context (biodiversity, emissions, ecological standards),
-* measurable effects and available effectiveness studies,
-* timestamped verification fields,
+* gateway_type (spatial role of the gateway, e.g. airport_gateway, ecological_gateway, heritage_gateway, marine_gateway, urban_icon_gateway),
+* project_goal (flow_redirection, timeslot_shift, behaviour_change, physical_impact_replacement, educational_priming, conservation_support, arrival_expectation_setting, behavioural_priming_only),
+* methods_used (routing, priming, temporal redistribution, narrative interventions and other flow-navigation methods described in the methodology),
+* media_format (fulldome, 360_degree_projection, virtual_reality, augmented_reality, mixed_reality, spatial_audio_environment, digital_twin_simulation, projection_mapping, interactive_installation, interactive_exhibition, immersive_theatre, AV_show, VR_experience, guided_tour, ride_experience, soundscape_experience),
+* intervention_archetype (one or more high-level archetypes such as behaviour_priming_gateway, immersive_substitution_hub, logistics_flow_hub, emotional_peak_gateway, intro_context_gateway),
+* problem_fit (list of overtourism problem-types the project addresses, aligned with the Overtourism N+1 issue-tag taxonomy),
+* implementation_stage (concept, planned, under_construction, operating, discontinued, unknown),
+* commissioning_authority and, where documented, the responsible manager/contact at the authority,
+* producer_operating_entity, director/lead_creator and creative/technical partners,
+* budget, visitor_capacity_per_hour, annual_visitors, duration_min (where reliably documented),
+* sustainability_context (biodiversity, emissions, ecological standards),
+* measurable_effects and available effectiveness studies,
+* timestamped verification fields (date_added, date_last_verified, source_last_checked),
 * source links for every data point.
 
 Unknown fields remain empty until reliable sources are found.
+
 
 ## Intervention Archetypes and Problem Fit
 
