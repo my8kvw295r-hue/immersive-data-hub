@@ -2179,5 +2179,1242 @@
       "infrastructure_overload",
       "cultural_erosion"
     ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0030",
+    "project_name": "GeoGate – Visiting Center UNESCO Geopark (Ținutul Buzăului)",
+    "short_description": "Immersive visitor centre in Sătuc village that introduces the Buzău Land UNESCO Global Geopark through interactive exhibits and digital media, helping visitors plan low‑impact exploration of the wider 1,000 km² geopark.",
+    "country": "Romania",
+    "region": "Buzău County",
+    "location_notes": "Sătuc village, Berca municipality, acting as main visitor gateway to Ținutul Buzăului UNESCO Global Geopark.",
+    "gateway_type": "geopark_gateway",
+    "project_goal": [
+      "educational_priming",
+      "conservation_support",
+      "flow_redirection",
+      "arrival_expectation_setting"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "spatial_storytelling_navigation",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "interactive_exhibition",
+      "interactive_installation",
+      "AV_show"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "Buzău Land Association in partnership with Buzău County authorities",
+    "sustainability_context": {
+      "biodiversity_goal": "Channel demand towards marked trails and officially interpreted sites across the Buzău Land UNESCO Geopark while explaining fragile geological formations.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "Positioned as the main information gateway for Buzău Land, encouraging longer, slower stays and dispersal across the geopark rather than hit‑and‑run visits to a few hotspots."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://travelbuzau.com/geogate-visiting-center-unesco-geopark/",
+      "https://buzauland.org/projects-and-news/geogate-the-gate-to-buzau-land/",
+      "https://muzeedelasat.ro/muzee/centrul-de-vizitare-geogate-berca-buzau/?lang=en"
+    ],
+    "notes": "Gateway centre explicitly described as the access point to the Buzău Land UNESCO Global Geopark and as an immersive experience combining advanced technology with traditional exhibits.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://travelbuzau.com/geogate-visiting-center-unesco-geopark/",
+    "intervention_archetype": [
+      "intro_context_gateway",
+      "immersive_substitution_hub"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "governance_lag"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0031",
+    "project_name": "Povestea Trovanților – The Trovants’ Story Visitor Centre",
+    "short_description": "Interactive visitor centre in Bozioru using augmented reality and storytelling to explain the geology and legends of the Buzău trovants, encouraging visitors to start their geopark journey with curated interpretation before entering sensitive rock formations.",
+    "country": "Romania",
+    "region": "Buzău County",
+    "location_notes": "Bozioru village, near Ulmet Trovants formations inside Ținutul Buzăului UNESCO Global Geopark.",
+    "gateway_type": "geopark_gateway",
+    "project_goal": [
+      "educational_priming",
+      "conservation_support",
+      "behaviour_change",
+      "physical_impact_replacement"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "behavioural_narrative_priming",
+      "spatial_storytelling_navigation"
+    ],
+    "media_format": [
+      "interactive_exhibition",
+      "interactive_installation",
+      "AV_show"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "Ținutul Buzăului UNESCO Global Geopark in partnership with Buzău County Council",
+    "sustainability_context": {
+      "biodiversity_goal": "Protect fragile trovants and surrounding habitats by moving first contact and explanation into an indoor, controlled environment.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "Uses augmented reality and narrative exhibits to tell the story of the trovants and to frame on‑site visits as respectful, low‑impact experiences."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.romania-insider.com/unesco-geopark-tinutul-buzaului-trovants-center-july-2025",
+      "https://gazetabuzoiana.ro/2025/07/03/centrul-de-vizitare-povestea-trovantilor-din-geoparcul-unesco-tinutul-buzaului-deschis-oficial/",
+      "https://www.stiripesurse.ro/buzau-povestea-trovantilor-spusa-prin-intermediul-realitatatii-augmentate-la-bozioru_3742932.html"
+    ],
+    "notes": "Recent visitor centre explicitly framed as the starting point for visiting the trovants, combining scientific information, folklore and augmented reality.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://www.romania-insider.com/unesco-geopark-tinutul-buzaului-trovants-center-july-2025",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0032",
+    "project_name": "Terra – The Sustainability Pavilion, Expo City Dubai",
+    "short_description": "Immersive sustainability pavilion using interactive forest and ocean journeys to illustrate resource footprints and future scenarios, positioning Expo City Dubai as a gateway to more climate‑conscious travel and lifestyles.",
+    "country": "United Arab Emirates",
+    "region": "Dubai",
+    "location_notes": "Expo City Dubai, serving both residents and international visitors as a thematic sustainability attraction.",
+    "gateway_type": "sustainability_gateway",
+    "project_goal": [
+      "educational_priming",
+      "behaviour_change",
+      "behavioural_priming_only"
+    ],
+    "methods_used": [
+      "behavioural_narrative_priming",
+      "spatial_storytelling_navigation",
+      "content_driven_routing"
+    ],
+    "media_format": [
+      "interactive_exhibition",
+      "projection_mapping",
+      "spatial_audio_environment"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "Expo City Dubai",
+    "sustainability_context": {
+      "biodiversity_goal": "Raise awareness of ocean and forest degradation and encourage visitors to support conservation‑oriented behaviour and attractions.",
+      "emissions_goal": "Encourage lower‑impact lifestyle and mobility choices by visualising resource use and climate futures.",
+      "standards_certifications": [],
+      "notes": "The pavilion is described as an immersive sustainability journey through forest and ocean environments, built as a permanent legacy of Expo 2020."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.expocitydubai.com/en/things-to-do/attractions/terra-pavilion/",
+      "https://www.visitdubai.com/en/places-to-visit/terra-sustainability-pavilion",
+      "https://www.virtualdubai.com/terra-pavilion-expo-city-dubai"
+    ],
+    "notes": "Acts as a flagship sustainability attraction for Expo City Dubai, using immersive storytelling to motivate pro‑environmental behaviour.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://www.expocitydubai.com/en/things-to-do/attractions/terra-pavilion/",
+    "intervention_archetype": [
+      "behaviour_priming_gateway",
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "governance_lag"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0033",
+    "project_name": "Sustainable Singapore Gallery at Marina Barrage",
+    "short_description": "Interactive gallery at Marina Barrage that explains Singapore’s integrated water, energy and urban‑planning strategy, framing the city as a model for sustainable, compact living.",
+    "country": "Singapore",
+    "region": "Singapore",
+    "location_notes": "Located on the second floor of Marina Barrage, overlooking Marina Reservoir and the city skyline.",
+    "gateway_type": "sustainability_gateway",
+    "project_goal": [
+      "educational_priming",
+      "behaviour_change",
+      "conservation_support"
+    ],
+    "methods_used": [
+      "behavioural_narrative_priming",
+      "spatial_storytelling_navigation",
+      "content_driven_routing"
+    ],
+    "media_format": [
+      "interactive_exhibition",
+      "interactive_installation",
+      "AV_show"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "PUB, Singapore’s National Water Agency",
+    "sustainability_context": {
+      "biodiversity_goal": "Explain water catchment, coastal protection and green‑blue infrastructure that support local ecosystems.",
+      "emissions_goal": "Promote resource efficiency and sustainable urban living within a dense city‑state.",
+      "standards_certifications": [],
+      "notes": "Organised into themed zones with phygital interactives about climate change, water management and Singapore’s Climate Action Plan."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.pub.gov.sg/Public/Places-of-Interest/Marina-Barrage/SSG",
+      "https://www.terra.sg/ssg-1",
+      "https://kongstudio.com.sg/work/sustainable-singapore-gallery/",
+      "https://static1.squarespace.com/static/5e280cf36a6c054956c3b3a1/t/6445e0c08886654a4ab8e3f1/1682301126815/SSGSP%2BBrochure.pdf"
+    ],
+    "notes": "The gallery is described as a modern and interactive space with multiple zones on sustainability, providing an educational gateway into Singapore’s broader environmental policies.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://www.pub.gov.sg/Public/Places-of-Interest/Marina-Barrage/SSG",
+    "intervention_archetype": [
+      "behaviour_priming_gateway",
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "water_stress",
+      "governance_lag"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0034",
+    "project_name": "Eden Project – Biomes and Climate Storytelling Centre",
+    "short_description": "Large‑scale ecological attraction in a reclaimed Cornish clay pit, using biomes and multimedia installations to immerse visitors in global ecosystems and climate solutions.",
+    "country": "United Kingdom",
+    "region": "Cornwall",
+    "location_notes": "Near St Austell, Cornwall; built in a former clay quarry and now a major visitor hub for the region.",
+    "gateway_type": "sustainability_gateway",
+    "project_goal": [
+      "educational_priming",
+      "behaviour_change",
+      "conservation_support"
+    ],
+    "methods_used": [
+      "spatial_storytelling_navigation",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "interactive_exhibition",
+      "soundscape_experience",
+      "AV_show"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "Eden Project",
+    "sustainability_context": {
+      "biodiversity_goal": "Showcase and conserve diverse plant communities while illustrating ecosystem services and restoration.",
+      "emissions_goal": "Encourage low‑carbon lifestyles and climate awareness through exhibitions and campaigns.",
+      "standards_certifications": [],
+      "notes": "Built on a former industrial site, the Eden Project functions as a living laboratory and public platform for climate change awareness and sustainable living."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.edenproject.com/visit",
+      "https://www.hellocornwall.co.uk/the-ultimate-guide-to-the-eden-project-everything-you-need-to-know/",
+      "https://choosewhere.com/eden-project-visitor-guide"
+    ],
+    "notes": "Frequently framed as an immersive ecological experience and a flagship for climate change awareness and sustainable regeneration.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://www.edenproject.com/visit",
+    "intervention_archetype": [
+      "intro_context_gateway",
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "plastic_pollution"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0035",
+    "project_name": "Submerged Universe – Immersive Exhibition at Oceanário de Lisboa",
+    "short_description": "Immersive media installation within Oceanário de Lisboa that places visitors in a poetic space between ocean depths and the cosmos, highlighting the interconnectedness of marine life.",
+    "country": "Portugal",
+    "region": "Lisbon",
+    "location_notes": "Oceanário de Lisboa, Parque das Nações waterfront district.",
+    "gateway_type": "marine_gateway",
+    "project_goal": [
+      "educational_priming",
+      "conservation_support",
+      "behaviour_change"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "projection_mapping",
+      "spatial_audio_environment",
+      "interactive_installation"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "Oceanário de Lisboa in collaboration with Les Ateliers BK",
+    "sustainability_context": {
+      "biodiversity_goal": "Raise awareness of ocean biodiversity and the delicate balance between microscopic plankton and large marine mammals.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "The exhibition is described as an immersive experience in which ocean and sky mirror each other, emphasising planetary interconnection."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://oceanario.pt/en/exhibitions/submerged-universe/",
+      "https://oceanario.pt/en/submerged-universe-new-exhibition/",
+      "https://www.portugalresident.com/submerged-universe-revealed-at-lisbon-oceanarium/"
+    ],
+    "notes": "Immersive exhibition integrated into the main visit of Oceanário de Lisboa, designed with an art‑and‑technology studio to deepen emotional attachment to marine conservation.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://oceanario.pt/en/exhibitions/submerged-universe/",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "biodiversity_loss",
+      "ecosystem_stress"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0036",
+    "project_name": "Grand Canyon Visitor Center IMAX – National Geographic Visitor Center, Tusayan",
+    "short_description": "Visitor hub just south of the Grand Canyon National Park South Entrance combining trip‑planning services with a giant‑screen film that previews the canyon’s landscapes and cultural history.",
+    "country": "United States",
+    "region": "Arizona",
+    "location_notes": "Tusayan, approximately 1.6 km south of Grand Canyon National Park South Entrance.",
+    "gateway_type": "national_park_gateway",
+    "project_goal": [
+      "arrival_expectation_setting",
+      "educational_priming",
+      "physical_impact_replacement"
+    ],
+    "methods_used": [
+      "emotional_peak_relocation",
+      "immersive_substitution",
+      "spatial_storytelling_navigation"
+    ],
+    "media_format": [
+      "AV_show",
+      "immersive_theatre"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "National Geographic Visitor Center / IMAX Theater operators in Tusayan",
+    "sustainability_context": {
+      "biodiversity_goal": "Encourage respect for fragile canyon ecosystems by showing remote areas and cultural stories on screen rather than requiring physical access to all viewpoints.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "The IMAX theatre provides an intense pre‑visit experience that can replace the need to reach more remote, impact‑sensitive parts of the canyon for some visitors."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://grandcanyon.com/poi/grand-canyon-visitor-center-imax/",
+      "https://explorethecanyon.com/IMAX-theater/",
+      "https://www.mygrandcanyonpark.com/things-to-do/attractions/grand-canyon-visitor-center-tusayan"
+    ],
+    "notes": "Described as pairing trip‑planning services with a six‑storey IMAX theatre that gives newcomers an immersive preview before they enter the park.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://grandcanyon.com/poi/grand-canyon-visitor-center-imax/",
+    "intervention_archetype": [
+      "emotional_peak_gateway",
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "infrastructure_overload"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0037",
+    "project_name": "Hong Kong Wetland Park Visitor Centre",
+    "short_description": "World‑class wetland conservation, education and tourism facility that introduces Hong Kong’s wetland ecosystems through indoor galleries, theatre spaces and an outdoor reserve.",
+    "country": "China",
+    "region": "Hong Kong Special Administrative Region",
+    "location_notes": "Tin Shui Wai, New Territories; mixes indoor visitor centre with outdoor wetland reserve.",
+    "gateway_type": "ecological_gateway",
+    "project_goal": [
+      "educational_priming",
+      "conservation_support",
+      "behaviour_change"
+    ],
+    "methods_used": [
+      "spatial_storytelling_navigation",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "interactive_exhibition",
+      "AV_show",
+      "guided_tour"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "Hong Kong Wetland Park, Agriculture, Fisheries and Conservation Department",
+    "sustainability_context": {
+      "biodiversity_goal": "Demonstrate wetland diversity and communicate the importance of conserving remaining marshes in the Pearl River Delta region.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "Combines indoor interpretation with an accessible wetland reserve, positioned as both conservation facility and tourism attraction."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.wetlandpark.gov.hk/en/",
+      "https://www.wetlandpark.gov.hk/en/exhibition/vc-index"
+    ],
+    "notes": "Officially described as a conservation, education and tourism facility with visitor centre, theatre spaces and outdoor reserve.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://www.wetlandpark.gov.hk/en/",
+    "intervention_archetype": [
+      "intro_context_gateway",
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "biodiversity_loss",
+      "ecosystem_stress",
+      "plastic_pollution"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0038",
+    "project_name": "Hidden Worlds of the National Parks – Google Arts & Culture",
+    "short_description": "Interactive online experience that offers guided 360‑degree tours of five US national parks, allowing remote visitors to explore fragile landscapes virtually and inspiring more mindful in‑person travel.",
+    "country": "United States",
+    "region": "Multi‑state (USA national parks)",
+    "location_notes": "Digital platform accessible via web and mobile app; covers multiple US national parks.",
+    "gateway_type": "virtual_gateway",
+    "project_goal": [
+      "educational_priming",
+      "physical_impact_replacement",
+      "arrival_expectation_setting"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "content_driven_routing",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "digital_twin_simulation",
+      "360_degree_projection",
+      "virtual_reality"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "Google Arts & Culture in collaboration with US National Park Service and creative studios",
+    "sustainability_context": {
+      "biodiversity_goal": "Provide remote access to sensitive natural areas and communicate conservation values without requiring physical presence.",
+      "emissions_goal": "Offer a low‑carbon alternative or complement to long‑haul travel to remote parks.",
+      "standards_certifications": [],
+      "notes": "The experience uses 360‑degree video and interactive storytelling to celebrate national parks during the NPS centennial."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://artsandculture.google.com/project/national-parks",
+      "https://blog.google/outreach-initiatives/arts-culture/explore-hidden-worlds-national-parks/",
+      "https://jpg.is/projects/the-hidden-worlds-of-the-national-parks/"
+    ],
+    "notes": "Frequently cited as a benchmark for immersive web documentaries about national parks, using 360‑degree video, narration and interactive interfaces.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://artsandculture.google.com/project/national-parks",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0039",
+    "project_name": "Aurora Reykjavík – The Northern Lights Center",
+    "short_description": "Interactive museum and media centre in Reykjavík that explains the science and stories of the aurora borealis through films, photography and VR, preparing visitors for aurora‑chasing trips around Iceland.",
+    "country": "Iceland",
+    "region": "Capital Region",
+    "location_notes": "Grandi Harbour district, Reykjavík; indoor attraction accessible year‑round.",
+    "gateway_type": "urban_gateway",
+    "project_goal": [
+      "educational_priming",
+      "arrival_expectation_setting",
+      "behaviour_change"
+    ],
+    "methods_used": [
+      "behavioural_narrative_priming",
+      "immersive_substitution"
+    ],
+    "media_format": [
+      "AV_show",
+      "interactive_exhibition",
+      "virtual_reality"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "Aurora Reykjavík – The Northern Lights Center",
+    "sustainability_context": {
+      "biodiversity_goal": "Encourage responsible behaviour and realistic expectations when visitors travel into rural aurora‑viewing areas.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "Provides high‑definition footage, a dedicated northern lights theatre and VR experiences that simulate aurora viewing even when conditions are poor."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://aurorareykjavik.is/",
+      "https://visitreykjavik.is/service/aurora-reykjavik-northern-lights-center",
+      "https://reykjavikout.is/tours/aurora-reykjavik/",
+      "https://iceland-tourist-information.com/aurora-reykjavik-northern-lights-center-ticket"
+    ],
+    "notes": "Marketed as Iceland’s original northern lights museum, with VR goggles and a large screen to experience auroras indoors.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://aurorareykjavik.is/",
+    "intervention_archetype": [
+      "intro_context_gateway",
+      "emotional_peak_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "infrastructure_overload"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0040",
+    "project_name": "Changi Experience Studio – Jewel Changi Airport",
+    "short_description": "Digital attraction inside Jewel Changi Airport that uses interactive games, projection shows and storytelling to let visitors explore the airport’s operations and aviation ecosystem.",
+    "country": "Singapore",
+    "region": "Singapore",
+    "location_notes": "Level 4 of Jewel Changi Airport, landside area accessible to travellers and local visitors.",
+    "gateway_type": "airport_gateway",
+    "project_goal": [
+      "arrival_expectation_setting",
+      "educational_priming",
+      "behavioural_priming_only"
+    ],
+    "methods_used": [
+      "spatial_storytelling_navigation",
+      "behavioural_narrative_priming",
+      "gateway_sequencing"
+    ],
+    "media_format": [
+      "interactive_exhibition",
+      "projection_mapping",
+      "AV_show"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "Changi Airport Group",
+    "sustainability_context": {
+      "biodiversity_goal": "",
+      "emissions_goal": "Encourage smoother passenger flows and awareness of airport operations, indirectly supporting efficient hub operations.",
+      "standards_certifications": [],
+      "notes": "Described as a first‑of‑its‑kind digital attraction with multiple content zones, interactive touch‑points and immersive shows about the airport."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.jewelchangiairport.com/en/attractions/ces.html",
+      "https://nowboarding.changiairport.com/discover-changi/changi-experience-studio-jewel.html",
+      "https://www.singapore-tickets.com/jewel-changi/changi-experience-studio/",
+      "https://feverup.com/m/113926"
+    ],
+    "notes": "The experience is positioned as an immersive, behind‑the‑scenes journey into Changi Airport’s story, using games and large‑scale projections.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://www.jewelchangiairport.com/en/attractions/ces.html",
+    "intervention_archetype": [
+      "intro_context_gateway",
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "infrastructure_overload",
+      "governance_lag"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0041",
+    "project_name": "LAVA Centre – Iceland Volcano & Earthquake Exhibition",
+    "short_description": "High‑tech exhibition and cinema in South Iceland that interprets volcanic activity, earthquakes and the creation of Iceland, presented as a gateway to the island’s most active volcanic region and Katla Geopark.",
+    "country": "Iceland",
+    "region": "Southern Region",
+    "location_notes": "Hvolsvöllur, close to Iceland’s Ring Road and on the way to the south coast volcanos.",
+    "gateway_type": "geopark_gateway",
+    "project_goal": [
+      "educational_priming",
+      "conservation_support",
+      "arrival_expectation_setting"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "spatial_storytelling_navigation",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "interactive_exhibition",
+      "AV_show",
+      "immersive_theatre"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "LAVA Centre",
+    "sustainability_context": {
+      "biodiversity_goal": "Encourage safer, more informed visits to active volcanic landscapes and improve understanding of geological risk.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "Described as an interactive, high‑tech educational exhibition and as a gateway to the South Coast and Katla Geopark."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://lavacentre.is/",
+      "https://www.icelandtravel.is/attractions/the-lava-centre/",
+      "https://deluxeiceland.is/activities/the-lava-center/",
+      "https://www.travelersuniverse.com/lava-centre-interactive-volcano-exhibition/"
+    ],
+    "notes": "Communicates real‑time monitoring and the forces shaping Iceland, helping visitors to contextualise trips along the volatile south coast.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://lavacentre.is/",
+    "intervention_archetype": [
+      "intro_context_gateway",
+      "immersive_substitution_hub"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "governance_lag"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0042",
+    "project_name": "Lascaux IV – International Centre for Cave Art",
+    "short_description": "Comprehensive replica of the Lascaux cave combined with immersive galleries that use augmented reality and interactive projections to interpret prehistoric art while keeping the fragile original cave closed to mass tourism.",
+    "country": "France",
+    "region": "Nouvelle-Aquitaine",
+    "location_notes": "Montignac-Lascaux, Dordogne; purpose‑built complex at the foot of Lascaux Hill.",
+    "gateway_type": "heritage_gateway",
+    "project_goal": [
+      "physical_impact_replacement",
+      "educational_priming",
+      "conservation_support"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "interactive_exhibition",
+      "projection_mapping",
+      "AV_show"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "Communauté de communes de la Vallée de l’Homme and partners",
+    "sustainability_context": {
+      "biodiversity_goal": "Protect the micro‑climate and paintings of the original Lascaux cave by shifting visitor demand to a high‑fidelity replica.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "The centre offers a complete reproduction of the cave and multiple immersive rooms that contextualise Lascaux’s art and conservation challenges."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://lascaux.fr/en/",
+      "https://www.lascaux-dordogne.com/en/patrimoine-culturel/lascaux-iv-centre-international-de-lart-parietal/",
+      "https://www.snohetta.com/projects/lascaux"
+    ],
+    "notes": "Frequently cited as a benchmark for how replicas and immersive scenography can substitute highly sensitive heritage sites.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://lascaux.fr/en/",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "biodiversity_loss",
+      "ecosystem_stress",
+      "governance_lag"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0043",
+    "project_name": "Grotte Chauvet 2 Ardèche – Replica Cave & Discovery Centre",
+    "short_description": "Large‑scale replica of the Chauvet-Pont d’Arc cave combined with interpretive galleries that recreate conditions of the original site and provide an immersive expedition into Palaeolithic art.",
+    "country": "France",
+    "region": "Auvergne-Rhône-Alpes",
+    "location_notes": "Plateau du Razal, near Vallon-Pont-d’Arc in Ardèche.",
+    "gateway_type": "heritage_gateway",
+    "project_goal": [
+      "physical_impact_replacement",
+      "educational_priming",
+      "conservation_support"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "immersive_theatre",
+      "interactive_exhibition",
+      "soundscape_experience"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "Syndicat mixte de l’Espace de restitution de la grotte Chauvet",
+    "sustainability_context": {
+      "biodiversity_goal": "Prevent physical damage to the original decorated cave while making its art accessible through a high‑fidelity replica.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "Promoted as the largest decorated cave replica in the world, offering an immersive expedition that recreates the emotions of the 1994 discovery."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://en.grottechauvet2ardeche.com/discover-the-site/la-grotte/",
+      "https://archeologie.culture.gouv.fr/chauvet/en/grotte-chauvet-2-ardeche",
+      "https://www.grottesdefrance.org/en/cave-aven-abyss/espace-de-restitution-grotte-chauvet-2-ardeche-en/"
+    ],
+    "notes": "Uses a full‑scale replica and immersive exhibition design to manage demand for access to a UNESCO‑listed decorated cave.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://en.grottechauvet2ardeche.com/discover-the-site/la-grotte/",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "cultural_erosion"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0044",
+    "project_name": "Altamira Museum – Neocave Replica",
+    "short_description": "Museum in Santillana del Mar featuring the Neocave, a carefully engineered replica of the original Altamira cave that lets visitors experience prehistoric paintings without impacting the fragile site.",
+    "country": "Spain",
+    "region": "Cantabria",
+    "location_notes": "Museo Nacional y Centro de Investigación de Altamira, near Santillana del Mar.",
+    "gateway_type": "heritage_gateway",
+    "project_goal": [
+      "physical_impact_replacement",
+      "educational_priming",
+      "conservation_support"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "immersive_theatre",
+      "interactive_exhibition",
+      "soundscape_experience"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "Museo Nacional y Centro de Investigación de Altamira",
+    "sustainability_context": {
+      "biodiversity_goal": "Protect the original Altamira cave’s micro‑environment and paintings by moving nearly all visits to the Neocave replica.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "The Neocave is described as an exact three‑dimensional replica based on scientific research, providing access to the cave’s art while safeguarding the original."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.cultura.gob.es/mnaltamira/en/que-hacer/exposicion-permanente/neocueva.html",
+      "https://routesandrevelations.com/altamira-cave-visit/",
+      "https://routesandrevelations.com/altamira-cave-visit/"
+    ],
+    "notes": "Widely referenced as a model for how replica caves can reconcile public access with strict conservation constraints.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://www.cultura.gob.es/mnaltamira/en/que-hacer/exposicion-permanente/neocueva.html",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "cultural_erosion"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0045",
+    "project_name": "Cosquer Méditerranée – Replica of the Cosquer Cave",
+    "short_description": "Seafront visitor attraction in Marseille that recreates the now‑threatened underwater Cosquer cave through a detailed replica and multimedia interpretation, making its prehistoric art accessible while the original site remains closed.",
+    "country": "France",
+    "region": "Provence-Alpes-Côte d’Azur",
+    "location_notes": "Villa Méditerranée building, Marseille waterfront.",
+    "gateway_type": "heritage_gateway",
+    "project_goal": [
+      "physical_impact_replacement",
+      "educational_priming",
+      "conservation_support"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "immersive_theatre",
+      "interactive_exhibition",
+      "projection_mapping"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "Région Sud with partners operating Cosquer Méditerranée",
+    "sustainability_context": {
+      "biodiversity_goal": "Reduce human pressure on the original, partially submerged Cosquer cave located in the Calanques by offering a land‑based replica.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "Communicates both the archaeological value and climate‑related threats to the original underwater cave through immersive scenography."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.bienvenueenprovence.fr/fr/sites/cosquer-mediterranee/",
+      "https://www.grottesdefrance.org/en/cave-aven-abyss/cosquer-mediterranee-en/"
+    ],
+    "notes": "Replica cave and exhibition highlight sea‑level rise and the vulnerability of submerged heritage in the Calanques.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://www.bienvenueenprovence.fr/fr/sites/cosquer-mediterranee/",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "cultural_erosion"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0046",
+    "project_name": "Museum of the Future – Immersive Futures Museum, Dubai",
+    "short_description": "Iconic museum in Dubai combining speculative futures, space travel scenarios and mixed‑reality ecosystems to immerse visitors in technology‑driven visions of tomorrow’s cities and habitats.",
+    "country": "United Arab Emirates",
+    "region": "Dubai",
+    "location_notes": "Sheikh Zayed Road, adjacent to Emirates Towers in central Dubai.",
+    "gateway_type": "urban_icon_gateway",
+    "project_goal": [
+      "educational_priming",
+      "behaviour_change",
+      "arrival_expectation_setting"
+    ],
+    "methods_used": [
+      "behavioural_narrative_priming",
+      "spatial_storytelling_navigation"
+    ],
+    "media_format": [
+      "interactive_exhibition",
+      "projection_mapping",
+      "interactive_installation",
+      "spatial_audio_environment"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "Dubai Future Foundation",
+    "sustainability_context": {
+      "biodiversity_goal": "Highlight biodiversity loss and ecological futures through experiences such as the HEAL Institute and Vault of Life.",
+      "emissions_goal": "Encourage future‑oriented, low‑carbon innovation in mobility, energy and urban systems.",
+      "standards_certifications": [],
+      "notes": "The museum features immersive space‑station simulations, mixed‑reality rainforests and AI‑driven exhibitions such as Earth Dreams."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://museumofthefuture.ae/en/experience",
+      "https://lifeatdubai.com/top-experiences-museum-of-the-future/",
+      "https://all.accor.com/a/en/limitless/thematics/art-culture/museum-of-the-future-dubai.html",
+      "https://bmevents.ae/earth-dreams-dubais-museum-of-the-future-unveils-ai-driven-immersive-exhibition/"
+    ],
+    "notes": "Widely covered as a leading immersive museum focused on technology, sustainability and speculative futures.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://museumofthefuture.ae/en/experience",
+    "intervention_archetype": [
+      "behaviour_priming_gateway",
+      "emotional_peak_gateway"
+    ],
+    "problem_fit": [
+      "governance_lag",
+      "ecosystem_stress"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0047",
+    "project_name": "Infinity des Lumières – Immersive Digital Art Centre, Dubai Mall",
+    "short_description": "Large‑scale digital art venue in Dubai Mall that uses floor‑to‑ceiling projections and soundscapes to immerse visitors in works by Van Gogh, Japanese printmakers and cosmic visuals.",
+    "country": "United Arab Emirates",
+    "region": "Dubai",
+    "location_notes": "Level 2, Dubai Mall, Downtown Dubai.",
+    "gateway_type": "urban_icon_gateway",
+    "project_goal": [
+      "arrival_expectation_setting",
+      "educational_priming"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "emotional_peak_relocation"
+    ],
+    "media_format": [
+      "projection_mapping",
+      "spatial_audio_environment",
+      "interactive_installation"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "Infinity des Lumières",
+    "sustainability_context": {
+      "biodiversity_goal": "",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "Transforms a conventional mall visit into an immersive cultural experience using 130 projectors, 58 speakers and thousands of HD moving images."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://dubaiculture.ae/en/events/Infinity-des-Lumieres",
+      "https://citytourdubai.ae/infinity-des-lumieres-dubai/",
+      "https://dubaidiscoverer.com/attractions/infinity-des-lumieres",
+      "https://www.dubai-travelguide.info/infinity-des-lumieres-digital-art-exhibition/"
+    ],
+    "notes": "Acts as a cultural anchor inside a major retail complex, drawing visitors into an immersive art experience that can complement or partially substitute other entertainment trips in the city.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://dubaiculture.ae/en/events/Infinity-des-Lumieres",
+    "intervention_archetype": [
+      "emotional_peak_gateway"
+    ],
+    "problem_fit": [
+      "infrastructure_overload"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0048",
+    "project_name": "National Museum of Qatar – Immersive Galleries and NMoQ Metaverse",
+    "short_description": "National museum in Doha combining immersive physical galleries with a newly launched metaverse pilot that lets global audiences explore digital twins of key exhibitions on Qatari heritage.",
+    "country": "Qatar",
+    "region": "Doha",
+    "location_notes": "Corniche area, Doha; desert‑rose‑inspired building incorporating the restored historic Palace of Sheikh Abdullah bin Jassim Al Thani.",
+    "gateway_type": "urban_heritage_gateway",
+    "project_goal": [
+      "educational_priming",
+      "behaviour_change",
+      "physical_impact_replacement"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "spatial_storytelling_navigation",
+      "content_driven_routing"
+    ],
+    "media_format": [
+      "interactive_exhibition",
+      "projection_mapping",
+      "digital_twin_simulation"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "Qatar Museums – National Museum of Qatar",
+    "sustainability_context": {
+      "biodiversity_goal": "Communicate the relationship between desert, sea and human settlement in Qatar, including adaptation to harsh environments.",
+      "emissions_goal": "Use the metaverse pilot to expand global access without requiring long‑haul travel.",
+      "standards_certifications": [],
+      "notes": "The museum combines immersive galleries on the beginnings of Qatar, life in the desert and nation‑building with a metaverse pilot offering interactive 3D gallery twins."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://museumsandheritage.com/advisor/posts/national-museum-qatar-jean-nouvel-designed-desert-rose-spings-life/",
+      "https://flyallover.com/destinaion-details/national-museum-of-qatar-qatar",
+      "https://qm.org.qa/en/stories/all-stories/the-nmoq-metaverse-exploring-qatari-heritage-around-the-globe/",
+      "https://marhaba.qa/qatar-museums-and-the-nmoq-launch-nmoq-metaverse-pilot-project/"
+    ],
+    "notes": "Recent metaverse pilot extends the museum’s immersive storytelling into a digital environment accessible via browsers and VR devices.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://qm.org.qa/en/stories/all-stories/the-nmoq-metaverse-exploring-qatari-heritage-around-the-globe/",
+    "intervention_archetype": [
+      "intro_context_gateway",
+      "immersive_substitution_hub"
+    ],
+    "problem_fit": [
+      "cultural_erosion",
+      "governance_lag"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0049",
+    "project_name": "House of Music Hungary – Immersive Music History Experience",
+    "short_description": "Cultural venue in Budapest’s City Park with a large interactive permanent exhibition that uses soundscapes and media to trace 2,000 years of European and Hungarian music history.",
+    "country": "Hungary",
+    "region": "Budapest",
+    "location_notes": "City Park (Városliget), Budapest; part of the Liget Budapest cultural development.",
+    "gateway_type": "urban_heritage_gateway",
+    "project_goal": [
+      "educational_priming",
+      "arrival_expectation_setting"
+    ],
+    "methods_used": [
+      "spatial_storytelling_navigation",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "interactive_exhibition",
+      "soundscape_experience",
+      "AV_show"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "House of Music Hungary / Liget Budapest Project",
+    "sustainability_context": {
+      "biodiversity_goal": "",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "The permanent exhibition is described as an immersive, headset‑based journey through music history, reinforcing Budapest’s image as a music city."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.budapestinfo.hu/en/the-house-of-music-hungary",
+      "https://ligetbudapest.hu/en/the-project/house-of-hungarian-music",
+      "https://zenehaza.hu/en/house-of-music-hungary"
+    ],
+    "notes": "Award‑winning building and exhibition that uses interactive media and personalised audio to explore music’s role in culture.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://www.budapestinfo.hu/en/the-house-of-music-hungary",
+    "intervention_archetype": [
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "cultural_erosion"
+    ]
   }
 ]
