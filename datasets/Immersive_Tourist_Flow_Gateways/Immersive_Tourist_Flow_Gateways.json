@@ -2181,197 +2181,489 @@
       "cultural_erosion"
     ]
   },
-   {
+  {
     "schema_version": "1.0.0",
     "project_id": "ITFG_0030",
-    "project_name": "Aurora Reykjavík – The Northern Lights Center",
-    "short_description": "Indoor Northern Lights center in Reykjavík’s Grandi harbour district, combining interactive exhibits, HD time-lapse film and VR to explain the Aurora Borealis and prepare visitors for northern lights trips across Iceland.",
-    "country": "Iceland",
-    "region": "Capital Region",
-    "location_notes": "Indoor museum in Reykjavík’s Grandi harbour area, used by many northern lights tour operators as a starting point to learn about the aurora before heading into the countryside.",
-    "gateway_type": "ecological_gateway",
+    "project_name": "Brú na Bóinne Visitor Centre (Newgrange and Knowth)",
+    "short_description": "Visitor centre for the Brú na Bóinne World Heritage Site that concentrates arrivals, explains the Neolithic landscape and controls access to the Newgrange and Knowth passage tombs via shuttle buses and guided tours.",
+    "country": "Ireland",
+    "region": "County Meath",
+    "location_notes": "Purpose-built visitor centre for the Brú na Bóinne World Heritage Site; starting point for all visits to Newgrange and Knowth, with access only via shuttle buses and guided tours.",
+    "gateway_type": "visitor_centre",
     "project_goal": [
+      "flow_redirection",
       "educational_priming",
-      "behaviour_change",
-      "physical_impact_replacement",
       "arrival_expectation_setting"
     ],
     "methods_used": [
       "immersive_substitution",
-      "spatial_storytelling_navigation",
-      "behavioural_narrative_priming"
+      "behavioural_narrative_priming",
+      "spatial_storytelling_navigation"
     ],
     "media_format": [
-      "virtual_reality",
       "interactive_installation",
-      "other"
+      "360_degree_projection"
     ],
     "implementation_stage": "operating",
     "year_opened_or_announced": null,
-    "producer_operating_entity": "Aurora Reykjavík – The Northern Lights Center",
-    "director_lead_creator": "",
-    "creative_studio": "",
-    "technical_partners": [],
-    "budget_currency": "",
-    "budget_amount_estimate": null,
-    "visitor_capacity_per_hour": null,
-    "annual_visitors_estimate": null,
-    "duration_min": null,
+    "producer_operating_entity": "Office of Public Works (OPW), Ireland",
     "sustainability_context": {
-      "primary_issues_addressed": [
-        "ecosystem_stress",
-        "infrastructure_overload",
-        "visitor_safety_risk"
-      ],
-      "sensitivity_level": "medium",
-      "site_designations": [],
-      "heritage_status": [],
-      "protected_area_category": "",
-      "key_species_or_features": [
-        "Aurora Borealis / Northern Lights",
-        "dark-sky conditions in rural Iceland"
-      ],
-      "local_community_relation": "Privately run attraction in Reykjavík working closely with northern lights tour operators and destination partners to set expectations before outdoor aurora hunts.",
-      "notes": "Functions as a low-impact indoor substitute and primer for high-demand aurora tourism trips across Iceland."
+      "biodiversity_goal": "Reduce pressure on the fragile passage tombs by concentrating visitors in a controlled centre and framing visits through guided, timed access.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": ""
     },
     "measurable_effects": {
-      "baseline_year": null,
-      "latest_year": null,
-      "visitor_volume_change_percent": null,
-      "peak_load_change_percent": null,
-      "emissions_change_percent": null,
-      "other_tracked_indicators": [],
-      "notes": ""
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
     },
     "measurement_methods_used": [],
     "effectiveness_studies_available": false,
     "effectiveness_studies_refs": [],
     "reference_urls": [
-      "https://aurorareykjavik.is/",
-      "https://visitreykjavik.is/service/aurora-reykjavik-northern-lights-center",
-      "https://elding.is/aurora-reykjavik-exhibition",
-      "https://reykjavikout.is/tours/aurora-reykjavik/",
-      "https://icelandtravelguide.is/tours/aurora-reykjavik/"
+      "https://heritageireland.ie/places-to-visit/bru-na-boinne-visitor-centre-newgrange-knowth-and-dowth/",
+      "https://eirex.ie/attraction/bru-na-boinne-visitor-centre-newgrange-and-knowth/",
+      "https://www.gov.ie/en/office-of-public-works/press-releases/br%C3%BA-na-boinne-visitor-centre-recognised-for-architectural-excellence-in-deep-surfaces-exhibition-in-venice-italy/"
     ],
     "notes": "",
-    "date_added": "2025-11-20T00:00:00Z",
-    "date_last_verified": "2025-11-20T00:00:00Z",
-    "source_last_checked": "2025-11-20T00:00:00Z",
-    "commissioning_authority": "",
-    "commissioning_authority_manager": "",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://heritageireland.ie/places-to-visit/bru-na-boinne-visitor-centre-newgrange-knowth-and-dowth/",
     "intervention_archetype": [
-      "intro_context_gateway",
       "immersive_substitution_hub",
+      "logistics_flow_hub",
       "emotional_peak_gateway"
     ],
     "problem_fit": [
       "ecosystem_stress",
+      "biodiversity_loss",
       "infrastructure_overload",
-      "visitor_safety_risk"
+      "cultural_erosion"
     ]
   },
   {
     "schema_version": "1.0.0",
     "project_id": "ITFG_0031",
-    "project_name": "The Sill – National Landscape Discovery Centre",
-    "short_description": "Landscape discovery centre at Hadrian’s Wall serving as the key gateway to Northumberland National Park, with interactive landscape exhibition, AR sandbox and rooftop viewpoints that prime visitors for low-impact exploration.",
+    "project_name": "Visitor Centre, Centennial Hall (Hala Stulecia)",
+    "short_description": "Interactive multimedia visitor centre that uses exhibits, film, sound and VR tours to introduce visitors to the history and architecture of Centennial Hall before they explore the UNESCO-listed complex.",
+    "country": "Poland",
+    "region": "Lower Silesia",
+    "location_notes": "Visitor centre at the Centennial Hall complex in Wrocław, acting as a tourist gateway to the monument and its surroundings.",
+    "gateway_type": "urban_gateway",
+    "project_goal": [
+      "flow_redirection",
+      "educational_priming"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "spatial_storytelling_navigation"
+    ],
+    "media_format": [
+      "interactive_installation",
+      "virtual_reality"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "Centennial Hall (Hala Stulecia) management",
+    "sustainability_context": {
+      "biodiversity_goal": "",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "Supports controlled exploration of a UNESCO World Heritage urban monument through mediated experiences."
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://halastulecia.pl/en/sightseeing/visitor-centre/",
+      "https://artsandculture.google.com/story/GAWhbF3rj8ackg"
+    ],
+    "notes": "",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://halastulecia.pl/en/sightseeing/visitor-centre/",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "infrastructure_overload",
+      "cultural_erosion"
+    ]
+  },
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0032",
+    "project_name": "WWF Living Planet Centre (WWF Experience)",
+    "short_description": "Highly sustainable visitor centre with the WWF Experience: four immersive zones that introduce visitors to forests, rivers, oceans and wildlife while linking WWF’s campaigns to everyday behaviour and travel choices.",
+    "country": "United Kingdom",
+    "region": "Surrey",
+    "location_notes": "WWF-UK headquarters and public visitor centre in Woking, designed as a showcase green building with immersive education zones.",
+    "gateway_type": "visitor_centre",
+    "project_goal": [
+      "behaviour_change",
+      "educational_priming"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "interactive_installation"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "WWF-UK",
+    "sustainability_context": {
+      "biodiversity_goal": "Connect visitors emotionally to global ecosystems and endangered species, motivating long-term support and behaviour change.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": ""
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.wwf.org.uk/get-involved/living-planet-centre",
+      "https://www.wwf.org.uk/get-involved/living-planet-centre/the-wwf-experience"
+    ],
+    "notes": "",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://www.wwf.org.uk/get-involved/living-planet-centre/the-wwf-experience",
+    "intervention_archetype": [
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "plastic_pollution",
+      "water_stress",
+      "ngo_pressure"
+    ]
+  },
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0033",
+    "project_name": "The Sill: National Landscape Discovery Centre (Hadrian’s Wall)",
+    "short_description": "Landscape discovery centre that introduces visitors to the ecology, geology and culture of the Northumberland National Park and Hadrian’s Wall corridor, acting as a hub for low-impact walks and routes.",
     "country": "United Kingdom",
     "region": "Northumberland",
-    "location_notes": "Once Brewed/Bardon Mill area on Hadrian’s Wall, positioned as the ‘go-to’ starting point for Northumberland National Park and Hadrian’s Wall World Heritage Site.",
+    "location_notes": "Gateway hub near Hadrian’s Wall, combining exhibitions, rooftop viewpoints and visitor information for the surrounding protected landscape.",
     "gateway_type": "ecological_gateway",
     "project_goal": [
+      "flow_redirection",
       "educational_priming",
-      "conservation_support",
-      "arrival_expectation_setting",
-      "flow_redirection"
+      "arrival_expectation_setting"
     ],
     "methods_used": [
       "spatial_storytelling_navigation",
-      "behavioural_narrative_priming",
-      "gateway_sequencing"
+      "content_driven_routing"
     ],
     "media_format": [
-      "augmented_reality",
-      "interactive_installation",
-      "other"
+      "interactive_installation"
     ],
     "implementation_stage": "operating",
-    "year_opened_or_announced": 2017,
+    "year_opened_or_announced": null,
     "producer_operating_entity": "Northumberland National Park Authority",
-    "director_lead_creator": "",
-    "creative_studio": "",
-    "technical_partners": [],
-    "budget_currency": "",
-    "budget_amount_estimate": null,
-    "visitor_capacity_per_hour": null,
-    "annual_visitors_estimate": null,
-    "duration_min": null,
     "sustainability_context": {
-      "primary_issues_addressed": [
-        "ecosystem_stress",
-        "visitor_management",
-        "conservation_awareness"
-      ],
-      "sensitivity_level": "high",
-      "site_designations": [
-        "Northumberland National Park",
-        "Hadrian’s Wall World Heritage Site (gateway role)"
-      ],
-      "heritage_status": [
-        "Gateway to Hadrian’s Wall UNESCO World Heritage Site"
-      ],
-      "protected_area_category": "",
-      "key_species_or_features": [
-        "upland moorland and peat landscapes",
-        "Hadrian’s Wall cultural landscape"
-      ],
-      "local_community_relation": "Regional hub connecting visitors, local businesses and communities, with programmes encouraging exploration of the wider rural region.",
-      "notes": "Positioned explicitly as the starting point for family trips, hikes along Hadrian’s Wall and learning about Northumberland’s landscape and culture."
+      "biodiversity_goal": "Encourage visitors to explore the wider landscape via marked trails and sustainable routes, reducing pressure on the most fragile sections of Hadrian’s Wall.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": ""
     },
     "measurable_effects": {
-      "baseline_year": null,
-      "latest_year": null,
-      "visitor_volume_change_percent": null,
-      "peak_load_change_percent": null,
-      "emissions_change_percent": null,
-      "other_tracked_indicators": [],
-      "notes": ""
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
     },
     "measurement_methods_used": [],
     "effectiveness_studies_available": false,
     "effectiveness_studies_refs": [],
     "reference_urls": [
       "https://www.thesill.org.uk/",
-      "https://www.northumberlandnationalpark.org.uk/discover-explore/places-to-visit/hadrians-wall/the-sill/",
-      "https://hadrianswallcountry.co.uk/attraction/the-sill-national-landscape-discovery-centre/",
-      "https://www.visitnorthumberland.com/explore/things-to-do/attractions/sightseeing-leisure/the-sill",
-      "https://familyexplorers.org.uk/brilliant-places/the-sill-national-landscape-discovery-centre"
+      "https://www.northumberlandnationalpark.org.uk/places-to-visit/the-sill/"
     ],
     "notes": "",
-    "date_added": "2025-11-20T00:00:00Z",
-    "date_last_verified": "2025-11-20T00:00:00Z",
-    "source_last_checked": "2025-11-20T00:00:00Z",
-    "commissioning_authority": "Northumberland National Park Authority",
-    "commissioning_authority_manager": "",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://www.thesill.org.uk/",
     "intervention_archetype": [
       "intro_context_gateway",
-      "behaviour_priming_gateway"
+      "logistics_flow_hub"
     ],
     "problem_fit": [
       "ecosystem_stress",
-      "infrastructure_overload",
-      "governance_lag"
+      "biodiversity_loss",
+      "infrastructure_overload"
     ]
   },
   {
     "schema_version": "1.0.0",
-    "project_id": "ITFG_0032",
-    "project_name": "First Light Pavilion – Jodrell Bank Discovery Centre",
-    "short_description": "Immersive visitor pavilion at Jodrell Bank Observatory with a Space Dome planetarium and interactive exhibition that tells the story of radio astronomy at this UNESCO World Heritage Site.",
+    "project_id": "ITFG_0034",
+    "project_name": "Lodgepole Visitor Center, Sequoia National Park",
+    "short_description": "Visitor centre for Sequoia National Park that interprets giant sequoia ecology, high-mountain landscapes and backcountry safety while acting as a hub for trails and shuttle connections.",
+    "country": "United States",
+    "region": "California",
+    "location_notes": "Lodgepole area of Sequoia National Park; main visitor centre and information hub for nearby groves and trails.",
+    "gateway_type": "ecological_gateway",
+    "project_goal": [
+      "flow_redirection",
+      "educational_priming",
+      "arrival_expectation_setting"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "spatial_storytelling_navigation"
+    ],
+    "media_format": [
+      "interactive_installation",
+      "spatial_audio_environment"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "U.S. National Park Service",
+    "sustainability_context": {
+      "biodiversity_goal": "Help visitors understand the sensitivity of giant sequoia groves and alpine ecosystems before entering them.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": ""
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.nps.gov/thingstodo/visit-lodgepole-visitor-center.htm",
+      "https://www.healykohler.com/project/lodgepole-visitor-center/"
+    ],
+    "notes": "",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://www.nps.gov/thingstodo/visit-lodgepole-visitor-center.htm",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss"
+    ]
+  },
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0035",
+    "project_name": "Kents Cavern – Gateway Visitor Centre for the English Riviera UNESCO Global Geopark",
+    "short_description": "Prehistoric cave attraction and visitor centre that combines guided underground tours with exhibitions and education programmes, functioning as an underground gateway to the English Riviera Global Geopark.",
     "country": "United Kingdom",
-    "region": "Cheshire",
-    "location_notes": "Within Jodrell Bank Observatory near Macclesfield, integrated into the Jodrell Bank Discovery Centre campus.",
-    "gateway_type": "heritage_gateway",
+    "region": "Devon",
+    "location_notes": "Show cave and visitor centre in Torquay, recognised as a gateway visitor centre for the English Riviera UNESCO Global Geopark.",
+    "gateway_type": "ecological_gateway",
+    "project_goal": [
+      "flow_redirection",
+      "educational_priming"
+    ],
+    "methods_used": [
+      "spatial_storytelling_navigation"
+    ],
+    "media_format": [
+      "interactive_installation",
+      "other"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "Kents Cavern / English Riviera UNESCO Global Geopark partners",
+    "sustainability_context": {
+      "biodiversity_goal": "Support careful use of cave environments and promote understanding of the wider geopark landscape.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": ""
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.englishrivierageopark.org.uk/section_main.cfm?section=14",
+      "https://www.kents-cavern.co.uk/plan-your-visit"
+    ],
+    "notes": "",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://www.englishrivierageopark.org.uk/section_main.cfm?section=14",
+    "intervention_archetype": [
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "infrastructure_overload",
+      "cultural_erosion"
+    ]
+  },
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0036",
+    "project_name": "World Nature Forum (WNF Visitor Centre, Swiss Alps Jungfrau-Aletsch)",
+    "short_description": "World Nature Forum visitor centre with panorama cinema, interactive stations and models that explain the Jungfrau–Aletsch World Heritage landscape and climate change before visitors head into the high-alpine area.",
+    "country": "Switzerland",
+    "region": "Valais",
+    "location_notes": "Experience museum and visitor centre in Naters serving as the base camp for the Swiss Alps Jungfrau–Aletsch UNESCO World Heritage Site.",
+    "gateway_type": "ecological_gateway",
+    "project_goal": [
+      "educational_priming",
+      "behaviour_change"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "360_degree_projection",
+      "interactive_installation"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "UNESCO World Heritage Swiss Alps Jungfrau–Aletsch management",
+    "sustainability_context": {
+      "biodiversity_goal": "Raise awareness of fragile high-alpine ecosystems and climate impacts, and steer visitors towards respectful behaviour in the world heritage area.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": ""
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://wnf.ch/en/home-en/",
+      "https://www.myswitzerland.com/en-gb/experiences/world-nature-forum/"
+    ],
+    "notes": "",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://wnf.ch/en/home-en/",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "infrastructure_overload"
+    ]
+  },
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0037",
+    "project_name": "Malaga Oceanographic Visitor Centre (former Aula del Mar)",
+    "short_description": "Planned oceanographic museum and visitor hub with immersive undersea imagery and VR experiences focused on Mediterranean marine biodiversity and sustainable coastal tourism.",
+    "country": "Spain",
+    "region": "Andalusia",
+    "location_notes": "Planned oceanographic visitor centre on Malaga’s waterfront, reusing the former Aula del Mar site.",
+    "gateway_type": "ecological_gateway",
+    "project_goal": [
+      "educational_priming",
+      "behaviour_change"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "virtual_reality",
+      "interactive_installation"
+    ],
+    "implementation_stage": "planned",
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "Local authorities and partners in Malaga",
+    "sustainability_context": {
+      "biodiversity_goal": "Encourage better understanding of Mediterranean marine ecosystems and reduce pressure on vulnerable coastal and marine areas.",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": ""
+    },
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.experienceuk.org/blog/malaga-set-to-open-a-futuristic-oceanographic-visitor-centre"
+    ],
+    "notes": "",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://www.experienceuk.org/blog/malaga-set-to-open-a-futuristic-oceanographic-visitor-centre",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "plastic_pollution",
+      "water_stress",
+      "infrastructure_overload"
+    ]
+  },
+  {
+    "schema_version": "1.0.0",
+    "project_id": "ITFG_0038",
+    "project_name": "New Lanark Visitor Centre and New Lanark Experience",
+    "short_description": "Visitor centre and New Lanark Experience combining immersive exhibits, the Annie McLeod ride and galleries to tell the story of the industrial village before visitors explore the wider site and Falls of Clyde.",
+    "country": "United Kingdom",
+    "region": "South Lanarkshire",
+    "location_notes": "Visitor centre and attraction within the New Lanark UNESCO World Heritage mill village on the River Clyde.",
+    "gateway_type": "urban_gateway",
     "project_goal": [
       "educational_priming",
       "arrival_expectation_setting"
@@ -2381,712 +2673,103 @@
       "spatial_storytelling_navigation"
     ],
     "media_format": [
-      "fulldome",
-      "360_degree_projection",
-      "spatial_audio_environment",
-      "interactive_installation"
-    ],
-    "implementation_stage": "operating",
-    "year_opened_or_announced": 2022,
-    "producer_operating_entity": "Jodrell Bank Centre for Engagement, University of Manchester",
-    "director_lead_creator": "",
-    "creative_studio": "Casson Mann (permanent exhibition design)",
-    "technical_partners": [],
-    "budget_currency": "GBP",
-    "budget_amount_estimate": null,
-    "visitor_capacity_per_hour": null,
-    "annual_visitors_estimate": null,
-    "duration_min": null,
-    "sustainability_context": {
-      "primary_issues_addressed": [
-        "conservation_awareness",
-        "science_literacy",
-        "visitor_management"
-      ],
-      "sensitivity_level": "medium",
-      "site_designations": [
-        "Jodrell Bank Observatory UNESCO World Heritage Site"
-      ],
-      "heritage_status": [
-        "UNESCO World Heritage Site"
-      ],
-      "protected_area_category": "",
-      "key_species_or_features": [
-        "Lovell Telescope and associated radio astronomy infrastructure",
-        "dark-sky and radio-quiet conditions"
-      ],
-      "local_community_relation": "National visitor attraction balancing public access, education and protection of a working scientific observatory.",
-      "notes": "Space Dome and exhibition relocate key emotional peaks of stargazing and space exploration into a controlled immersive environment, reducing pressure on night-time observing infrastructure."
-    },
-    "measurable_effects": {
-      "baseline_year": null,
-      "latest_year": null,
-      "visitor_volume_change_percent": null,
-      "peak_load_change_percent": null,
-      "emissions_change_percent": null,
-      "other_tracked_indicators": [],
-      "notes": ""
-    },
-    "measurement_methods_used": [],
-    "effectiveness_studies_available": false,
-    "effectiveness_studies_refs": [],
-    "reference_urls": [
-      "https://www.jodrellbank.net/visit/whatshere/first-light-pavilion/",
-      "https://www.jodrellbank.net/",
-      "https://segd.org/projects/first-light-pavilion/",
-      "https://www.heritagefund.org.uk/news/out-world-jodrell-bank-first-light-pavilion-set-open",
-      "https://www.visitcheshire.com/directory/jodrell-bank"
-    ],
-    "notes": "",
-    "date_added": "2025-11-20T00:00:00Z",
-    "date_last_verified": "2025-11-20T00:00:00Z",
-    "source_last_checked": "2025-11-20T00:00:00Z",
-    "commissioning_authority": "University of Manchester / Jodrell Bank",
-    "commissioning_authority_manager": "",
-    "intervention_archetype": [
-      "intro_context_gateway",
-      "emotional_peak_gateway"
-    ],
-    "problem_fit": [
-      "conservation_awareness",
-      "governance_lag"
-    ]
-  },
-  {
-    "schema_version": "1.0.0",
-    "project_id": "ITFG_0033",
-    "project_name": "Kirkcudbright Dark Space Planetarium",
-    "short_description": "Dark-sky themed visitor centre and planetarium in Kirkcudbright with over 25 interactive exhibits and a 360° dome, acting as an accessible gateway to the Galloway Dark Sky Park and wider UNESCO Biosphere region.",
-    "country": "United Kingdom",
-    "region": "Dumfries and Galloway",
-    "location_notes": "Located in the renovated Johnston School building in Kirkcudbright, linked to the Galloway Dark Sky Park and the Galloway & Southern Ayrshire UNESCO Biosphere.",
-    "gateway_type": "ecological_gateway",
-    "project_goal": [
-      "educational_priming",
-      "arrival_expectation_setting",
-      "conservation_support"
-    ],
-    "methods_used": [
-      "immersive_substitution",
-      "spatial_storytelling_navigation",
-      "behavioural_narrative_priming"
-    ],
-    "media_format": [
-      "fulldome",
-      "360_degree_projection",
       "interactive_installation",
-      "spatial_audio_environment"
+      "other"
     ],
     "implementation_stage": "operating",
-    "year_opened_or_announced": 2021,
-    "producer_operating_entity": "Kirkcudbright Development Trust",
-    "director_lead_creator": "",
-    "creative_studio": "",
-    "technical_partners": [],
-    "budget_currency": "GBP",
-    "budget_amount_estimate": null,
-    "visitor_capacity_per_hour": null,
-    "annual_visitors_estimate": null,
-    "duration_min": null,
+    "year_opened_or_announced": null,
+    "producer_operating_entity": "New Lanark Trust",
     "sustainability_context": {
-      "primary_issues_addressed": [
-        "light_pollution",
-        "conservation_awareness",
-        "visitor_management"
-      ],
-      "sensitivity_level": "high",
-      "site_designations": [
-        "Gateway to Galloway Dark Sky Park",
-        "Galloway & Southern Ayrshire UNESCO Biosphere (context)"
-      ],
-      "heritage_status": [],
-      "protected_area_category": "",
-      "key_species_or_features": [
-        "dark night skies",
-        "astronomy and space heritage"
-      ],
-      "local_community_relation": "Community-led regeneration project that reuses a former school building as a mixed community and visitor hub, highlighting local dark-sky resources.",
-      "notes": "Planetarium shows and exhibits allow visitors to experience dark skies and astronomy indoors, reducing pressure on sensitive dark-sky viewpoints while motivating responsible stargazing."
+      "biodiversity_goal": "",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "Supports controlled visitor flows through a compact heritage village and surrounding nature."
     },
     "measurable_effects": {
-      "baseline_year": null,
-      "latest_year": null,
-      "visitor_volume_change_percent": null,
-      "peak_load_change_percent": null,
-      "emissions_change_percent": null,
-      "other_tracked_indicators": [],
-      "notes": ""
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
     },
     "measurement_methods_used": [],
     "effectiveness_studies_available": false,
     "effectiveness_studies_refs": [],
     "reference_urls": [
-      "https://www.darkspaceplanetarium.org/",
-      "https://www.darkspaceplanetarium.org/visit/",
-      "https://www.kdt.org.uk/dark-space-planetarium/",
-      "https://gostargazing.co.uk/locations/dark-space-planetarium/",
-      "https://www.unusualprojects.uk/project/kirkcudbright-dark-space-planetarium/"
+      "https://newlanark.org/",
+      "https://newlanark.org/your-visit/what-to-see/annie-mcleod-experience/"
     ],
     "notes": "",
-    "date_added": "2025-11-20T00:00:00Z",
-    "date_last_verified": "2025-11-20T00:00:00Z",
-    "source_last_checked": "2025-11-20T00:00:00Z",
-    "commissioning_authority": "Kirkcudbright Development Trust",
-    "commissioning_authority_manager": "",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://newlanark.org/",
     "intervention_archetype": [
-      "intro_context_gateway",
       "immersive_substitution_hub",
-      "behaviour_priming_gateway"
+      "intro_context_gateway"
     ],
     "problem_fit": [
-      "light_pollution",
-      "ecosystem_stress",
-      "infrastructure_overload"
-    ]
-  },
-  {
-    "schema_version": "1.0.0",
-    "project_id": "ITFG_0034",
-    "project_name": "SOLAS Visitor Experience & Tourism Hub – Mullet Peninsula",
-    "short_description": "Immersive visitor centre and tourism hub in Eachléim with three galleries of interactive exhibits, projections and storytelling that introduce the heritage, language and maritime history of the Erris region and its offshore islands.",
-    "country": "Ireland",
-    "region": "County Mayo",
-    "location_notes": "Eachléim village on the Mullet Peninsula in North Mayo Gaeltacht, on the site of the former Ionad Deirbhile centre.",
-    "gateway_type": "heritage_gateway",
-    "project_goal": [
-      "educational_priming",
-      "arrival_expectation_setting",
-      "flow_redirection",
-      "conservation_support"
-    ],
-    "methods_used": [
-      "spatial_storytelling_navigation",
-      "behavioural_narrative_priming"
-    ],
-    "media_format": [
-      "interactive_installation",
-      "projection_mapping",
-      "spatial_audio_environment",
-      "other"
-    ],
-    "implementation_stage": "operating",
-    "year_opened_or_announced": 2024,
-    "producer_operating_entity": "SOLAS Visitor Experience and Tourism Hub (Eachléim)",
-    "director_lead_creator": "",
-    "creative_studio": "",
-    "technical_partners": [],
-    "budget_currency": "EUR",
-    "budget_amount_estimate": null,
-    "visitor_capacity_per_hour": null,
-    "annual_visitors_estimate": null,
-    "duration_min": null,
-    "sustainability_context": {
-      "primary_issues_addressed": [
-        "cultural_erosion",
-        "outmigration",
-        "visitor_management"
-      ],
-      "sensitivity_level": "medium",
-      "site_designations": [],
-      "heritage_status": [
-        "Gaeltacht cultural heritage focus"
-      ],
-      "protected_area_category": "",
-      "key_species_or_features": [
-        "Atlantic coastal landscapes",
-        "offshore islands and lighthouse heritage"
-      ],
-      "local_community_relation": "Locally anchored tourism hub showcasing language, folklore and maritime stories, designed to disperse visitors across the Erris region rather than concentrating solely on a few hotspots.",
-      "notes": "Publicly supported €4m project framed as a major tourism hub for the North Mayo Gaeltacht."
-    },
-    "measurable_effects": {
-      "baseline_year": null,
-      "latest_year": null,
-      "visitor_volume_change_percent": null,
-      "peak_load_change_percent": null,
-      "emissions_change_percent": null,
-      "other_tracked_indicators": [],
-      "notes": ""
-    },
-    "measurement_methods_used": [],
-    "effectiveness_studies_available": false,
-    "effectiveness_studies_refs": [],
-    "reference_urls": [
-      "https://visitsolas.ie/",
-      "https://www.northmayo.ie/solas-visitor-experience/",
-      "https://www.eachleim.ie/solas",
-      "https://udaras.ie/en/news/solas-stories-shaped-by-the-atlantic-official-opening-of-new-tourism-hub-and-visitor-experience-in-eachleim-co-mayo/",
-      "https://www.con-telegraph.ie/2024/03/22/new-visitor-experience-and-tourism-hub-opens-in-north-mayo-today/"
-    ],
-    "notes": "",
-    "date_added": "2025-11-20T00:00:00Z",
-    "date_last_verified": "2025-11-20T00:00:00Z",
-    "source_last_checked": "2025-11-20T00:00:00Z",
-    "commissioning_authority": "",
-    "commissioning_authority_manager": "",
-    "intervention_archetype": [
-      "intro_context_gateway",
-      "behaviour_priming_gateway"
-    ],
-    "problem_fit": [
-      "cultural_erosion",
-      "governance_lag",
-      "infrastructure_overload"
-    ]
-  },
-  {
-    "schema_version": "1.0.0",
-    "project_id": "ITFG_0035",
-    "project_name": "Balmaha National Park Centre – Loch Lomond & The Trossachs",
-    "short_description": "Visitor centre at Balmaha on the east shore of Loch Lomond with exhibitions and an audio-visual presentation on the National Park and Highland Boundary Fault, acting as a gateway for walks, water-based trips and the West Highland Way.",
-    "country": "United Kingdom",
-    "region": "Stirling / Loch Lomond & The Trossachs National Park",
-    "location_notes": "Balmaha village on the east side of Loch Lomond, at the foot of Conic Hill and on the West Highland Way.",
-    "gateway_type": "ecological_gateway",
-    "project_goal": [
-      "educational_priming",
-      "arrival_expectation_setting",
-      "flow_redirection"
-    ],
-    "methods_used": [
-      "spatial_storytelling_navigation",
-      "gateway_sequencing"
-    ],
-    "media_format": [
-      "other"
-    ],
-    "implementation_stage": "operating",
-    "year_opened_or_announced": null,
-    "producer_operating_entity": "Loch Lomond & The Trossachs National Park Authority",
-    "director_lead_creator": "",
-    "creative_studio": "",
-    "technical_partners": [],
-    "budget_currency": "GBP",
-    "budget_amount_estimate": null,
-    "visitor_capacity_per_hour": null,
-    "annual_visitors_estimate": null,
-    "duration_min": null,
-    "sustainability_context": {
-      "primary_issues_addressed": [
-        "ecosystem_stress",
-        "infrastructure_overload",
-        "visitor_safety_risk"
-      ],
-      "sensitivity_level": "high",
-      "site_designations": [
-        "Loch Lomond & The Trossachs National Park",
-        "West Highland Way (long-distance trail)"
-      ],
-      "heritage_status": [],
-      "protected_area_category": "",
-      "key_species_or_features": [
-        "Highland Boundary Fault geology",
-        "loch and woodland habitats"
-      ],
-      "local_community_relation": "Front-door information point in a highly visited village, channelling visitors towards appropriate trails, boat services and viewpoints.",
-      "notes": "Provides geology and safety information before visitors disperse onto loch, islands and hillside routes."
-    },
-    "measurable_effects": {
-      "baseline_year": null,
-      "latest_year": null,
-      "visitor_volume_change_percent": null,
-      "peak_load_change_percent": null,
-      "emissions_change_percent": null,
-      "other_tracked_indicators": [],
-      "notes": ""
-    },
-    "measurement_methods_used": [],
-    "effectiveness_studies_available": false,
-    "effectiveness_studies_refs": [],
-    "reference_urls": [
-      "https://www.visitscotland.com/info/see-do/national-park-centre-balmaha-p255101",
-      "https://www.lochlomond-trossachs.org/plan-your-visit/visitor-centres/",
-      "https://www.scottishgeologytrust.org/geology/51-best-places/balmaha-loch-lomond/",
-      "https://wanderlog.com/place/details/10990652/visitor-centre"
-    ],
-    "notes": "",
-    "date_added": "2025-11-20T00:00:00Z",
-    "date_last_verified": "2025-11-20T00:00:00Z",
-    "source_last_checked": "2025-11-20T00:00:00Z",
-    "commissioning_authority": "Loch Lomond & The Trossachs National Park Authority",
-    "commissioning_authority_manager": "",
-    "intervention_archetype": [
-      "intro_context_gateway",
-      "behaviour_priming_gateway"
-    ],
-    "problem_fit": [
-      "ecosystem_stress",
       "infrastructure_overload",
-      "visitor_safety_risk"
-    ]
-  },
-  {
-    "schema_version": "1.0.0",
-    "project_id": "ITFG_0036",
-    "project_name": "UNESCO Geopark Muskauer Faltenbogen – Immersive Visitor Centre (planned)",
-    "short_description": "Planned immersive edutainment visitor centre for the transboundary UNESCO Global Geopark Muskauer Faltenbogen, with interactive stations and immersive experiences that bring the region’s geology and industrial history to life.",
-    "country": "Germany / Poland",
-    "region": "Lusatia / Łuk Mużakowa region",
-    "location_notes": "At the German-Polish UNESCO Global Geopark Muskauer Faltenbogen / Łuk Mużakowa, centred around Bad Muskau and the Neisse valley.",
-    "gateway_type": "ecological_gateway",
-    "project_goal": [
-      "educational_priming",
-      "conservation_support",
-      "arrival_expectation_setting",
-      "flow_redirection"
-    ],
-    "methods_used": [
-      "immersive_substitution",
-      "spatial_storytelling_navigation",
-      "behavioural_narrative_priming"
-    ],
-    "media_format": [
-      "interactive_installation",
-      "projection_mapping",
-      "other"
-    ],
-    "implementation_stage": "planned",
-    "year_opened_or_announced": 2028,
-    "producer_operating_entity": "Fürst-Pückler-Park Bad Muskau Foundation (planned operator)",
-    "director_lead_creator": "",
-    "creative_studio": "Sarner International (planning and design)",
-    "technical_partners": [],
-    "budget_currency": "EUR",
-    "budget_amount_estimate": null,
-    "visitor_capacity_per_hour": null,
-    "annual_visitors_estimate": null,
-    "duration_min": null,
-    "sustainability_context": {
-      "primary_issues_addressed": [
-        "ecosystem_stress",
-        "post-mining_landscape_restoration",
-        "conservation_awareness",
-        "visitor_management"
-      ],
-      "sensitivity_level": "high",
-      "site_designations": [
-        "UNESCO Global Geopark Muskauer Faltenbogen / Łuk Mużakowa"
-      ],
-      "heritage_status": [
-        "UNESCO Global Geopark"
-      ],
-      "protected_area_category": "",
-      "key_species_or_features": [
-        "push-moraine landscape",
-        "post-mining lakes and landforms"
-      ],
-      "local_community_relation": "Aims to integrate geological, cultural and industrial narratives into a cross-border visitor hub that supports sustainable tourism in former mining areas.",
-      "notes": "Concept explicitly described as a modern immersive visitor centre with interactive edutainment, due to open in 2028."
-    },
-    "measurable_effects": {
-      "baseline_year": null,
-      "latest_year": null,
-      "visitor_volume_change_percent": null,
-      "peak_load_change_percent": null,
-      "emissions_change_percent": null,
-      "other_tracked_indicators": [],
-      "notes": "Project still in planning; no quantitative impact yet."
-    },
-    "measurement_methods_used": [],
-    "effectiveness_studies_available": false,
-    "effectiveness_studies_refs": [],
-    "reference_urls": [
-      "https://sarner.com/news/sarner-appointed-for-planning-and-design-of-immersive-visitor-centre-at-unesco-geopark-muskauer-faltenbogen",
-      "https://blooloop.com/museum/news/sarner-international-unesco-geopark-muskauer-faltenbogen/",
-      "https://www.eap-magazin.de/Article/New-Visitor-Centre-Planned-for-UNESCO-Geopark-Muskau-Arch.html",
-      "https://www.unesco.org/en/iggp/muskauer-faltenbogen/luk-muzakowa-unesco-global-geopark",
-      "https://www.muskau-arch.eu/"
-    ],
-    "notes": "",
-    "date_added": "2025-11-20T00:00:00Z",
-    "date_last_verified": "2025-11-20T00:00:00Z",
-    "source_last_checked": "2025-11-20T00:00:00Z",
-    "commissioning_authority": "Fürst-Pückler-Park Bad Muskau Foundation",
-    "commissioning_authority_manager": "",
-    "intervention_archetype": [
-      "intro_context_gateway",
-      "behaviour_priming_gateway",
-      "immersive_substitution_hub"
-    ],
-    "problem_fit": [
-      "ecosystem_stress",
-      "post_mining_legacy",
-      "governance_lag"
-    ]
-  },
-  {
-    "schema_version": "1.0.0",
-    "project_id": "ITFG_0037",
-    "project_name": "The Future is Wild @ The Hillocks – Glenorchy",
-    "short_description": "Regenerative eco-tourism project near Glenorchy combining a visitor centre, landscape trail and a sequence of VR ‘viewing hides’ that immerse groups in Aotearoa’s ecological past and possible futures while linking awe to hands-on restoration actions.",
-    "country": "New Zealand",
-    "region": "Otago / Glenorchy region",
-    "location_notes": "At ‘The Hillocks’, a cluster of conical hills near Glenorchy; proposal includes a visitor centre as launchpad and a guided outdoor VR trail.",
-    "gateway_type": "ecological_gateway",
-    "project_goal": [
-      "behaviour_change",
-      "conservation_support",
-      "educational_priming",
-      "emotional_peak_relocation"
-    ],
-    "methods_used": [
-      "immersive_substitution",
-      "emotional_peak_relocation",
-      "content_driven_routing",
-      "spatial_storytelling_navigation",
-      "behavioural_narrative_priming",
-      "gateway_sequencing"
-    ],
-    "media_format": [
-      "virtual_reality",
-      "spatial_audio_environment",
-      "interactive_installation",
-      "other"
-    ],
-    "implementation_stage": "planned",
-    "year_opened_or_announced": null,
-    "producer_operating_entity": "The Future is Wild @ The Hillocks project partnership (WildLab and collaborators)",
-    "director_lead_creator": "",
-    "creative_studio": "WildLab (experience design)",
-    "technical_partners": [],
-    "budget_currency": "NZD",
-    "budget_amount_estimate": null,
-    "visitor_capacity_per_hour": null,
-    "annual_visitors_estimate": null,
-    "duration_min": null,
-    "sustainability_context": {
-      "primary_issues_addressed": [
-        "ecosystem_restoration",
-        "visitor_education",
-        "behaviour_change_towards_regeneration"
-      ],
-      "sensitivity_level": "high",
-      "site_designations": [],
-      "heritage_status": [],
-      "protected_area_category": "",
-      "key_species_or_features": [
-        "indigenous forest regeneration",
-        "past and future Aotearoa ecosystems"
-      ],
-      "local_community_relation": "Designed as a flagship eco-tourism and regeneration project for the Glenorchy area, linking visitor flows to landscape restoration.",
-      "notes": "Experience flow explicitly described as an ‘Immersive Gateway & VR Entry’, with visitor centre as launchpad followed by a sequenced outdoor/VR trail."
-    },
-    "measurable_effects": {
-      "baseline_year": null,
-      "latest_year": null,
-      "visitor_volume_change_percent": null,
-      "peak_load_change_percent": null,
-      "emissions_change_percent": null,
-      "other_tracked_indicators": [],
-      "notes": "Still in planning/resource consent phase; no realised impact yet."
-    },
-    "measurement_methods_used": [],
-    "effectiveness_studies_available": false,
-    "effectiveness_studies_refs": [],
-    "reference_urls": [
-      "https://wildlab.org.nz/projects/the-hillocks",
-      "https://www.fiw.co.nz/vr-platform",
-      "https://www.odt.co.nz/regions/queenstown/hillocks-are-alive-thanks-game-changing-attraction",
-      "https://www.glenorchycommunity.nz/news/community/show/737/qldc-rm-230980/",
-      "https://blog.gettransfer.com/uk/news/glenorchy-eco-tourism-attraction/"
-    ],
-    "notes": "",
-    "date_added": "2025-11-20T00:00:00Z",
-    "date_last_verified": "2025-11-20T00:00:00Z",
-    "source_last_checked": "2025-11-20T00:00:00Z",
-    "commissioning_authority": "",
-    "commissioning_authority_manager": "",
-    "intervention_archetype": [
-      "emotional_peak_gateway",
-      "behaviour_priming_gateway",
-      "immersive_substitution_hub"
-    ],
-    "problem_fit": [
-      "ecosystem_stress",
-      "biodiversity_loss",
-      "governance_lag"
-    ]
-  },
-  {
-    "schema_version": "1.0.0",
-    "project_id": "ITFG_0038",
-    "project_name": "Cromford Mills – Gateway Visitor Centre & Arkwright Experience",
-    "short_description": "Gateway visitor centre and holographic ‘Arkwright Experience’ at Cromford Mills, introducing visitors to Derwent Valley Mills World Heritage Site through immersive AV storytelling, before they disperse into the wider valley and trail network.",
-    "country": "United Kingdom",
-    "region": "Derbyshire",
-    "location_notes": "Cromford village on the River Derwent; gateway site for exploring the Derwent Valley Mills World Heritage corridor.",
-    "gateway_type": "heritage_gateway",
-    "project_goal": [
-      "educational_priming",
-      "arrival_expectation_setting",
-      "flow_redirection"
-    ],
-    "methods_used": [
-      "immersive_substitution",
-      "spatial_storytelling_navigation",
-      "content_driven_routing",
-      "gateway_sequencing"
-    ],
-    "media_format": [
-      "projection_mapping",
-      "interactive_installation",
-      "spatial_audio_environment",
-      "other"
-    ],
-    "implementation_stage": "operating",
-    "year_opened_or_announced": null,
-    "producer_operating_entity": "The Arkwright Society (Cromford Mills)",
-    "director_lead_creator": "",
-    "creative_studio": "",
-    "technical_partners": [],
-    "budget_currency": "GBP",
-    "budget_amount_estimate": null,
-    "visitor_capacity_per_hour": null,
-    "annual_visitors_estimate": null,
-    "duration_min": null,
-    "sustainability_context": {
-      "primary_issues_addressed": [
-        "cultural_erosion",
-        "heritage_conservation",
-        "visitor_management"
-      ],
-      "sensitivity_level": "medium",
-      "site_designations": [
-        "Derwent Valley Mills World Heritage Site"
-      ],
-      "heritage_status": [
-        "UNESCO World Heritage Site"
-      ],
-      "protected_area_category": "",
-      "key_species_or_features": [
-        "industrial heritage landscape",
-        "Derwent river valley and canal corridor"
-      ],
-      "local_community_relation": "Charity-led regeneration of historic mills and village, using immersive storytelling to anchor visits and direct visitors onto local walking routes and into nearby settlements.",
-      "notes": "‘Gateway and Arkwright Experience’ explicitly described as the first step in making Cromford Mills a world-class visitor hub for the wider valley."
-    },
-    "measurable_effects": {
-      "baseline_year": null,
-      "latest_year": null,
-      "visitor_volume_change_percent": null,
-      "peak_load_change_percent": null,
-      "emissions_change_percent": null,
-      "other_tracked_indicators": [],
-      "notes": ""
-    },
-    "measurement_methods_used": [],
-    "effectiveness_studies_available": false,
-    "effectiveness_studies_refs": [],
-    "reference_urls": [
-      "https://www.cromfordmills.org.uk/visit/",
-      "https://www.cromfordmills.org.uk/visit/mill-tours/",
-      "https://www.cromfordmills.org.uk/about/",
-      "https://www.derwentvalleymills.org/visit/where-to-visit-in-the-derwent-valley/visit-cromford-in-the-derwent-valley/visit-cromford-mills/",
-      "https://planetwhitley.com/cromford-mills-ticket-prices-parking-and-how-to-plan-your-visit/"
-    ],
-    "notes": "",
-    "date_added": "2025-11-20T00:00:00Z",
-    "date_last_verified": "2025-11-20T00:00:00Z",
-    "source_last_checked": "2025-11-20T00:00:00Z",
-    "commissioning_authority": "The Arkwright Society",
-    "commissioning_authority_manager": "",
-    "intervention_archetype": [
-      "intro_context_gateway",
-      "emotional_peak_gateway"
-    ],
-    "problem_fit": [
       "cultural_erosion",
-      "infrastructure_overload",
-      "governance_lag"
+      "housing_pressure"
     ]
   },
   {
     "schema_version": "1.0.0",
     "project_id": "ITFG_0039",
-    "project_name": "U.S. National Park Service – 3D Interactive Tours Platform",
-    "short_description": "Suite of 3D interactive tours developed by the U.S. National Park Service that lets visitors virtually explore key park sites and is also used in seasonal staff training, providing an immersive digital gateway to multiple national parks.",
-    "country": "United States of America",
-    "region": "multi-site / online",
-    "location_notes": "Online platform with park-specific 3D tours (e.g. Klondike Gold Rush, Skagway) accessed via NPS websites and used both by the public and in internal training.",
-    "gateway_type": "virtual_gateway",
+    "project_name": "Royal Liver Building 360 (RLB 360)",
+    "short_description": "Immersive tower experience that begins in a visitor centre and continues with a projection show inside the historic clock tower, combined with panoramic viewing platforms over Liverpool’s waterfront.",
+    "country": "United Kingdom",
+    "region": "Merseyside",
+    "location_notes": "Guided tower tour and visitor centre in Liverpool’s Royal Liver Building, starting from a dedicated lower-ground visitor centre.",
+    "gateway_type": "urban_gateway",
     "project_goal": [
-      "physical_impact_replacement",
       "educational_priming",
-      "conservation_support",
-      "behaviour_change"
+      "arrival_expectation_setting"
     ],
     "methods_used": [
       "immersive_substitution",
       "spatial_storytelling_navigation",
-      "behavioural_narrative_priming"
+      "emotional_peak_relocation"
     ],
     "media_format": [
-      "virtual_reality",
       "360_degree_projection",
-      "digital_twin_simulation",
-      "other"
+      "interactive_installation"
     ],
     "implementation_stage": "operating",
     "year_opened_or_announced": null,
-    "producer_operating_entity": "U.S. National Park Service (Harpers Ferry Center and partner parks)",
-    "director_lead_creator": "",
-    "creative_studio": "",
-    "technical_partners": [],
-    "budget_currency": "USD",
-    "budget_amount_estimate": null,
-    "visitor_capacity_per_hour": null,
-    "annual_visitors_estimate": null,
-    "duration_min": null,
+    "producer_operating_entity": "Heritage Great Britain (operator of RLB 360)",
     "sustainability_context": {
-      "primary_issues_addressed": [
-        "ecosystem_stress",
-        "infrastructure_overload",
-        "accessibility_barriers"
-      ],
-      "sensitivity_level": "high",
-      "site_designations": [
-        "U.S. National Parks (multiple sites)"
-      ],
-      "heritage_status": [],
-      "protected_area_category": "",
-      "key_species_or_features": [
-        "various national park landscapes and historic sites"
-      ],
-      "local_community_relation": "Digital access tool that broadens reach to audiences (including people with disabilities) and can reduce physical travel to sensitive or remote sites while still building appreciation.",
-      "notes": "NPS articles emphasise the tours as immersive experiences for visitors and as tools for seasonal staff training and recruitment."
+      "biodiversity_goal": "",
+      "emissions_goal": "",
+      "standards_certifications": [],
+      "notes": "Acts as a structured, guided way to experience a landmark building and its views without unregulated rooftop access."
     },
     "measurable_effects": {
-      "baseline_year": null,
-      "latest_year": null,
-      "visitor_volume_change_percent": null,
-      "peak_load_change_percent": null,
-      "emissions_change_percent": null,
-      "other_tracked_indicators": [],
-      "notes": ""
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
     },
     "measurement_methods_used": [],
     "effectiveness_studies_available": false,
     "effectiveness_studies_refs": [],
     "reference_urls": [
-      "https://www.nps.gov/articles/3d-tours.htm",
-      "https://www.nationalparks.org/connect/blog/take-virtual-visit-national-park",
-      "https://www.youtube.com/playlist?list=PL-hr3xIvMIMXP1Oj2uVIhj-L6Q6f4aGGO"
+      "https://rlb360.com/"
     ],
     "notes": "",
-    "date_added": "2025-11-20T00:00:00Z",
-    "date_last_verified": "2025-11-20T00:00:00Z",
-    "source_last_checked": "2025-11-20T00:00:00Z",
-    "commissioning_authority": "U.S. National Park Service",
-    "commissioning_authority_manager": "",
+    "date_added": "2025-11-18T00:00:00Z",
+    "date_last_verified": "2025-11-18T00:00:00Z",
+    "source_last_checked": "https://rlb360.com/",
     "intervention_archetype": [
-      "immersive_substitution_hub",
-      "intro_context_gateway",
-      "behaviour_priming_gateway"
+      "emotional_peak_gateway",
+      "intro_context_gateway"
     ],
     "problem_fit": [
-      "ecosystem_stress",
       "infrastructure_overload",
-      "accessibility_barriers"
+      "cultural_erosion"
     ]
   }
 ]
