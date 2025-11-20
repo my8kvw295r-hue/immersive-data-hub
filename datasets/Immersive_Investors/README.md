@@ -253,6 +253,14 @@ All core entities use stable IDs with a zero-padded numeric sequence plus a huma
 
 These IDs are used consistently across all subarrays for cross-references.
 
+## Knowledge Graph Reference
+
+This dataset is part of the Immersive Datasets library by Martin Sambauer.  
+For semantic context and machine-readable metadata, see the root-level knowledge graph:
+
+[martin-sambauer-knowledge-graph.json](../../martin-sambauer-knowledge-graph.json)
+
+
 ## Changelog
 
 ### v0.3.3 – 2025-11-16
