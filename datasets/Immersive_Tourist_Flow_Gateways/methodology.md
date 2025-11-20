@@ -58,8 +58,10 @@ These ensure transparency about the dataset’s freshness.
 * educational_priming
 * conservation_support
 * arrival_expectation_setting
+* behavioural_priming_only (pure attitude priming without explicit routing or conservation framing; used for gateways that primarily shape mindsets)
 
 ### 3.2 Methods of Flow Navigation
+
 
 * immersive substitution (virtual/dome replacing physical visit),
 * emotional peak relocation (peak away from sensitive zones),
@@ -78,6 +80,12 @@ These ensure transparency about the dataset’s freshness.
 * mixed reality
 * spatial audio environments
 * digital twins and simulation chambers
+* interactive installations and exhibitions (interactive_installation, interactive_exhibition)
+* immersive theatre and show environments (immersive_theatre, AV_show)
+* VR experiences within gateway tours (virtual_reality, VR_experience)
+* guided tours with immersive layers (guided_tour)
+* ride experiences with immersive layers (ride_experience)
+* soundscape experiences (soundscape_experience)
 
 ### 3.4 Spatial Role
 
@@ -87,9 +95,18 @@ These ensure transparency about the dataset’s freshness.
 * ecological_gateway
 * visitor_centre
 * virtual_gateway
+* heritage_gateway
+* urban_heritage_gateway
+* sustainability_gateway
+* national_park_gateway
+* geopark_gateway
+* alpine_heritage_gateway
+* marine_gateway
+* urban_icon_gateway
 
 
 ### 3.5 Intervention Archetypes
+
 
 For analytical work, each project is classified into one or more high-level intervention archetypes. These archetypes summarise how the gateway primarily intervenes in visitor flows and behaviours:
 
