@@ -1,12 +1,12 @@
 [
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0001",
     "project_name": "Interpretation center Ses Salines (Cabrera National Park Visitor Centre)",
-    "short_description": "Visitor centre in Col\u00f2nia de Sant Jordi, Mallorca, offering a ~30-minute immersive itinerary through the sea, land and history of the Cabrera Archipelago National Park as an alternative to travelling to the islands themselves.",
+    "short_description": "Visitor centre in Colònia de Sant Jordi, Mallorca, offering a ~30-minute immersive itinerary through the sea, land and history of the Cabrera Archipelago National Park as an alternative to travelling to the islands themselves.",
     "country": "Spain",
     "region": "Balearic Islands",
-    "location_notes": "Col\u00f2nia de Sant Jordi, municipality of Ses Salines, gateway visitor centre for Cabrera Archipelago National Park.",
+    "location_notes": "Colònia de Sant Jordi, municipality of Ses Salines, gateway visitor centre for Cabrera Archipelago National Park.",
     "gateway_type": "ecological_gateway",
     "project_goal": [
       "physical_impact_replacement",
@@ -63,10 +63,10 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0002",
     "project_name": "Centre for Circularity, Bega Valley",
-    "short_description": "Planned visitor centre and hub for a \u2018world leading fully circular destination\u2019 in the Bega Valley, combining immersive digital and physical displays, a digital twin and a 360-degree immersion room to explain circular economy systems and direct visitors to related projects in the region.",
+    "short_description": "Planned visitor centre and hub for a ‘world leading fully circular destination’ in the Bega Valley, combining immersive digital and physical displays, a digital twin and a 360-degree immersion room to explain circular economy systems and direct visitors to related projects in the region.",
     "country": "Australia",
     "region": "New South Wales",
     "location_notes": "Bega Valley, New South Wales; centrepiece of a regional circular economy tourism and education strategy.",
@@ -128,13 +128,13 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0003",
     "project_name": "Great Keppel Island (Woppa) Arrivals Plaza and Amenities",
-    "short_description": "New arrivals plaza and visitor gateway on Great Keppel Island (Woppa), designed as a vibrant, culturally-informed gathering place with amenities, shaded seating, beach access and visitor information that channels visitors into boardwalks, trails and other infrastructure in line with the island\u2019s long-term tourism and sustainability vision.",
+    "short_description": "New arrivals plaza and visitor gateway on Great Keppel Island (Woppa), designed as a vibrant, culturally-informed gathering place with amenities, shaded seating, beach access and visitor information that channels visitors into boardwalks, trails and other infrastructure in line with the island’s long-term tourism and sustainability vision.",
     "country": "Australia",
     "region": "Queensland",
-    "location_notes": "Fisherman\u2019s Beach area, Great Keppel Island (Woppa), Capricorn Coast; arrival node for ferry passengers and day visitors.",
+    "location_notes": "Fisherman’s Beach area, Great Keppel Island (Woppa), Capricorn Coast; arrival node for ferry passengers and day visitors.",
     "gateway_type": "marina_gateway",
     "project_goal": [
       "flow_redirection",
@@ -154,7 +154,7 @@
     "year_opened_or_announced": 2024,
     "producer_operating_entity": "Livingstone Shire Council (delivery) with funding from the Queensland Government",
     "sustainability_context": {
-      "biodiversity_goal": "Support the protection of Great Keppel Island\u2019s coastal and marine environments by focusing visitor flows through defined paths, amenities and wayfinding.",
+      "biodiversity_goal": "Support the protection of Great Keppel Island’s coastal and marine environments by focusing visitor flows through defined paths, amenities and wayfinding.",
       "emissions_goal": "",
       "standards_certifications": [],
       "notes": "Part of a broader concept master plan that includes wastewater treatment, walking tracks and wayfinding to support a sustainable, accessible future for the island."
@@ -190,9 +190,9 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0004",
-    "project_name": "Space Eye \u2013 Observatorium f\u00fcr Weltraum und Umwelt (Gantrisch Nature Park)",
+    "project_name": "Space Eye – Observatorium für Weltraum und Umwelt (Gantrisch Nature Park)",
     "short_description": "Observatory and visitor centre in the Gantrisch Nature Park with an 8K high-end planetarium, the largest public telescope in Switzerland, interactive exhibitions and a themed access trail. It functions as an immersive gateway to space, earth observation and environmental topics linked to the surrounding park.",
     "country": "Switzerland",
     "region": "Canton of Bern",
@@ -217,9 +217,9 @@
     ],
     "implementation_stage": "operating",
     "year_opened_or_announced": 2023,
-    "producer_operating_entity": "Space Eye \u2013 Observatorium f\u00fcr Weltraum und Umwelt",
+    "producer_operating_entity": "Space Eye – Observatorium für Weltraum und Umwelt",
     "sustainability_context": {
-      "biodiversity_goal": "Raise awareness of earth observation, space debris and the Gantrisch Nature Park\u2019s environments, linking astronomical themes with local landscape protection.",
+      "biodiversity_goal": "Raise awareness of earth observation, space debris and the Gantrisch Nature Park’s environments, linking astronomical themes with local landscape protection.",
       "emissions_goal": "",
       "standards_certifications": [
         "Swisstainable (engaged level)"
@@ -255,13 +255,13 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0005",
-    "project_name": "LAVA Centre \u2013 Iceland Volcano and Earthquake Exhibition",
-    "short_description": "Interactive, high-tech exhibition centre in Hvolsv\u00f6llur on Iceland\u2019s south coast, dedicated to volcanic activity, earthquakes and the formation of Iceland. Functions as an immersive gateway to the South Coast\u2019s volcanic landscape, often recommended as a starting point for exploring the region.",
+    "project_name": "LAVA Centre – Iceland Volcano and Earthquake Exhibition",
+    "short_description": "Interactive, high-tech exhibition centre in Hvolsvöllur on Iceland’s south coast, dedicated to volcanic activity, earthquakes and the formation of Iceland. Functions as an immersive gateway to the South Coast’s volcanic landscape, often recommended as a starting point for exploring the region.",
     "country": "Iceland",
     "region": "South Iceland",
-    "location_notes": "Hvolsv\u00f6llur, along the Ring Road on Iceland\u2019s south coast; near several major volcanoes.",
+    "location_notes": "Hvolsvöllur, along the Ring Road on Iceland’s south coast; near several major volcanoes.",
     "gateway_type": "ecological_gateway",
     "project_goal": [
       "educational_priming",
@@ -290,7 +290,7 @@
       "biodiversity_goal": "",
       "emissions_goal": "",
       "standards_certifications": [],
-      "notes": "Acts as a controlled hub where visitors can learn about Iceland\u2019s volcanic systems before travelling into sensitive natural areas along the south coast."
+      "notes": "Acts as a controlled hub where visitors can learn about Iceland’s volcanic systems before travelling into sensitive natural areas along the south coast."
     },
     "measurable_effects": {
       "traffic_reduction_sensitive_zones_pct": null,
@@ -322,13 +322,13 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0006",
-    "project_name": "Gianni Arismendy Interpretation Center \u2013 San Crist\u00f3bal, Gal\u00e1pagos",
-    "short_description": "Interpretation centre on San Crist\u00f3bal Island that presents the natural and human history of the Gal\u00e1pagos through exhibitions and audiovisual material, highlighting conservation issues and the need to control population and tourist pressure on the islands.",
+    "project_name": "Gianni Arismendy Interpretation Center – San Cristóbal, Galápagos",
+    "short_description": "Interpretation centre on San Cristóbal Island that presents the natural and human history of the Galápagos through exhibitions and audiovisual material, highlighting conservation issues and the need to control population and tourist pressure on the islands.",
     "country": "Ecuador",
-    "region": "Gal\u00e1pagos Islands",
-    "location_notes": "Puerto Baquerizo Moreno, San Crist\u00f3bal Island; gateway centre linked to trails such as Tijeretas Hill.",
+    "region": "Galápagos Islands",
+    "location_notes": "Puerto Baquerizo Moreno, San Cristóbal Island; gateway centre linked to trails such as Tijeretas Hill.",
     "gateway_type": "ecological_gateway",
     "project_goal": [
       "educational_priming",
@@ -345,7 +345,7 @@
     ],
     "implementation_stage": "operating",
     "year_opened_or_announced": 1998,
-    "producer_operating_entity": "Gal\u00e1pagos National Park Directorate",
+    "producer_operating_entity": "Galápagos National Park Directorate",
     "director_lead_creator": "",
     "creative_studio": "",
     "technical_partners": [],
@@ -355,7 +355,7 @@
     "annual_visitors_estimate": null,
     "duration_min": null,
     "sustainability_context": {
-      "biodiversity_goal": "Raise awareness of the unique habitats and species of the Gal\u00e1pagos and support long-term conservation of the archipelago.",
+      "biodiversity_goal": "Raise awareness of the unique habitats and species of the Galápagos and support long-term conservation of the archipelago.",
       "emissions_goal": "",
       "standards_certifications": [],
       "notes": "Public information emphasises conservation issues and the role of population and tourist control in preserving the islands."
@@ -376,7 +376,7 @@
       "https://gogalapagos.com/visitor-sites/interpretation-center-tijeretas-hill/",
       "https://www.royalgalapagos.com/visitor-sites/sancristobal-gic2.html"
     ],
-    "notes": "Classification emphasises the centre\u2019s role as a conservation-focused gateway before visitors move on to trails and wildlife areas.",
+    "notes": "Classification emphasises the centre’s role as a conservation-focused gateway before visitors move on to trails and wildlife areas.",
     "date_added": "2025-11-18T00:00:00Z",
     "date_last_verified": "2025-11-18T00:00:00Z",
     "source_last_checked": "https://www.visitgalapagos.travel/visitor-sites/san-cristobal-intepretation-center-galapagos-islands.html",
@@ -394,13 +394,13 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0007",
-    "project_name": "Norwegian Fjord Centre \u2013 World Heritage Visitor Centre Geirangerfjord",
+    "project_name": "Norwegian Fjord Centre – World Heritage Visitor Centre Geirangerfjord",
     "short_description": "World Heritage visitor and communication centre for the Geirangerfjord area, featuring films, exhibitions and interactive stations that let visitors experience the fjord landscape, nature and culture indoors before heading out into the World Heritage site.",
     "country": "Norway",
-    "region": "M\u00f8re og Romsdal",
-    "location_notes": "Geiranger, gateway hub for the West Norwegian Fjords \u2013 Geirangerfjord World Heritage Site.",
+    "region": "Møre og Romsdal",
+    "location_notes": "Geiranger, gateway hub for the West Norwegian Fjords – Geirangerfjord World Heritage Site.",
     "gateway_type": "ecological_gateway",
     "project_goal": [
       "educational_priming",
@@ -432,7 +432,7 @@
       "biodiversity_goal": "Explain the natural processes that formed the fjord landscape and raise awareness of the vulnerable World Heritage environment.",
       "emissions_goal": "",
       "standards_certifications": [],
-      "notes": "Indoor experiences allow visitors to \u2018experience the entire World Heritage area from the cinema seat\u2019, reducing the need for every visitor to access all parts of the fjord physically."
+      "notes": "Indoor experiences allow visitors to ‘experience the entire World Heritage area from the cinema seat’, reducing the need for every visitor to access all parts of the fjord physically."
     },
     "measurable_effects": {
       "traffic_reduction_sensitive_zones_pct": null,
@@ -467,9 +467,9 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0008",
-    "project_name": "Stonehenge Visitor Centre \u2013 Exhibition and 360\u00b0 Stone Circle Theatre",
+    "project_name": "Stonehenge Visitor Centre – Exhibition and 360° Stone Circle Theatre",
     "short_description": "Visitor centre for Stonehenge with an exhibition and a 360-degree audiovisual theatre that allows visitors to stand virtually in the centre of the stone circle, providing an immersive alternative to physical access which is restricted to protect the monument and landscape.",
     "country": "United Kingdom",
     "region": "Wiltshire",
@@ -505,7 +505,7 @@
       "biodiversity_goal": "Help protect the Stonehenge landscape from erosion and damage by concentrating visitors in a managed gateway and reducing direct physical interaction with the stones.",
       "emissions_goal": "",
       "standards_certifications": [],
-      "notes": "The 360\u00b0 theatre was designed after visitor focus groups expressed a desire to stand inside the stones; the immersive AV experience provides this sensation without physical access."
+      "notes": "The 360° theatre was designed after visitor focus groups expressed a desire to stand inside the stones; the immersive AV experience provides this sensation without physical access."
     },
     "measurable_effects": {
       "traffic_reduction_sensitive_zones_pct": null,
@@ -540,9 +540,9 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0009",
-    "project_name": "Virtual Reality Theater \u2013 Gateway Arch National Park",
+    "project_name": "Virtual Reality Theater – Gateway Arch National Park",
     "short_description": "Virtual reality theatre in the Gateway Arch National Park visitor centre offering a 3D immersive experience of the 1850s St. Louis riverfront, allowing visitors to explore the historic levee and hear stories from people who lived and worked there.",
     "country": "United States",
     "region": "Missouri",
@@ -604,13 +604,13 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0010",
-    "project_name": "Uluru\u2013Kata Tjuta Cultural Centre",
-    "short_description": "Cultural and visitor centre at Uluru\u2013Kata Tjuta National Park offering exhibitions, art, stories and interpretation from Anangu traditional owners, positioned as the essential starting point for visiting the park.",
+    "project_name": "Uluru–Kata Tjuta Cultural Centre",
+    "short_description": "Cultural and visitor centre at Uluru–Kata Tjuta National Park offering exhibitions, art, stories and interpretation from Anangu traditional owners, positioned as the essential starting point for visiting the park.",
     "country": "Australia",
     "region": "Northern Territory",
-    "location_notes": "Inside Uluru\u2013Kata Tjuta National Park, near the park entrance; main cultural and visitor gateway.",
+    "location_notes": "Inside Uluru–Kata Tjuta National Park, near the park entrance; main cultural and visitor gateway.",
     "gateway_type": "ecological_gateway",
     "project_goal": [
       "educational_priming",
@@ -627,7 +627,7 @@
     ],
     "implementation_stage": "operating",
     "year_opened_or_announced": null,
-    "commissioning_authority": "Parks Australia / Uluru\u2013Kata Tjuta National Park Board of Management",
+    "commissioning_authority": "Parks Australia / Uluru–Kata Tjuta National Park Board of Management",
     "commissioning_authority_manager": "",
     "producer_operating_entity": "Parks Australia",
     "director_lead_creator": "",
@@ -639,7 +639,7 @@
     "annual_visitors_estimate": null,
     "duration_min": null,
     "sustainability_context": {
-      "biodiversity_goal": "Support the protection of the Uluru\u2013Kata Tjuta landscape by sharing Anangu culture and explaining rules and appropriate behaviour before visitors explore the park.",
+      "biodiversity_goal": "Support the protection of the Uluru–Kata Tjuta landscape by sharing Anangu culture and explaining rules and appropriate behaviour before visitors explore the park.",
       "emissions_goal": "",
       "standards_certifications": [],
       "notes": "Frequently described as the place where visitors should begin their trip to learn about culture, environment and how to visit respectfully."
@@ -675,7 +675,7 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0011",
     "project_name": "Zion National Park Visitor Center",
     "short_description": "Primary visitor centre and logistics hub for Zion National Park, providing information, orientation, permits and access to the park's shuttle system that manages visitor flows into Zion Canyon.",
@@ -742,12 +742,11 @@
     "problem_fit": [
       "ecosystem_stress",
       "biodiversity_loss",
-      "infrastructure_overload",
       "infrastructure_overload"
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0012",
     "project_name": "Mendenhall Glacier Visitor Center",
     "short_description": "Visitor centre in Tongass National Forest featuring state-of-the-art exhibits and a film about the glacier and forest ecosystems, serving as an informational hub and starting point for trails around Mendenhall Glacier.",
@@ -818,7 +817,7 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0013",
     "project_name": "Giant's Causeway Visitor Centre",
     "short_description": "Award-winning visitor centre for the Giant's Causeway World Heritage Site, with interpretive exhibitions, storytelling, audio guides and facilities designed to manage high visitor numbers and traffic to the stones.",
@@ -891,13 +890,13 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0014",
-    "project_name": "Perlan \u2013 Wonders of Iceland",
-    "short_description": "Large nature museum and exhibition complex in Reykjav\u00edk where visitors experience Icelandic glaciers, ice caves, volcanoes, seabirds and the aurora through interactive exhibitions, a real indoor ice cave and a planetarium show.",
+    "project_name": "Perlan – Wonders of Iceland",
+    "short_description": "Large nature museum and exhibition complex in Reykjavík where visitors experience Icelandic glaciers, ice caves, volcanoes, seabirds and the aurora through interactive exhibitions, a real indoor ice cave and a planetarium show.",
     "country": "Iceland",
     "region": "Capital Region",
-    "location_notes": "Perlan building on \u00d6skjuhlid hill in Reykjav\u00edk; major nature exhibition and museum.",
+    "location_notes": "Perlan building on Öskjuhlid hill in Reykjavík; major nature exhibition and museum.",
     "gateway_type": "ecological_gateway",
     "project_goal": [
       "educational_priming",
@@ -919,7 +918,7 @@
     "year_opened_or_announced": null,
     "commissioning_authority": "",
     "commissioning_authority_manager": "",
-    "producer_operating_entity": "Perlan \u2013 Wonders of Iceland",
+    "producer_operating_entity": "Perlan – Wonders of Iceland",
     "director_lead_creator": "",
     "creative_studio": "",
     "technical_partners": [],
@@ -932,7 +931,7 @@
       "biodiversity_goal": "Increase understanding of Icelandic natural systems such as glaciers, oceans and bird cliffs, and highlight climate-related change.",
       "emissions_goal": "",
       "standards_certifications": [],
-      "notes": "Promoted as the biggest nature museum in Iceland, where visitors can see, feel and live Iceland\u2019s natural wonders in one place without travelling to multiple fragile sites."
+      "notes": "Promoted as the biggest nature museum in Iceland, where visitors can see, feel and live Iceland’s natural wonders in one place without travelling to multiple fragile sites."
     },
     "measurable_effects": {
       "traffic_reduction_sensitive_zones_pct": null,
@@ -967,7 +966,7 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0015",
     "project_name": "Old Faithful Visitor Education Center",
     "short_description": "Visitor education centre at Old Faithful featuring interactive exhibits, a multimedia theatre and large windows overlooking geyser eruptions, explaining hydrothermal features, geology and life in extreme environments.",
@@ -1006,7 +1005,7 @@
       "biodiversity_goal": "Help visitors understand fragile hydrothermal features and appropriate behaviour around geysers and hot springs.",
       "emissions_goal": "",
       "standards_certifications": [],
-      "notes": "The centre is a major hub for learning about Yellowstone\u2019s geothermal systems, with exhibits, young scientist program and theatre."
+      "notes": "The centre is a major hub for learning about Yellowstone’s geothermal systems, with exhibits, young scientist program and theatre."
     },
     "measurable_effects": {
       "traffic_reduction_sensitive_zones_pct": null,
@@ -1039,7 +1038,7 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0016",
     "project_name": "Great Barrier Reef Aquarium (National Education Centre for the Great Barrier Reef)",
     "short_description": "Large aquarium and national education centre for the Great Barrier Reef, providing access to a living coral reef exhibit and interactive displays so visitors can experience the reef without entering the marine park.",
@@ -1077,7 +1076,7 @@
       "biodiversity_goal": "Open hearts and minds to the biodiversity of the Great Barrier Reef and provide access to its ecosystems without visiting the reef itself.",
       "emissions_goal": "",
       "standards_certifications": [],
-      "notes": "Described as Australia\u2019s National Education Centre for the Great Barrier Reef and the world\u2019s largest living coral reef aquarium; currently being redeveloped."
+      "notes": "Described as Australia’s National Education Centre for the Great Barrier Reef and the world’s largest living coral reef aquarium; currently being redeveloped."
     },
     "measurable_effects": {
       "traffic_reduction_sensitive_zones_pct": null,
@@ -1110,10 +1109,10 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0017",
     "project_name": "Karijini Interpretive Centre",
-    "short_description": "Visitor and interpretive centre in Karijini National Park that explains the park\u2019s geology, flora, fauna, Aboriginal culture and history through exhibitions integrated into an iconic building inspired by local culture.",
+    "short_description": "Visitor and interpretive centre in Karijini National Park that explains the park’s geology, flora, fauna, Aboriginal culture and history through exhibitions integrated into an iconic building inspired by local culture.",
     "country": "Australia",
     "region": "Western Australia",
     "location_notes": "Karijini National Park, Pilbara region; main visitor and interpretive centre.",
@@ -1177,10 +1176,10 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0018",
     "project_name": "Caldera de Taburiente Visitor Center",
-    "short_description": "Modern visitor centre for Caldera de Taburiente National Park offering an immersive visual and educational experience about the park\u2019s geology, biodiversity and hiking opportunities before visitors enter the caldera.",
+    "short_description": "Modern visitor centre for Caldera de Taburiente National Park offering an immersive visual and educational experience about the park’s geology, biodiversity and hiking opportunities before visitors enter the caldera.",
     "country": "Spain",
     "region": "Canary Islands",
     "location_notes": "El Paso, La Palma; main visitor centre for Caldera de Taburiente National Park.",
@@ -1245,7 +1244,7 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0019",
     "project_name": "OM Dark Sky Park and Observatory",
     "short_description": "Dark sky park and observatory with a high-tech visitor centre offering holographic installations, virtual reality headsets and audio-visual shows to introduce visitors to astronomy and the surrounding dark sky landscape.",
@@ -1315,13 +1314,13 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0020",
-    "project_name": "Br\u00fa na B\u00f3inne Visitor Centre (Newgrange and Knowth)",
-    "short_description": "Interactive, immersive visitor centre that explains the Neolithic landscape and monuments of Br\u00fa na B\u00f3inne and concentrates arrivals before visitors are transported by shuttle bus to the sensitive tomb sites.",
+    "project_name": "Brú na Bóinne Visitor Centre (Newgrange and Knowth)",
+    "short_description": "Interactive, immersive visitor centre that explains the Neolithic landscape and monuments of Brú na Bóinne and concentrates arrivals before visitors are transported by shuttle bus to the sensitive tomb sites.",
     "country": "Ireland",
     "region": "County Meath",
-    "location_notes": "Purpose-built visitor centre for the Br\u00fa na B\u00f3inne World Heritage Site; starting point for all visits to the Neolithic passage tombs Newgrange and Knowth, with access only via shuttle buses and guided tours.",
+    "location_notes": "Purpose-built visitor centre for the Brú na Bóinne World Heritage Site; starting point for all visits to the Neolithic passage tombs Newgrange and Knowth, with access only via shuttle buses and guided tours.",
     "gateway_type": "heritage_gateway",
     "project_goal": [
       "flow_redirection",
@@ -1340,7 +1339,7 @@
     "primary_tourism_context": "archaeological_heritage",
     "protected_area_relation": "",
     "sensitivity_level": "",
-    "implementation_stage": "operational",
+    "implementation_stage": "operating",
     "year_opened_or_announced": null,
     "operator_type": "",
     "managing_organisation": "Office of Public Works (OPW), Ireland",
@@ -1406,13 +1405,13 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0021",
     "project_name": "Visitor Centre, Centennial Hall (Hala Stulecia)",
     "short_description": "Interactive multimedia visitor centre that uses touchscreens, maps, film, sound and VR tours to introduce visitors to the history and architecture of Centennial Hall before they explore the wider complex.",
     "country": "Poland",
     "region": "Lower Silesia",
-    "location_notes": "Visitor centre at the UNESCO-listed Centennial Hall complex in Wroc\u0142aw, acting as a tourist gateway to the monument.",
+    "location_notes": "Visitor centre at the UNESCO-listed Centennial Hall complex in Wrocław, acting as a tourist gateway to the monument.",
     "gateway_type": "urban_heritage_gateway",
     "project_goal": [
       "flow_redirection",
@@ -1429,7 +1428,7 @@
     "primary_tourism_context": "urban_cultural_heritage",
     "protected_area_relation": "",
     "sensitivity_level": "",
-    "implementation_stage": "operational",
+    "implementation_stage": "operating",
     "year_opened_or_announced": null,
     "operator_type": "",
     "managing_organisation": "Centennial Hall (Hala Stulecia) management",
@@ -1491,10 +1490,10 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0022",
     "project_name": "WWF Living Planet Centre (WWF Experience)",
-    "short_description": "Highly sustainable visitor centre with the WWF Experience: four immersive, conservation\u2011themed zones that introduce visitors to forests, rivers, oceans and wildlife and link WWF\u2019s work to everyday behaviour and travel choices.",
+    "short_description": "Highly sustainable visitor centre with the WWF Experience: four immersive, conservation‑themed zones that introduce visitors to forests, rivers, oceans and wildlife and link WWF’s work to everyday behaviour and travel choices.",
     "country": "United Kingdom",
     "region": "Surrey",
     "location_notes": "WWF-UK headquarters and public visitor centre in Woking, designed as a showcase green building with immersive education zones.",
@@ -1513,7 +1512,7 @@
     "primary_tourism_context": "environmental_education",
     "protected_area_relation": "",
     "sensitivity_level": "",
-    "implementation_stage": "operational",
+    "implementation_stage": "operating",
     "year_opened_or_announced": null,
     "operator_type": "",
     "managing_organisation": "WWF-UK",
@@ -1578,10 +1577,10 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0023",
     "project_name": "Culloden Battlefield Visitor Centre",
-    "short_description": "Award-winning visitor centre that uses a 360\u2011degree battle immersion theatre and interactive exhibits to prepare visitors before they walk the battlefield and interpret the landscape.",
+    "short_description": "Award-winning visitor centre that uses a 360‑degree battle immersion theatre and interactive exhibits to prepare visitors before they walk the battlefield and interpret the landscape.",
     "country": "United Kingdom",
     "region": "Scottish Highlands",
     "location_notes": "Visitor centre adjacent to Culloden Battlefield near Inverness, with panoramic roof views over the battlefield.",
@@ -1601,7 +1600,7 @@
     "primary_tourism_context": "battlefield_heritage",
     "protected_area_relation": "",
     "sensitivity_level": "",
-    "implementation_stage": "operational",
+    "implementation_stage": "operating",
     "year_opened_or_announced": null,
     "operator_type": "",
     "managing_organisation": "National Trust for Scotland",
@@ -1664,10 +1663,10 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0024",
     "project_name": "Lodgepole Visitor Center (Sequoia & Kings Canyon National Parks)",
-    "short_description": "Immersive, soundscape\u2011driven exhibits that let visitors experience the ecosystems of Sequoia and Kings Canyon from foothills to high mountains and caves, combined with trip\u2011planning support and wilderness permitting.",
+    "short_description": "Immersive, soundscape‑driven exhibits that let visitors experience the ecosystems of Sequoia and Kings Canyon from foothills to high mountains and caves, combined with trip‑planning support and wilderness permitting.",
     "country": "United States",
     "region": "California",
     "location_notes": "Visitor centre in the conifer zone of Sequoia National Park on the Generals Highway, acting as a hub for trip planning and wilderness permits.",
@@ -1688,7 +1687,7 @@
     "primary_tourism_context": "mountain_national_park",
     "protected_area_relation": "",
     "sensitivity_level": "",
-    "implementation_stage": "operational",
+    "implementation_stage": "operating",
     "year_opened_or_announced": null,
     "operator_type": "",
     "managing_organisation": "U.S. National Park Service",
@@ -1751,9 +1750,9 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0025",
-    "project_name": "Kents Cavern \u2013 Gateway Visitor Centre for the English Riviera UNESCO Global Geopark",
+    "project_name": "Kents Cavern – Gateway Visitor Centre for the English Riviera UNESCO Global Geopark",
     "short_description": "Prehistoric cave attraction and visitor centre that combines guided underground tours with exhibitions and education programmes, functioning as a gateway to the wider English Riviera Global Geopark.",
     "country": "United Kingdom",
     "region": "Devon",
@@ -1773,7 +1772,7 @@
     "primary_tourism_context": "geopark_and_coastal_tourism",
     "protected_area_relation": "",
     "sensitivity_level": "",
-    "implementation_stage": "operational",
+    "implementation_stage": "operating",
     "year_opened_or_announced": null,
     "operator_type": "",
     "managing_organisation": "Kents Cavern / English Riviera UNESCO Global Geopark partners",
@@ -1835,13 +1834,13 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0026",
     "project_name": "World Nature Forum (WNF Visitor Centre, Swiss Alps Jungfrau-Aletsch)",
-    "short_description": "State\u2011of\u2011the\u2011art World Nature Forum visitor centre with large\u2011format panorama cinema, interactive experience stations and models that explain the Jungfrau\u2011Aletsch World Heritage landscape, climate change and sustainable use before visitors head into the high\u2011alpine area.",
+    "short_description": "State‑of‑the‑art World Nature Forum visitor centre with large‑format panorama cinema, interactive experience stations and models that explain the Jungfrau‑Aletsch World Heritage landscape, climate change and sustainable use before visitors head into the high‑alpine area.",
     "country": "Switzerland",
     "region": "Valais",
-    "location_notes": "Experience museum and visitor centre in Naters serving as the base camp for the Swiss Alps Jungfrau\u2011Aletsch UNESCO World Heritage Site.",
+    "location_notes": "Experience museum and visitor centre in Naters serving as the base camp for the Swiss Alps Jungfrau‑Aletsch UNESCO World Heritage Site.",
     "gateway_type": "alpine_heritage_gateway",
     "project_goal": [
       "educational_priming",
@@ -1858,10 +1857,10 @@
     "primary_tourism_context": "alpine_world_heritage",
     "protected_area_relation": "",
     "sensitivity_level": "",
-    "implementation_stage": "operational",
+    "implementation_stage": "operating",
     "year_opened_or_announced": null,
     "operator_type": "",
-    "managing_organisation": "UNESCO World Heritage Swiss Alps Jungfrau\u2011Aletsch management",
+    "managing_organisation": "UNESCO World Heritage Swiss Alps Jungfrau‑Aletsch management",
     "key_partners": [],
     "has_fulldome_or_planetarium": false,
     "immersive_stack": [],
@@ -1922,13 +1921,13 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0027",
     "project_name": "Malaga Oceanographic Visitor Centre (former Aula del Mar)",
-    "short_description": "Upcoming oceanographic museum and visitor hub featuring ultra\u2011HD seabed imagery, real\u2011time birdwatching and immersive VR experiences focused on Mediterranean marine biodiversity and sustainable tourism.",
+    "short_description": "Upcoming oceanographic museum and visitor hub featuring ultra‑HD seabed imagery, real‑time birdwatching and immersive VR experiences focused on Mediterranean marine biodiversity and sustainable tourism.",
     "country": "Spain",
     "region": "Andalusia",
-    "location_notes": "Planned high\u2011tech oceanographic visitor centre on Malaga\u2019s waterfront, reusing the former Aula del Mar site.",
+    "location_notes": "Planned high‑tech oceanographic visitor centre on Malaga’s waterfront, reusing the former Aula del Mar site.",
     "gateway_type": "marine_gateway",
     "project_goal": [
       "educational_priming",
@@ -1945,7 +1944,7 @@
     "primary_tourism_context": "coastal_and_marine_tourism",
     "protected_area_relation": "",
     "sensitivity_level": "",
-    "implementation_stage": "operational",
+    "implementation_stage": "operating",
     "year_opened_or_announced": null,
     "operator_type": "",
     "managing_organisation": "Local authorities and partners in Malaga (oceanographic centre project)",
@@ -2009,7 +2008,7 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0028",
     "project_name": "New Lanark Visitor Centre and New Lanark Experience",
     "short_description": "Visitor centre and New Lanark Experience that combines immersive exhibits, the Annie McLeod ride and interpretive galleries to tell the story of the industrial village before visitors explore the wider site and surrounding Falls of Clyde.",
@@ -2032,7 +2031,7 @@
     "primary_tourism_context": "industrial_heritage_and_nature",
     "protected_area_relation": "",
     "sensitivity_level": "",
-    "implementation_stage": "operational",
+    "implementation_stage": "operating",
     "year_opened_or_announced": null,
     "operator_type": "",
     "managing_organisation": "New Lanark Trust",
@@ -2096,13 +2095,13 @@
     ]
   },
   {
-    "schema_version": "1.0.0",
+    "schema_version": "1.1.0",
     "project_id": "ITFG_0029",
     "project_name": "Royal Liver Building 360 (RLB 360)",
-    "short_description": "Immersive audio\u2011visual tower experience that begins in a visitor centre and continues with a digital projection show inside the historic clock tower, coupled with panoramic viewing platforms overlooking Liverpool\u2019s waterfront.",
+    "short_description": "Immersive audio‑visual tower experience that begins in a visitor centre and continues with a digital projection show inside the historic clock tower, coupled with panoramic viewing platforms overlooking Liverpool’s waterfront.",
     "country": "United Kingdom",
     "region": "Merseyside",
-    "location_notes": "Guided tower tour and visitor centre in Liverpool\u2019s Royal Liver Building, starting from a dedicated lower\u2011ground visitor centre.",
+    "location_notes": "Guided tower tour and visitor centre in Liverpool’s Royal Liver Building, starting from a dedicated lower‑ground visitor centre.",
     "gateway_type": "urban_icon_gateway",
     "project_goal": [
       "educational_priming",
@@ -2119,7 +2118,7 @@
     "primary_tourism_context": "urban_iconic_landmark",
     "protected_area_relation": "",
     "sensitivity_level": "",
-    "implementation_stage": "operational",
+    "implementation_stage": "operating",
     "year_opened_or_announced": null,
     "operator_type": "",
     "managing_organisation": "Royal Liver Building / RLB 360 operators",
@@ -2175,597 +2174,6 @@
     "intervention_archetype": [
       "immersive_substitution_hub",
       "emotional_peak_gateway"
-    ],
-    "problem_fit": [
-      "infrastructure_overload",
-      "cultural_erosion"
-    ]
-  },
-  {
-    "schema_version": "1.0.0",
-    "project_id": "ITFG_0030",
-    "project_name": "Brú na Bóinne Visitor Centre (Newgrange and Knowth)",
-    "short_description": "Visitor centre for the Brú na Bóinne World Heritage Site that concentrates arrivals, explains the Neolithic landscape and controls access to the Newgrange and Knowth passage tombs via shuttle buses and guided tours.",
-    "country": "Ireland",
-    "region": "County Meath",
-    "location_notes": "Purpose-built visitor centre for the Brú na Bóinne World Heritage Site; starting point for all visits to Newgrange and Knowth, with access only via shuttle buses and guided tours.",
-    "gateway_type": "visitor_centre",
-    "project_goal": [
-      "flow_redirection",
-      "educational_priming",
-      "arrival_expectation_setting"
-    ],
-    "methods_used": [
-      "immersive_substitution",
-      "behavioural_narrative_priming",
-      "spatial_storytelling_navigation"
-    ],
-    "media_format": [
-      "interactive_installation",
-      "360_degree_projection"
-    ],
-    "implementation_stage": "operating",
-    "year_opened_or_announced": null,
-    "producer_operating_entity": "Office of Public Works (OPW), Ireland",
-    "sustainability_context": {
-      "biodiversity_goal": "Reduce pressure on the fragile passage tombs by concentrating visitors in a controlled centre and framing visits through guided, timed access.",
-      "emissions_goal": "",
-      "standards_certifications": [],
-      "notes": ""
-    },
-    "measurable_effects": {
-      "traffic_reduction_sensitive_zones_pct": null,
-      "increase_alt_attractions_pct": null,
-      "timeslot_redistribution_notes": "",
-      "behaviour_compliance_rate_pct": null,
-      "awareness_uplift_metric": "",
-      "substitution_rate_pct": null
-    },
-    "measurement_methods_used": [],
-    "effectiveness_studies_available": false,
-    "effectiveness_studies_refs": [],
-    "reference_urls": [
-      "https://heritageireland.ie/places-to-visit/bru-na-boinne-visitor-centre-newgrange-knowth-and-dowth/",
-      "https://eirex.ie/attraction/bru-na-boinne-visitor-centre-newgrange-and-knowth/",
-      "https://www.gov.ie/en/office-of-public-works/press-releases/br%C3%BA-na-boinne-visitor-centre-recognised-for-architectural-excellence-in-deep-surfaces-exhibition-in-venice-italy/"
-    ],
-    "notes": "",
-    "date_added": "2025-11-18T00:00:00Z",
-    "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://heritageireland.ie/places-to-visit/bru-na-boinne-visitor-centre-newgrange-knowth-and-dowth/",
-    "intervention_archetype": [
-      "immersive_substitution_hub",
-      "logistics_flow_hub",
-      "emotional_peak_gateway"
-    ],
-    "problem_fit": [
-      "ecosystem_stress",
-      "biodiversity_loss",
-      "infrastructure_overload",
-      "cultural_erosion"
-    ]
-  },
-  {
-    "schema_version": "1.0.0",
-    "project_id": "ITFG_0031",
-    "project_name": "Visitor Centre, Centennial Hall (Hala Stulecia)",
-    "short_description": "Interactive multimedia visitor centre that uses exhibits, film, sound and VR tours to introduce visitors to the history and architecture of Centennial Hall before they explore the UNESCO-listed complex.",
-    "country": "Poland",
-    "region": "Lower Silesia",
-    "location_notes": "Visitor centre at the Centennial Hall complex in Wrocław, acting as a tourist gateway to the monument and its surroundings.",
-    "gateway_type": "urban_gateway",
-    "project_goal": [
-      "flow_redirection",
-      "educational_priming"
-    ],
-    "methods_used": [
-      "immersive_substitution",
-      "spatial_storytelling_navigation"
-    ],
-    "media_format": [
-      "interactive_installation",
-      "virtual_reality"
-    ],
-    "implementation_stage": "operating",
-    "year_opened_or_announced": null,
-    "producer_operating_entity": "Centennial Hall (Hala Stulecia) management",
-    "sustainability_context": {
-      "biodiversity_goal": "",
-      "emissions_goal": "",
-      "standards_certifications": [],
-      "notes": "Supports controlled exploration of a UNESCO World Heritage urban monument through mediated experiences."
-    },
-    "measurable_effects": {
-      "traffic_reduction_sensitive_zones_pct": null,
-      "increase_alt_attractions_pct": null,
-      "timeslot_redistribution_notes": "",
-      "behaviour_compliance_rate_pct": null,
-      "awareness_uplift_metric": "",
-      "substitution_rate_pct": null
-    },
-    "measurement_methods_used": [],
-    "effectiveness_studies_available": false,
-    "effectiveness_studies_refs": [],
-    "reference_urls": [
-      "https://halastulecia.pl/en/sightseeing/visitor-centre/",
-      "https://artsandculture.google.com/story/GAWhbF3rj8ackg"
-    ],
-    "notes": "",
-    "date_added": "2025-11-18T00:00:00Z",
-    "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://halastulecia.pl/en/sightseeing/visitor-centre/",
-    "intervention_archetype": [
-      "immersive_substitution_hub",
-      "intro_context_gateway"
-    ],
-    "problem_fit": [
-      "infrastructure_overload",
-      "cultural_erosion"
-    ]
-  },
-  {
-    "schema_version": "1.0.0",
-    "project_id": "ITFG_0032",
-    "project_name": "WWF Living Planet Centre (WWF Experience)",
-    "short_description": "Highly sustainable visitor centre with the WWF Experience: four immersive zones that introduce visitors to forests, rivers, oceans and wildlife while linking WWF’s campaigns to everyday behaviour and travel choices.",
-    "country": "United Kingdom",
-    "region": "Surrey",
-    "location_notes": "WWF-UK headquarters and public visitor centre in Woking, designed as a showcase green building with immersive education zones.",
-    "gateway_type": "visitor_centre",
-    "project_goal": [
-      "behaviour_change",
-      "educational_priming"
-    ],
-    "methods_used": [
-      "immersive_substitution",
-      "behavioural_narrative_priming"
-    ],
-    "media_format": [
-      "interactive_installation"
-    ],
-    "implementation_stage": "operating",
-    "year_opened_or_announced": null,
-    "producer_operating_entity": "WWF-UK",
-    "sustainability_context": {
-      "biodiversity_goal": "Connect visitors emotionally to global ecosystems and endangered species, motivating long-term support and behaviour change.",
-      "emissions_goal": "",
-      "standards_certifications": [],
-      "notes": ""
-    },
-    "measurable_effects": {
-      "traffic_reduction_sensitive_zones_pct": null,
-      "increase_alt_attractions_pct": null,
-      "timeslot_redistribution_notes": "",
-      "behaviour_compliance_rate_pct": null,
-      "awareness_uplift_metric": "",
-      "substitution_rate_pct": null
-    },
-    "measurement_methods_used": [],
-    "effectiveness_studies_available": false,
-    "effectiveness_studies_refs": [],
-    "reference_urls": [
-      "https://www.wwf.org.uk/get-involved/living-planet-centre",
-      "https://www.wwf.org.uk/get-involved/living-planet-centre/the-wwf-experience"
-    ],
-    "notes": "",
-    "date_added": "2025-11-18T00:00:00Z",
-    "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://www.wwf.org.uk/get-involved/living-planet-centre/the-wwf-experience",
-    "intervention_archetype": [
-      "behaviour_priming_gateway"
-    ],
-    "problem_fit": [
-      "ecosystem_stress",
-      "biodiversity_loss",
-      "plastic_pollution",
-      "water_stress",
-      "ngo_pressure"
-    ]
-  },
-  {
-    "schema_version": "1.0.0",
-    "project_id": "ITFG_0033",
-    "project_name": "The Sill: National Landscape Discovery Centre (Hadrian’s Wall)",
-    "short_description": "Landscape discovery centre that introduces visitors to the ecology, geology and culture of the Northumberland National Park and Hadrian’s Wall corridor, acting as a hub for low-impact walks and routes.",
-    "country": "United Kingdom",
-    "region": "Northumberland",
-    "location_notes": "Gateway hub near Hadrian’s Wall, combining exhibitions, rooftop viewpoints and visitor information for the surrounding protected landscape.",
-    "gateway_type": "ecological_gateway",
-    "project_goal": [
-      "flow_redirection",
-      "educational_priming",
-      "arrival_expectation_setting"
-    ],
-    "methods_used": [
-      "spatial_storytelling_navigation",
-      "content_driven_routing"
-    ],
-    "media_format": [
-      "interactive_installation"
-    ],
-    "implementation_stage": "operating",
-    "year_opened_or_announced": null,
-    "producer_operating_entity": "Northumberland National Park Authority",
-    "sustainability_context": {
-      "biodiversity_goal": "Encourage visitors to explore the wider landscape via marked trails and sustainable routes, reducing pressure on the most fragile sections of Hadrian’s Wall.",
-      "emissions_goal": "",
-      "standards_certifications": [],
-      "notes": ""
-    },
-    "measurable_effects": {
-      "traffic_reduction_sensitive_zones_pct": null,
-      "increase_alt_attractions_pct": null,
-      "timeslot_redistribution_notes": "",
-      "behaviour_compliance_rate_pct": null,
-      "awareness_uplift_metric": "",
-      "substitution_rate_pct": null
-    },
-    "measurement_methods_used": [],
-    "effectiveness_studies_available": false,
-    "effectiveness_studies_refs": [],
-    "reference_urls": [
-      "https://www.thesill.org.uk/",
-      "https://www.northumberlandnationalpark.org.uk/places-to-visit/the-sill/"
-    ],
-    "notes": "",
-    "date_added": "2025-11-18T00:00:00Z",
-    "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://www.thesill.org.uk/",
-    "intervention_archetype": [
-      "intro_context_gateway",
-      "logistics_flow_hub"
-    ],
-    "problem_fit": [
-      "ecosystem_stress",
-      "biodiversity_loss",
-      "infrastructure_overload"
-    ]
-  },
-  {
-    "schema_version": "1.0.0",
-    "project_id": "ITFG_0034",
-    "project_name": "Lodgepole Visitor Center, Sequoia National Park",
-    "short_description": "Visitor centre for Sequoia National Park that interprets giant sequoia ecology, high-mountain landscapes and backcountry safety while acting as a hub for trails and shuttle connections.",
-    "country": "United States",
-    "region": "California",
-    "location_notes": "Lodgepole area of Sequoia National Park; main visitor centre and information hub for nearby groves and trails.",
-    "gateway_type": "ecological_gateway",
-    "project_goal": [
-      "flow_redirection",
-      "educational_priming",
-      "arrival_expectation_setting"
-    ],
-    "methods_used": [
-      "immersive_substitution",
-      "spatial_storytelling_navigation"
-    ],
-    "media_format": [
-      "interactive_installation",
-      "spatial_audio_environment"
-    ],
-    "implementation_stage": "operating",
-    "year_opened_or_announced": null,
-    "producer_operating_entity": "U.S. National Park Service",
-    "sustainability_context": {
-      "biodiversity_goal": "Help visitors understand the sensitivity of giant sequoia groves and alpine ecosystems before entering them.",
-      "emissions_goal": "",
-      "standards_certifications": [],
-      "notes": ""
-    },
-    "measurable_effects": {
-      "traffic_reduction_sensitive_zones_pct": null,
-      "increase_alt_attractions_pct": null,
-      "timeslot_redistribution_notes": "",
-      "behaviour_compliance_rate_pct": null,
-      "awareness_uplift_metric": "",
-      "substitution_rate_pct": null
-    },
-    "measurement_methods_used": [],
-    "effectiveness_studies_available": false,
-    "effectiveness_studies_refs": [],
-    "reference_urls": [
-      "https://www.nps.gov/thingstodo/visit-lodgepole-visitor-center.htm",
-      "https://www.healykohler.com/project/lodgepole-visitor-center/"
-    ],
-    "notes": "",
-    "date_added": "2025-11-18T00:00:00Z",
-    "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://www.nps.gov/thingstodo/visit-lodgepole-visitor-center.htm",
-    "intervention_archetype": [
-      "immersive_substitution_hub",
-      "intro_context_gateway"
-    ],
-    "problem_fit": [
-      "ecosystem_stress",
-      "biodiversity_loss"
-    ]
-  },
-  {
-    "schema_version": "1.0.0",
-    "project_id": "ITFG_0035",
-    "project_name": "Kents Cavern – Gateway Visitor Centre for the English Riviera UNESCO Global Geopark",
-    "short_description": "Prehistoric cave attraction and visitor centre that combines guided underground tours with exhibitions and education programmes, functioning as an underground gateway to the English Riviera Global Geopark.",
-    "country": "United Kingdom",
-    "region": "Devon",
-    "location_notes": "Show cave and visitor centre in Torquay, recognised as a gateway visitor centre for the English Riviera UNESCO Global Geopark.",
-    "gateway_type": "ecological_gateway",
-    "project_goal": [
-      "flow_redirection",
-      "educational_priming"
-    ],
-    "methods_used": [
-      "spatial_storytelling_navigation"
-    ],
-    "media_format": [
-      "interactive_installation",
-      "other"
-    ],
-    "implementation_stage": "operating",
-    "year_opened_or_announced": null,
-    "producer_operating_entity": "Kents Cavern / English Riviera UNESCO Global Geopark partners",
-    "sustainability_context": {
-      "biodiversity_goal": "Support careful use of cave environments and promote understanding of the wider geopark landscape.",
-      "emissions_goal": "",
-      "standards_certifications": [],
-      "notes": ""
-    },
-    "measurable_effects": {
-      "traffic_reduction_sensitive_zones_pct": null,
-      "increase_alt_attractions_pct": null,
-      "timeslot_redistribution_notes": "",
-      "behaviour_compliance_rate_pct": null,
-      "awareness_uplift_metric": "",
-      "substitution_rate_pct": null
-    },
-    "measurement_methods_used": [],
-    "effectiveness_studies_available": false,
-    "effectiveness_studies_refs": [],
-    "reference_urls": [
-      "https://www.englishrivierageopark.org.uk/section_main.cfm?section=14",
-      "https://www.kents-cavern.co.uk/plan-your-visit"
-    ],
-    "notes": "",
-    "date_added": "2025-11-18T00:00:00Z",
-    "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://www.englishrivierageopark.org.uk/section_main.cfm?section=14",
-    "intervention_archetype": [
-      "intro_context_gateway"
-    ],
-    "problem_fit": [
-      "infrastructure_overload",
-      "cultural_erosion"
-    ]
-  },
-  {
-    "schema_version": "1.0.0",
-    "project_id": "ITFG_0036",
-    "project_name": "World Nature Forum (WNF Visitor Centre, Swiss Alps Jungfrau-Aletsch)",
-    "short_description": "World Nature Forum visitor centre with panorama cinema, interactive stations and models that explain the Jungfrau–Aletsch World Heritage landscape and climate change before visitors head into the high-alpine area.",
-    "country": "Switzerland",
-    "region": "Valais",
-    "location_notes": "Experience museum and visitor centre in Naters serving as the base camp for the Swiss Alps Jungfrau–Aletsch UNESCO World Heritage Site.",
-    "gateway_type": "ecological_gateway",
-    "project_goal": [
-      "educational_priming",
-      "behaviour_change"
-    ],
-    "methods_used": [
-      "immersive_substitution",
-      "behavioural_narrative_priming"
-    ],
-    "media_format": [
-      "360_degree_projection",
-      "interactive_installation"
-    ],
-    "implementation_stage": "operating",
-    "year_opened_or_announced": null,
-    "producer_operating_entity": "UNESCO World Heritage Swiss Alps Jungfrau–Aletsch management",
-    "sustainability_context": {
-      "biodiversity_goal": "Raise awareness of fragile high-alpine ecosystems and climate impacts, and steer visitors towards respectful behaviour in the world heritage area.",
-      "emissions_goal": "",
-      "standards_certifications": [],
-      "notes": ""
-    },
-    "measurable_effects": {
-      "traffic_reduction_sensitive_zones_pct": null,
-      "increase_alt_attractions_pct": null,
-      "timeslot_redistribution_notes": "",
-      "behaviour_compliance_rate_pct": null,
-      "awareness_uplift_metric": "",
-      "substitution_rate_pct": null
-    },
-    "measurement_methods_used": [],
-    "effectiveness_studies_available": false,
-    "effectiveness_studies_refs": [],
-    "reference_urls": [
-      "https://wnf.ch/en/home-en/",
-      "https://www.myswitzerland.com/en-gb/experiences/world-nature-forum/"
-    ],
-    "notes": "",
-    "date_added": "2025-11-18T00:00:00Z",
-    "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://wnf.ch/en/home-en/",
-    "intervention_archetype": [
-      "immersive_substitution_hub",
-      "behaviour_priming_gateway"
-    ],
-    "problem_fit": [
-      "ecosystem_stress",
-      "biodiversity_loss",
-      "infrastructure_overload"
-    ]
-  },
-  {
-    "schema_version": "1.0.0",
-    "project_id": "ITFG_0037",
-    "project_name": "Malaga Oceanographic Visitor Centre (former Aula del Mar)",
-    "short_description": "Planned oceanographic museum and visitor hub with immersive undersea imagery and VR experiences focused on Mediterranean marine biodiversity and sustainable coastal tourism.",
-    "country": "Spain",
-    "region": "Andalusia",
-    "location_notes": "Planned oceanographic visitor centre on Malaga’s waterfront, reusing the former Aula del Mar site.",
-    "gateway_type": "ecological_gateway",
-    "project_goal": [
-      "educational_priming",
-      "behaviour_change"
-    ],
-    "methods_used": [
-      "immersive_substitution",
-      "behavioural_narrative_priming"
-    ],
-    "media_format": [
-      "virtual_reality",
-      "interactive_installation"
-    ],
-    "implementation_stage": "planned",
-    "year_opened_or_announced": null,
-    "producer_operating_entity": "Local authorities and partners in Malaga",
-    "sustainability_context": {
-      "biodiversity_goal": "Encourage better understanding of Mediterranean marine ecosystems and reduce pressure on vulnerable coastal and marine areas.",
-      "emissions_goal": "",
-      "standards_certifications": [],
-      "notes": ""
-    },
-    "measurable_effects": {
-      "traffic_reduction_sensitive_zones_pct": null,
-      "increase_alt_attractions_pct": null,
-      "timeslot_redistribution_notes": "",
-      "behaviour_compliance_rate_pct": null,
-      "awareness_uplift_metric": "",
-      "substitution_rate_pct": null
-    },
-    "measurement_methods_used": [],
-    "effectiveness_studies_available": false,
-    "effectiveness_studies_refs": [],
-    "reference_urls": [
-      "https://www.experienceuk.org/blog/malaga-set-to-open-a-futuristic-oceanographic-visitor-centre"
-    ],
-    "notes": "",
-    "date_added": "2025-11-18T00:00:00Z",
-    "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://www.experienceuk.org/blog/malaga-set-to-open-a-futuristic-oceanographic-visitor-centre",
-    "intervention_archetype": [
-      "immersive_substitution_hub",
-      "behaviour_priming_gateway"
-    ],
-    "problem_fit": [
-      "ecosystem_stress",
-      "biodiversity_loss",
-      "plastic_pollution",
-      "water_stress",
-      "infrastructure_overload"
-    ]
-  },
-  {
-    "schema_version": "1.0.0",
-    "project_id": "ITFG_0038",
-    "project_name": "New Lanark Visitor Centre and New Lanark Experience",
-    "short_description": "Visitor centre and New Lanark Experience combining immersive exhibits, the Annie McLeod ride and galleries to tell the story of the industrial village before visitors explore the wider site and Falls of Clyde.",
-    "country": "United Kingdom",
-    "region": "South Lanarkshire",
-    "location_notes": "Visitor centre and attraction within the New Lanark UNESCO World Heritage mill village on the River Clyde.",
-    "gateway_type": "urban_gateway",
-    "project_goal": [
-      "educational_priming",
-      "arrival_expectation_setting"
-    ],
-    "methods_used": [
-      "immersive_substitution",
-      "spatial_storytelling_navigation"
-    ],
-    "media_format": [
-      "interactive_installation",
-      "other"
-    ],
-    "implementation_stage": "operating",
-    "year_opened_or_announced": null,
-    "producer_operating_entity": "New Lanark Trust",
-    "sustainability_context": {
-      "biodiversity_goal": "",
-      "emissions_goal": "",
-      "standards_certifications": [],
-      "notes": "Supports controlled visitor flows through a compact heritage village and surrounding nature."
-    },
-    "measurable_effects": {
-      "traffic_reduction_sensitive_zones_pct": null,
-      "increase_alt_attractions_pct": null,
-      "timeslot_redistribution_notes": "",
-      "behaviour_compliance_rate_pct": null,
-      "awareness_uplift_metric": "",
-      "substitution_rate_pct": null
-    },
-    "measurement_methods_used": [],
-    "effectiveness_studies_available": false,
-    "effectiveness_studies_refs": [],
-    "reference_urls": [
-      "https://newlanark.org/",
-      "https://newlanark.org/your-visit/what-to-see/annie-mcleod-experience/"
-    ],
-    "notes": "",
-    "date_added": "2025-11-18T00:00:00Z",
-    "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://newlanark.org/",
-    "intervention_archetype": [
-      "immersive_substitution_hub",
-      "intro_context_gateway"
-    ],
-    "problem_fit": [
-      "infrastructure_overload",
-      "cultural_erosion",
-      "housing_pressure"
-    ]
-  },
-  {
-    "schema_version": "1.0.0",
-    "project_id": "ITFG_0039",
-    "project_name": "Royal Liver Building 360 (RLB 360)",
-    "short_description": "Immersive tower experience that begins in a visitor centre and continues with a projection show inside the historic clock tower, combined with panoramic viewing platforms over Liverpool’s waterfront.",
-    "country": "United Kingdom",
-    "region": "Merseyside",
-    "location_notes": "Guided tower tour and visitor centre in Liverpool’s Royal Liver Building, starting from a dedicated lower-ground visitor centre.",
-    "gateway_type": "urban_gateway",
-    "project_goal": [
-      "educational_priming",
-      "arrival_expectation_setting"
-    ],
-    "methods_used": [
-      "immersive_substitution",
-      "spatial_storytelling_navigation",
-      "emotional_peak_relocation"
-    ],
-    "media_format": [
-      "360_degree_projection",
-      "interactive_installation"
-    ],
-    "implementation_stage": "operating",
-    "year_opened_or_announced": null,
-    "producer_operating_entity": "Heritage Great Britain (operator of RLB 360)",
-    "sustainability_context": {
-      "biodiversity_goal": "",
-      "emissions_goal": "",
-      "standards_certifications": [],
-      "notes": "Acts as a structured, guided way to experience a landmark building and its views without unregulated rooftop access."
-    },
-    "measurable_effects": {
-      "traffic_reduction_sensitive_zones_pct": null,
-      "increase_alt_attractions_pct": null,
-      "timeslot_redistribution_notes": "",
-      "behaviour_compliance_rate_pct": null,
-      "awareness_uplift_metric": "",
-      "substitution_rate_pct": null
-    },
-    "measurement_methods_used": [],
-    "effectiveness_studies_available": false,
-    "effectiveness_studies_refs": [],
-    "reference_urls": [
-      "https://rlb360.com/"
-    ],
-    "notes": "",
-    "date_added": "2025-11-18T00:00:00Z",
-    "date_last_verified": "2025-11-18T00:00:00Z",
-    "source_last_checked": "https://rlb360.com/",
-    "intervention_archetype": [
-      "emotional_peak_gateway",
-      "intro_context_gateway"
     ],
     "problem_fit": [
       "infrastructure_overload",
