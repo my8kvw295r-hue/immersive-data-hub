@@ -8,11 +8,11 @@
     "schema_version": {
       "type": "string",
       "description": "Version tag of the schema used for this record.",
-      "default": "1.0.0"
+      "default": "1.1.0"
     },
     "project_id": {
       "type": "string",
-      "description": "Ascending internal identifier in the form ITFG_0001, ITFG_0002, \u2026 (prefix ITFG_ plus four digits).",
+      "description": "Ascending internal identifier in the form ITFG_0001, ITFG_0002, … (prefix ITFG_ plus four digits).",
       "pattern": "^ITFG_[0-9]{4}$"
     },
     "project_name": {
@@ -21,7 +21,7 @@
     },
     "short_description": {
       "type": "string",
-      "description": "1\u20133 sentence description of the project\u2019s purpose and character."
+      "description": "1–3 sentence description of the project’s purpose and character."
     },
     "country": {
       "type": "string",
@@ -45,7 +45,15 @@
         "ecological_gateway",
         "visitor_centre",
         "virtual_gateway",
-        "other"
+        "other",
+        "alpine_heritage_gateway",
+        "geopark_gateway",
+        "heritage_gateway",
+        "marine_gateway",
+        "national_park_gateway",
+        "sustainability_gateway",
+        "urban_heritage_gateway",
+        "urban_icon_gateway"
       ]
     },
     "project_goal": {
@@ -60,7 +68,8 @@
           "physical_impact_replacement",
           "educational_priming",
           "conservation_support",
-          "arrival_expectation_setting"
+          "arrival_expectation_setting",
+          "behavioural_priming_only"
         ]
       },
       "uniqueItems": true
@@ -98,7 +107,14 @@
           "digital_twin_simulation",
           "projection_mapping",
           "interactive_installation",
-          "other"
+          "other",
+          "AV_show",
+          "VR_experience",
+          "guided_tour",
+          "immersive_theatre",
+          "interactive_exhibition",
+          "ride_experience",
+          "soundscape_experience"
         ]
       },
       "uniqueItems": true
