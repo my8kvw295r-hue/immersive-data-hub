@@ -148,3 +148,11 @@ Future iterations will include:
 If you use this dataset, please cite:
 
 Creative Directors for Immersive Media (Pilot Version), curated by Martin Sambauer (martin-sambauer.com). Part of the Immersive Datasets repository. Licensed under CC BY 4.0.
+
+## Knowledge Graph Reference
+
+This dataset is part of the Immersive Datasets library by Martin Sambauer.  
+For semantic context and machine-readable metadata, see the root-level knowledge graph:
+
+[martin-sambauer-knowledge-graph.json](../../martin-sambauer-knowledge-graph.json)
+
