@@ -1,5 +1,13 @@
 ## Methodology for the Dataset
 
+## AI Data Handling Rules
+
+* No hallucinations — only verifiable, real-world data from reliable sources may be used.
+* No duplicates — all dataset entries and labels must remain free of double entries.
+* No schema deviations — all fields must strictly follow the schema.  
+  Exceptions are only allowed if the user is explicitly asked beforehand and grants clear permission.
+
+
 This methodology defines how projects are researched, validated, classified, and recorded for the dataset Immersive_Tourist_Flow_Gateways. The goal is to document immersive gateway systems that guide, redirect, modulate, or replace tourist flows using spatial storytelling, behavioural cues, and technological interventions. The approach is directly aligned with the framework described in the article on martin-sambauer.com about Origins of Wonder.
 
 ## 1. Scope
