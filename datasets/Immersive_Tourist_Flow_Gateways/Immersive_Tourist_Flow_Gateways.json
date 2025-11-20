@@ -3416,5 +3416,1115 @@
     "problem_fit": [
       "cultural_erosion"
     ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0050",
+    "project_name": "5G Smart Tourism – Roman Baths AR/VR Heritage Trial",
+    "short_description": "Prototype 5G-enabled mobile app experience at the Roman Baths in Bath, UK, using augmented and virtual reality overlays to let visitors see the site through different historical periods along a timed route.",
+    "country": "United Kingdom",
+    "region": "England",
+    "location_notes": "Roman Baths, Bath city centre, World Heritage Site core area.",
+    "gateway_type": "urban_heritage_gateway",
+    "project_goal": [
+      "educational_priming",
+      "arrival_expectation_setting"
+    ],
+    "methods_used": [
+      "spatial_storytelling_navigation",
+      "temporal_redistribution"
+    ],
+    "media_format": [
+      "augmented_reality",
+      "virtual_reality",
+      "interactive_exhibition"
+    ],
+    "implementation_stage": "discontinued",
+    "year_opened_or_announced": 2018,
+    "producer_operating_entity": "West of England Combined Authority with BBC R&D and partners",
+    "sustainability_context": "Explored how 5G networks and immersive media could deliver richer interpretation without increasing physical pressure on sensitive archaeological fabric.",
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [
+      "post_experience_survey",
+      "qualitative_interviews"
+    ],
+    "effectiveness_studies_available": true,
+    "effectiveness_studies_refs": [
+      "https://www.gov.uk/government/case-studies/5g-smart-tourism",
+      "https://downloads.bbc.co.uk/rd/pubs/whp/whp-pdf-files/WHP348.pdf"
+    ],
+    "reference_urls": [
+      "https://www.gov.uk/government/case-studies/5g-smart-tourism",
+      "https://www.stayinbath.org/smart-tourism-trialled-in-bath/",
+      "https://www.westofengland-ca.gov.uk/what-we-do/innovation/5g-smart-tourism/"
+    ],
+    "notes": "Early large-scale 5G heritage testbed; framed as a model for future AR-enhanced visitor routing at UNESCO sites.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://www.gov.uk/government/case-studies/5g-smart-tourism",
+    "intervention_archetype": [
+      "intro_context_gateway",
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "infrastructure_overload",
+      "governance_lag"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0051",
+    "project_name": "Battle of Bannockburn Visitor Centre – 3D Battle Simulation",
+    "short_description": "Multi-award-winning visitor centre near Stirling using motion-capture driven 3D battle simulations and interactive planning tables to immerse visitors in the 1314 Battle of Bannockburn.",
+    "country": "United Kingdom",
+    "region": "Scotland",
+    "location_notes": "Battle of Bannockburn Visitor Centre, near Stirling, on the historic battlefield.",
+    "gateway_type": "heritage_gateway",
+    "project_goal": [
+      "educational_priming",
+      "arrival_expectation_setting"
+    ],
+    "methods_used": [
+      "spatial_storytelling_navigation",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "interactive_exhibition",
+      "immersive_theatre",
+      "projection_mapping"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": 2014,
+    "producer_operating_entity": "National Trust for Scotland with Electrosonic and partners",
+    "sustainability_context": "Channels interest in Scotland’s medieval warfare into a controlled, indoor simulation rather than impact on fragile landscape features and memorials.",
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [
+      "post_experience_survey"
+    ],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.nts.org.uk/visit/places/bannockburn/highlights/battle-of-bannockburn-experience",
+      "https://www.electrosonic.com/projects/battle-of-bannockburn-visitor-centre",
+      "https://www.visitscotland.com/info/see-do/the-battle-of-bannockburn-p247431"
+    ],
+    "notes": "Often cited as an early benchmark in large-scale immersive heritage simulation using game engines.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://www.nts.org.uk/visit/places/bannockburn/highlights/battle-of-bannockburn-experience",
+    "intervention_archetype": [
+      "intro_context_gateway",
+      "emotional_peak_gateway"
+    ],
+    "problem_fit": [
+      "cultural_erosion",
+      "biodiversity_loss"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0052",
+    "project_name": "Time Travel in the Blaenavon World Heritage Site – VR & Time Travellers’ Benches",
+    "short_description": "360° VR films and dedicated benches across Blaenavon World Heritage Site allowing visitors to ‘time travel’ into scenes from the industrial revolution, using mobile devices or headsets to access stories of real historical residents.",
+    "country": "United Kingdom",
+    "region": "Wales",
+    "location_notes": "Blaenavon World Heritage Centre, Big Pit National Coal Museum and Blaenavon Heritage Town.",
+    "gateway_type": "urban_heritage_gateway",
+    "project_goal": [
+      "educational_priming",
+      "behaviour_change",
+      "arrival_expectation_setting"
+    ],
+    "methods_used": [
+      "content_driven_routing",
+      "spatial_storytelling_navigation"
+    ],
+    "media_format": [
+      "virtual_reality",
+      "interactive_exhibition",
+      "guided_tour"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": 2018,
+    "producer_operating_entity": "Torfaen County Borough Council with Big Pit National Coal Museum and partners",
+    "sustainability_context": "Encourages visitors to dwell in specific interpretation points and benches rather than dispersing unsafely across industrial structures and steep terrain.",
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [
+      "post_experience_survey"
+    ],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.visitblaenavon.co.uk/en/visit-blaenavon/time-travel-in-the-blaenavon-world-heritage-site/step-into-the-heart-of-iron-and-coal",
+      "https://www.wales247.co.uk/new-360%E2%81%B0-vr-experience-transports-visitors-back-in-time-at-blaenavon-world-heritage-site",
+      "https://www.figmentproductions.co.uk/index.php/pf/blaenavon-vr/"
+    ],
+    "notes": "Uses benches as simple, low-friction physical gateways that trigger immersive VR content linked to nearby industrial heritage features.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://www.visitblaenavon.co.uk/en/visit-blaenavon/time-travel-in-the-blaenavon-world-heritage-site/step-into-the-heart-of-iron-and-coal",
+    "intervention_archetype": [
+      "intro_context_gateway",
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "cultural_erosion",
+      "ecosystem_stress"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0053",
+    "project_name": "Audience with a Hero – Conversational VR at the National Holocaust Centre",
+    "short_description": "Conversational VR system that lets visitors ‘meet’ life-sized digital witnesses, asking questions and receiving pre-recorded answers to preserve Holocaust survivor testimony for future generations.",
+    "country": "United Kingdom",
+    "region": "England",
+    "location_notes": "National Holocaust Centre and Museum, Nottinghamshire, with deployments at partner venues.",
+    "gateway_type": "heritage_gateway",
+    "project_goal": [
+      "educational_priming",
+      "behaviour_change"
+    ],
+    "methods_used": [
+      "behavioural_narrative_priming",
+      "content_driven_routing"
+    ],
+    "media_format": [
+      "VR_experience",
+      "interactive_installation"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": 2015,
+    "producer_operating_entity": "National Holocaust Centre and Museum with Bright White and academic partners",
+    "sustainability_context": "Preserves access to first-person testimony without relying on increasingly scarce in-person survivor visits, while deepening understanding of human rights and discrimination.",
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [
+      "controlled_study",
+      "qualitative_interviews"
+    ],
+    "effectiveness_studies_available": true,
+    "effectiveness_studies_refs": [
+      "https://link.springer.com/chapter/10.1007/978-3-031-30566-5_9"
+    ],
+    "reference_urls": [
+      "https://audienceofthefuture.live/dir-audience-with-a-hero/",
+      "https://gtr.ukri.org/project/ED7202FD-EA36-430E-9885-E6B82D8ADEA0",
+      "https://www.brightwhiteltd.co.uk/audience-with-a-hero-innovateuk/"
+    ],
+    "notes": "Frequently cited as a landmark in conversational immersive storytelling for museums and remembrance sites.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://audienceofthefuture.live/dir-audience-with-a-hero/",
+    "intervention_archetype": [
+      "behaviour_priming_gateway",
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "cultural_erosion",
+      "social_conflict_protests",
+      "ngo_pressure"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0054",
+    "project_name": "Digital Dunhuang Immersive Exhibition Hall – Mogao Cave 285 VR",
+    "short_description": "On-site digital exhibition hall at the Mogao Caves where visitors use VR headsets to explore a normally closed cave in 360 degrees, viewing high-fidelity reconstructions of murals and sculptures.",
+    "country": "China",
+    "region": "Gansu Province",
+    "location_notes": "Digital exhibition hall within Mogao Grottoes Scenic Area near Dunhuang.",
+    "gateway_type": "heritage_gateway",
+    "project_goal": [
+      "physical_impact_replacement",
+      "educational_priming",
+      "conservation_support"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "content_driven_routing"
+    ],
+    "media_format": [
+      "virtual_reality",
+      "interactive_exhibition"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": 2024,
+    "producer_operating_entity": "Dunhuang Academy with technology partners",
+    "sustainability_context": "Allows broader access to Cave 285 and other fragile interiors while reducing direct footfall and light exposure inside the original caves.",
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [
+      "visitor_routing_tracking"
+    ],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://english.news.cn/20240729/f542ee0d692c45b4bff2ffdb77558d01/c.html",
+      "https://english.www.gov.cn/news/202407/03/content_WS6684bf64c6d0868f4e8e8ced.html"
+    ],
+    "notes": "Part of a wider Digital Dunhuang strategy combining volumetric scanning, VR and digital replicas.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://english.news.cn/20240729/f542ee0d692c45b4bff2ffdb77558d01/c.html",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "biodiversity_loss",
+      "cultural_erosion"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0055",
+    "project_name": "Digital Dunhuang Exhibition – Replica Cave 45 at the National Museum of China",
+    "short_description": "Travelling digital exhibition showcasing high-fidelity 3D printed replicas of Mogao Cave 45 and other assets, combined with projections and interactive media in Beijing.",
+    "country": "China",
+    "region": "Beijing Municipality",
+    "location_notes": "National Museum of China, Beijing; travelling versions used at other venues.",
+    "gateway_type": "virtual_gateway",
+    "project_goal": [
+      "physical_impact_replacement",
+      "educational_priming",
+      "conservation_support"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "spatial_storytelling_navigation"
+    ],
+    "media_format": [
+      "projection_mapping",
+      "interactive_exhibition"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": 2022,
+    "producer_operating_entity": "National Museum of China with Dunhuang Academy and partners",
+    "sustainability_context": "Offers an urban alternative gateway to Dunhuang heritage for millions of city residents, reducing pressure on the remote desert site itself.",
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://news.cgtn.com/news/2024-07-18/Discover-Dunhuang-s-timeless-beauty-through-3D-digital-restoration-1vkANoMo3yU/p.html",
+      "https://english.visitbeijing.com.cn/article/4H53iZ7GhId"
+    ],
+    "notes": "Demonstrates how full-scale replicas and digital projection can act as metropolitan gateways to remote World Heritage sites.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://news.cgtn.com/news/2024-07-18/Discover-Dunhuang-s-timeless-beauty-through-3D-digital-restoration-1vkANoMo3yU/p.html",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "infrastructure_overload"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0056",
+    "project_name": "Meet Dunhuang – Digital Immersive Exhibition at Meet You Museum",
+    "short_description": "Immersive art exhibition using high-resolution projection mapping and 3D laser carving to present over 200 recreated Dunhuang murals, coupled with lectures and educational programmes.",
+    "country": "China",
+    "region": "Shanghai",
+    "location_notes": "Meet You Museum, Shanghai, with touring versions in other cities.",
+    "gateway_type": "urban_heritage_gateway",
+    "project_goal": [
+      "educational_priming",
+      "conservation_support"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "emotional_peak_relocation"
+    ],
+    "media_format": [
+      "projection_mapping",
+      "interactive_exhibition",
+      "spatial_audio_environment"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": 2021,
+    "producer_operating_entity": "Meet You Museum / Beijing Zhong Chuang Tourism and Culture Group",
+    "sustainability_context": "Introduces Dunhuang iconography to large urban audiences, supporting interest in heritage while displacing some demand for long-distance travel to the desert region.",
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://meetyouart.com/meet-dunhuang",
+      "https://en.shio.gov.cn/TrueCMS//shxwbgs/voices/content/20241028224651323.html"
+    ],
+    "notes": "Part of a broader network of Meet You Museum immersive heritage shows in major Chinese cities.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://meetyouart.com/meet-dunhuang",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "emotional_peak_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "cultural_erosion"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0057",
+    "project_name": "Dunhuang Culture & Art Exhibition – Immersive Replicas in Beijing",
+    "short_description": "Large-scale exhibition condensing the essence of the Mogao Grottoes into a 3,000 m² space with multiple replicated caves, murals, sculptures and digital installations.",
+    "country": "China",
+    "region": "Beijing Municipality",
+    "location_notes": "Beijing Exhibition Center, temporary but large-scale Dunhuang showcase.",
+    "gateway_type": "virtual_gateway",
+    "project_goal": [
+      "educational_priming",
+      "physical_impact_replacement"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "emotional_peak_relocation"
+    ],
+    "media_format": [
+      "projection_mapping",
+      "interactive_exhibition"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": 2025,
+    "producer_operating_entity": "Dunhuang Academy with exhibition partners in Beijing",
+    "sustainability_context": "Acts as an urban stand-in for visiting Dunhuang, with detailed replicas and digital experiences that can absorb large visitor volumes far from the fragile desert site.",
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://govt.chinadaily.com.cn/s/202503/31/WS67ea33df498eec7e1f7333a1/spectacular-dunhuang-culture-and-art-exhibition-unveiled-in-beijing_1.html",
+      "https://www.globaltimes.cn/galleries/5710.html"
+    ],
+    "notes": "One of the largest Dunhuang-themed immersive exhibitions, combining replicas and digital media as a multi-cave gateway.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://govt.chinadaily.com.cn/s/202503/31/WS67ea33df498eec7e1f7333a1/spectacular-dunhuang-culture-and-art-exhibition-unveiled-in-beijing_1.html",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "infrastructure_overload"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0058",
+    "project_name": "Machu Picchu and the Golden Empires of Peru – VR Gateway Exhibition",
+    "short_description": "Blockbuster exhibition at the Australian Museum featuring artefacts from ancient Andean cultures and an optional VR flythrough of Machu Picchu as an add-on to the physical show.",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location_notes": "Australian Museum, Sydney; touring to other international venues.",
+    "gateway_type": "urban_heritage_gateway",
+    "project_goal": [
+      "educational_priming",
+      "physical_impact_replacement"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "emotional_peak_relocation"
+    ],
+    "media_format": [
+      "VR_experience",
+      "interactive_exhibition",
+      "projection_mapping"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": 2024,
+    "producer_operating_entity": "Australian Museum with NEON Global and Peruvian partners",
+    "sustainability_context": "Lets visitors experience Machu Picchu and broader Andean heritage in situ in Sydney, potentially diverting a fraction of long-haul demand away from the fragile Peruvian site.",
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://australian.museum/exhibition/machu-picchu/",
+      "https://www.neonglobal.com/en/machu-picchu-and-the-golden-empires-of-peru/",
+      "https://artsandculture.google.com/event/g11x203sdrv"
+    ],
+    "notes": "Example of a travelling immersive exhibition that combines VR with major artefacts to act as an off-site gateway to Machu Picchu.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://australian.museum/exhibition/machu-picchu/",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "emotional_peak_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "housing_pressure",
+      "cultural_erosion"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0059",
+    "project_name": "Machu Picchu: Journey to the Lost City – Touring VR Experience",
+    "short_description": "Standalone VR attraction offering a cinematic journey through Machu Picchu’s temples, plazas and mountain scenery, touring major cities as an alternative way to experience the site.",
+    "country": "United Kingdom",
+    "region": "England",
+    "location_notes": "Touring venues in Manchester, London and other cities worldwide.",
+    "gateway_type": "virtual_gateway",
+    "project_goal": [
+      "physical_impact_replacement",
+      "educational_priming"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "emotional_peak_relocation"
+    ],
+    "media_format": [
+      "VR_experience",
+      "spatial_audio_environment"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": 2025,
+    "producer_operating_entity": "Fever / NEON Global and partners",
+    "sustainability_context": "Provides a high-fidelity alternative to visiting Machu Picchu physically, potentially appealing to audiences unable or unwilling to travel to Peru.",
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://newsroom.feverup.com/en-GB/256655-groundbreaking-virtual-reality-experience-machu-picchu-journey-to-the-lost-city-debuts-in-the-uk/"
+    ],
+    "notes": "Part of a wave of large-scale ticketed VR heritage experiences positioned as sustainable ‘journeys’ to remote sites.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://newsroom.feverup.com/en-GB/256655-groundbreaking-virtual-reality-experience-machu-picchu-journey-to-the-lost-city-debuts-in-the-uk/",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "emotional_peak_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "infrastructure_overload"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0060",
+    "project_name": "Virtual Angkor – Web-Based Immersive Reconstruction of Angkor",
+    "short_description": "Scholarly 3D reconstruction of Angkor at its 13th-century peak, delivered as an immersive, explorable environment for classrooms and the general public.",
+    "country": "Cambodia",
+    "region": "Siem Reap and international (online)",
+    "location_notes": "Online platform and teaching tool accessible globally, focused on Angkor’s temple complex.",
+    "gateway_type": "virtual_gateway",
+    "project_goal": [
+      "educational_priming",
+      "physical_impact_replacement"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "spatial_storytelling_navigation"
+    ],
+    "media_format": [
+      "digital_twin_simulation",
+      "interactive_exhibition"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": 2018,
+    "producer_operating_entity": "Monash University and international research partners",
+    "sustainability_context": "Acts as an accessible preview and alternative for learners worldwide, potentially reducing pressure on Angkor while improving understanding of its history and spatial structure.",
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [
+      "controlled_study"
+    ],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.virtualangkor.com/",
+      "https://worldhistorycommons.org/virtual-angkor"
+    ],
+    "notes": "Widely cited in digital humanities as a model for web-based immersive reconstructions of heritage cities.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://www.virtualangkor.com/",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "infrastructure_overload",
+      "cultural_erosion"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0061",
+    "project_name": "Immersive Angkor Museum – 3D Virtual Museum in Siem Reap",
+    "short_description": "Planned large-scale immersive museum using 3D scans and projections to recreate Angkor’s temples and historical evolution indoors in Siem Reap.",
+    "country": "Cambodia",
+    "region": "Siem Reap Province",
+    "location_notes": "New immersive museum project in Siem Reap close to Angkor Archaeological Park.",
+    "gateway_type": "urban_heritage_gateway",
+    "project_goal": [
+      "educational_priming",
+      "physical_impact_replacement",
+      "conservation_support"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "emotional_peak_relocation",
+      "gateway_sequencing"
+    ],
+    "media_format": [
+      "360_degree_projection",
+      "interactive_exhibition",
+      "digital_twin_simulation"
+    ],
+    "implementation_stage": "planned",
+    "year_opened_or_announced": 2024,
+    "producer_operating_entity": "APSARA National Authority with Immersive Angkor and partners",
+    "sustainability_context": "Designed as an indoor gateway that can absorb high visitor volumes and present Angkor’s history with minimal additional impact on the archaeological park.",
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://cambodianess.com/article/immersive-museum-on-angkor-to-open-late-2025",
+      "https://www.southeastasianarchaeology.com/2024/01/18/angkor-temples-reimagined-in-upcoming-3d-virtual-museum/",
+      "https://www.cambodialifestyle.com/cambodias-groundbreaking-immersive-angkor-3d-virtual-museum/"
+    ],
+    "notes": "Illustrates how immersive museums around major World Heritage sites are being planned as buffers against overtourism.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://cambodianess.com/article/immersive-museum-on-angkor-to-open-late-2025",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "infrastructure_overload",
+      "governance_lag"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0062",
+    "project_name": "Reef Rescue VR – Interactive Reef Restoration Experience",
+    "short_description": "Location-based VR experience where groups of visitors virtually clean up a coral reef, plant coral fragments and restore marine habitats in a playful, game-like environment.",
+    "country": "Australia",
+    "region": "Queensland",
+    "location_notes": "Travelling and fixed VR installations themed around the Great Barrier Reef.",
+    "gateway_type": "marine_gateway",
+    "project_goal": [
+      "educational_priming",
+      "behaviour_change"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "VR_experience",
+      "interactive_installation",
+      "spatial_audio_environment"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": 2019,
+    "producer_operating_entity": "Reef Rescue VR and partners",
+    "sustainability_context": "Builds literacy about reef degradation and restoration without requiring every participant to dive on live coral reefs.",
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [
+      "post_experience_survey"
+    ],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.reefrescuevr.com/the-experience"
+    ],
+    "notes": "Uses multi-player game mechanics to turn conservation actions into a shared immersive experience.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://www.reefrescuevr.com/the-experience",
+    "intervention_archetype": [
+      "behaviour_priming_gateway",
+      "emotional_peak_gateway"
+    ],
+    "problem_fit": [
+      "biodiversity_loss",
+      "plastic_pollution",
+      "ecosystem_stress"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0063",
+    "project_name": "NOAA Coral Reef Ecosystems – Virtual Reality Dive Galleries",
+    "short_description": "Series of 360° virtual dive experiences that let users explore coral reef sanctuaries such as the Florida Keys and American Samoa via VR headsets or browsers.",
+    "country": "United States",
+    "region": "Various (Florida, American Samoa, others)",
+    "location_notes": "Online resource offered by NOAA’s National Marine Sanctuaries, also used in visitor centres and classrooms.",
+    "gateway_type": "virtual_gateway",
+    "project_goal": [
+      "educational_priming",
+      "physical_impact_replacement",
+      "conservation_support"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "content_driven_routing"
+    ],
+    "media_format": [
+      "VR_experience",
+      "guided_tour"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": 2019,
+    "producer_operating_entity": "NOAA Office of National Marine Sanctuaries",
+    "sustainability_context": "Provides a low-impact way to experience sensitive coral sanctuaries while communicating both threats and restoration efforts.",
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://sanctuaries.noaa.gov/education/teachers/coral-reef/virtual-reality.html"
+    ],
+    "notes": "Often used in education as a substitute for physical field trips to distant reefs.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://sanctuaries.noaa.gov/education/teachers/coral-reef/virtual-reality.html",
+    "intervention_archetype": [
+      "immersive_substitution_hub",
+      "intro_context_gateway"
+    ],
+    "problem_fit": [
+      "biodiversity_loss",
+      "ecosystem_stress",
+      "water_stress"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0064",
+    "project_name": "The Hydrous – Immerse 360 and Explore VR Ocean Education Experiences",
+    "short_description": "Evidence-based XR experiences that guide groups through virtual dives and marine science training scenarios, used in museums, schools and events to communicate ocean change.",
+    "country": "United States",
+    "region": "California",
+    "location_notes": "Deployed as touring and online XR programmes from The Hydrous.",
+    "gateway_type": "virtual_gateway",
+    "project_goal": [
+      "educational_priming",
+      "behaviour_change",
+      "conservation_support"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "VR_experience",
+      "interactive_installation"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": 2018,
+    "producer_operating_entity": "The Hydrous",
+    "sustainability_context": "Connects global audiences emotionally and cognitively to ocean ecosystems without requiring travel to remote dive sites.",
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [
+      "controlled_study",
+      "post_experience_survey"
+    ],
+    "effectiveness_studies_available": true,
+    "effectiveness_studies_refs": [
+      "https://thehydro.us/xr-experiences"
+    ],
+    "reference_urls": [
+      "https://thehydro.us/xr-experiences"
+    ],
+    "notes": "Has been used as a testbed for research into learning outcomes from immersive ocean education.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://thehydro.us/xr-experiences",
+    "intervention_archetype": [
+      "behaviour_priming_gateway",
+      "emotional_peak_gateway"
+    ],
+    "problem_fit": [
+      "biodiversity_loss",
+      "ecosystem_stress",
+      "plastic_pollution"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0065",
+    "project_name": "Virtual Reef – High-Resolution Coral Reef VR Transects",
+    "short_description": "Online and headset-based 360° VR transects of real coral reef sites captured in 4K, allowing close inspection of reef structures and species.",
+    "country": "Australia",
+    "region": "Queensland (Great Barrier Reef focus)",
+    "location_notes": "Virtual tours branded as the Virtual Reef and used by educators and the public worldwide.",
+    "gateway_type": "virtual_gateway",
+    "project_goal": [
+      "educational_priming",
+      "physical_impact_replacement"
+    ],
+    "methods_used": [
+      "immersive_substitution"
+    ],
+    "media_format": [
+      "VR_experience",
+      "guided_tour"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": 2017,
+    "producer_operating_entity": "ReefQuest Foundation",
+    "sustainability_context": "Lets viewers ‘swim’ through real reef environments without boats, flights or direct impact on coral ecosystems.",
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.reefquest.org/virtualreef"
+    ],
+    "notes": "One of the earliest attempts to systematically capture underwater VR transects for education and outreach.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://www.reefquest.org/virtualreef",
+    "intervention_archetype": [
+      "immersive_substitution_hub"
+    ],
+    "problem_fit": [
+      "biodiversity_loss",
+      "ecosystem_stress"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0066",
+    "project_name": "SEA LIFE Sydney Aquarium – Great Barrier Reef Immersive Exhibit",
+    "short_description": "Large-scale aquarium exhibit combining live animals with state-of-the-art projections and interactive displays that simulate a 24-hour cycle on the Great Barrier Reef.",
+    "country": "Australia",
+    "region": "New South Wales",
+    "location_notes": "SEA LIFE Sydney Aquarium, Darling Harbour.",
+    "gateway_type": "marine_gateway",
+    "project_goal": [
+      "educational_priming",
+      "conservation_support"
+    ],
+    "methods_used": [
+      "emotional_peak_relocation",
+      "content_driven_routing"
+    ],
+    "media_format": [
+      "360_degree_projection",
+      "interactive_exhibition",
+      "soundscape_experience"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": 2024,
+    "producer_operating_entity": "SEA LIFE Sydney Aquarium",
+    "sustainability_context": "Offers a dense, urban introduction to reef biodiversity that can motivate protective behaviour and act as a substitute for some long-haul reef trips.",
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.visitsealife.com/sydney/information/news/explore-the-great-barrier-reef/"
+    ],
+    "notes": "Combines physical tanks with digital storytelling to embed reef narratives in an urban leisure attraction.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://www.visitsealife.com/sydney/information/news/explore-the-great-barrier-reef/",
+    "intervention_archetype": [
+      "intro_context_gateway",
+      "emotional_peak_gateway"
+    ],
+    "problem_fit": [
+      "biodiversity_loss",
+      "ecosystem_stress"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0067",
+    "project_name": "David Attenborough’s Great Barrier Reef VR Dive",
+    "short_description": "Twenty-minute VR dive experience accompanying the television series, allowing participants to join David Attenborough aboard a submersible and explore reef habitats in stereoscopic 360°.",
+    "country": "Australia",
+    "region": "Queensland / international touring",
+    "location_notes": "Originally installed in select museums and venues; later distributed as a VR application.",
+    "gateway_type": "virtual_gateway",
+    "project_goal": [
+      "educational_priming",
+      "conservation_support"
+    ],
+    "methods_used": [
+      "immersive_substitution",
+      "behavioural_narrative_priming"
+    ],
+    "media_format": [
+      "VR_experience",
+      "spatial_audio_environment"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": 2016,
+    "producer_operating_entity": "Atlantic Productions with BBC and partners",
+    "sustainability_context": "Uses a high-profile presenter and cinematic VR to raise awareness of reef fragility and climate threats as an alternative to in-person visits.",
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://attenboroughsreef.com/vr_dive.php"
+    ],
+    "notes": "One of the earliest widely publicised environmental VR gateway experiences tied to a major documentary series.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://attenboroughsreef.com/vr_dive.php",
+    "intervention_archetype": [
+      "emotional_peak_gateway",
+      "behaviour_priming_gateway"
+    ],
+    "problem_fit": [
+      "biodiversity_loss",
+      "ecosystem_stress"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0068",
+    "project_name": "Visions of Nature – Mixed Reality Experience at the Natural History Museum",
+    "short_description": "Mixed reality experience that invites visitors to glimpse possible futures for the planet and reflect on their own environmental impact, as part of the museum’s Fixing Our Broken Planet programme.",
+    "country": "United Kingdom",
+    "region": "England",
+    "location_notes": "Natural History Museum, London.",
+    "gateway_type": "sustainability_gateway",
+    "project_goal": [
+      "behaviour_change",
+      "educational_priming"
+    ],
+    "methods_used": [
+      "behavioural_narrative_priming",
+      "emotional_peak_relocation"
+    ],
+    "media_format": [
+      "mixed_reality",
+      "interactive_exhibition"
+    ],
+    "implementation_stage": "operating",
+    "year_opened_or_announced": 2024,
+    "producer_operating_entity": "Natural History Museum, London",
+    "sustainability_context": "Frames climate change and biodiversity loss through immersive storytelling to encourage more sustainable visitor behaviour and advocacy.",
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [
+      "post_experience_survey"
+    ],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.nhm.ac.uk/press-office/press-releases/the-natural-history-museum-invites-you-to-glimpse-the-future-of-.html"
+    ],
+    "notes": "Part of a museum-wide advocacy programme using immersive media as a behaviour-change gateway.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://www.nhm.ac.uk/press-office/press-releases/the-natural-history-museum-invites-you-to-glimpse-the-future-of-.html",
+    "intervention_archetype": [
+      "behaviour_priming_gateway",
+      "emotional_peak_gateway"
+    ],
+    "problem_fit": [
+      "biodiversity_loss",
+      "water_stress",
+      "governance_lag"
+    ]
+  },
+  {
+    "schema_version": "1.1.0",
+    "project_id": "ITFG_0069",
+    "project_name": "Pompeii – Immersive Eruption Experience at the National Museum of Australia",
+    "short_description": "Immersive exhibition combining artefacts from Pompeii with large-scale projections, soundscapes and a recurring digital recreation of the AD 79 eruption of Vesuvius.",
+    "country": "Australia",
+    "region": "Australian Capital Territory",
+    "location_notes": "National Museum of Australia, Canberra.",
+    "gateway_type": "urban_heritage_gateway",
+    "project_goal": [
+      "educational_priming",
+      "emotional_peak_relocation"
+    ],
+    "methods_used": [
+      "emotional_peak_relocation",
+      "immersive_substitution"
+    ],
+    "media_format": [
+      "AV_show",
+      "immersive_theatre",
+      "interactive_exhibition"
+    ],
+    "implementation_stage": "discontinued",
+    "year_opened_or_announced": 2024,
+    "producer_operating_entity": "National Museum of Australia with Pompeii Archaeological Park and partners",
+    "sustainability_context": "Offers a dramatic indoor gateway to Pompeii’s story for Australasian audiences, reducing the need for long-haul museum groups to travel to Italy.",
+    "measurable_effects": {
+      "traffic_reduction_sensitive_zones_pct": null,
+      "increase_alt_attractions_pct": null,
+      "timeslot_redistribution_notes": "",
+      "behaviour_compliance_rate_pct": null,
+      "awareness_uplift_metric": "",
+      "substitution_rate_pct": null
+    },
+    "measurement_methods_used": [],
+    "effectiveness_studies_available": false,
+    "effectiveness_studies_refs": [],
+    "reference_urls": [
+      "https://www.news.com.au/national/nsw-act/immersive-pompeii-exhibition-opens-at-canberras-national-gallery-of-australia/news-story/94069584ddda2625c6d5b21ba5892596",
+      "https://www.theguardian.com/culture/2024/dec/17/a-volcanic-explosion-every-15-minutes-how-australias-museums-are-turning-to-tech-to-lure-us-in"
+    ],
+    "notes": "Illustrates how blockbuster immersive shows can reframe iconic archaeological disasters as emotional climate and heritage narratives.",
+    "date_added": "2025-11-20T00:00:00Z",
+    "date_last_verified": "2025-11-20T00:00:00Z",
+    "source_last_checked": "https://www.theguardian.com/culture/2024/dec/17/a-volcanic-explosion-every-15-minutes-how-australias-museums-are-turning-to-tech-to-lure-us-in",
+    "intervention_archetype": [
+      "emotional_peak_gateway",
+      "immersive_substitution_hub"
+    ],
+    "problem_fit": [
+      "ecosystem_stress",
+      "cultural_erosion"
+    ]
   }
 ]
