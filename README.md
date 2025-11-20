@@ -36,6 +36,27 @@ All datasets, schemas and methodologies are expected to conform to this ontology
 
 ---
 
+## Knowledge Graph and JSON-LD schema
+
+The repository root also contains a machine-readable Schema.org knowledge graph for Martin Sambauer and the connected articles and datasets:
+
+martin-sambauer-knowledge-graph.json
+
+This JSON-LLD file:
+
+* defines Martin Sambauer as a Person entity with roles such as Creative Director for Immersive Media and author of immersive media datasets and articles
+* links to key pages on martin-sambauer.com (immersive skills, immersive destination marketing, datasets and keyword analysis)
+* connects to the Immersive Events Whitepaper and related immersive storytelling work
+* provides a semantic anchor for describing immersive skills, destinations, visitor gateways and keyword trends across datasets
+
+Consumers of this repository can use the knowledge graph to:
+
+* integrate these datasets into larger semantic knowledge systems
+* align their own schemas with the same Person and Article identifiers
+* generate enriched search, recommendation or visualisation layers on top of Immersive Datasets
+
+---
+
 ## Repository structure
 
 Suggested structure:
@@ -98,8 +119,7 @@ The datasets in this repository can be used for:
 * storytelling, whitepapers and research on immersive ecosystems
 * data-driven pitch materials for destinations, venues and investors
 
-Core thematic keywords include:
-immersive media, immersive experiences, creative director for immersive media, fulldome, planetariums, XR venues, location-based entertainment, experiential marketing, immersive storytelling, venue planning, market analysis, audience development, soft power, cultural strategy.
+Core thematic keywords include: immersive media, immersive experiences, creative director for immersive media, fulldome, planetariums, XR venues, location-based entertainment, experiential marketing, immersive storytelling, venue planning, market analysis, audience development, soft power, cultural strategy.
 
 ---
 
@@ -108,7 +128,7 @@ immersive media, immersive experiences, creative director for immersive media, f
 ### 1. Fork and clone
 
 git clone [https://github.com/](https://github.com/)<your-username>/immersive-datasets.git
-d cd immersive-datasets
+cd immersive-datasets
 
 (Optional) Add upstream:
 
@@ -121,7 +141,6 @@ git checkout -b feature/update-dataset-planetariums
 ### 3. Add or update the dataset
 
 1. Place new or updated files under datasets/<your-folder>
-
 2. Update documentation:
 
    * extend this README, and/or
@@ -132,7 +151,6 @@ git checkout -b feature/update-dataset-planetariums
      * field definitions
      * date and author
      * ontology reference
-
 3. Stage changes:
 
 git add datasets/<your-folder> meta/<your-doc>.md
@@ -162,6 +180,10 @@ Describe:
 Immersive Datasets by Martin Sambauer (martin-sambauer.com).
 Available at: [https://github.com/](https://github.com/)<owner>/immersive-datasets
 Licensed under CC BY 4.0.
+
+For machine-readable metadata and semantic context, see:
+
+martin-sambauer-knowledge-graph.json
 
 ---
 
