@@ -94,3 +94,11 @@ This perspective follows the argumentation in the *Origins of Wonder* article: i
 
 Explore. repository folder · JSON · article with insights
 Licensing. CC BY 4.0 · © Martin Sambauer · martin-sambauer.com
+
+## Knowledge Graph Reference
+
+This dataset is part of the Immersive Datasets library by Martin Sambauer.  
+For semantic context and machine-readable metadata, see the root-level knowledge graph:
+
+[martin-sambauer-knowledge-graph.json](../../martin-sambauer-knowledge-graph.json)
+
