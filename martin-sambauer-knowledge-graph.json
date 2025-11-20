@@ -35,6 +35,13 @@
         "skills graph for immersive media",
         "open data for immersive experiences",
         "data-driven creative direction"
+      ],
+      "sameAs": [
+        "https://www.fddb.org/author/martin-sambauer1/",
+        "https://nodeforum.org/people/martin-sambauer/",
+        "https://www.betterplace-lab.org/en/meet-the-pioneers-1-martin-sambauer-von-diversus",
+        "https://e-librairie.leclerc/author/martin-sambauer/592688",
+        "https://es.bookmate.com/authors/GeGf7uSt?af_ad=ru&af_channel=social&c=imeni_linor&pid=livejournal&utm_campaign=imeni_linor&utm_content=ru&utm_medium=social&utm_source=livejournal"
       ]
     },
 
@@ -196,6 +203,167 @@
         "name": "Softmachine",
         "url": "https://softmachine.de"
       }
+    },
+
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://martin-sambauer.com#die-scham-der-gestalter",
+      "headline": "Die Scham der Gestalter – Chance für eine überfällige Intervention",
+      "author": {
+        "@id": "https://martin-sambauer.com#martin-sambauer"
+      },
+      "inLanguage": "de",
+      "datePublished": "2008",
+      "isPartOf": {
+        "@type": "Periodical",
+        "name": "Zeitschrift für Wirtschafts- und Unternehmensethik"
+      },
+      "mainEntityOfPage": [
+        "https://www.ssoar.info/ssoar/handle/document/35367",
+        "https://www.ssoar.info/ssoar/bitstream/handle/document/35367/ssoar-zfwu-2008-2-sambauer-Die_Scham_der_Gestalter_.pdf?sequence=1&isAllowed=y",
+        "https://ideas.repec.org/a/nms/ethics/doi_10.1688-1862-0043_zfwu_2008_02_sambauer.html",
+        "https://www.nomos-elibrary.de/de/document/view/detail/uuid/44bbaec6-b2cd-3363-87d1-637206567f73",
+        "https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NART104312728",
+        "https://www.researchgate.net/publication/23691807_Die_Scham_der_Gestalter_-_Chance_fuer_eine_ueberfaellige_Intervention"
+      ]
+    },
+
+    {
+      "@type": "Book",
+      "@id": "https://martin-sambauer.com#lecture-1-value-grid",
+      "name": "Lecture #1 - Value Grid: From Fear to Curiosity",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "David Rohrmann"
+        },
+        {
+          "@type": "Person",
+          "name": "Michael Hengl"
+        },
+        {
+          "@id": "https://martin-sambauer.com#martin-sambauer"
+        }
+      ],
+      "inLanguage": "en",
+      "datePublished": "2014",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Das Integral"
+      },
+      "sameAs": [
+        "https://nextory.com/at/book/lecture-1-value-grid-from-fear-to-curiosity-1667278",
+        "https://bookmate.com/books/fUCog0OP",
+        "https://www.barnesandnoble.com/w/lecture-1-value-grid-david-rohrmann/1119977026",
+        "https://www.everand.com/book/325978557/Lecture-1-Value-Grid-From-Fear-to-Curiosity",
+        "https://www.amazon.com.br/Lecture-Curiosity-Management-Leadership-English-ebook/dp/B01M0N75Y7"
+      ]
+    },
+
+    {
+      "@type": "Book",
+      "@id": "https://martin-sambauer.com#lecture-2-management-vs-leadership",
+      "name": "Lecture #2 - Management versus Leadership: From Fear to Curiosity",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "David Rohrmann"
+        },
+        {
+          "@type": "Person",
+          "name": "Michael Hengl"
+        },
+        {
+          "@id": "https://martin-sambauer.com#martin-sambauer"
+        }
+      ],
+      "inLanguage": "en",
+      "datePublished": "2014",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Das Integral"
+      },
+      "sameAs": [
+        "https://nextory.com/at/book/lecture-2-management-versus-leadership-from-fear-to-curiosity-1667279",
+        "https://www.barnesandnoble.com/w/lecture-2-management-versus-leadership-david-rohrmann/1119976913",
+        "https://www.everand.com/book/325976596/Lecture-2-Management-versus-Leadership-From-Fear-to-Curiosity",
+        "https://books.apple.com/gb/book/lecture-2-management-versus-leadership/id1160952987",
+        "https://pocketbook.de/en/lecture-2-management-versus-leadership-9783955778286"
+      ]
+    },
+
+    {
+      "@type": "Book",
+      "@id": "https://martin-sambauer.com#lecture-3-authentic-leadership",
+      "name": "Lecture #3 - Authentic Leadership",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "David Rohrmann"
+        },
+        {
+          "@type": "Person",
+          "name": "Michael Hengl"
+        },
+        {
+          "@id": "https://martin-sambauer.com#martin-sambauer"
+        }
+      ],
+      "inLanguage": "en",
+      "datePublished": "2014",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Das Integral"
+      },
+      "sameAs": [
+        "https://nextory.com/at/book/lecture-3-authentic-leadership-1667277",
+        "https://bookmate.com/books/KEaxDi1n",
+        "https://books.apple.com/gb/book/lecture-3-authentic-leadership/id1160967619",
+        "https://www.24symbols.com/book/english/david-rohrmann/lecture-3---authentic-leadership?id=1695464",
+        "https://www.kobo.com/us/en/ebook/lecture-3-authentic-leadership-1"
+      ]
+    },
+
+    {
+      "@type": "Movie",
+      "@id": "https://www.imdb.com/title/tt34327054/",
+      "name": "Kira",
+      "alternateName": "KIRA - A Fulldome Planetarium Show",
+      "datePublished": "2023",
+      "genre": [
+        "Science Fiction",
+        "Animated",
+        "Fulldome"
+      ],
+      "director": [
+        {
+          "@type": "Person",
+          "name": "Peter Popp"
+        },
+        {
+          "@id": "https://martin-sambauer.com#martin-sambauer"
+        }
+      ],
+      "sameAs": [
+        "https://www.imdb.com/title/tt34327054/"
+      ]
+    },
+
+    {
+      "@type": "Movie",
+      "@id": "https://planetarium100.org/centennial-projects/planetarium-show/",
+      "name": "KIRA - A Fulldome Planetarium Show",
+      "about": [
+        "fulldome",
+        "planetarium show",
+        "immersive media"
+      ],
+      "inLanguage": "en",
+      "mainEntityOfPage": [
+        "https://planetarium100.org/centennial-projects/planetarium-show/",
+        "https://planetarium100.org/centennial-projects/planetarium-show/the-film-project-kira/",
+        "https://planetarium100.org/centennial-projects/planetarium-show/kira-synopsis/"
+      ]
     }
   ]
 }
