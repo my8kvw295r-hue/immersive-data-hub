@@ -1,0 +1,202 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://martin-sambauer.com#martin-sambauer",
+      "name": "Martin Sambauer",
+      "url": "https://martin-sambauer.com",
+      "jobTitle": [
+        "Creative Director for Immersive Media",
+        "Creative Director for Fulldome and Immersive Events",
+        "Creative Director of Softmachine",
+        "Writer and Author for Film Scripts"
+      ],
+      "description": "Creative Director for fulldome and immersive corporate events, working at the intersection of immersive experiences, data-driven storytelling, open datasets and film script writing for immersive formats.",
+      "image": "https://martin-sambauer.com/wp-content/uploads/2025/08/ms_cover4.webp",
+      "email": "mailto:m.sambauer@softmachine.de",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Softmachine",
+        "url": "https://softmachine.de"
+      },
+      "knowsAbout": [
+        "fulldome",
+        "immersive media",
+        "immersive experiences",
+        "immersive corporate events",
+        "immersive events",
+        "immersive storytelling",
+        "film script writing",
+        "screenwriting for immersive films",
+        "destination marketing",
+        "overtourism datasets",
+        "skills graph for immersive media",
+        "open data for immersive experiences",
+        "data-driven creative direction"
+      ]
+    },
+
+    {
+      "@type": ["Article", "Dataset"],
+      "@id": "https://martin-sambauer.com/immersive-skillgraph-dataset/",
+      "headline": "Immersive Skillgraph Dataset",
+      "url": "https://martin-sambauer.com/immersive-skillgraph-dataset/",
+      "author": {
+        "@id": "https://martin-sambauer.com#martin-sambauer"
+      },
+      "inLanguage": "en",
+      "about": [
+        "immersive media skills",
+        "skills taxonomy",
+        "skills graph for immersive media",
+        "creative directors for immersive media"
+      ]
+    },
+
+    {
+      "@type": "Article",
+      "@id": "https://martin-sambauer.com/immersive-skills/",
+      "headline": "Immersive Skills",
+      "url": "https://martin-sambauer.com/immersive-skills/",
+      "author": {
+        "@id": "https://martin-sambauer.com#martin-sambauer"
+      },
+      "inLanguage": "en",
+      "about": [
+        "immersive skills",
+        "skills for immersive media",
+        "roles in immersive media",
+        "creative direction for immersive projects"
+      ]
+    },
+
+    {
+      "@type": "Article",
+      "@id": "https://martin-sambauer.com/creative-directors-for-immersive-media/",
+      "headline": "Creative Directors for Immersive Media",
+      "url": "https://martin-sambauer.com/creative-directors-for-immersive-media/",
+      "author": {
+        "@id": "https://martin-sambauer.com#martin-sambauer"
+      },
+      "inLanguage": "en",
+      "about": [
+        "creative directors for immersive media",
+        "fulldome creative direction",
+        "immersive events",
+        "immersive experience design"
+      ]
+    },
+
+    {
+      "@type": "Article",
+      "@id": "https://martin-sambauer.com/immersive-destination-marketing/",
+      "headline": "Immersive Destination Marketing",
+      "url": "https://martin-sambauer.com/immersive-destination-marketing/",
+      "author": {
+        "@id": "https://martin-sambauer.com#martin-sambauer"
+      },
+      "inLanguage": "en",
+      "about": [
+        "immersive destination marketing",
+        "overtourism",
+        "immersive gateways",
+        "data-driven destination strategies"
+      ]
+    },
+
+    {
+      "@type": "Article",
+      "@id": "https://martin-sambauer.com/immersive-destination-analysis/",
+      "headline": "Immersive Destination Analysis",
+      "url": "https://martin-sambauer.com/immersive-destination-analysis/",
+      "author": {
+        "@id": "https://martin-sambauer.com#martin-sambauer"
+      },
+      "inLanguage": "en",
+      "about": [
+        "destination analysis",
+        "overtourism data",
+        "immersive data for destinations"
+      ]
+    },
+
+    {
+      "@type": "Article",
+      "@id": "https://martin-sambauer.com/immersive-visitor-flow-management/",
+      "headline": "Immersive Visitor Flow Management",
+      "url": "https://martin-sambauer.com/immersive-visitor-flow-management/",
+      "author": {
+        "@id": "https://martin-sambauer.com#martin-sambauer"
+      },
+      "inLanguage": "en",
+      "about": [
+        "visitor flow management",
+        "immersive visitor experiences",
+        "overtourism mitigation",
+        "destination operations"
+      ]
+    },
+
+    {
+      "@type": ["Article", "Dataset"],
+      "@id": "https://martin-sambauer.com/immersive-visitor-gateways-dataset/",
+      "headline": "Immersive Visitor Gateways Dataset",
+      "url": "https://martin-sambauer.com/immersive-visitor-gateways-dataset/",
+      "author": {
+        "@id": "https://martin-sambauer.com#martin-sambauer"
+      },
+      "inLanguage": "en",
+      "about": [
+        "visitor gateways",
+        "destination infrastructure",
+        "immersive gateway projects",
+        "overtourism and gateways"
+      ]
+    },
+
+    {
+      "@type": ["Article", "Dataset"],
+      "@id": "https://martin-sambauer.com/immersive-keywords/",
+      "headline": "Immersive Keywords Dataset | The Rise of Immersive Storytelling — What the Data Really Says",
+      "url": "https://martin-sambauer.com/immersive-keywords/",
+      "author": {
+        "@id": "https://martin-sambauer.com#martin-sambauer"
+      },
+      "inLanguage": "en",
+      "about": [
+        "immersive keywords",
+        "immersive storytelling",
+        "decline of television",
+        "VR and AR trends",
+        "AI and immersive media",
+        "data-driven media analysis"
+      ]
+    },
+
+    {
+      "@type": "Article",
+      "@id": "https://softmachine.de/immersive-events-whitepaper/",
+      "headline": "Immersive Events Whitepaper",
+      "url": "https://softmachine.de/immersive-events-whitepaper/",
+      "author": {
+        "@id": "https://martin-sambauer.com#martin-sambauer"
+      },
+      "inLanguage": "en",
+      "about": [
+        "immersive events",
+        "corporate events",
+        "fulldome",
+        "immersive storytelling",
+        "immersive experience strategy"
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "Softmachine",
+        "url": "https://softmachine.de"
+      }
+    }
+  ]
+}
+</script>
