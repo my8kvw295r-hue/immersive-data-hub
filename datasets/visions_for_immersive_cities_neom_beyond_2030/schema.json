@@ -1,0 +1,466 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Visions_for_Immersive_Cities_NEOM_Beyond_2030",
+  "type": "array",
+  "description": "Each item is one atomic vision statement about immersive AI-driven cities (NEOM and beyond 2030), paraphrased from real, verifiable sources. No imaginary sources, no fabricated quotes, no duplicates.",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "dataset_version",
+      "entry_created_at",
+      "vision_timeframe",
+      "paraphrased_statement",
+      "source"
+    ],
+    "additionalProperties": false,
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^IVIC-[0-9]{6}$",
+        "description": "Strictly ascending numeric ID with prefix IVIC, e.g. IVIC-000001, IVIC-000002, ... No gaps and no reuse of IDs enforced by process (not by schema)."
+      },
+      "dataset_version": {
+        "type": "string",
+        "description": "Semantic version of the dataset at the time this record was last updated (e.g. 0.1.0)."
+      },
+      "entry_created_at": {
+        "type": "string",
+        "format": "date-time",
+        "description": "Timestamp when this dataset entry was created or last updated (ISO 8601)."
+      },
+
+      "vision_timeframe": {
+        "type": "string",
+        "description": "Year or year range the vision refers to (e.g. '2030', '2035-2040')."
+      },
+      "vision_scope_level": {
+        "type": "string",
+        "enum": ["individual", "group", "city", "region", "planet", "other"],
+        "description": "Primary scope level of the vision."
+      },
+      "vision_geography": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "Names of places explicitly mentioned or clearly implied (e.g. ['NEOM', 'Saudi Arabia'])."
+      },
+      "vision_scale": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "Scales at which the vision operates (e.g. ['individual', 'group', 'city'])."
+      },
+
+      "paraphrased_statement": {
+        "type": "string",
+        "description": "Single, clear sentence (or short paragraph) paraphrasing the core vision in neutral language. Must be traceable to the source, no hallucinations."
+      },
+      "statement_tags": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "Free-form tags to support filtering (e.g. 'ambient_city_interface', 'real_time_adaptive_AI')."
+      },
+
+      "source": {
+        "type": "object",
+        "required": [
+          "source_type",
+          "source_title",
+          "source_url",
+          "source_publication_date"
+        ],
+        "additionalProperties": false,
+        "description": "Metadata about the real, verifiable source from which the vision is derived. No fabricated sources allowed.",
+        "properties": {
+          "source_type": {
+            "type": "string",
+            "enum": [
+              "research_paper",
+              "corporate_vision",
+              "urban_masterplan",
+              "article",
+              "interview",
+              "tweet",
+              "ms_article",
+              "other"
+            ],
+            "description": "Type of source. Scientific and scholarly work must use 'research_paper'. Internal texts by Martin Sambauer use 'ms_article'."
+          },
+          "source_title": {
+            "type": "string",
+            "description": "Title of the document, article, paper, or post."
+          },
+          "source_author": {
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "array",
+                "items": { "type": "string" }
+              }
+            ],
+            "description": "Name or list of names of the author(s) if available. For anonymous texts, leave empty and use source_organization if relevant."
+          },
+          "source_organization": {
+            "type": "string",
+            "description": "Organisation or institution responsible for the source (e.g. NEOM, OpenAI, MIT)."
+          },
+          "source_url": {
+            "type": "string",
+            "format": "uri",
+            "description": "Canonical URL of the source. Must point to a real, accessible resource."
+          },
+          "source_publication_date": {
+            "type": "string",
+            "format": "date",
+            "description": "Date when the source was originally published (YYYY-MM-DD, best effort)."
+          },
+          "source_access_date": {
+            "type": "string",
+            "format": "date",
+            "description": "Date when the source was accessed for annotation (YYYY-MM-DD)."
+          },
+          "source_identifier": {
+            "type": "string",
+            "description": "Optional identifier (e.g. DOI, arXiv ID, internal slug)."
+          }
+        }
+      },
+
+      "quoted_persons": {
+        "type": "array",
+        "description": "Persons explicitly quoted or clearly identified as originators of the vision in the source (e.g. Elon Musk, named architects, researchers).",
+        "items": {
+          "type": "object",
+          "required": ["name"],
+          "additionalProperties": false,
+          "properties": {
+            "name": {
+              "type": "string",
+              "description": "Full name of the quoted person."
+            },
+            "role": {
+              "type": "string",
+              "description": "Role or affiliation of the person at the time of the quote (e.g. 'CEO xAI', 'researcher at MIT')."
+            }
+          }
+        }
+      },
+
+      "ms_origin": {
+        "type": "object",
+        "additionalProperties": false,
+        "description": "Links to Martin Sambauer articles and datasets where this vision is further discussed or synthesised.",
+        "properties": {
+          "is_martin_article": {
+            "type": "boolean",
+            "description": "True if the source is an article authored by Martin Sambauer."
+          },
+          "martin_article_slug": {
+            "type": "string",
+            "description": "Slug of the article on martin-sambauer.com, if applicable."
+          },
+          "related_dataset_keys": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Keys of other datasets in the repository that this entry connects to (e.g. 'SkillTaxonomy_ImmersiveCreativeRoles')."
+          }
+        }
+      },
+
+      "ai_layer": {
+        "type": "object",
+        "additionalProperties": false,
+        "description": "How AI appears and operates in the vision.",
+        "properties": {
+          "ai_architecture": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Architectural patterns, e.g. 'multi_agent_system', 'digital_twin_city', 'transformer_swarm'."
+          },
+          "ai_roles": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Roles played by AI, e.g. 'personal_companion_agent', 'urban_orchestration_agent'."
+          },
+          "data_streams": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Relevant data streams, e.g. 'sensor_network', 'behavioral_analytics', 'social_graph', 'biosignals'."
+          },
+          "coordination_protocols": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Optional description of coordination mechanisms (e.g. 'blackboard_system', 'swarm_logic')."
+          }
+        }
+      },
+
+      "immersion_layer": {
+        "type": "object",
+        "additionalProperties": false,
+        "description": "How immersive media and spatial interfaces appear in the vision.",
+        "properties": {
+          "modalities": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Immersive modalities, e.g. 'fulldome', 'led_dome', 'ar', 'vr', 'ambient_media_architecture'."
+          },
+          "interaction_modes": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Interaction patterns, e.g. 'group_co-experience', 'personalised_overlay', 'always_on_ambient_layer'."
+          },
+          "sensory_richness": {
+            "type": "string",
+            "enum": ["low", "medium", "high"],
+            "description": "Coarse rating of how many senses and channels the vision involves."
+          }
+        }
+      },
+
+      "urban_system_function": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "enum": [
+            "governance",
+            "mobility",
+            "education",
+            "health",
+            "energy",
+            "culture",
+            "security",
+            "environment",
+            "commerce",
+            "public_space",
+            "identity",
+            "other"
+          ]
+        },
+        "description": "Urban subsystems that the vision primarily affects."
+      },
+
+      "intent_type": {
+        "type": "string",
+        "enum": [
+          "prediction",
+          "speculation",
+          "marketing_narrative",
+          "urban_masterplan",
+          "research_hypothesis",
+          "philosophical_statement",
+          "product_roadmap",
+          "other"
+        ],
+        "description": "Intent of the source regarding this vision statement."
+      },
+
+      "normative_evaluation": {
+        "type": "object",
+        "additionalProperties": false,
+        "description": "How the vision is framed in normative terms.",
+        "properties": {
+          "tone": {
+            "type": "string",
+            "enum": ["utopian", "dystopian", "neutral", "mixed"],
+            "description": "Overall tone of the vision."
+          },
+          "opportunity_aspects": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Key opportunities highlighted in the source or implied by the vision."
+          },
+          "critical_aspects": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Key risks or critiques, e.g. privacy, surveillance, nudging."
+          }
+        }
+      },
+
+      "confidence_scores": {
+        "type": "object",
+        "additionalProperties": false,
+        "description": "Confidence indicators for the record.",
+        "properties": {
+          "source_confidence": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1,
+            "description": "Confidence in the reliability and relevance of the source (0–1)."
+          },
+          "paraphrase_confidence": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1,
+            "description": "Confidence that the paraphrased statement faithfully represents the source (0–1)."
+          }
+        }
+      },
+
+      "impact_estimates": {
+        "type": "object",
+        "additionalProperties": false,
+        "description": "Optional impact estimates for the vision.",
+        "properties": {
+          "technological_readiness_estimate": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1,
+            "description": "Estimated technological readiness of the vision (0–1)."
+          },
+          "near_term_impact": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1,
+            "description": "Estimated near-term impact (0–1)."
+          },
+          "long_term_impact": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1,
+            "description": "Estimated long-term impact (0–1)."
+          },
+          "system_transform_potential": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1,
+            "description": "Potential to transform the urban system as a whole (0–1)."
+          },
+          "adoption_timeframe_low": {
+            "type": "integer",
+            "description": "Lower bound year when the vision might realistically be adopted."
+          },
+          "adoption_timeframe_high": {
+            "type": "integer",
+            "description": "Upper bound year when the vision might realistically be adopted."
+          }
+        }
+      },
+
+      "storylines": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "Named storylines that this vision belongs to (e.g. 'city_as_conversational_partner')."
+      },
+      "semantic_anchors": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "Conceptual anchors for embeddings and agent behaviour (e.g. 'city_as_computer', 'ambient_intelligence')."
+      },
+      "topic_clusters": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "IDs of topic clusters assigned by downstream analysis (e.g. topic modelling)."
+      },
+
+      "source_influences": {
+        "type": "array",
+        "description": "Optional decomposition of the vision into weighted influences from multiple sources.",
+        "items": {
+          "type": "object",
+          "required": ["source_identifier", "weight"],
+          "additionalProperties": false,
+          "properties": {
+            "source_identifier": {
+              "type": "string",
+              "description": "Identifier or slug of a contributing source."
+            },
+            "weight": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 1,
+              "description": "Relative weight of this source in the vision statement (0–1)."
+            }
+          }
+        }
+      },
+
+      "skillgraph_links": {
+        "type": "object",
+        "additionalProperties": false,
+        "description": "Links to skills and roles from the immersive skillgraph.",
+        "properties": {
+          "related_skills": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["skill_id"],
+              "additionalProperties": false,
+              "properties": {
+                "skill_id": {
+                  "type": "string",
+                  "description": "Identifier of the related skill in the skillgraph."
+                },
+                "skill_label": {
+                  "type": "string",
+                  "description": "Human-readable name of the skill."
+                },
+                "relation_type": {
+                  "type": "string",
+                  "description": "Relation between vision and skill (e.g. 'required_to_build', 'enabled_by')."
+                }
+              }
+            }
+          },
+          "related_roles": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["role_id"],
+              "additionalProperties": false,
+              "properties": {
+                "role_id": {
+                  "type": "string",
+                  "description": "Identifier of the related role in the skillgraph."
+                },
+                "role_label": {
+                  "type": "string",
+                  "description": "Human-readable name of the role (e.g. 'Creative Director for Immersive Media')."
+                },
+                "relation_type": {
+                  "type": "string",
+                  "description": "Relation between vision and role (e.g. 'responsible_for_concept')."
+                }
+              }
+            }
+          }
+        }
+      },
+
+      "knowledge_graph_links": {
+        "type": "object",
+        "additionalProperties": false,
+        "description": "Links to nodes in the broader knowledge graph.",
+        "properties": {
+          "concept_nodes": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "IDs of knowledge graph nodes (e.g. 'immersive_city', 'multi_agent_ai', 'immersive_governance')."
+          }
+        }
+      },
+
+      "counter_visions": {
+        "type": "array",
+        "description": "Optional links to entries that explicitly contradict or challenge this vision.",
+        "items": {
+          "type": "object",
+          "required": ["id", "relation"],
+          "additionalProperties": false,
+          "properties": {
+            "id": {
+              "type": "string",
+              "description": "ID of a related vision that acts as a counterpoint (e.g. another IVIC-xxxxx entry)."
+            },
+            "relation": {
+              "type": "string",
+              "description": "Type of relation, e.g. 'contradiction', 'critique', 'alternative'."
+            }
+          }
+        }
+      }
+    }
+  }
+}
