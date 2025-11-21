@@ -2278,5 +2278,1177 @@
     "storylines": [],
     "source_influences": [],
     "counter_visions": []
+  }.
+  {
+    "id": "IVIC-000022",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T13:50:00Z",
+    "project_name": "Masdar City net-zero living lab",
+    "vision_timeframe": "2025-2040",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "Masdar City",
+      "United Arab Emirates"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "Masdar City is framed as a net-zero, testbed urban district where autonomous mobility, high-efficiency buildings and immersive public spaces demonstrate how a desert city can operate on renewable energy and advanced resource management.",
+    "statement_tags": [
+      "net_zero_city",
+      "autonomous_mobility",
+      "renewable_energy",
+      "living_lab",
+      "desert_urbanism"
+    ],
+    "source": {
+      "source_type": "urban_masterplan",
+      "source_title": "Masdar City: pioneering a sustainable city of the future",
+      "source_organization": "Masdar / Abu Dhabi Future Energy Company",
+      "source_publication_date": "2020-01-01",
+      "source_url": ""
+    },
+    "quoted_persons": [
+      {
+        "name": "Sultan Ahmed Al Jaber",
+        "role": "Chairman of Masdar; UAE Minister of Industry and Advanced Technology"
+      }
+    ],
+    "originators": [
+      {
+        "name": "Masdar",
+        "role": "Developer and master planner"
+      }
+    ],
+    "institutions": [
+      {
+        "institution_name": "Masdar",
+        "department_or_unit": "",
+        "country": "United Arab Emirates"
+      }
+    ],
+    "related_research": [],
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": []
+    },
+    "ai_layer": {
+      "ai_layers_present": [
+        "edge_ai",
+        "cloud_ai"
+      ],
+      "ai_roles": [
+        "resource_optimization",
+        "predictive_maintenance"
+      ],
+      "data_streams": [
+        "energy_grid_data",
+        "mobility_data",
+        "environmental_sensors"
+      ],
+      "ai_architecture": [
+        "edge_cloud_hybrid",
+        "digital_twin_city"
+      ],
+      "multi_agent_structure": "coordinated_energy_and_mobility_agents",
+      "human_in_the_loop": "city_operators_and_planners"
+    },
+    "immersion_layer": {
+      "immersive_modalities": [
+        "urban_environment",
+        "ambient_intelligence"
+      ],
+      "interaction_modes": [
+        "implicit_contextual",
+        "group_co-experience"
+      ],
+      "sensing_actuation": [
+        "ubiquitous_sensors",
+        "public_displays"
+      ],
+      "xr_distribution": []
+    },
+    "urban_system_function": [
+      "energy",
+      "mobility",
+      "environment",
+      "public_space",
+      "planning"
+    ],
+    "intent_type": "urban_masterplan",
+    "normative_evaluation": {
+      "tone": "balanced",
+      "opportunity_aspects": [
+        "low_carbon_urbanism",
+        "innovation_testbed",
+        "clean_tech_showcase"
+      ],
+      "critical_aspects": [
+        "green_enclave_risk",
+        "social_inclusivity_questions"
+      ]
+    },
+    "confidence_scores": {},
+    "impact_estimates": {},
+    "storylines": [
+      "net_zero_desert_city"
+    ],
+    "semantic_anchors": [
+      "sustainable_city",
+      "living_lab_desert"
+    ],
+    "topic_clusters": [
+      "sustainable_urbanism",
+      "renewable_energy_cities"
+    ],
+    "source_influences": [],
+    "skillgraph_links": {},
+    "knowledge_graph_links": {},
+    "counter_visions": []
+  },
+  {
+    "id": "IVIC-000023",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T13:55:00Z",
+    "project_name": "Toyota Woven City living laboratory",
+    "vision_timeframe": "2025-2045",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "Susono",
+      "Japan"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "Toyota's Woven City is envisioned as a fully connected prototype city at the base of Mount Fuji where autonomous vehicles, robotics, smart homes and immersive interfaces are tested in real life with a resident community.",
+    "statement_tags": [
+      "living_lab",
+      "autonomous_vehicles",
+      "robotics",
+      "smart_homes",
+      "human_robot_coexistence"
+    ],
+    "source": {
+      "source_type": "urban_masterplan",
+      "source_title": "Toyota Woven City project overview",
+      "source_organization": "Toyota Motor Corporation",
+      "source_publication_date": "2020-01-07",
+      "source_url": ""
+    },
+    "quoted_persons": [
+      {
+        "name": "Akio Toyoda",
+        "role": "President of Toyota Motor Corporation at project announcement"
+      }
+    ],
+    "originators": [
+      {
+        "name": "Toyota Motor Corporation",
+        "role": "Initiator and funder"
+      }
+    ],
+    "institutions": [
+      {
+        "institution_name": "Toyota Motor Corporation",
+        "department_or_unit": "Woven City project",
+        "country": "Japan"
+      }
+    ],
+    "related_research": [],
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": []
+    },
+    "ai_layer": {
+      "ai_layers_present": [
+        "pervasive_ai",
+        "edge_ai",
+        "cloud_ai"
+      ],
+      "ai_roles": [
+        "predictive_analytics",
+        "personal_assistance",
+        "urban_orchestration_agent"
+      ],
+      "data_streams": [
+        "mobility_data",
+        "home_iot_sensors",
+        "health_data"
+      ],
+      "ai_architecture": [
+        "multi_agent_system",
+        "edge_cloud_hybrid"
+      ],
+      "multi_agent_structure": "multi_agent_urban_living_lab",
+      "human_in_the_loop": "residents_and_researchers"
+    },
+    "immersion_layer": {
+      "immersive_modalities": [
+        "ambient_intelligence",
+        "ar"
+      ],
+      "interaction_modes": [
+        "implicit_contextual",
+        "voice",
+        "gesture"
+      ],
+      "sensing_actuation": [
+        "ubiquitous_sensors",
+        "robotic_actuators"
+      ],
+      "xr_distribution": [
+        "headsets",
+        "wearables"
+      ]
+    },
+    "urban_system_function": [
+      "mobility",
+      "housing",
+      "public_services",
+      "health",
+      "other"
+    ],
+    "intent_type": "urban_masterplan",
+    "normative_evaluation": {
+      "tone": "balanced",
+      "opportunity_aspects": [
+        "human_centered_automation",
+        "safe_testing_of_new_tech",
+        "ageing_society_support"
+      ],
+      "critical_aspects": [
+        "data_dependency",
+        "corporate_control_over_urban_space"
+      ]
+    },
+    "confidence_scores": {},
+    "impact_estimates": {},
+    "storylines": [
+      "robotics_and_mobility_testbed"
+    ],
+    "semantic_anchors": [
+      "robotic_city",
+      "human_robot_living_lab"
+    ],
+    "topic_clusters": [
+      "autonomous_mobility",
+      "robots_in_cities"
+    ],
+    "source_influences": [],
+    "skillgraph_links": {},
+    "knowledge_graph_links": {},
+    "counter_visions": []
+  },
+  {
+    "id": "IVIC-000024",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T14:00:00Z",
+    "project_name": "Virtual Singapore national digital twin",
+    "vision_timeframe": "2020-2040",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "Singapore",
+      "Singapore"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "Virtual Singapore is described as a dynamic 3D digital twin platform that integrates geospatial, real-time and semantic data to support planning, risk assessment and participatory design across the entire city-state.",
+    "statement_tags": [
+      "national_digital_twin",
+      "3d_city_model",
+      "geospatial_platform",
+      "participatory_planning"
+    ],
+    "source": {
+      "source_type": "technical_platform",
+      "source_title": "Virtual Singapore platform description",
+      "source_organization": "Singapore Land Authority / GovTech",
+      "source_publication_date": "2018-01-01",
+      "source_url": ""
+    },
+    "quoted_persons": [],
+    "originators": [
+      {
+        "name": "Singapore Government agencies",
+        "role": "Platform sponsors and operators"
+      }
+    ],
+    "institutions": [
+      {
+        "institution_name": "Singapore Land Authority",
+        "department_or_unit": "",
+        "country": "Singapore"
+      }
+    ],
+    "related_research": [],
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": []
+    },
+    "ai_layer": {
+      "ai_layers_present": [
+        "cloud_ai"
+      ],
+      "ai_roles": [
+        "predictive_analytics",
+        "scenario_simulation"
+      ],
+      "data_streams": [
+        "geospatial_data",
+        "infrastructure_data",
+        "environmental_data"
+      ],
+      "ai_architecture": [
+        "digital_twin_city"
+      ],
+      "multi_agent_structure": "analytics_services",
+      "human_in_the_loop": "planners_and_policy_makers"
+    },
+    "immersion_layer": {
+      "immersive_modalities": [
+        "urban_environment"
+      ],
+      "interaction_modes": [
+        "desktop_3d_interface",
+        "collaborative_planning_sessions"
+      ],
+      "sensing_actuation": [
+        "geospatial_data_hubs"
+      ],
+      "xr_distribution": []
+    },
+    "urban_system_function": [
+      "planning",
+      "governance",
+      "environment",
+      "public_services"
+    ],
+    "intent_type": "technical_platform",
+    "normative_evaluation": {
+      "tone": "neutral",
+      "opportunity_aspects": [
+        "evidence_based_planning",
+        "risk_modelling"
+      ],
+      "critical_aspects": [
+        "data_integration_complexity"
+      ]
+    },
+    "confidence_scores": {},
+    "impact_estimates": {},
+    "storylines": [
+      "digital_twin_nation"
+    ],
+    "semantic_anchors": [
+      "3d_city_platform",
+      "evidence_based_urbanism"
+    ],
+    "topic_clusters": [
+      "digital_twins",
+      "geospatial_innovation"
+    ],
+    "source_influences": [],
+    "skillgraph_links": {},
+    "knowledge_graph_links": {},
+    "counter_visions": []
+  },
+  {
+    "id": "IVIC-000025",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T14:05:00Z",
+    "project_name": "Metaverse Seoul public service platform",
+    "vision_timeframe": "2022-2035",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "Seoul",
+      "South Korea"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "Metaverse Seoul is presented as a virtual city hall and service layer where citizens can access public services, participate in consultations and join cultural events in an extended-reality version of Seoul.",
+    "statement_tags": [
+      "urban_metaverse",
+      "virtual_city_hall",
+      "citizen_services",
+      "participatory_governance"
+    ],
+    "source": {
+      "source_type": "marketing_narrative",
+      "source_title": "Seoul Vision 2030 and Metaverse Seoul initiative",
+      "source_organization": "Seoul Metropolitan Government",
+      "source_publication_date": "2021-11-01",
+      "source_url": ""
+    },
+    "quoted_persons": [],
+    "originators": [
+      {
+        "name": "Seoul Metropolitan Government",
+        "role": "Initiator of Metaverse Seoul"
+      }
+    ],
+    "institutions": [
+      {
+        "institution_name": "Seoul Metropolitan Government",
+        "department_or_unit": "Smart City Policy",
+        "country": "South Korea"
+      }
+    ],
+    "related_research": [],
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": []
+    },
+    "ai_layer": {
+      "ai_layers_present": [
+        "cloud_ai"
+      ],
+      "ai_roles": [
+        "virtual_assistants",
+        "service_personalization"
+      ],
+      "data_streams": [
+        "service_metadata",
+        "usage_analytics"
+      ],
+      "ai_architecture": [
+        "platform_ai_services"
+      ],
+      "multi_agent_structure": "service_bots",
+      "human_in_the_loop": "civil_servants_and_moderators"
+    },
+    "immersion_layer": {
+      "immersive_modalities": [
+        "vr",
+        "ar",
+        "urban_environment"
+      ],
+      "interaction_modes": [
+        "avatar_based_interaction",
+        "group_co-experience"
+      ],
+      "sensing_actuation": [
+        "virtual_spaces"
+      ],
+      "xr_distribution": [
+        "headsets",
+        "mobile_devices"
+      ]
+    },
+    "urban_system_function": [
+      "governance",
+      "public_services",
+      "culture",
+      "civic_participation"
+    ],
+    "intent_type": "conceptual_vision",
+    "normative_evaluation": {
+      "tone": "balanced",
+      "opportunity_aspects": [
+        "access_to_services",
+        "new_civic_spaces"
+      ],
+      "critical_aspects": [
+        "digital_divide",
+        "over_platformisation_of_public_life"
+      ]
+    },
+    "confidence_scores": {},
+    "impact_estimates": {},
+    "storylines": [
+      "urban_metaverse_for_public_services"
+    ],
+    "semantic_anchors": [
+      "metaverse_governance",
+      "virtual_civic_space"
+    ],
+    "topic_clusters": [
+      "urban_metaverse",
+      "e_government"
+    ],
+    "source_influences": [],
+    "skillgraph_links": {},
+    "knowledge_graph_links": {},
+    "counter_visions": []
+  },
+  {
+    "id": "IVIC-000026",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T14:10:00Z",
+    "project_name": "Telosa equitable future city",
+    "vision_timeframe": "2030-2060",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "Telosa (proposed)",
+      "United States"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "Telosa is proposed as a new American city built on the principle of equitable land ownership, dense mixed-use neighborhoods and advanced sustainable infrastructure, framing urban development as a long-term social wealth project.",
+    "statement_tags": [
+      "equitable_city",
+      "land_value_tax",
+      "green_infrastructure",
+      "high_density_urbanism"
+    ],
+    "source": {
+      "source_type": "conceptual_vision",
+      "source_title": "Telosa city vision",
+      "source_organization": "Telosa / Marc Lore",
+      "source_publication_date": "2021-09-01",
+      "source_url": ""
+    },
+    "quoted_persons": [
+      {
+        "name": "Marc Lore",
+        "role": "Founder of Telosa vision; entrepreneur"
+      }
+    ],
+    "originators": [
+      {
+        "name": "Marc Lore",
+        "role": "Initiator of the Telosa project"
+      }
+    ],
+    "institutions": [],
+    "related_research": [],
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": []
+    },
+    "ai_layer": {
+      "ai_layers_present": [],
+      "ai_roles": [],
+      "data_streams": [],
+      "ai_architecture": [],
+      "multi_agent_structure": "",
+      "human_in_the_loop": ""
+    },
+    "immersion_layer": {
+      "immersive_modalities": [],
+      "interaction_modes": [],
+      "sensing_actuation": [],
+      "xr_distribution": []
+    },
+    "urban_system_function": [
+      "housing",
+      "economy",
+      "governance",
+      "environment",
+      "public_space"
+    ],
+    "intent_type": "conceptual_vision",
+    "normative_evaluation": {
+      "tone": "utopian",
+      "opportunity_aspects": [
+        "shared_prosperity_model",
+        "sustainable_infrastructure"
+      ],
+      "critical_aspects": [
+        "greenfield_urbanism_risk",
+        "implementation_feasibility"
+      ]
+    },
+    "confidence_scores": {},
+    "impact_estimates": {},
+    "storylines": [
+      "equity_driven_new_city"
+    ],
+    "semantic_anchors": [
+      "equitable_urbanism",
+      "land_value_capture"
+    ],
+    "topic_clusters": [
+      "future_cities",
+      "equity_and_urbanism"
+    ],
+    "source_influences": [],
+    "skillgraph_links": {},
+    "knowledge_graph_links": {},
+    "counter_visions": []
+  },
+  {
+    "id": "IVIC-000027",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T14:15:00Z",
+    "project_name": "Songdo ubiquitous smart city district",
+    "vision_timeframe": "2010-2035",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "Songdo",
+      "South Korea"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "Songdo International Business District is portrayed as an early ubiquitous computing city where every building and street is connected to a central system, enabling energy monitoring, telepresence and integrated logistics services.",
+    "statement_tags": [
+      "ubiquitous_city",
+      "integrated_ict",
+      "telepresence",
+      "central_control_room"
+    ],
+    "source": {
+      "source_type": "urban_masterplan",
+      "source_title": "Songdo International Business District smart city overview",
+      "source_organization": "Incheon Free Economic Zone Authority",
+      "source_publication_date": "2014-01-01",
+      "source_url": ""
+    },
+    "quoted_persons": [],
+    "originators": [],
+    "institutions": [
+      {
+        "institution_name": "Incheon Free Economic Zone Authority",
+        "department_or_unit": "",
+        "country": "South Korea"
+      }
+    ],
+    "related_research": [],
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": []
+    },
+    "ai_layer": {
+      "ai_layers_present": [
+        "cloud_ai"
+      ],
+      "ai_roles": [
+        "monitoring_and_analytics"
+      ],
+      "data_streams": [
+        "building_management_systems",
+        "traffic_data"
+      ],
+      "ai_architecture": [
+        "centralised_city_platform"
+      ],
+      "multi_agent_structure": "",
+      "human_in_the_loop": "control_room_operators"
+    },
+    "immersion_layer": {
+      "immersive_modalities": [
+        "operations_dashboard"
+      ],
+      "interaction_modes": [
+        "real_time_monitoring"
+      ],
+      "sensing_actuation": [
+        "cctv_networks",
+        "building_sensors"
+      ],
+      "xr_distribution": []
+    },
+    "urban_system_function": [
+      "energy",
+      "commerce",
+      "public_services",
+      "asset_management"
+    ],
+    "intent_type": "urban_masterplan",
+    "normative_evaluation": {
+      "tone": "critical",
+      "opportunity_aspects": [
+        "integrated_infrastructure_management"
+      ],
+      "critical_aspects": [
+        "top_down_urbanism",
+        "surveillance_and_control_concerns"
+      ]
+    },
+    "confidence_scores": {},
+    "impact_estimates": {},
+    "storylines": [
+      "early_smart_city"
+    ],
+    "semantic_anchors": [
+      "ubiquitous_computing_city",
+      "control_room_urbanism"
+    ],
+    "topic_clusters": [
+      "smart_cities_history"
+    ],
+    "source_influences": [],
+    "skillgraph_links": {},
+    "knowledge_graph_links": {},
+    "counter_visions": []
+  },
+  {
+    "id": "IVIC-000028",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T14:20:00Z",
+    "project_name": "Xiong'an New Area digital twin planning",
+    "vision_timeframe": "2020-2045",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "Xiong'an New Area",
+      "China"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "Xiong'an New Area is framed as a 'city built in the cloud first', using full-scale digital twin models and AI-supported simulations to optimise infrastructure, transport and ecological restoration before physical construction.",
+    "statement_tags": [
+      "cloud_first_city",
+      "digital_twin_planning",
+      "eco_restoration",
+      "ai_supported_planning"
+    ],
+    "source": {
+      "source_type": "urban_masterplan",
+      "source_title": "Xiong'an New Area digital twin and planning approach",
+      "source_organization": "People's Republic of China planning authorities",
+      "source_publication_date": "2019-01-01",
+      "source_url": ""
+    },
+    "quoted_persons": [],
+    "originators": [],
+    "institutions": [],
+    "related_research": [],
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": []
+    },
+    "ai_layer": {
+      "ai_layers_present": [
+        "cloud_ai"
+      ],
+      "ai_roles": [
+        "scenario_simulation",
+        "resource_optimization"
+      ],
+      "data_streams": [
+        "planning_models",
+        "hydrology_data",
+        "transport_models"
+      ],
+      "ai_architecture": [
+        "digital_twin_city"
+      ],
+      "multi_agent_structure": "simulation_agents",
+      "human_in_the_loop": "planners_and_engineers"
+    },
+    "immersion_layer": {
+      "immersive_modalities": [
+        "urban_environment"
+      ],
+      "interaction_modes": [
+        "design_review_sessions"
+      ],
+      "sensing_actuation": [
+        "simulation_interfaces"
+      ],
+      "xr_distribution": [
+        "cave_displays",
+        "large_screens"
+      ]
+    },
+    "urban_system_function": [
+      "planning",
+      "mobility",
+      "environment",
+      "asset_management"
+    ],
+    "intent_type": "urban_masterplan",
+    "normative_evaluation": {
+      "tone": "balanced",
+      "opportunity_aspects": [
+        "reduced_planning_risk",
+        "ecological_safeguards"
+      ],
+      "critical_aspects": [
+        "centralised_decision_making",
+        "data_transparency_questions"
+      ]
+    },
+    "confidence_scores": {},
+    "impact_estimates": {},
+    "storylines": [
+      "cloud_first_urbanism"
+    ],
+    "semantic_anchors": [
+      "digital_twin_planning",
+      "eco_city"
+    ],
+    "topic_clusters": [
+      "future_cities_china"
+    ],
+    "source_influences": [],
+    "skillgraph_links": {},
+    "knowledge_graph_links": {},
+    "counter_visions": []
+  },
+  {
+    "id": "IVIC-000029",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T14:25:00Z",
+    "project_name": "Dubai Metaverse Strategy 2030",
+    "vision_timeframe": "2022-2030",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "Dubai",
+      "United Arab Emirates"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "The Dubai Metaverse Strategy imagines the city as a hub for metaverse businesses, virtual workspaces and immersive tourism, projecting hundreds of thousands of jobs and a sizable contribution to the local economy.",
+    "statement_tags": [
+      "metaverse_economy",
+      "immersive_tourism",
+      "virtual_workspaces",
+      "innovation_hub"
+    ],
+    "source": {
+      "source_type": "marketing_narrative",
+      "source_title": "Dubai Metaverse Strategy announcement",
+      "source_organization": "Government of Dubai",
+      "source_publication_date": "2022-07-01",
+      "source_url": ""
+    },
+    "quoted_persons": [],
+    "originators": [
+      {
+        "name": "Government of Dubai",
+        "role": "Strategy initiator"
+      }
+    ],
+    "institutions": [],
+    "related_research": [],
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": []
+    },
+    "ai_layer": {
+      "ai_layers_present": [
+        "cloud_ai"
+      ],
+      "ai_roles": [
+        "content_recommendation",
+        "fraud_detection"
+      ],
+      "data_streams": [
+        "platform_usage_data",
+        "transaction_data"
+      ],
+      "ai_architecture": [
+        "platform_ai_services"
+      ],
+      "multi_agent_structure": "platform_agents",
+      "human_in_the_loop": "regulators_and_platform_operators"
+    },
+    "immersion_layer": {
+      "immersive_modalities": [
+        "vr",
+        "ar",
+        "mixed_reality"
+      ],
+      "interaction_modes": [
+        "avatar_based_interaction",
+        "remote_collaboration"
+      ],
+      "sensing_actuation": [
+        "virtual_venues"
+      ],
+      "xr_distribution": [
+        "headsets",
+        "mobile_devices"
+      ]
+    },
+    "urban_system_function": [
+      "economy",
+      "culture",
+      "commerce"
+    ],
+    "intent_type": "marketing_narrative",
+    "normative_evaluation": {
+      "tone": "utopian",
+      "opportunity_aspects": [
+        "new_digital_economy",
+        "job_creation"
+      ],
+      "critical_aspects": [
+        "speculative_growth_assumptions",
+        "platform_dependence"
+      ]
+    },
+    "confidence_scores": {},
+    "impact_estimates": {},
+    "storylines": [
+      "metaverse_economic_zone"
+    ],
+    "semantic_anchors": [
+      "metaverse_economy",
+      "immersive_tourism"
+    ],
+    "topic_clusters": [
+      "metaverse_strategies"
+    ],
+    "source_influences": [],
+    "skillgraph_links": {},
+    "knowledge_graph_links": {},
+    "counter_visions": []
+  },
+  {
+    "id": "IVIC-000030",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T14:30:00Z",
+    "project_name": "OXAGON NEOM industrial platform",
+    "vision_timeframe": "2025-2045",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "Oxagon",
+      "Saudi Arabia"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "OXAGON is described as NEOM's floating industrial city where advanced manufacturing, logistics and port operations are orchestrated by AI, with digital twins and immersive control rooms managing real-time flows across sea and land.",
+    "statement_tags": [
+      "floating_industrial_city",
+      "ai_orchestrated_logistics",
+      "port_digital_twin",
+      "advanced_manufacturing"
+    ],
+    "source": {
+      "source_type": "urban_masterplan",
+      "source_title": "OXAGON: redefining the industrial city",
+      "source_organization": "NEOM",
+      "source_publication_date": "2021-11-16",
+      "source_url": ""
+    },
+    "quoted_persons": [],
+    "originators": [
+      {
+        "name": "NEOM",
+        "role": "Developer of OXAGON"
+      }
+    ],
+    "institutions": [
+      {
+        "institution_name": "NEOM",
+        "department_or_unit": "",
+        "country": "Saudi Arabia"
+      }
+    ],
+    "related_research": [],
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": []
+    },
+    "ai_layer": {
+      "ai_layers_present": [
+        "edge_ai",
+        "cloud_ai"
+      ],
+      "ai_roles": [
+        "supply_chain_optimization",
+        "predictive_maintenance"
+      ],
+      "data_streams": [
+        "port_operations_data",
+        "production_line_sensors",
+        "environmental_data"
+      ],
+      "ai_architecture": [
+        "digital_twin_industrial_port",
+        "edge_cloud_hybrid"
+      ],
+      "multi_agent_structure": "logistics_and_production_agents",
+      "human_in_the_loop": "operators_and_port_authorities"
+    },
+    "immersion_layer": {
+      "immersive_modalities": [
+        "operations_dashboard",
+        "led_walls"
+      ],
+      "interaction_modes": [
+        "real_time_monitoring",
+        "collaborative_decision_rooms"
+      ],
+      "sensing_actuation": [
+        "industrial_iot",
+        "robotic_actuators"
+      ],
+      "xr_distribution": [
+        "control_room_displays"
+      ]
+    },
+    "urban_system_function": [
+      "commerce",
+      "asset_management",
+      "mobility",
+      "environment"
+    ],
+    "intent_type": "urban_masterplan",
+    "normative_evaluation": {
+      "tone": "balanced",
+      "opportunity_aspects": [
+        "integrated_clean_industry",
+        "logistics_efficiency"
+      ],
+      "critical_aspects": [
+        "ecosystem_impact_on_red_sea",
+        "labour_and_regulatory_questions"
+      ]
+    },
+    "confidence_scores": {},
+    "impact_estimates": {},
+    "storylines": [
+      "industrial_future_city"
+    ],
+    "semantic_anchors": [
+      "industrial_city_of_future",
+      "ai_port"
+    ],
+    "topic_clusters": [
+      "industrial_urbanism",
+      "neom_regions"
+    ],
+    "source_influences": [],
+    "skillgraph_links": {},
+    "knowledge_graph_links": {},
+    "counter_visions": []
+  },
+  {
+    "id": "IVIC-000031",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T14:35:00Z",
+    "project_name": "AlUla digital heritage and immersive landscape vision",
+    "vision_timeframe": "2020-2040",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "AlUla",
+      "Saudi Arabia"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "The AlUla masterplan positions the heritage landscape as an open-air museum, supported by digital twins, immersive storytelling and strict environmental protections to balance tourism growth with preservation.",
+    "statement_tags": [
+      "heritage_landscape_planning",
+      "immersive_storytelling",
+      "digital_heritage",
+      "sustainable_tourism"
+    ],
+    "source": {
+      "source_type": "urban_masterplan",
+      "source_title": "Masterplan for AlUla: a living museum",
+      "source_organization": "Royal Commission for AlUla",
+      "source_publication_date": "2019-02-01",
+      "source_url": ""
+    },
+    "quoted_persons": [],
+    "originators": [
+      {
+        "name": "Royal Commission for AlUla",
+        "role": "Masterplan authority"
+      }
+    ],
+    "institutions": [
+      {
+        "institution_name": "Royal Commission for AlUla",
+        "department_or_unit": "",
+        "country": "Saudi Arabia"
+      }
+    ],
+    "related_research": [],
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": []
+    },
+    "ai_layer": {
+      "ai_layers_present": [
+        "cloud_ai"
+      ],
+      "ai_roles": [
+        "visitor_flow_management",
+        "environmental_monitoring"
+      ],
+      "data_streams": [
+        "visitor_counts",
+        "environmental_sensors",
+        "heritage_site_data"
+      ],
+      "ai_architecture": [
+        "territorial_digital_twin"
+      ],
+      "multi_agent_structure": "",
+      "human_in_the_loop": "heritage_managers_and_planners"
+    },
+    "immersion_layer": {
+      "immersive_modalities": [
+        "ar",
+        "outdoor_media"
+      ],
+      "interaction_modes": [
+        "location_based_storytelling",
+        "guided_tours"
+      ],
+      "sensing_actuation": [
+        "beacons",
+        "mobile_sensors"
+      ],
+      "xr_distribution": [
+        "mobile_devices",
+        "visitor_centres"
+      ]
+    },
+    "urban_system_function": [
+      "culture",
+      "environment",
+      "economy",
+      "planning"
+    ],
+    "intent_type": "urban_masterplan",
+    "normative_evaluation": {
+      "tone": "balanced",
+      "opportunity_aspects": [
+        "heritage_preservation",
+        "high_value_tourism"
+      ],
+      "critical_aspects": [
+        "tourism_pressure",
+        "local_community_integration"
+      ]
+    },
+    "confidence_scores": {},
+    "impact_estimates": {},
+    "storylines": [
+      "immersive_heritage_region"
+    ],
+    "semantic_anchors": [
+      "digital_heritage_landscape",
+      "immersive_tourism_planning"
+    ],
+    "topic_clusters": [
+      "heritage_and_tourism"
+    ],
+    "source_influences": [],
+    "skillgraph_links": {},
+    "knowledge_graph_links": {},
+    "counter_visions": []
   }
 ]
