@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Visions_for_Immersive_Cities_NEOM_Beyond_2030",
   "type": "array",
-  "description": "Each item is one atomic vision statement about immersive AI-driven cities (NEOM and beyond 2030), paraphrased from real, verifiable sources. No imaginary sources, no fabricated quotes, no duplicates.",
+  "description": "Each item is one atomic vision statement about immersive AI-driven cities (NEOM and beyond 2030), paraphrased from real, verifiable sources. English only, no imaginary sources, no fabricated quotes, no duplicates.",
   "items": {
     "type": "object",
     "required": [
@@ -11,14 +11,15 @@
       "entry_created_at",
       "vision_timeframe",
       "paraphrased_statement",
-      "source"
+      "source",
+      "project_name"
     ],
     "additionalProperties": false,
     "properties": {
       "id": {
         "type": "string",
         "pattern": "^IVIC-[0-9]{6}$",
-        "description": "Strictly ascending numeric ID with prefix IVIC, e.g. IVIC-000001, IVIC-000002, ... No gaps and no reuse of IDs enforced by process (not by schema)."
+        "description": "Strictly ascending numeric ID with prefix IVIC, e.g. IVIC-000001, IVIC-000002, ... No gaps and no reuse of IDs enforced by process."
       },
       "dataset_version": {
         "type": "string",
@@ -27,7 +28,12 @@
       "entry_created_at": {
         "type": "string",
         "format": "date-time",
-        "description": "Timestamp when this dataset entry was created or last updated (ISO 8601)."
+        "description": "Timestamp when this dataset entry was created or last updated (ISO 8601, UTC)."
+      },
+
+      "project_name": {
+        "type": "string",
+        "description": "Concise label of the project, platform or vision this statement refers to (e.g. 'THE LINE, NEOM', 'MACeIP platform')."
       },
 
       "vision_timeframe": {
@@ -52,7 +58,7 @@
 
       "paraphrased_statement": {
         "type": "string",
-        "description": "Single, clear sentence (or short paragraph) paraphrasing the core vision in neutral language. Must be traceable to the source, no hallucinations."
+        "description": "Single, clear sentence (or short paragraph) paraphrasing the core vision in neutral English. Must be traceable to the source, no hallucinations."
       },
       "statement_tags": {
         "type": "array",
@@ -69,7 +75,7 @@
           "source_publication_date"
         ],
         "additionalProperties": false,
-        "description": "Metadata about the real, verifiable source from which the vision is derived. No fabricated sources allowed.",
+        "description": "Metadata about the real, verifiable source from which the vision is derived. English-only metadata, no fabricated sources.",
         "properties": {
           "source_type": {
             "type": "string",
@@ -81,6 +87,10 @@
               "interview",
               "tweet",
               "ms_article",
+              "critical_essay",
+              "conceptual_vision",
+              "technical_platform",
+              "research_synthesis",
               "other"
             ],
             "description": "Type of source. Scientific and scholarly work must use 'research_paper'. Internal texts by Martin Sambauer use 'ms_article'."
@@ -147,6 +157,95 @@
         }
       },
 
+      "originators": {
+        "type": "array",
+        "description": "Key people associated with inventing, initiating or leading the project or vision.",
+        "items": {
+          "type": "object",
+          "required": ["name"],
+          "additionalProperties": false,
+          "properties": {
+            "name": {
+              "type": "string",
+              "description": "Full name of the originator."
+            },
+            "role": {
+              "type": "string",
+              "description": "Their role in relation to the project or vision (e.g. 'founder', 'lead author', 'principal investigator')."
+            },
+            "organization": {
+              "type": "string",
+              "description": "Affiliated organisation (company, lab, university, etc.)."
+            }
+          }
+        }
+      },
+
+      "institutions": {
+        "type": "array",
+        "description": "Institutions, companies, universities, labs, or funds associated with the project or research.",
+        "items": {
+          "type": "object",
+          "required": ["name"],
+          "additionalProperties": false,
+          "properties": {
+            "name": {
+              "type": "string",
+              "description": "Name of the institution."
+            },
+            "type": {
+              "type": "string",
+              "description": "Type of institution (e.g. 'university', 'research_lab', 'development_company', 'consultancy')."
+            },
+            "department_or_unit": {
+              "type": "string",
+              "description": "Specific department, faculty or lab, if relevant."
+            },
+            "country": {
+              "type": "string",
+              "description": "Country where the institution is based."
+            }
+          }
+        }
+      },
+
+      "related_research": {
+        "type": "array",
+        "description": "Explicitly connected research papers, books or whitepapers that study or formalise this vision.",
+        "items": {
+          "type": "object",
+          "required": ["title", "publication_type"],
+          "additionalProperties": false,
+          "properties": {
+            "title": {
+              "type": "string",
+              "description": "Title of the related research work."
+            },
+            "authors": {
+              "type": "array",
+              "items": { "type": "string" },
+              "description": "List of authors where available."
+            },
+            "institution": {
+              "type": "string",
+              "description": "Main institution(s) behind the research."
+            },
+            "publication_type": {
+              "type": "string",
+              "description": "Type of publication (e.g. 'journal_article', 'conference_paper', 'whitepaper', 'book', 'essay')."
+            },
+            "url": {
+              "type": "string",
+              "description": "URL for further information or access to the work."
+            },
+            "notes": {
+              "type": "string",
+              "description": "Short description of how this research connects to the vision."
+            }
+          }
+        }
+      },
+
       "ms_origin": {
         "type": "object",
         "additionalProperties": false,
@@ -159,6 +258,10 @@
           "martin_article_slug": {
             "type": "string",
             "description": "Slug of the article on martin-sambauer.com, if applicable."
+          },
+          "martin_thought_reference": {
+            "type": "string",
+            "description": "Optional reference to a specific idea or section in Martin Sambauer's work."
           },
           "related_dataset_keys": {
             "type": "array",
@@ -173,25 +276,33 @@
         "additionalProperties": false,
         "description": "How AI appears and operates in the vision.",
         "properties": {
-          "ai_architecture": {
+          "ai_layers_present": {
             "type": "array",
             "items": { "type": "string" },
-            "description": "Architectural patterns, e.g. 'multi_agent_system', 'digital_twin_city', 'transformer_swarm'."
+            "description": "High-level AI functions present (e.g. 'perception', 'prediction', 'decision_support')."
           },
           "ai_roles": {
             "type": "array",
             "items": { "type": "string" },
-            "description": "Roles played by AI, e.g. 'personal_companion_agent', 'urban_orchestration_agent'."
+            "description": "Roles played by AI, e.g. 'urban_orchestration_agent', 'personal_assistant'."
           },
           "data_streams": {
             "type": "array",
             "items": { "type": "string" },
-            "description": "Relevant data streams, e.g. 'sensor_network', 'behavioral_analytics', 'social_graph', 'biosignals'."
+            "description": "Relevant data streams, e.g. 'mobility', 'environmental_sensors', 'biometric_data', 'social_graph'."
           },
-          "coordination_protocols": {
+          "ai_architecture": {
             "type": "array",
             "items": { "type": "string" },
-            "description": "Optional description of coordination mechanisms (e.g. 'blackboard_system', 'swarm_logic')."
+            "description": "Architectural patterns, e.g. 'multi_agent_system', 'digital_twin_city', 'edge_cloud_hybrid'."
+          },
+          "multi_agent_structure": {
+            "type": "string",
+            "description": "Optional description of the multi-agent system structure, if any."
+          },
+          "human_in_the_loop": {
+            "type": "string",
+            "description": "Description of how humans stay in control or are involved in decision making."
           }
         }
       },
@@ -201,20 +312,25 @@
         "additionalProperties": false,
         "description": "How immersive media and spatial interfaces appear in the vision.",
         "properties": {
-          "modalities": {
+          "immersive_modalities": {
             "type": "array",
             "items": { "type": "string" },
-            "description": "Immersive modalities, e.g. 'fulldome', 'led_dome', 'ar', 'vr', 'ambient_media_architecture'."
+            "description": "Immersive modalities, e.g. 'fulldome', 'led_dome', 'ar', 'vr', 'ambient_intelligence'."
           },
           "interaction_modes": {
             "type": "array",
             "items": { "type": "string" },
-            "description": "Interaction patterns, e.g. 'group_co-experience', 'personalised_overlay', 'always_on_ambient_layer'."
+            "description": "Interaction patterns, e.g. 'group_co-experience', 'implicit_contextual', 'voice'."
           },
-          "sensory_richness": {
-            "type": "string",
-            "enum": ["low", "medium", "high"],
-            "description": "Coarse rating of how many senses and channels the vision involves."
+          "sensing_actuation": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Sensing and actuation channels, e.g. 'ubiquitous_sensors', 'public_displays', 'facial_recognition'."
+          },
+          "xr_distribution": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "XR distribution channels, e.g. 'mixed_reality_metaverse', 'headsets', 'interactive_hubs'."
           }
         }
       },
@@ -234,7 +350,12 @@
             "environment",
             "commerce",
             "public_space",
-            "identity",
+            "housing",
+            "asset_management",
+            "planning",
+            "public_services",
+            "civic_participation",
+            "economy",
             "other"
           ]
         },
@@ -251,6 +372,10 @@
           "research_hypothesis",
           "philosophical_statement",
           "product_roadmap",
+          "technical_platform",
+          "research_synthesis",
+          "conceptual_vision",
+          "critical_reflection",
           "other"
         ],
         "description": "Intent of the source regarding this vision statement."
@@ -259,12 +384,18 @@
       "normative_evaluation": {
         "type": "object",
         "additionalProperties": false,
-        "description": "How the vision is framed in normative terms.",
+        "description": "How the vision is framed in normative terms, including a taxonomy of utopia, dystopia and critique.",
         "properties": {
           "tone": {
             "type": "string",
-            "enum": ["utopian", "dystopian", "neutral", "mixed"],
-            "description": "Overall tone of the vision."
+            "enum": [
+              "utopian",
+              "dystopian",
+              "critical",
+              "balanced",
+              "neutral"
+            ],
+            "description": "Normative tone of the vision. Utopian = predominantly promise; dystopian = predominantly risk; critical = analytic critique; balanced = explicit mix of promise and concern; neutral = descriptive."
           },
           "opportunity_aspects": {
             "type": "array",
