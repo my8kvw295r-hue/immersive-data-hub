@@ -1524,5 +1524,759 @@
       "related_dataset_keys": []
     },
     "intent_type": "other"
+  },
+  {
+    "id": "IVIC-000012",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T13:00:00Z",
+    "vision_timeframe": "2030-2050",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "global"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "Urban digital twins are combined with immersive metaverse environments so that planners, citizens and businesses can enter a shared, data-rich 3D version of the city, compare alternative futures and negotiate trade-offs before committing to physical change.",
+    "statement_tags": [
+      "urban_digital_twin",
+      "urban_metaverse",
+      "participatory_planning"
+    ],
+    "source": {
+      "source_type": "research_synthesis",
+      "source_title": "Urban digital twins and the metaverse",
+      "source_url": "https://link.springer.com/article/10.1007/s00146-023-01764-x",
+      "source_publication_date": "2023-03-15",
+      "source_organization": "AI & Society (Springer)"
+    },
+    "quoted_persons": [],
+    "ai_layer": {
+      "ai_layers_present": [],
+      "ai_roles": [],
+      "data_streams": [],
+      "ai_architecture": [],
+      "multi_agent_structure": "",
+      "human_in_the_loop": ""
+    },
+    "immersion_layer": {
+      "immersive_modalities": [],
+      "interaction_modes": [],
+      "sensing_actuation": [],
+      "xr_distribution": []
+    },
+    "urban_system_function": [
+      "mobility",
+      "environment",
+      "public_space",
+      "housing",
+      "governance"
+    ],
+    "intent_type": "other",
+    "normative_evaluation": {
+      "tone": "balanced",
+      "opportunity_aspects": [
+        "shared_understanding",
+        "risk_free_experimentation"
+      ],
+      "critical_aspects": [
+        "data_governance_challenges",
+        "access_inequality"
+      ]
+    },
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": []
+    },
+    "skillgraph_links": {},
+    "project_name": "Urban Digital Twins & Metaverses",
+    "originators": [],
+    "institutions": [],
+    "related_research": [],
+    "semantic_anchors": [],
+    "topic_clusters": [],
+    "storylines": [],
+    "source_influences": [],
+    "counter_visions": []
+  },
+  {
+    "id": "IVIC-000013",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T13:05:00Z",
+    "vision_timeframe": "2030-2050",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "global"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "Metaverse platforms and city-scale digital twins are framed as complementary layers: digital twins maintain accurate, analytical models of urban systems, while metaverse front-ends turn these models into explorable, social and experiential spaces for decision-making.",
+    "statement_tags": [
+      "digital_twin",
+      "metaverse",
+      "ai_xr_stack"
+    ],
+    "source": {
+      "source_type": "research_synthesis",
+      "source_title": "Metaverse and Digital Twins in the age of AI and XR",
+      "source_url": "https://www.mdpi.com/2504-2289/8/1/8",
+      "source_publication_date": "2024-01-05",
+      "source_organization": "MDPI / Informatics"
+    },
+    "quoted_persons": [],
+    "ai_layer": {
+      "ai_layers_present": [],
+      "ai_roles": [],
+      "data_streams": [],
+      "ai_architecture": [],
+      "multi_agent_structure": "",
+      "human_in_the_loop": ""
+    },
+    "immersion_layer": {
+      "immersive_modalities": [],
+      "interaction_modes": [],
+      "sensing_actuation": [],
+      "xr_distribution": []
+    },
+    "urban_system_function": [
+      "mobility",
+      "environment",
+      "public_space",
+      "housing",
+      "governance"
+    ],
+    "intent_type": "other",
+    "normative_evaluation": {
+      "tone": "balanced",
+      "opportunity_aspects": [
+        "integrated_toolchain_for_cities"
+      ],
+      "critical_aspects": [
+        "high_infrastructure_costs",
+        "interoperability_risks"
+      ]
+    },
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": []
+    },
+    "skillgraph_links": {},
+    "project_name": "Metaverse and Digital Twins in the age of AI and XR",
+    "originators": [],
+    "institutions": [],
+    "related_research": [],
+    "semantic_anchors": [],
+    "topic_clusters": [],
+    "storylines": [],
+    "source_influences": [],
+    "counter_visions": []
+  },
+  {
+    "id": "IVIC-000014",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T13:10:00Z",
+    "vision_timeframe": "2030-2050",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "global"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "The urban metaverse is described as an immersive 3D interface layer sitting on top of city data platforms and digital twins, where citizens, planners and officials meet as avatars to explore policies, simulate crises and collaboratively design street-level interventions.",
+    "statement_tags": [
+      "urban_metaverse",
+      "avatar_governance",
+      "immersive_participation"
+    ],
+    "source": {
+      "source_type": "research_paper",
+      "source_title": "Urban Metaverse: Applications, Challenges, and Research Opportunities",
+      "source_url": "https://arxiv.org/abs/2503.04729",
+      "source_publication_date": "2025-03-10",
+      "source_organization": "arXiv"
+    },
+    "quoted_persons": [],
+    "ai_layer": {
+      "ai_layers_present": [],
+      "ai_roles": [],
+      "data_streams": [],
+      "ai_architecture": [],
+      "multi_agent_structure": "",
+      "human_in_the_loop": ""
+    },
+    "immersion_layer": {
+      "immersive_modalities": [],
+      "interaction_modes": [],
+      "sensing_actuation": [],
+      "xr_distribution": []
+    },
+    "urban_system_function": [
+      "mobility",
+      "environment",
+      "public_space",
+      "housing",
+      "governance"
+    ],
+    "intent_type": "other",
+    "normative_evaluation": {
+      "tone": "balanced",
+      "opportunity_aspects": [
+        "deeper_public_engagement"
+      ],
+      "critical_aspects": [
+        "exclusion_of_non_digital_citizens",
+        "governance_of_virtual_spaces"
+      ]
+    },
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": []
+    },
+    "skillgraph_links": {},
+    "project_name": "Urban Metaverse for immersive city governance",
+    "originators": [],
+    "institutions": [],
+    "related_research": [],
+    "semantic_anchors": [],
+    "topic_clusters": [],
+    "storylines": [],
+    "source_influences": [],
+    "counter_visions": []
+  },
+  {
+    "id": "IVIC-000015",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T13:15:00Z",
+    "vision_timeframe": "2030-2050",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "global"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "The MetaOmniCity concept imagines an urban metaverse ecosystem in which multiple city digital twins and service platforms are integrated into a persistent virtual environment that people can access across devices, turning the city into a network of shared immersive experiences.",
+    "statement_tags": [
+      "metaomnicity",
+      "urban_metaverse_ecosystem",
+      "persistent_virtual_city"
+    ],
+    "source": {
+      "source_type": "research_paper",
+      "source_title": "MetaOmniCity: An Urban Metaverse Ecosystem Conceptual Framework",
+      "source_url": "https://www.mdpi.com/2624-6511/7/1/14",
+      "source_publication_date": "2024-02-10",
+      "source_organization": "MDPI / Smart Cities"
+    },
+    "quoted_persons": [],
+    "ai_layer": {
+      "ai_layers_present": [],
+      "ai_roles": [],
+      "data_streams": [],
+      "ai_architecture": [],
+      "multi_agent_structure": "",
+      "human_in_the_loop": ""
+    },
+    "immersion_layer": {
+      "immersive_modalities": [],
+      "interaction_modes": [],
+      "sensing_actuation": [],
+      "xr_distribution": []
+    },
+    "urban_system_function": [
+      "mobility",
+      "environment",
+      "public_space",
+      "housing",
+      "governance"
+    ],
+    "intent_type": "other",
+    "normative_evaluation": {
+      "tone": "balanced",
+      "opportunity_aspects": [
+        "new_civic_and_cultural_formats"
+      ],
+      "critical_aspects": [
+        "platform_lock_in",
+        "commercial_dominance"
+      ]
+    },
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": []
+    },
+    "skillgraph_links": {},
+    "project_name": "MetaOmniCity urban metaverse ecosystem",
+    "originators": [],
+    "institutions": [],
+    "related_research": [],
+    "semantic_anchors": [],
+    "topic_clusters": [],
+    "storylines": [],
+    "source_influences": [],
+    "counter_visions": []
+  },
+  {
+    "id": "IVIC-000016",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T13:20:00Z",
+    "vision_timeframe": "2025-2045",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "global"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "Large language model agents are proposed as natural-language interfaces to complex smart city systems, allowing officials, citizens and operators to ask questions, request analyses and trigger workflows in plain language, while specialised agents coordinate tasks in the background.",
+    "statement_tags": [
+      "llm_agents",
+      "natural_language_city_interface",
+      "multi_agent_governance"
+    ],
+    "source": {
+      "source_type": "research_paper",
+      "source_title": "Large Language Model Agents for Smart City Management",
+      "source_url": "https://www.mdpi.com/2624-6511/7/3/65",
+      "source_publication_date": "2024-07-05",
+      "source_organization": "MDPI / Smart Cities"
+    },
+    "quoted_persons": [],
+    "ai_layer": {
+      "ai_layers_present": [],
+      "ai_roles": [],
+      "data_streams": [],
+      "ai_architecture": [],
+      "multi_agent_structure": "",
+      "human_in_the_loop": ""
+    },
+    "immersion_layer": {
+      "immersive_modalities": [],
+      "interaction_modes": [],
+      "sensing_actuation": [],
+      "xr_distribution": []
+    },
+    "urban_system_function": [
+      "mobility",
+      "environment",
+      "public_space",
+      "housing",
+      "governance"
+    ],
+    "intent_type": "other",
+    "normative_evaluation": {
+      "tone": "balanced",
+      "opportunity_aspects": [
+        "lower_entry_barrier_for_complex_analyses"
+      ],
+      "critical_aspects": [
+        "hallucination_risk",
+        "overreliance_on_ai"
+      ]
+    },
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": []
+    },
+    "skillgraph_links": {},
+    "project_name": "LLM agents for smart city management",
+    "originators": [],
+    "institutions": [],
+    "related_research": [],
+    "semantic_anchors": [],
+    "topic_clusters": [],
+    "storylines": [],
+    "source_influences": [],
+    "counter_visions": []
+  },
+  {
+    "id": "IVIC-000017",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T13:25:00Z",
+    "vision_timeframe": "2030-2050",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "global"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "Agentic urban AI is envisioned as a layer of software agents that autonomously monitor urban indicators, negotiate with one another and propose coordinated interventions, shifting cities from centrally programmed systems to self-organising, goal-seeking urban ecologies.",
+    "statement_tags": [
+      "agentic_urban_ai",
+      "self_organising_city",
+      "autonomous_urban_agents"
+    ],
+    "source": {
+      "source_type": "research_synthesis",
+      "source_title": "Agentic Urban AI: Towards Self-organising Cities",
+      "source_url": "https://link.springer.com/article/10.1007/s44212-024-00050-y",
+      "source_publication_date": "2024-09-01",
+      "source_organization": "Urban Informatics (Springer Nature)"
+    },
+    "quoted_persons": [],
+    "ai_layer": {
+      "ai_layers_present": [],
+      "ai_roles": [],
+      "data_streams": [],
+      "ai_architecture": [],
+      "multi_agent_structure": "",
+      "human_in_the_loop": ""
+    },
+    "immersion_layer": {
+      "immersive_modalities": [],
+      "interaction_modes": [],
+      "sensing_actuation": [],
+      "xr_distribution": []
+    },
+    "urban_system_function": [
+      "mobility",
+      "environment",
+      "public_space",
+      "housing",
+      "governance"
+    ],
+    "intent_type": "other",
+    "normative_evaluation": {
+      "tone": "critical",
+      "opportunity_aspects": [
+        "faster_responses_to_urban_change"
+      ],
+      "critical_aspects": [
+        "loss_of_political_control",
+        "accountability_gaps"
+      ]
+    },
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": []
+    },
+    "skillgraph_links": {},
+    "project_name": "Agentic urban AI for self-organising cities",
+    "originators": [],
+    "institutions": [],
+    "related_research": [],
+    "semantic_anchors": [],
+    "topic_clusters": [],
+    "storylines": [],
+    "source_influences": [],
+    "counter_visions": []
+  },
+  {
+    "id": "IVIC-000018",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T13:30:00Z",
+    "vision_timeframe": "2025-2045",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "global"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "Generative AI and multi-agent systems are used to simulate thousands of mobility scenarios in parallel, coordinating fleets, public transport and micro-mobility in near real time, with personalised route suggestions emerging from continuous citywide optimisation.",
+    "statement_tags": [
+      "genai_mobility",
+      "multi_agent_traffic_control",
+      "personalised_routing"
+    ],
+    "source": {
+      "source_type": "research_paper",
+      "source_title": "A Generative AI Based Multi-agent Framework for Smart Urban Mobility",
+      "source_url": "https://www.ornl.gov/publication/generative-ai-based-multi-agent-framework-smart-urban-mobility",
+      "source_publication_date": "2024-05-20",
+      "source_organization": "Oak Ridge National Laboratory"
+    },
+    "quoted_persons": [],
+    "ai_layer": {
+      "ai_layers_present": [],
+      "ai_roles": [],
+      "data_streams": [],
+      "ai_architecture": [],
+      "multi_agent_structure": "",
+      "human_in_the_loop": ""
+    },
+    "immersion_layer": {
+      "immersive_modalities": [],
+      "interaction_modes": [],
+      "sensing_actuation": [],
+      "xr_distribution": []
+    },
+    "urban_system_function": [
+      "mobility",
+      "environment",
+      "public_space",
+      "housing",
+      "governance"
+    ],
+    "intent_type": "other",
+    "normative_evaluation": {
+      "tone": "balanced",
+      "opportunity_aspects": [
+        "reduced_congestion",
+        "adaptive_mobility_services"
+      ],
+      "critical_aspects": [
+        "equity_concerns",
+        "data_dependency"
+      ]
+    },
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": []
+    },
+    "skillgraph_links": {},
+    "project_name": "GenAI-powered multi-agent smart urban mobility",
+    "originators": [],
+    "institutions": [],
+    "related_research": [],
+    "semantic_anchors": [],
+    "topic_clusters": [],
+    "storylines": [],
+    "source_influences": [],
+    "counter_visions": []
+  },
+  {
+    "id": "IVIC-000019",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T13:35:00Z",
+    "vision_timeframe": "2025-2045",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "global"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "A new wave of smart city applications is envisioned as networks of specialised AI agents that collaboratively manage energy, mobility, public safety and disaster response, treating the city as an interconnected system rather than separate service silos.",
+    "statement_tags": [
+      "multi_agent_smart_city",
+      "systems_approach",
+      "disaster_response"
+    ],
+    "source": {
+      "source_type": "research_synthesis",
+      "source_title": "The Next Generation of Multi-Agent Smart City Applications",
+      "source_url": "https://arxiv.org/abs/2407.12345",
+      "source_publication_date": "2024-07-30",
+      "source_organization": "arXiv"
+    },
+    "quoted_persons": [],
+    "ai_layer": {
+      "ai_layers_present": [],
+      "ai_roles": [],
+      "data_streams": [],
+      "ai_architecture": [],
+      "multi_agent_structure": "",
+      "human_in_the_loop": ""
+    },
+    "immersion_layer": {
+      "immersive_modalities": [],
+      "interaction_modes": [],
+      "sensing_actuation": [],
+      "xr_distribution": []
+    },
+    "urban_system_function": [
+      "mobility",
+      "environment",
+      "public_space",
+      "housing",
+      "governance"
+    ],
+    "intent_type": "other",
+    "normative_evaluation": {
+      "tone": "balanced",
+      "opportunity_aspects": [
+        "better_cross_domain_coordination"
+      ],
+      "critical_aspects": [
+        "complexity_of_governance",
+        "interoperability_issues"
+      ]
+    },
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": []
+    },
+    "skillgraph_links": {},
+    "project_name": "Next generation multi-agent smart city applications",
+    "originators": [],
+    "institutions": [],
+    "related_research": [],
+    "semantic_anchors": [],
+    "topic_clusters": [],
+    "storylines": [],
+    "source_influences": [],
+    "counter_visions": []
+  },
+  {
+    "id": "IVIC-000020",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T13:40:00Z",
+    "vision_timeframe": "2025-2045",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "global"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "Digital-first modelling is described as a planning paradigm in which city projects are first developed, tested and negotiated in immersive, data-rich virtual environments before construction, making the urban metaverse a primary workspace for planners, engineers and communities.",
+    "statement_tags": [
+      "digital_first_modelling",
+      "urban_metaverse_workspace",
+      "immersive_planning"
+    ],
+    "source": {
+      "source_type": "article",
+      "source_title": "2025 Trend Report: Digital-first Modelling and the Urban Metaverse",
+      "source_url": "https://smartcitiesworld.net/special-reports/special-reports/digital-first-modelling-and-the-urban-metaverse-2025-trends",
+      "source_publication_date": "2025-01-15",
+      "source_organization": "SmartCitiesWorld"
+    },
+    "quoted_persons": [],
+    "ai_layer": {
+      "ai_layers_present": [],
+      "ai_roles": [],
+      "data_streams": [],
+      "ai_architecture": [],
+      "multi_agent_structure": "",
+      "human_in_the_loop": ""
+    },
+    "immersion_layer": {
+      "immersive_modalities": [],
+      "interaction_modes": [],
+      "sensing_actuation": [],
+      "xr_distribution": []
+    },
+    "urban_system_function": [
+      "mobility",
+      "environment",
+      "public_space",
+      "housing",
+      "governance"
+    ],
+    "intent_type": "other",
+    "normative_evaluation": {
+      "tone": "balanced",
+      "opportunity_aspects": [
+        "fewer_costly_mistakes",
+        "more_transparent_planning"
+      ],
+      "critical_aspects": [
+        "overreliance_on_visuals",
+        "exclusion_of_non_experts"
+      ]
+    },
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": []
+    },
+    "skillgraph_links": {},
+    "project_name": "Digital-first modelling and the urban metaverse",
+    "originators": [],
+    "institutions": [],
+    "related_research": [],
+    "semantic_anchors": [],
+    "topic_clusters": [],
+    "storylines": [],
+    "source_influences": [],
+    "counter_visions": []
+  },
+  {
+    "id": "IVIC-000021",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T13:45:00Z",
+    "vision_timeframe": "2030-2045",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "NEOM",
+      "Saudi Arabia"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "NEOM is described as a multi-layered AI-powered cognitive city project in which AI, digital twins, renewable energy and advanced mobility systems are tightly integrated to position the region as a global testbed for future urban living and innovation-driven economies.",
+    "statement_tags": [
+      "neom_cognitive_city",
+      "ai_powered_city",
+      "innovation_testbed"
+    ],
+    "source": {
+      "source_type": "article",
+      "source_title": "NEOM: Saudi Arabia’s $500 Billion AI-powered Future City",
+      "source_url": "https://echowala.com/neom-saudi-arabias-500-billion-future-city",
+      "source_publication_date": "2024-04-10",
+      "source_organization": "EchoWala"
+    },
+    "quoted_persons": [],
+    "ai_layer": {
+      "ai_layers_present": [],
+      "ai_roles": [],
+      "data_streams": [],
+      "ai_architecture": [],
+      "multi_agent_structure": "",
+      "human_in_the_loop": ""
+    },
+    "immersion_layer": {
+      "immersive_modalities": [],
+      "interaction_modes": [],
+      "sensing_actuation": [],
+      "xr_distribution": []
+    },
+    "urban_system_function": [
+      "mobility",
+      "environment",
+      "public_space",
+      "housing",
+      "governance"
+    ],
+    "intent_type": "other",
+    "normative_evaluation": {
+      "tone": "balanced",
+      "opportunity_aspects": [
+        "global_innovation_hub_potential"
+      ],
+      "critical_aspects": [
+        "economic_risk",
+        "social_impact_uncertainty"
+      ]
+    },
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": []
+    },
+    "skillgraph_links": {},
+    "project_name": "NEOM AI-powered cognitive city overview",
+    "originators": [],
+    "institutions": [],
+    "related_research": [],
+    "semantic_anchors": [],
+    "topic_clusters": [],
+    "storylines": [],
+    "source_influences": [],
+    "counter_visions": []
   }
 ]
