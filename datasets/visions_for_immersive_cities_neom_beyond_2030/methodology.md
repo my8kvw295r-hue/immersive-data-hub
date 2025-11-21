@@ -221,3 +221,13 @@ Quality control operates on several levels:
   Low-confidence annotations (for example borderline paraphrases or ambiguous intent_type) should be flagged for human review and clearly marked as such.
 
 By following these rules, the dataset can grow into a reliable, extensible foundation for analysing and generating visions of immersive cities, grounded in real sources and tightly integrated with existing skill and knowledge graphs.
+
+
+## Visions_for_Immersive_Cities_NEOM_Beyond_2030 – Methodology (Updated)
+
+This dataset is **entirely English-only**.  
+All paraphrased statements, metadata fields, tags, normative evaluations, storylines, and analytical annotations **must be written in English**.  
+Any source in other languages must be paraphrased into English.  
+No bilingual or mixed-language entries are allowed.
+
+(…original methodology content unchanged except enforcing English-only…)
