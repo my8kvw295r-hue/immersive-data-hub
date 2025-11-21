@@ -1,0 +1,731 @@
+[
+  {
+    "id": "IVIC-000001",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T12:00:00Z",
+    "vision_timeframe": "2030-2045",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "NEOM",
+      "Saudi Arabia"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "THE LINE is envisioned as a 170-kilometre, car-free linear city enclosed in a mirrored structure around 500 metres high and about 200 metres wide. Up to nine million residents are meant to live in vertically stacked neighbourhoods powered entirely by renewable energy, with daily needs reachable within a short walk and the surrounding desert largely preserved as a nature reserve.",
+    "statement_tags": [
+      "linear_city",
+      "zero_carbon",
+      "car_free",
+      "cognitive_city",
+      "renewable_energy",
+      "vertical_urbanism"
+    ],
+    "source": {
+      "source_type": "urban_masterplan",
+      "source_title": "THE LINE: a revolution in urban living",
+      "source_url": "https://www.neom.com/en-us/regions/theline",
+      "source_publication_date": "2021-01-10",
+      "source_organization": "NEOM"
+    },
+    "quoted_persons": [
+      {
+        "name": "Mohammed bin Salman",
+        "role": "Crown Prince of Saudi Arabia; initiator of NEOM and THE LINE",
+        "quote_type": "vision_speech"
+      }
+    ],
+    "ai_layer": {
+      "ai_layers_present": [],
+      "ai_roles": [],
+      "data_streams": [],
+      "ai_architecture": [],
+      "multi_agent_structure": null,
+      "human_in_the_loop": null
+    },
+    "immersion_layer": {
+      "immersive_modalities": [
+        "urban_environment"
+      ],
+      "interaction_modes": [
+        "spatial_experience"
+      ],
+      "sensing_actuation": [],
+      "xr_distribution": []
+    },
+    "urban_system_function": [
+      "mobility",
+      "environment",
+      "public_space",
+      "housing",
+      "governance"
+    ],
+    "intent_type": "urban_masterplan",
+    "normative_evaluation": {
+      "tone": "utopian",
+      "opportunity_aspects": [
+        "high_walkability",
+        "emissions_free_mobility",
+        "large_scale_nature_preservation"
+      ],
+      "critical_aspects": []
+    },
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": [
+        "SkillTaxonomy_ImmersiveCreativeRoles"
+      ]
+    },
+    "skillgraph_links": {},
+    "project_name": "THE LINE, NEOM",
+    "originators": [
+      {
+        "name": "Mohammed bin Salman",
+        "role": "Founder and political initiator",
+        "organization": "Kingdom of Saudi Arabia, NEOM Company"
+      }
+    ],
+    "institutions": [
+      {
+        "name": "NEOM Company",
+        "type": "development_company",
+        "department_or_unit": "",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "Public Investment Fund (PIF)",
+        "type": "sovereign_wealth_fund",
+        "department_or_unit": "",
+        "country": "Saudi Arabia"
+      }
+    ],
+    "related_research": [
+      {
+        "title": "Cognitive Cities: A journey to intelligent urbanism",
+        "authors": [
+          "PwC Middle East"
+        ],
+        "institution": "PwC Middle East",
+        "publication_type": "whitepaper",
+        "url": "https://www.pwc.com/m1/en/publications/cognitive-cities-a-journey-to-intelligent-urbanism.html",
+        "notes": "Frames cognitive cities as sentient, AI-driven urban systems; frequently linked to NEOM as a flagship example."
+      }
+    ]
+  },
+  {
+    "id": "IVIC-000002",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T12:00:00Z",
+    "vision_timeframe": "2030-2040",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "global"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "A smart city is described as using real-time information to manage services, whereas a cognitive city is framed as a data-centric community that learns over time, builds memories and retrieves past experiences so it can act proactively and predictively, aiming to give residents back time and reduce everyday friction.",
+    "statement_tags": [
+      "cognitive_city",
+      "smart_city_comparison",
+      "proactive_ai",
+      "predictive_urbanism",
+      "data_centric"
+    ],
+    "source": {
+      "source_type": "conceptual_vision",
+      "source_title": "Cognitive City vs Smart City",
+      "source_url": "https://sponsored.bloomberg.com/article/tonomus-neom/cognitive-city-vs-smart-city",
+      "source_publication_date": "2025-01-01",
+      "source_organization": "TONOMUS / Bloomberg Media"
+    },
+    "quoted_persons": [
+      {
+        "name": "Joseph Bradley",
+        "role": "CEO, TONOMUS NEOM",
+        "quote_type": "expert_interview"
+      }
+    ],
+    "ai_layer": {
+      "ai_layers_present": [
+        "predictive_services",
+        "personalization_engine"
+      ],
+      "ai_roles": [
+        "urban_orchestration_agent",
+        "personal_assistant"
+      ],
+      "data_streams": [
+        "mobility",
+        "infrastructure_usage",
+        "personal_preferences"
+      ],
+      "ai_architecture": [
+        "cognitive_city_platform",
+        "digital_twin_city"
+      ],
+      "multi_agent_structure": "federated_city_services_agents",
+      "human_in_the_loop": "strategic_governance_and_data_consent"
+    },
+    "immersion_layer": {
+      "immersive_modalities": [
+        "ambient_intelligence",
+        "mixed_reality_metaverse"
+      ],
+      "interaction_modes": [
+        "implicit_contextual",
+        "voice",
+        "avatar_based"
+      ],
+      "sensing_actuation": [
+        "ubiquitous_sensors",
+        "citywide_iot"
+      ],
+      "xr_distribution": [
+        "mixed_reality_metaverse"
+      ]
+    },
+    "urban_system_function": [
+      "governance",
+      "mobility",
+      "health",
+      "public_services"
+    ],
+    "intent_type": "conceptual_vision",
+    "normative_evaluation": {
+      "tone": "utopian",
+      "opportunity_aspects": [
+        "time_saving",
+        "frictionless_services",
+        "deep_personalization"
+      ],
+      "critical_aspects": [
+        "data_trust_dependence",
+        "privacy_risk_if_governance_weak"
+      ]
+    },
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": [
+        "SkillTaxonomy_ImmersiveCreativeRoles"
+      ]
+    },
+    "skillgraph_links": {},
+    "project_name": "NEOM Cognitive City and cognitive-city model",
+    "originators": [
+      {
+        "name": "TONOMUS",
+        "role": "Primary technology developer and operator",
+        "organization": "TONOMUS"
+      },
+      {
+        "name": "Joseph Bradley",
+        "role": "Technology leader and public advocate of cognitive cities",
+        "organization": "TONOMUS"
+      }
+    ],
+    "institutions": [
+      {
+        "name": "TONOMUS",
+        "type": "technology_company",
+        "department_or_unit": "",
+        "country": "Saudi Arabia"
+      },
+      {
+        "name": "PwC Middle East",
+        "type": "consultancy",
+        "department_or_unit": "",
+        "country": "United Arab Emirates"
+      }
+    ],
+    "related_research": [
+      {
+        "title": "Cognitive Cities: A journey to intelligent urbanism",
+        "authors": [
+          "PwC Middle East"
+        ],
+        "institution": "PwC Middle East",
+        "publication_type": "whitepaper",
+        "url": "https://www.pwc.com/m1/en/publications/cognitive-cities-a-journey-to-intelligent-urbanism.html",
+        "notes": "Defines cognitive cities as sentient urban systems that go beyond traditional smart-city infrastructure."
+      },
+      {
+        "title": "Towards Cognitive Cities: Advances in Cognitive Computing and its Application to Smart Cities",
+        "authors": [
+          "Juan Manuel Corchado et al."
+        ],
+        "institution": "University of Salamanca and collaborators",
+        "publication_type": "edited_volume",
+        "url": "https://link.springer.com/book/10.1007/978-3-319-33798-2",
+        "notes": "Introduces the cognitive city concept and its main building blocks in an academic context."
+      },
+      {
+        "title": "Cognitive smart cities: Challenges and trending solutions",
+        "authors": [],
+        "institution": "",
+        "publication_type": "journal_article",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/exsy.12981",
+        "notes": "Analyzes challenges and solution patterns for implementing cognitive smart cities."
+      }
+    ]
+  },
+  {
+    "id": "IVIC-000003",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T12:00:00Z",
+    "vision_timeframe": "2024-2035",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "Fredericton",
+      "Smart cities (general)"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "The MACeIP platform proposes a smart city architecture where dense IoT sensor networks, edge and cloud computing, and multimodal AI work together to form a responsive urban ecosystem. Interactive hubs, intelligent public asset management, pedestrian monitoring and a city-planning portal are combined so that the city can continuously sense conditions, analyse them and adapt services in near real time.",
+    "statement_tags": [
+      "ambient_intelligence",
+      "iot",
+      "multimodal_ai",
+      "interactive_hubs",
+      "urban_platform"
+    ],
+    "source": {
+      "source_type": "research_paper",
+      "source_title": "MACeIP: A Multimodal Ambient Context-enriched Intelligence Platform in Smart Cities",
+      "source_url": "https://arxiv.org/abs/2409.15243",
+      "source_publication_date": "2024-09-23",
+      "source_organization": "arXiv"
+    },
+    "quoted_persons": [
+      {
+        "name": "Truong Thanh Hung Nguyen",
+        "role": "co-author",
+        "quote_type": "research_author"
+      },
+      {
+        "name": "Phuc Truong Loc Nguyen",
+        "role": "co-author",
+        "quote_type": "research_author"
+      },
+      {
+        "name": "Monica Wachowicz",
+        "role": "co-author",
+        "quote_type": "research_author"
+      },
+      {
+        "name": "Hung Cao",
+        "role": "co-author",
+        "quote_type": "research_author"
+      }
+    ],
+    "ai_layer": {
+      "ai_layers_present": [
+        "perception",
+        "decision_support"
+      ],
+      "ai_roles": [
+        "urban_analytics_engine",
+        "planning_assistant"
+      ],
+      "data_streams": [
+        "environmental_sensors",
+        "mobility",
+        "public_assets",
+        "pedestrian_flows"
+      ],
+      "ai_architecture": [
+        "multimodal_ai_platform",
+        "edge_cloud_hybrid"
+      ],
+      "multi_agent_structure": "service_specific_ai_modules",
+      "human_in_the_loop": "city_planners_and_operators"
+    },
+    "immersion_layer": {
+      "immersive_modalities": [
+        "ambient_intelligence"
+      ],
+      "interaction_modes": [
+        "interactive_kiosks",
+        "city_hubs"
+      ],
+      "sensing_actuation": [
+        "environmental_iot",
+        "public_displays"
+      ],
+      "xr_distribution": []
+    },
+    "urban_system_function": [
+      "mobility",
+      "planning",
+      "public_space",
+      "asset_management"
+    ],
+    "intent_type": "technical_platform",
+    "normative_evaluation": {
+      "tone": "neutral",
+      "opportunity_aspects": [
+        "better_city_planning",
+        "real_time_management",
+        "citizen_engagement"
+      ],
+      "critical_aspects": [
+        "complexity_of_integration",
+        "data_governance_requirements"
+      ]
+    },
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": [
+        "SkillTaxonomy_ImmersiveCreativeRoles"
+      ]
+    },
+    "skillgraph_links": {},
+    "project_name": "MACeIP: Multimodal Ambient Context-enriched Intelligence Platform",
+    "originators": [
+      {
+        "name": "Truong Thanh Hung Nguyen",
+        "role": "Lead author",
+        "organization": "Analytics Everywhere Lab, University of New Brunswick"
+      },
+      {
+        "name": "Phuc Truong Loc Nguyen",
+        "role": "Co-author",
+        "organization": "Analytics Everywhere Lab, University of New Brunswick"
+      },
+      {
+        "name": "Monica Wachowicz",
+        "role": "Co-author",
+        "organization": "RMIT University"
+      },
+      {
+        "name": "Hung Cao",
+        "role": "Principal investigator",
+        "organization": "Analytics Everywhere Lab, University of New Brunswick"
+      }
+    ],
+    "institutions": [
+      {
+        "name": "Analytics Everywhere Lab",
+        "type": "research_lab",
+        "department_or_unit": "Faculty of Computer Science",
+        "country": "Canada"
+      },
+      {
+        "name": "University of New Brunswick",
+        "type": "university",
+        "department_or_unit": "Faculty of Computer Science",
+        "country": "Canada"
+      },
+      {
+        "name": "RMIT University",
+        "type": "university",
+        "department_or_unit": "",
+        "country": "Australia"
+      }
+    ],
+    "related_research": [
+      {
+        "title": "MACeIP: A Multimodal Ambient Context-enriched Intelligence Platform in Smart Cities",
+        "authors": [
+          "Truong Thanh Hung Nguyen",
+          "Phuc Truong Loc Nguyen",
+          "Monica Wachowicz",
+          "Hung Cao"
+        ],
+        "institution": "Analytics Everywhere Lab, University of New Brunswick; RMIT University",
+        "publication_type": "conference_paper",
+        "url": "https://arxiv.org/abs/2409.15243",
+        "notes": "Presents MACeIP architecture, interactive hubs, sensor network and deployment in Canadian cities, focusing on Fredericton."
+      }
+    ]
+  },
+  {
+    "id": "IVIC-000004",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T12:00:00Z",
+    "vision_timeframe": "2024-2035",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "global"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "A comprehensive review of artificial intelligence in smart cities argues that AI will underpin six core urban domains—governance, economy, mobility, environment, living and people. The vision is that data-driven AI systems will optimise transport, energy, environmental monitoring, public administration and citizen services, but that responsible deployment, inclusiveness and citizen engagement are crucial to avoid new barriers and risks.",
+    "statement_tags": [
+      "ai_in_smart_cities",
+      "governance",
+      "mobility",
+      "environment",
+      "smart_living",
+      "inclusive_ai"
+    ],
+    "source": {
+      "source_type": "research_paper",
+      "source_title": "Artificial Intelligence in Smart Cities—Applications, Barriers, and Future Directions: A Review",
+      "source_url": "https://www.mdpi.com/2624-6511/7/3/57",
+      "source_publication_date": "2024-06-10",
+      "source_organization": "MDPI / Smart Cities"
+    },
+    "quoted_persons": [
+      {
+        "name": "Radosław Wolniak",
+        "role": "co-author",
+        "quote_type": "research_author"
+      },
+      {
+        "name": "Kinga Stecuła",
+        "role": "co-author",
+        "quote_type": "research_author"
+      }
+    ],
+    "ai_layer": {
+      "ai_layers_present": [
+        "perception",
+        "prediction",
+        "decision_support"
+      ],
+      "ai_roles": [
+        "mobility_optimization",
+        "resource_management",
+        "governance_support"
+      ],
+      "data_streams": [
+        "transport",
+        "energy_usage",
+        "environmental_data",
+        "administrative_data"
+      ],
+      "ai_architecture": [
+        "citywide_ai_services"
+      ],
+      "multi_agent_structure": "domain_specific_city_agents",
+      "human_in_the_loop": "city_officials_and_citizens"
+    },
+    "immersion_layer": {
+      "immersive_modalities": [
+        "ambient_intelligence"
+      ],
+      "interaction_modes": [
+        "mobile_apps",
+        "dashboards",
+        "urban_interfaces"
+      ],
+      "sensing_actuation": [
+        "iot_sensors",
+        "adaptive_infrastructure"
+      ],
+      "xr_distribution": []
+    },
+    "urban_system_function": [
+      "governance",
+      "economy",
+      "mobility",
+      "environment",
+      "public_services",
+      "civic_participation"
+    ],
+    "intent_type": "research_synthesis",
+    "normative_evaluation": {
+      "tone": "balanced",
+      "opportunity_aspects": [
+        "efficiency_gains",
+        "better_quality_of_life",
+        "support_for_sustainability_goals"
+      ],
+      "critical_aspects": [
+        "implementation_barriers",
+        "ethical_and_inclusion_concerns"
+      ]
+    },
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": [
+        "SkillTaxonomy_ImmersiveCreativeRoles"
+      ]
+    },
+    "skillgraph_links": {},
+    "project_name": "AI in Smart Cities literature review (Smart Cities journal)",
+    "originators": [
+      {
+        "name": "Radosław Wolniak",
+        "role": "Lead author",
+        "organization": "Silesian University of Technology"
+      },
+      {
+        "name": "Kinga Stecuła",
+        "role": "Co-author",
+        "organization": "Silesian University of Technology"
+      }
+    ],
+    "institutions": [
+      {
+        "name": "Silesian University of Technology",
+        "type": "university",
+        "department_or_unit": "Department of Economics and Informatics, Faculty of Organization and Management",
+        "country": "Poland"
+      },
+      {
+        "name": "Silesian University of Technology",
+        "type": "university",
+        "department_or_unit": "Department of Production Engineering, Faculty of Organization and Management",
+        "country": "Poland"
+      }
+    ],
+    "related_research": [
+      {
+        "title": "Artificial Intelligence in Smart Cities—Applications, Barriers, and Future Directions: A Review",
+        "authors": [
+          "Radosław Wolniak",
+          "Kinga Stecuła"
+        ],
+        "institution": "Silesian University of Technology",
+        "publication_type": "journal_article",
+        "url": "https://doi.org/10.3390/smartcities7030057",
+        "notes": "Systematic review of AI applications and barriers in smart cities across six domains."
+      }
+    ]
+  },
+  {
+    "id": "IVIC-000005",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T12:00:00Z",
+    "vision_timeframe": "2030-2045",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "NEOM",
+      "Saudi Arabia"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "An architectural critique of NEOM’s Cognitive City imagines a fully instrumented urban environment in which sensors, cameras and biometric systems feed a central AI operating system that optimizes transport, utilities, healthcare and daily services. The same vision, however, raises the prospect of an unprecedented surveillance infrastructure where every movement, transaction and interaction is tracked, potentially turning the city into a model of pervasive algorithmic control as much as an efficiency utopia.",
+    "statement_tags": [
+      "cognitive_city",
+      "surveillance",
+      "datafication",
+      "hyper_personalization",
+      "critical_perspective"
+    ],
+    "source": {
+      "source_type": "critical_essay",
+      "source_title": "NEOM's Cognitive City: Smart Utopia or Surveillance Dystopia?",
+      "source_url": "https://www.bogatarchitecture.com/post/neom-s-cognitive-city-smart-utopia-or-surveillance-dystopia",
+      "source_publication_date": "2024-11-04",
+      "source_organization": "Bogat Architecture and Design"
+    },
+    "quoted_persons": [
+      {
+        "name": "Maria Bogatinovska",
+        "role": "architectural designer; author of the essay",
+        "quote_type": "critical_commentary"
+      }
+    ],
+    "ai_layer": {
+      "ai_layers_present": [
+        "perception",
+        "prediction",
+        "decision_support"
+      ],
+      "ai_roles": [
+        "urban_orchestration_agent",
+        "health_monitoring_system",
+        "security_and_safety_system"
+      ],
+      "data_streams": [
+        "biometric_data",
+        "mobility_and_location",
+        "infrastructure_usage",
+        "behavioral_analytics"
+      ],
+      "ai_architecture": [
+        "city_operating_system",
+        "centralized_data_platform"
+      ],
+      "multi_agent_structure": "citywide_services_under_central_supervision",
+      "human_in_the_loop": "policy_makers_but_limited_resident_control"
+    },
+    "immersion_layer": {
+      "immersive_modalities": [
+        "ambient_intelligence"
+      ],
+      "interaction_modes": [
+        "implicit_contextual",
+        "predictive_services"
+      ],
+      "sensing_actuation": [
+        "ubiquitous_sensors",
+        "facial_recognition",
+        "environmental_controls"
+      ],
+      "xr_distribution": []
+    },
+    "urban_system_function": [
+      "mobility",
+      "health",
+      "security",
+      "environment",
+      "public_services"
+    ],
+    "intent_type": "critical_reflection",
+    "normative_evaluation": {
+      "tone": "dystopian",
+      "opportunity_aspects": [
+        "high_efficiency_services",
+        "environmental_management",
+        "proactive_healthcare"
+      ],
+      "critical_aspects": [
+        "loss_of_privacy",
+        "potential_human_rights_risks",
+        "centralized_data_power"
+      ]
+    },
+    "ms_origin": {
+      "is_martin_article": false,
+      "martin_article_slug": "",
+      "martin_thought_reference": "",
+      "related_dataset_keys": [
+        "SkillTaxonomy_ImmersiveCreativeRoles"
+      ]
+    },
+    "skillgraph_links": {},
+    "project_name": "NEOM Cognitive City critical essay",
+    "originators": [
+      {
+        "name": "Maria Bogatinovska",
+        "role": "Author and critic",
+        "organization": "Bogat Architecture and Design"
+      }
+    ],
+    "institutions": [
+      {
+        "name": "Bogat Architecture and Design",
+        "type": "architecture_practice",
+        "department_or_unit": "",
+        "country": "United States"
+      }
+    ],
+    "related_research": [
+      {
+        "title": "NEOM's Cognitive City: Smart Utopia or Surveillance Dystopia?",
+        "authors": [
+          "Maria Bogatinovska"
+        ],
+        "institution": "Bogat Architecture and Design",
+        "publication_type": "essay",
+        "url": "https://www.bogatarchitecture.com/post/neom-s-cognitive-city-smart-utopia-or-surveillance-dystopia",
+        "notes": "Architectural and ethical critique of NEOM’s cognitive-city vision, focusing on surveillance, data rights and human impacts."
+      }
+    ]
+  }
+]
