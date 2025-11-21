@@ -727,5 +727,723 @@
         "notes": "Architectural and ethical critique of NEOM’s cognitive-city vision, focusing on surveillance, data rights and human impacts."
       }
     ]
+  },
+  {
+    "id": "IVIC-000006",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T12:30:00Z",
+    "vision_timeframe": "2030-2045",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "NEOM",
+      "Saudi Arabia"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "The Line is framed as the world’s first cognitive city that continuously predicts and reacts to residents’ needs using AI, sensors, data centers and autonomous systems, aiming to optimize services, cut emissions and deliver ultra-personalized urban life at scale.",
+    "statement_tags": [
+      "cognitive_city",
+      "predictive_services",
+      "data_driven_governance",
+      "ai_governance",
+      "hyper_personalization"
+    ],
+    "source": {
+      "source_type": "case_study",
+      "source_title": "The Line from NEOM",
+      "source_organization": "Jacobs Urban Tech Hub, Cornell Tech",
+      "source_url": "https://atlasofurbantech.org/cases/sau-neom-theline/",
+      "source_publication_date": "2025-01-01"
+    },
+    "quoted_persons": [],
+    "urban_system_function": [
+      "governance",
+      "mobility",
+      "environment",
+      "public_space",
+      "housing"
+    ],
+    "normative_evaluation": {
+      "tone": "balanced",
+      "opportunity_aspects": [
+        "real_time_optimization",
+        "low_carbon_urbanism",
+        "personalized_services",
+        "innovation_positioning"
+      ],
+      "critical_aspects": [
+        "surveillance_risk",
+        "data_governance_uncertainty",
+        "feasibility_risk"
+      ]
+    },
+    "ai_layer": {
+      "ai_layers_present": [
+        "pervasive_ai",
+        "edge_ai",
+        "cloud_ai"
+      ],
+      "ai_roles": [
+        "predictive_analytics",
+        "resource_optimization",
+        "personalization_engine"
+      ],
+      "data_streams": [
+        "iot_sensors",
+        "mobility_data",
+        "environmental_data",
+        "social_data"
+      ],
+      "multi_agent_structure": "multi_agent_city_services",
+      "human_in_the_loop": "policy_makers_and_operators"
+    },
+    "immersion_layer": {
+      "immersive_modalities": [
+        "urban_environment"
+      ],
+      "interaction_modes": [
+        "ambient_interaction",
+        "context_aware_services"
+      ],
+      "sensing_actuation": [
+        "ubiquitous_sensing",
+        "adaptive_lighting",
+        "adaptive_mobility"
+      ],
+      "xr_distribution": []
+    },
+    "semantic_anchors": [
+      "city_as_operating_system",
+      "sentient_city",
+      "predictive_urbanism"
+    ],
+    "topic_clusters": [],
+    "storylines": [
+      "neom_cognitive_city"
+    ],
+    "source_influences": [],
+    "counter_visions": [
+      {
+        "id": "IVIC-000005",
+        "relation": "critique"
+      }
+    ],
+    "skillgraph_links": {},
+    "project_name": "The Line cognitive city case study",
+    "originators": [
+      {
+        "name": "Yixuan Wang",
+        "role": "Case study author",
+        "organization": "Jacobs Urban Tech Hub, Cornell Tech"
+      }
+    ],
+    "institutions": [
+      {
+        "name": "Jacobs Urban Tech Hub, Cornell Tech",
+        "type": "research_lab",
+        "department_or_unit": "Urban Tech Hub",
+        "country": "United States"
+      },
+      {
+        "name": "NEOM Company",
+        "type": "urban_development_corporation",
+        "department_or_unit": "",
+        "country": "Saudi Arabia"
+      }
+    ],
+    "related_research": [
+      {
+        "title": "NEOM’S The Line: The world’s first cognitive city",
+        "authors": [],
+        "institution": "WIRED Middle East",
+        "publication_type": "magazine_article",
+        "url": "https://wired.me/science/environment/neom-the-line-cognitive-city/",
+        "notes": "Media feature describing The Line as a cognitive city that uses AI to predict and respond to residents’ needs."
+      },
+      {
+        "title": "Seven Years of Saudi Arabia’s NEOM Project: Prospects and Challenges",
+        "authors": [],
+        "institution": "Indian Council of World Affairs",
+        "publication_type": "policy_brief",
+        "url": "https://www.icwa.in/show_content.php?lang=1&level=3&ls_id=9322&lid=5786",
+        "notes": "Policy analysis discussing NEOM’s strategic ambitions, financing and geopolitical implications."
+      }
+    ]
+  },
+  {
+    "id": "IVIC-000007",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T12:35:00Z",
+    "vision_timeframe": "2030-2050",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "global"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "Urban digital twins are envisioned as AI-augmented virtual replicas of cities where generative AI continuously expands and refines urban data, scenarios, and 3D models, enabling autonomous simulations, participatory planning, and human-AI co-design of future neighbourhoods.",
+    "statement_tags": [
+      "urban_digital_twin",
+      "generative_ai",
+      "city_simulation",
+      "participatory_planning",
+      "3d_city_models"
+    ],
+    "source": {
+      "source_type": "research_synthesis",
+      "source_title": "Leveraging generative AI for urban digital twins: a scoping review on the autonomous generation of urban data, scenarios, designs, and 3D city models for smart city advancement",
+      "source_organization": "Urban Informatics (Springer Nature)",
+      "source_url": "https://link.springer.com/article/10.1007/s44212-024-00060-w",
+      "source_publication_date": "2024-10-14"
+    },
+    "quoted_persons": [],
+    "urban_system_function": [
+      "governance",
+      "mobility",
+      "energy",
+      "water",
+      "infrastructure",
+      "planning"
+    ],
+    "normative_evaluation": {
+      "tone": "balanced",
+      "opportunity_aspects": [
+        "scenario_generation",
+        "data_enrichment",
+        "automated_design_support",
+        "enhanced_public_participation"
+      ],
+      "critical_aspects": [
+        "data_quality_risk",
+        "data_sovereignty",
+        "participation_inequality"
+      ]
+    },
+    "ai_layer": {
+      "ai_layers_present": [
+        "cloud_ai"
+      ],
+      "ai_roles": [
+        "generative_scenario_engine",
+        "data_enhancement",
+        "design_assistant",
+        "conversational_agent"
+      ],
+      "data_streams": [
+        "urban_sensing_data",
+        "remote_sensing_imagery",
+        "planning_data",
+        "infrastructure_data"
+      ],
+      "multi_agent_structure": "multi_agent_planning_support",
+      "human_in_the_loop": "planners_and_domain_experts"
+    },
+    "immersion_layer": {
+      "immersive_modalities": [
+        "3d_visualization",
+        "virtual_city_models"
+      ],
+      "interaction_modes": [
+        "what_if_scenarios",
+        "participatory_interfaces"
+      ],
+      "sensing_actuation": [
+        "simulated_sensing"
+      ],
+      "xr_distribution": [
+        "vr_headsets",
+        "cave_or_dome",
+        "desktop_3d"
+      ]
+    },
+    "semantic_anchors": [
+      "urban_digital_twin",
+      "genai_for_cities",
+      "co_design"
+    ],
+    "topic_clusters": [],
+    "storylines": [
+      "urban_digital_twins_next_gen"
+    ],
+    "source_influences": [],
+    "counter_visions": [],
+    "skillgraph_links": {},
+    "project_name": "Generative AI for urban digital twins",
+    "originators": [
+      {
+        "name": "Haowen Xu",
+        "role": "Lead author",
+        "organization": ""
+      },
+      {
+        "name": "Femi Omitaomu",
+        "role": "Co-author",
+        "organization": ""
+      },
+      {
+        "name": "Soheil Sabri",
+        "role": "Co-author",
+        "organization": ""
+      },
+      {
+        "name": "Sisi Zlatanova",
+        "role": "Co-author",
+        "organization": ""
+      },
+      {
+        "name": "Xiao Li",
+        "role": "Co-author",
+        "organization": ""
+      },
+      {
+        "name": "Yongze Song",
+        "role": "Co-author",
+        "organization": ""
+      }
+    ],
+    "institutions": [
+      {
+        "name": "Multiple universities and research institutes",
+        "type": "university",
+        "department_or_unit": "",
+        "country": "International"
+      }
+    ],
+    "related_research": [
+      {
+        "title": "Generative Artificial Intelligence in the Context of Urban Spaces",
+        "authors": [],
+        "institution": "",
+        "publication_type": "book_chapter",
+        "url": "",
+        "notes": "Explores generative AI applications for urban space design and planning."
+      }
+    ]
+  },
+  {
+    "id": "IVIC-000008",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T12:40:00Z",
+    "vision_timeframe": "2030-2050",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "global"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "Future cities are imagined as ecosystems where AI, blockchain and digital twins form an interdependent trinity: AI interprets real-time urban data, digital twins mirror and simulate the city, and blockchain anchors transactions and data flows in a trusted, decentralized ledger to support more responsive, transparent and inclusive urban governance.",
+    "statement_tags": [
+      "ai_blockchain_digital_twin_trinity",
+      "decentralized_governance",
+      "trusted_data_infrastructure",
+      "smart_city_toolbox"
+    ],
+    "source": {
+      "source_type": "conceptual_vision",
+      "source_title": "The Urban Trinity: AI + Blockchain + Digital Twins = Future City?",
+      "source_organization": "Urban Design Lab",
+      "source_url": "https://urbandesignlab.in/the-urban-trinity-ai-blockchain-digital-twins-future-city/",
+      "source_publication_date": "2025-06-18"
+    },
+    "quoted_persons": [],
+    "urban_system_function": [
+      "governance",
+      "economy",
+      "mobility",
+      "infrastructure"
+    ],
+    "normative_evaluation": {
+      "tone": "balanced",
+      "opportunity_aspects": [
+        "secure_data_sharing",
+        "transparent_transactions",
+        "resilient_infrastructure",
+        "citizen_centric_services"
+      ],
+      "critical_aspects": [
+        "privacy_risk",
+        "equity_and_inclusion_risk",
+        "governance_complexity"
+      ]
+    },
+    "ai_layer": {
+      "ai_layers_present": [
+        "cloud_ai"
+      ],
+      "ai_roles": [
+        "traffic_optimization",
+        "energy_management",
+        "predictive_planning"
+      ],
+      "data_streams": [
+        "digital_twin_data",
+        "iot_streams",
+        "transaction_data"
+      ],
+      "multi_agent_structure": "service_specific_agents",
+      "human_in_the_loop": "city_officials_and_citizens"
+    },
+    "immersion_layer": {
+      "immersive_modalities": [
+        "3d_city_dashboard"
+      ],
+      "interaction_modes": [
+        "city_simulation_interface"
+      ],
+      "sensing_actuation": [
+        "real_time_monitoring"
+      ],
+      "xr_distribution": []
+    },
+    "semantic_anchors": [
+      "trusted_urban_data_layer",
+      "blockchain_enabled_city"
+    ],
+    "topic_clusters": [],
+    "storylines": [
+      "cognitive_and_decentralized_cities"
+    ],
+    "source_influences": [],
+    "counter_visions": [],
+    "skillgraph_links": {},
+    "project_name": "Urban Trinity future city vision",
+    "originators": [
+      {
+        "name": "Shivani Patil",
+        "role": "Author",
+        "organization": "Urban Design Lab"
+      }
+    ],
+    "institutions": [
+      {
+        "name": "Urban Design Lab",
+        "type": "research_and_practice_platform",
+        "department_or_unit": "",
+        "country": "India"
+      }
+    ],
+    "related_research": []
+  },
+  {
+    "id": "IVIC-000009",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T12:45:00Z",
+    "vision_timeframe": "2025-2040",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "Riyadh",
+      "Saudi Arabia"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "The Riyadh Digital Twin is presented as a large-scale, photorealistic urban twin that acts simultaneously as planning instrument, investment showcase and citizen engagement platform, allowing stakeholders to navigate future districts, test scenarios and discuss projects through immersive, game-engine-based interfaces.",
+    "statement_tags": [
+      "riyadh_digital_twin",
+      "immersive_planning",
+      "citizen_engagement",
+      "game_engine_visualization"
+    ],
+    "source": {
+      "source_type": "project_case",
+      "source_title": "From Vision to Reality: Using Digital Twin Technology in Urban Planning to Engage Citizens and Shape Future Cities",
+      "source_organization": "Chameleon Interactive",
+      "source_url": "https://chameleon-interactive.com/2024/12/13/from-vision-to-reality-using-digital-twin-technology-in-urban-planning-to-engage-citizens-and-shape-future-cities/",
+      "source_publication_date": "2024-12-13"
+    },
+    "quoted_persons": [],
+    "urban_system_function": [
+      "planning",
+      "governance",
+      "economy"
+    ],
+    "normative_evaluation": {
+      "tone": "utopian",
+      "opportunity_aspects": [
+        "public_engagement",
+        "investment_attraction",
+        "evidence_based_planning"
+      ],
+      "critical_aspects": [
+        "access_inequality",
+        "representation_bias"
+      ]
+    },
+    "ai_layer": {
+      "ai_layers_present": [],
+      "ai_roles": [],
+      "data_streams": [
+        "city_masterplans",
+        "infrastructure_projects",
+        "environmental_data"
+      ],
+      "multi_agent_structure": null,
+      "human_in_the_loop": "design_teams_and_city_officials"
+    },
+    "immersion_layer": {
+      "immersive_modalities": [
+        "large_screen_visualization",
+        "interactive_3d"
+      ],
+      "interaction_modes": [
+        "tablet_navigation",
+        "walkthroughs"
+      ],
+      "sensing_actuation": [],
+      "xr_distribution": [
+        "event_installations"
+      ]
+    },
+    "semantic_anchors": [
+      "digital_twin_for_planning",
+      "immersive_city_showcase"
+    ],
+    "topic_clusters": [],
+    "storylines": [
+      "riyadh_digital_twin_story"
+    ],
+    "source_influences": [],
+    "counter_visions": [],
+    "skillgraph_links": {},
+    "project_name": "Riyadh Digital Twin",
+    "originators": [
+      {
+        "name": "Radek Zdunek",
+        "role": "Author and creative director",
+        "organization": "Chameleon Interactive"
+      }
+    ],
+    "institutions": [
+      {
+        "name": "Chameleon Interactive",
+        "type": "immersive_technology_company",
+        "department_or_unit": "",
+        "country": "Poland"
+      },
+      {
+        "name": "Riyadh Region Municipality",
+        "type": "city_administration",
+        "department_or_unit": "",
+        "country": "Saudi Arabia"
+      }
+    ],
+    "related_research": []
+  },
+  {
+    "id": "IVIC-000010",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T12:50:00Z",
+    "vision_timeframe": "2030-2045",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "NEOM",
+      "Saudi Arabia"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "The Line is interpreted as a radical linear prototype that compresses urban life into a 500-metre-high corridor promising zero emissions and AI-powered efficiency, while at the same time raising questions about surveillance, social stratification and ecological disruption in a sealed, top-down planned environment.",
+    "statement_tags": [
+      "linear_city",
+      "vertical_urbanism",
+      "surveillance_risk",
+      "authoritarian_urbanism",
+      "climate_resilient_urbanism"
+    ],
+    "source": {
+      "source_type": "critical_essay",
+      "source_title": "The Line as a Radical Urban Prototype for Smart and Disruptive City Planning",
+      "source_organization": "Urban Design Lab",
+      "source_url": "https://urbandesignlab.in/the-line-as-a-radical-urban-prototype-for-smart-and-disruptive-city-planning/",
+      "source_publication_date": "2025-07-19"
+    },
+    "quoted_persons": [],
+    "urban_system_function": [
+      "housing",
+      "mobility",
+      "governance",
+      "environment"
+    ],
+    "normative_evaluation": {
+      "tone": "critical",
+      "opportunity_aspects": [
+        "high_density_low_land_use",
+        "zero_emission_promise",
+        "iconic_prototype_value"
+      ],
+      "critical_aspects": [
+        "centralized_control",
+        "surveillance_and_exclusion",
+        "ecological_impact",
+        "mental_health_concerns"
+      ]
+    },
+    "ai_layer": {
+      "ai_layers_present": [
+        "pervasive_ai"
+      ],
+      "ai_roles": [
+        "urban_management",
+        "mobility_control"
+      ],
+      "data_streams": [
+        "resident_activity_data",
+        "environmental_sensors"
+      ],
+      "multi_agent_structure": "citywide_management_agents",
+      "human_in_the_loop": "state_and_corporate_actors"
+    },
+    "immersion_layer": {
+      "immersive_modalities": [
+        "continuous_enclosed_environment"
+      ],
+      "interaction_modes": [
+        "ambient_media_surfaces"
+      ],
+      "sensing_actuation": [
+        "ubiquitous_sensing"
+      ],
+      "xr_distribution": []
+    },
+    "semantic_anchors": [
+      "radical_urban_prototype",
+      "techno_futurism",
+      "post_carbon_city"
+    ],
+    "topic_clusters": [],
+    "storylines": [
+      "neom_cognitive_city_critique"
+    ],
+    "source_influences": [],
+    "counter_visions": [
+      {
+        "id": "IVIC-000001",
+        "relation": "contrasts"
+      },
+      {
+        "id": "IVIC-000002",
+        "relation": "contrasts"
+      }
+    ],
+    "skillgraph_links": {},
+    "project_name": "The Line radical prototype critique",
+    "originators": [
+      {
+        "name": "Tanvi Bhatia",
+        "role": "Author",
+        "organization": "Urban Design Lab"
+      }
+    ],
+    "institutions": [
+      {
+        "name": "Urban Design Lab",
+        "type": "research_and_practice_platform",
+        "department_or_unit": "",
+        "country": "India"
+      }
+    ],
+    "related_research": []
+  },
+  {
+    "id": "IVIC-000011",
+    "dataset_version": "0.1.0",
+    "entry_created_at": "2025-11-21T12:55:00Z",
+    "vision_timeframe": "2025-2040",
+    "vision_scope_level": "city",
+    "vision_geography": [
+      "Dubai",
+      "United Arab Emirates"
+    ],
+    "vision_scale": [
+      "city"
+    ],
+    "paraphrased_statement": "Dubai Live is envisioned as an AI-powered, real-time command hub that fuses digital twin representations of the city with predictive analytics to orchestrate urban operations, from infrastructure and inspections to waste management, as part of a broader ambition to govern the city through integrated, data-driven systems.",
+    "statement_tags": [
+      "ai_command_center",
+      "digital_twin_governance",
+      "real_time_city_operations",
+      "predictive_analytics"
+    ],
+    "source": {
+      "source_type": "news_article",
+      "source_title": "Dubai unveils 'Dubai Live': An AI-powered command hub to digitally govern the city in real time",
+      "source_organization": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/world/middle-east/dubai-unveils-dubai-live-an-ai-powered-command-hub-to-digitally-govern-the-city-in-real-time/articleshow/124549282.cms",
+      "source_publication_date": "2025-10-14"
+    },
+    "quoted_persons": [],
+    "urban_system_function": [
+      "governance",
+      "infrastructure",
+      "environment",
+      "waste_management"
+    ],
+    "normative_evaluation": {
+      "tone": "balanced",
+      "opportunity_aspects": [
+        "operational_efficiency",
+        "situation_awareness",
+        "service_quality"
+      ],
+      "critical_aspects": [
+        "centralized_surveillance_risk",
+        "algorithmic_transparency"
+      ]
+    },
+    "ai_layer": {
+      "ai_layers_present": [
+        "cloud_ai"
+      ],
+      "ai_roles": [
+        "predictive_maintenance",
+        "anomaly_detection",
+        "resource_allocation"
+      ],
+      "data_streams": [
+        "infrastructure_sensors",
+        "environmental_data",
+        "inspection_data"
+      ],
+      "multi_agent_structure": "operations_agents",
+      "human_in_the_loop": "city_operators"
+    },
+    "immersion_layer": {
+      "immersive_modalities": [
+        "operations_dashboard"
+      ],
+      "interaction_modes": [
+        "real_time_monitoring",
+        "map_based_control"
+      ],
+      "sensing_actuation": [
+        "citywide_sensing"
+      ],
+      "xr_distribution": []
+    },
+    "semantic_anchors": [
+      "real_time_city",
+      "ai_command_center"
+    ],
+    "topic_clusters": [],
+    "storylines": [
+      "ai_governed_cities"
+    ],
+    "source_influences": [],
+    "counter_visions": [],
+    "skillgraph_links": {},
+    "project_name": "Dubai Live AI city command hub",
+    "originators": [],
+    "institutions": [
+      {
+        "name": "Dubai Municipality",
+        "type": "city_administration",
+        "department_or_unit": "",
+        "country": "United Arab Emirates"
+      }
+    ],
+    "related_research": []
   }
 ]
