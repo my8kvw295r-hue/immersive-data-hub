@@ -130,3 +130,15 @@ Possible uses include:
 
 Explore. repository folder · JSON · article with insights  
 Licensing. CC BY 4.0 · © Martin Sambauer · martin-sambauer.com
+
+### 7. Recent extension: Chinese digital twin & smart governance visions
+
+In November 2025, the dataset was extended with 20 additional entries derived from Chinese-language sources on digital twin cities, smart governance, emergency management and immersive cultural innovation zones.  
+
+All source texts are in Chinese, but every paraphrased statement and all annotations follow the same English-only policy as the rest of the dataset. The new entries focus on:
+
+- national and municipal digital twin city architectures,
+- AI-supported smart governance and emergency management,
+- district-scale “future digital space innovation” zones that combine immersive media, metaverse content and cultural industries.
+
+These records follow the same ID policy, paraphrasing protocol and normative evaluation scheme described in the methodology.
